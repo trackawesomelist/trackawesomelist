@@ -15,6 +15,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Resources / Blog posts
 
 *   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
+*   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 

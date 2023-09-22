@@ -196,7 +196,9 @@ Probably the best curated list of data science software in Python.
 
 ### JAX
 
-*   [jax (⭐25k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+*   [JAX (⭐25k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+*   [FLAX (⭐4.7k)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
+*   [Optax (⭐1.2k)](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
 
 ### Others
 
@@ -268,25 +270,38 @@ Probably the best curated list of data science software in Python.
 *   [Stable Baselines3 (⭐6.4k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
 *   [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
 *   [Acme (⭐3.2k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
-*   [Catalyst-RL (⭐45)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research.
+*   [Catalyst-RL (⭐45)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [d3rlpy (⭐1.1k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
-*   [Tianshou (⭐6.7k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library.
-*   [TF-Agents (⭐2.6k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [TensorForce (⭐3.2k)](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [Tianshou (⭐6.7k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [TF-Agents (⭐2.6k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [TensorForce (⭐3.2k)](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [Dopamine (⭐10k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 *   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [garage (⭐1.7k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
 *   [Horizon (⭐3.4k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
+*   [rlpyt (⭐2.2k)](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [cleanrl (⭐3.3k)](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
+*   [Machin (⭐372)](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [SKRL (⭐280)](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## Graph Machine Learning
 
 *   [pytorch\_geometric (⭐18k)](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [pytorch\_geometric\_temporal (⭐2.2k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [dgl (⭐12k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+*   [PyTorch Geometric Signed Directed (⭐91)](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [dgl (⭐12k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 *   [Spektral (⭐2.3k)](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [StellarGraph (⭐2.8k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [Graph Nets (⭐5.3k)](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [TensorFlow GNN (⭐1.1k)](https://github.com/tensorflow/gnn) - A library to build Graph Neural Networks on the TensorFlow platform. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [Auto Graph Learning (⭐956)](https://github.com/THUMNLab/AutoGL) -An autoML framework & toolkit for machine learning on graphs.
+*   [PyTorch-BigGraph (⭐3.3k)](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Auto Graph Learning (⭐956)](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
 *   [Karate Club (⭐2k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 *   [Little Ball of Fur (⭐657)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
+*   [GreatX (⭐75)](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Jraph (⭐1.2k)](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
 
 ## Probabilistic Graphical Models
 

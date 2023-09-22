@@ -159,6 +159,64 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [PipeCD (⭐825)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
 
+#### [6. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+##### Ecommerce
+
+- Name: [VModel](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: VModel is an AI fashion models generator for efficient & cost-effective on-model photography. It boosts retail success by reducing model photography costs by 90%.
+
+  Description: VModel utilizes artificial intelligence technology to generate virtual fashion models, replacing the need for real-world fashion models. These virtual models are used to create product photos for clothing items, which are then showcased on e-commerce platforms.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Plugins & Extensions
+
+- Name: [Gist AI](https://www.thataicollection.com/redirect/gist-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: One extension to summarize everything!  ChatGPT-powered free summarizer tool for websites, YouTube videos, and PDF. One AI summarizer to summarize everything!.
+
+  Description: Gist AI is a free summary generator that extracts the key points from any website article, YouTube video, or PDF in just one click. It's the ultimate tool for summarizing and is more than just a text summarizer; it's your all-in-one solution.  Even better, Gist AI lets you deep dive into the summary source for clarity or jump right to that moment in a YouTube video, acting as a youtube summarizer.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+#### [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+
+##### Deep Learning / JAX
+
+*   [JAX (⭐25k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+*   [FLAX (⭐4.7k)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
+*   [Optax (⭐1.2k)](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
+
+##### Reinforcement Learning / Others
+
+*   [rlpyt (⭐2.2k)](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [cleanrl (⭐3.3k)](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
+*   [Machin (⭐372)](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [SKRL (⭐280)](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+
+##### Graph Machine Learning / Others
+
+*   [PyTorch Geometric Signed Directed (⭐91)](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [StellarGraph (⭐2.8k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [Graph Nets (⭐5.3k)](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [TensorFlow GNN (⭐1.1k)](https://github.com/tensorflow/gnn) - A library to build Graph Neural Networks on the TensorFlow platform. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [Auto Graph Learning (⭐956)](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
+*   [PyTorch-BigGraph (⭐3.3k)](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [GreatX (⭐75)](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Jraph (⭐1.2k)](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
+
+#### [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Resources / Blog posts
+
+*   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
+
 ### [Sep 21, 2023](/content/2023/09/21/README.md)
 
 
@@ -244,7 +302,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
 
-#### [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+#### [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+##### Python / Financial Instruments and Pricing
+
+*   [Kelly-Criterion (⭐70)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
+
+##### Python / Trading & Backtesting
+
+*   [QSTrader (⭐2.5k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
+
+#### [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Design and UI
+
+*   [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
+*   [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools
+
+##### Analytics, Events and Statistics
+
+*   [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
+
+#### [10. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ##### Machine Learning / General Purpose Machine Learning
 
@@ -274,27 +353,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Feature Engineering / General
 
 *   [OpenFE (⭐545)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
-
-#### [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
-
-##### Python / Financial Instruments and Pricing
-
-*   [Kelly-Criterion (⭐70)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
-
-##### Python / Trading & Backtesting
-
-*   [QSTrader (⭐2.5k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
-
-#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Design and UI
-
-*   [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
-*   [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools
-
-##### Analytics, Events and Statistics
-
-*   [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
 
 ### [Sep 20, 2023](/content/2023/09/20/README.md)
 
@@ -436,13 +494,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [commata (⭐4)](https://github.com/furfurylic/commata) - Just another header-only C++17 CSV parser. \[Unlicense]
 
-#### [11. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Official documentation
-
-*   [Talk about Polars at EuroPython Conference 2023](https://www.youtube.com/watch?v=UwRlFtSd_-8) ⏳ `28 min` - Talk by [@ritchie46](https://github.com/ritchie46) that introduces Polars and some of its design decisions.
-
-#### [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Utility / Diagnostics
 
@@ -452,18 +504,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [willothy/wezterm.nvim (⭐49)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
 
-#### [13. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+#### [12. Awesome Go](/content/avelino/awesome-go/README.md)
 
-##### Graph Machine Learning / Others
+##### Dependency Injection
 
-*   [dgl (⭐12k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+*   [gontainer (⭐13)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
 
-#### [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-##### APIs, Data and ML
+##### APIs, Data, and ML
 
-*   [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month.
-*   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any frontend. Developer plan allows 100 orders per month and up to 1,000 SKUs for free.
+*   [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.
+*   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
 
 ##### CMS
 
@@ -477,11 +529,23 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 
-#### [15. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [14. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-##### Dependency Injection
+##### Graph Machine Learning / Others
 
-*   [gontainer (⭐13)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
+*   [dgl (⭐12k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
+
+#### [15. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Official documentation
+
+*   [Talk about Polars at EuroPython Conference 2023](https://www.youtube.com/watch?v=UwRlFtSd_-8) ⏳ `28 min` - Talk by [@ritchie46](https://github.com/ritchie46) that introduces Polars and some of its design decisions.
+
+#### [16. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+##### Image / Services
+
+*   [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 
 ---
 
@@ -513,16 +577,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 22. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 20K 📝 09&#x2F;13 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
 23. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 09&#x2F;16 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 24. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 44K 📝 09&#x2F;02 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-25. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 6.2K 📝 09&#x2F;20 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
-26. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 09&#x2F;12 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-27. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 12K 📝 09&#x2F;12 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-28. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 4.7K 📝 09&#x2F;21 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
-29. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-30. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K 📝 09&#x2F;22 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
-31. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 5K 📝 09&#x2F;20 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-32. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.8K 📝 09&#x2F;18 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
-33. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-34. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.5K 📝 09&#x2F;18 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+25. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K 📝 09&#x2F;22 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+26. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 6.2K 📝 09&#x2F;20 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
+27. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 09&#x2F;12 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
+28. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 12K 📝 09&#x2F;12 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
+29. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 4.7K 📝 09&#x2F;21 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+30. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+31. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K 📝 09&#x2F;22 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
+32. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 5K 📝 09&#x2F;20 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+33. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.8K 📝 09&#x2F;18 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
+34. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 35. [Awesome Ddd](/content/heynickc/awesome-ddd/README.md) - ([Source ⭐ 10K 📝 09&#x2F;12 ](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 36. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8K 📝 09&#x2F;14 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 37. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 12K 📝 09&#x2F;10 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
@@ -532,9 +596,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 41. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.1K 📝 09&#x2F;18 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 42. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 13K 📝 09&#x2F;06 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 43. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 9.6K 📝 09&#x2F;07 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-44. [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K 📝 09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
-45. [Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md) - ([Source ⭐ 6.5K 📝 09&#x2F;10 ](https://github.com/troxler/awesome-css-frameworks)) - List of awesome CSS frameworks in 2023
-46. [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K 📝 09&#x2F;21 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
+44. [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K 📝 09&#x2F;22 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
+45. [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K 📝 09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
+46. [Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md) - ([Source ⭐ 6.5K 📝 09&#x2F;10 ](https://github.com/troxler/awesome-css-frameworks)) - List of awesome CSS frameworks in 2023
 47. [Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md) - ([Source ⭐ 4.5K 📝 09&#x2F;13 ](https://github.com/parro-it/awesome-micro-npm-packages)) - A curated list of small, focused npm packages.
 48. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 7.4K 📝 09&#x2F;07 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 49. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 16K 📝 08&#x2F;30 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
@@ -618,6 +682,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Computer Science
 
 - [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 2.1K, 📝 09&#x2F;17 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+- [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 122, 📝 09&#x2F;20 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
 - [Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md) - ([Source ⭐ 17K, 📝 21&#x2F;09&#x2F;28 ](https://github.com/jbhuang0604/awesome-computer-vision)) - A curated list of awesome computer vision resources
 - [Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md) - ([Source ⭐ 51, 📝 22&#x2F;01&#x2F;23 ](https://github.com/jyguyomarch/awesome-conversational-ai)) - A curated list of delightful Conversational AI resources.
 - [Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md) - ([Source ⭐ 5.8K, 📝 06&#x2F;23 ](https://github.com/likedan/Awesome-CoreML-Models)) - Largest list of models for Core ML (for iOS 11+)
@@ -926,7 +991,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Miscellaneous
 
-- [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.5K, 📝 09&#x2F;18 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+- [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K, 📝 09&#x2F;22 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 3.1K, 📝 09&#x2F;06 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 4.5K, 📝 07&#x2F;20 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Amas](/content/sindresorhus/amas/README.md) - ([Source ⭐ 1.4K, 📝 08&#x2F;18 ](https://github.com/sindresorhus/amas)) - Awesome & Marvelous Amas
@@ -1183,12 +1248,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 621, 📝 21&#x2F;01&#x2F;13 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 28K, 📝 22&#x2F;07&#x2F;23 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 397, 📝 09&#x2F;20 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 397, 📝 09&#x2F;22 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
 - [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 173K, 📝 07&#x2F;14 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
-- [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K, 📝 09&#x2F;21 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
+- [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K, 📝 09&#x2F;22 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
 - [Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md) - ([Source ⭐ 1.4K, 📝 07&#x2F;15 ](https://github.com/faroit/awesome-python-scientific-audio)) -  Curated list of python software and packages related to scientific research in audio
 - [Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md) - ([Source ⭐ 1.4K, 📝 07&#x2F;08 ](https://github.com/typeddjango/awesome-python-typing)) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md) - ([Source ⭐ 132, 📝 22&#x2F;08&#x2F;11 ](https://github.com/ebraminio/awesome-qsharp)) - A curated list of Q# code and resources.

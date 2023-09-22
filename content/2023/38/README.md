@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18 - Sep 24, 2023
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -351,6 +351,7 @@
 ### Resources / Blog posts
 
 *   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
+*   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
 
 ## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -430,6 +431,12 @@
 *   [NGBoost (⭐1.5k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
 *   [TensorFlow Decision Forests (⭐614)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 
+### Deep Learning / JAX
+
+*   [JAX (⭐25k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+*   [FLAX (⭐4.7k)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
+*   [Optax (⭐1.2k)](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
+
 ### Deep Learning / Others
 
 *   [transformers (⭐112k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
@@ -447,13 +454,25 @@
 *   [Gymnasium (⭐3.7k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐33k)](https://github.com/openai/gym)).
 *   [Stable Baselines3 (⭐6.4k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
 *   [Acme (⭐3.2k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
-*   [Catalyst-RL (⭐45)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research.
+*   [Catalyst-RL (⭐45)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [d3rlpy (⭐1.1k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
-*   [Tianshou (⭐6.7k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library.
+*   [Tianshou (⭐6.7k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [rlpyt (⭐2.2k)](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [cleanrl (⭐3.3k)](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
+*   [Machin (⭐372)](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [SKRL (⭐280)](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Graph Machine Learning / Others
 
-*   [dgl (⭐12k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+*   [PyTorch Geometric Signed Directed (⭐91)](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [dgl (⭐12k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
+*   [StellarGraph (⭐2.8k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [Graph Nets (⭐5.3k)](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [TensorFlow GNN (⭐1.1k)](https://github.com/tensorflow/gnn) - A library to build Graph Neural Networks on the TensorFlow platform. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [Auto Graph Learning (⭐956)](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
+*   [PyTorch-BigGraph (⭐3.3k)](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [GreatX (⭐75)](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Jraph (⭐1.2k)](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
 
 ### Probabilistic Graphical Models / Others
 
@@ -492,6 +511,18 @@
 
 
 
+### Ecommerce
+
+- Name: [VModel](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: VModel is an AI fashion models generator for efficient & cost-effective on-model photography. It boosts retail success by reducing model photography costs by 90%.
+
+  Description: VModel utilizes artificial intelligence technology to generate virtual fashion models, replacing the need for real-world fashion models. These virtual models are used to create product photos for clothing items, which are then showcased on e-commerce platforms.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Gaming
 
 - Name: [Rosebud AI](https://www.thataicollection.com/redirect/rosebud-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -513,6 +544,18 @@
   Description: Simply upload photos and let our AI magically generate your future baby's image. See Your Baby With Parents' Photos  Delivered Within A Day #1 Baby Generator With 90% Match Rate Rated 4.8 🌟 by 5,500+ happy customers.
 
   Offer Free Version: :grey\_question:
+
+
+
+### Plugins & Extensions
+
+- Name: [Gist AI](https://www.thataicollection.com/redirect/gist-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: One extension to summarize everything!  ChatGPT-powered free summarizer tool for websites, YouTube videos, and PDF. One AI summarizer to summarize everything!.
+
+  Description: Gist AI is a free summary generator that extracts the key points from any website article, YouTube video, or PDF in just one click. It's the ultimate tool for summarizing and is more than just a text summarizer; it's your all-in-one solution.  Even better, Gist AI lets you deep dive into the summary source for clarity or jump right to that moment in a YouTube video, acting as a youtube summarizer.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -628,19 +671,33 @@
 
 *   [CometLLM (⭐193)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
-## [35. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [35. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+
+### Text / ChatGPT extensions
+
+*   \[Gist AI] (<https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch>) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
+
+### Image / Services
+
+*   [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
+
+### NVIDIA Platform Extensions / Music
+
+*   [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
+
+## [36. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Translations
 
 *   [French (⭐1)](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 50 credits per month for free.
-*   [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month.
-*   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any frontend. Developer plan allows 100 orders per month and up to 1,000 SKUs for free.
+*   [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.
+*   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
 *   [Mockfly](https://www.mockfly.dev/) — Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. Free tier offers 500 requests per day.
 *   [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.
 *   [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. Free plan includes 100 cloud scrape credits.
@@ -665,18 +722,18 @@
 
 *   [welltested.ai](https://welltested.ai) - Generate unit and integration tests within minutes using AI for mobile languages like Flutter. Free forever for developers.
 
-### Authentication, Authorization and User Management
+### Authentication, Authorization, and User Management
 
 *   [Kinde](https://kinde.com/) - Simple, powerful authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
 *   [Stytch](https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).
 
 ### Mobile App Distribution and Feedback
 
-*   [TestApp.io](https://testapp.io) - Your go-to platform for making sure your mobile apps work like they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.
+*   [TestApp.io](https://testapp.io) - Your go-to platform for making sure your mobile apps work as they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.
 *   [Diawi](https://www.diawi.com) - Deploy iOS & Android apps directly to devices. Free plan: app uploads, password-protected links, 1-day expiration, 10 installations.
 *   [InstallOnAir](https://www.installonair.com) - Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.
-*   [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. Free plan includes: 1 app project, 3 app versions, 500 MB storage, and 100 app installations per month.
-*   [Appho.st](https://appho.st) - Mobile app hosting platform. Free plan includes: 5 apps, 50 monthly downloads, and a maximum file size of 100MB.
+*   [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. The free plan includes 1 app project, 3 app versions, 500 MB storage, and 100 app installations per month.
+*   [Appho.st](https://appho.st) - Mobile app hosting platform. The free plan includes 5 apps, 50 monthly downloads, and a maximum file size of 100MB.
 
 ### Monitoring
 
@@ -684,7 +741,7 @@
 
 ### Crash and Exception Handling
 
-*   [Embrace](https://embrace.io/) — Mobile app monitoring. Free for small teams up to 1 million user sessions per year.
+*   [Embrace](https://embrace.io/) — Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.
 
 ### Email
 
@@ -718,14 +775,14 @@
 
 *   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 
-## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [38. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [BoxCam2D (⭐14)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 *   [Simplified Flight Simulation library (⭐41)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 
-## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [39. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :free: Free Courses / Chrome Extensions
 

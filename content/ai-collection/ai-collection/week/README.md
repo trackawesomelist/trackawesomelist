@@ -2,7 +2,7 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.6K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
@@ -29,6 +29,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Ecommerce
+
+- Name: [VModel](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: VModel is an AI fashion models generator for efficient & cost-effective on-model photography. It boosts retail success by reducing model photography costs by 90%.
+
+  Description: VModel utilizes artificial intelligence technology to generate virtual fashion models, replacing the need for real-world fashion models. These virtual models are used to create product photos for clothing items, which are then showcased on e-commerce platforms.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Gaming
 
 - Name: [Rosebud AI](https://www.thataicollection.com/redirect/rosebud-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -50,6 +62,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Simply upload photos and let our AI magically generate your future baby's image. See Your Baby With Parents' Photos  Delivered Within A Day #1 Baby Generator With 90% Match Rate Rated 4.8 🌟 by 5,500+ happy customers.
 
   Offer Free Version: :grey\_question:
+
+
+
+### Plugins & Extensions
+
+- Name: [Gist AI](https://www.thataicollection.com/redirect/gist-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: One extension to summarize everything!  ChatGPT-powered free summarizer tool for websites, YouTube videos, and PDF. One AI summarizer to summarize everything!.
+
+  Description: Gist AI is a free summary generator that extracts the key points from any website article, YouTube video, or PDF in just one click. It's the ultimate tool for summarizing and is more than just a text summarizer; it's your all-in-one solution.  Even better, Gist AI lets you deep dive into the summary source for clarity or jump right to that moment in a YouTube video, acting as a youtube summarizer.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -399,15 +423,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Artshop](https://www.thataicollection.com/redirect/artshop?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Artshop.
-
-  Description: Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [ARTSIO](https://www.thataicollection.com/redirect/artsio?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Discover  Inspire, Create Search and get inspired by millions of art images from Stable Diffusion, Midjourney, DALL-E...
@@ -541,15 +556,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Generate high-quality images from any text prompt. Let the AI draw!.
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Diffusion Land](https://www.thataicollection.com/redirect/diffusion-land?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Diffusion Land - Generate Images With AI.
-
-  Description: Generated images with 1-click, using any model of your choice.
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [DigitalMuses](https://www.thataicollection.com/redirect/digitalmuses?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -957,15 +963,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Quasi](https://www.thataicollection.com/redirect/quasi?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: We Make Creating With AI Easy.
-
-  Description: Unlock with the power of AI and easily create stunning content of all types with a simple-to-use platform.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Rayst Gradients](https://www.thataicollection.com/redirect/rayst-gradients?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Rayst Gradients.
@@ -1009,15 +1006,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Start creating beautiful art in seconds. Don't worry about the technical stuff, we've got you covered.
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Roll Art Die](https://www.thataicollection.com/redirect/roll-art-die?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Stablediffusion on Your Apple Silicon Devices.
-
-  Description: Generate AI Artworks using only text. Make your dream artworks into reality. No cloud subscription required.
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [RunDiffusion](https://www.thataicollection.com/redirect/rundiffusion?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -1441,7 +1429,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Bring Portraits to Life With AI Magic. Instantly.
 
-  Description: .
+  Description: Tokkingheads - Puppet any Avatar from just an Image Bring portraits to life with AI magic. Instantly. Created by Rosebud AI.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -1758,24 +1746,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Codeball](https://www.thataicollection.com/redirect/codeball?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Codeball AI Powered Code Review.
-
-  Description: Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Codecleaningbot](https://www.thataicollection.com/redirect/codecleaningbot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Code Cleaning Bot.
-
-  Description: Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [CodeGPT](https://www.thataicollection.com/redirect/codegpt?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: AI Inside Your Ide.
@@ -1907,15 +1877,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Mutableai. AI Accelerated Software Development.
 
   Description: Build fast with production quality using AI.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Programminghelper](https://www.thataicollection.com/redirect/programminghelper?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Home.
-
-  Description: Generate code with AI just by typing a text description. AI will create the code for you. A tool that helps you with a wide range of tasks. All in one place.
 
   Offer Free Version: :grey\_question:
 
@@ -2705,6 +2666,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning.
 
   Description: Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [TutorAI](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Learn Anything - by searching your desired topic.
+
+  Description: TutoeAI Learn Anything is a search engine for learning modules from any topic. Try topics like physics, american history, or your own name!.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3544,7 +3514,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Brandmark Logo Maker - The Most Advanced AI Logo Design Tool.
 
-  Description: .
+  Description: Create a unique, professional logo for your business Kickstart your brand with business card designs, social media graphics, app icons, letter heads and more.
 
   Offer Free Version: :grey\_question:
 
@@ -3588,6 +3558,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [Aiva](https://www.thataicollection.com/redirect/aiva?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: AIVA - The Artificial Intelligence composing emotional soundtrack music.
+
+  Description: A Creative Assistant for Creative People Whether you are an independent game developer, a complete novice in music, or a seasoned professional composer, AIVA assists you in your creative process. Create compelling themes for your projects faster than ever before, by leveraging the power of AI-generated music.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Assemblyai](https://www.thataicollection.com/redirect/assemblyai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: #1 Api Platform for AI Models.
@@ -3595,6 +3574,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Automatically convert audio and video files and live audio streams to text with AssemblyAI's Speech-to-Text APIs. Do more with Audio Intelligence - summarization, content moderation, topic detection.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Boomy](https://www.thataicollection.com/redirect/boomy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Boomy - Unleash your creativity Make music with Boomy AI.
+
+  Description: 🎶 Create original songs in seconds, even if you've never made music before 🌐 Submit your songs to streaming platforms and get paid when people listen 💜 Join a global community of artists empowered by generative music.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Cleanvoice AI](https://www.thataicollection.com/redirect/cleanvoice-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3676,15 +3664,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound.
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Quasi Music](https://www.thataicollection.com/redirect/quasi-music?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Create Brand-New Beats.
-
-  Description: Unleash your inner musician with Quasi's AI-powered music creation tool. Create never-before-heard sounds and remix classic artists with ease.
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Replica](https://www.thataicollection.com/redirect/replica?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3778,6 +3757,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: guidde is the generative AI platform for business that helps your team create video documentation 11x faster.
 
   Offer Free Version: :white\_check\_mark:
+
+
+- Name: [H2O AI](https://www.thataicollection.com/redirect/h2o-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: H2O.Ai - AI Cloud Platform - Democratizing Generative AI.
+
+  Description: h2oGPT, a truly open source generative AI, gives organizations like yours the power to own large language models while preserving your data ownership.
+
+  Offer Free Version: :grey\_question:
 
 
 - Name: [Hexowatch](https://www.thataicollection.com/redirect/hexowatch?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -4179,6 +4167,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :x:
 
 
+- Name: [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Waifuxl provides state of the art upscaling directly in your browser at the click of a button.
+
+  Description: Waifuxl provides state of the art upscaling directly in your browser at the click of a button. No need to choose a noise level, no captcha, and your images are never sent to us. Everything is done locally!.
+
+  Offer Free Version: :grey\_question:
+
+
 
 ### Plugins & Extensions
 
@@ -4545,15 +4542,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [SaleWhale](https://www.thataicollection.com/redirect/salewhale?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Sale Whale - AI-Powered Sales Rep Chatbot.
-
-  Description: We provide impossibly good Sales Rep and Customer Support Chatbots, using the world's best available AI models. Learn how it will improve your business.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [SimplePhones.ai](https://www.thataicollection.com/redirect/simplephones.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Never Miss a Call From a Customer.
@@ -4669,7 +4657,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: The AI Search Engine You Control.
 
-  Description: .
+  Description: AI assistant that helps you get more done. Experience AI chat, without the effort Just ask YouChat anything and get immediate, useful answers. Comprehensive responses with GPT-4 Generate longer and more detailed responses with greater accuracy.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -4739,15 +4727,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: AI-Movie Club.
 
   Description: AI-MOVIE CLUB is a social network that create movies with artificial intelligence!.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Elektrif](https://www.thataicollection.com/redirect/elektrif?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Your 🤖 Powered Dating Assistant.
-
-  Description: The first suite of AI-powered tools to supercharge your dating life ⚡️.
 
   Offer Free Version: :grey\_question:
 
@@ -6417,15 +6396,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Aiva](https://www.thataicollection.com/redirect/aiva?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Aiva - The AI Composing Emotional Soundtrack Music.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Albus](https://www.thataicollection.com/redirect/albus?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Albus - ChatGPT Now on Slack.
@@ -6627,15 +6597,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - Name: [Boo AI](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: .
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Boomy](https://www.thataicollection.com/redirect/boomy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Boomy - Make Instant Music With Artificial Intelligence.
 
   Description: .
 
@@ -6980,15 +6941,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Gptkey – Write With AI Using the GPT Keyboard.
 
   Description: Write with AI in any app using the GPT custom keyboard extension.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [H2O AI](https://www.thataicollection.com/redirect/h2o-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: H2O.Ai - AI Cloud Platform.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -8118,15 +8070,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [TutorAI](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Learn Anything.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Twelve Labs](https://www.thataicollection.com/redirect/twelve-labs?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Twelve Labs.
@@ -8215,15 +8158,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Express yourself with our real-time AI Voice Changer and soundboard to be who you want, when you want in the metaverse. Build your sonic identity for platforms like Roblox, OBS, VRChat, Discord, and more.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Waifuxl.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Waifulabs](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)

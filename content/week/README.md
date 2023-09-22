@@ -36,103 +36,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [French (⭐1)](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-#### [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-##### Chat Bot
-
-- Name: [Build Chatbot](https://www.thataicollection.com/redirect/build-chatbot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Unveiling the World's #1 AI Chatbot - Auto-Trained on Your Private Data, Supporting All File Formats.
-
-  Description: Build Chatbot is a unique no-code chatbot builder empowering businesses and individuals alike to create their own personalized chatbot in a few easy steps. It's a powerful AI tool that effortlessly extracts precise information from various file formats like PDFs, CSV, DOCX files, URLs, and even audio and video files.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Claude](https://www.thataicollection.com/redirect/claude?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Claude is a next-generation AI assistant for your tasks, no matter the scale.
-
-  Description: Claude Our most powerful model, which excels at a wide range of tasks from sophisticated dialogue and creative content generation to detailed instruction.  Good for: Complex reasoning Creativity Thoughtful dialogue Coding Detailed content creation.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-##### Gaming
-
-- Name: [Rosebud AI](https://www.thataicollection.com/redirect/rosebud-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Rosebud AI - AI Generated Consistent Game Assets in Minutes.
-
-  Description: Concept and Create Rapidly with your AI Powered Asset Collaborator. Create: Props, Character Portraits, Isometric Tiles, Character Sprites, Concept Art, Environment, GUIs, Infinite Variations and more.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-##### Photo & Image Editing
-
-- Name: [OurBabyAI](https://www.thataicollection.com/redirect/ourbabyai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: See Your Future Baby in AI-Generated Photos with Parents' Photos or 4D Ultrasound Scan.
-
-  Description: Simply upload photos and let our AI magically generate your future baby's image. See Your Baby With Parents' Photos  Delivered Within A Day #1 Baby Generator With 90% Match Rate Rated 4.8 🌟 by 5,500+ happy customers.
-
-  Offer Free Version: :grey\_question:
-
-
-
-##### Productivity & Personal Growth
-
-- Name: [Bongocat](https://www.thataicollection.com/redirect/bongocat?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Bongocat is an AI-integrated content management system, a blog that can write itself.
-
-  Description: Creating your Bongocat site is an easy no-code process. With a few clicks and a little setup, your new blog site is live and ready to start creating high-quality AI-generated content that you can review, edit and publish in minutes.
-
-  Offer Free Version: :grey\_question:
-
-
-
-##### Search Engines
-
-- Name: [SEOify](https://www.thataicollection.com/redirect/seoify?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: SEOify AI SEO Automated Assistant Tool to Help Rankings in Google.
-
-  Description: Introducing SEOify: Revolutionize your website's SEO with our cutting-edge AI-powered platform. Unlock the full potential of your site through automated, real-time optimization based on industry standards. Effortlessly enhance your rankings and organic traffic, thanks to our intelligent AI-driven SEO tool.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-##### Translation & Transcript
-
-- Name: [RIVERSIDE](https://www.thataicollection.com/redirect/riverside?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Audio & Video Transcription. Powered by AI. Transcribe audio & video to text with 99% accuracy. ‍Available in 100+ languages and free of charge.
-
-  Description: Writes on the mark. Harness advanced algorithms and AI to convert your audio to text with absolute accuracy, word for word, to the last syllable, idiom, and nuance.  Native in 100+ languages. Automatic transcriptions in 100 different languages and idioms, multiplied by any accent or regional particulars you throw at it.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-#### [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Community / Interfaces to other package managers
 
 *   [asdf-sbcl (⭐17)](https://github.com/smashedtoatoms/asdf-sbcl), a plugin for the universal package manager.
 *   📹 [this Youtube video](https://www.youtube.com/watch?v=lGS4sr6AzKw) (by 40ants, 2023) on how to use alien-works-delivery and linux-packaging.
 
-#### [6. Awesome V](/content/vlang/awesome-v/README.md)
+#### [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Discord
 
 *   [discordwebhook (⭐0)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
 
-#### [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
+#### [6. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
 ##### Standard Fantasy / [The Second Apocalypse](https://www.goodreads.com/series/83561-the-second-apocalypse) by [R. Scott Bakker](https://en.wikipedia.org/wiki/R._Scott_Bakker)
 
@@ -144,31 +61,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [The Great Ordeal](https://www.goodreads.com/book/show/27160926-the-great-ordeal) \[4.07]
 *   [The Unholy Consult](https://www.goodreads.com/book/show/9968073-the-unholy-consult) \[3.88]
 
-#### [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+#### [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ##### Extensions and Utilities
 
 *   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 
-#### [9. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+#### [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ##### Languages
 
 *   [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
 
-#### [10. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+#### [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ##### :package: Packers / After 2010
 
 *   [Squishy](https://logicoma.io/squishy/) - Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables.
 
-#### [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### VPN Services / Telegram
 
 *   [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
 
-#### [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+#### [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ##### Specialty Topics / Geometry
 
@@ -176,7 +93,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   📚 [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures and more.
     *   📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) - Apple's private API for manipulation of UIView meshes. \[[Source (⭐4)](https://github.com/olegtyshcneko/CAMeshTransform)]
 
-#### [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Blogging Platforms
 
@@ -190,19 +107,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Websurfx (⭐347)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
-#### [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+#### [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ##### Platforms and Software Resources / AI in Planning Tools and Platforms
 
 *   [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
 
-#### [15. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+#### [14. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ##### Compilers and interpreters
 
 *   [fulcrum-so/ziggy-pydust (⭐88)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
 
-#### [16. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [15. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Learn / Notebooks
 
@@ -212,7 +129,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LangStream (⭐105)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents.  ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
 
-#### [17. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [16. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Integrations
 
@@ -222,7 +139,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CometLLM (⭐193)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
-#### [18. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+#### [17. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ##### Remote Jobs:
 
@@ -230,7 +147,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [19. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [18. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Get Started
 
@@ -249,13 +166,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vite-plugin-doctest (⭐17)](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 
-#### [20. Awesome Acg](/content/soruly/awesome-acg/README.md)
+#### [19. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ##### Uncategorized
 
 *   [ACG2vec (⭐389)](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
 
-#### [21. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [20. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -316,36 +233,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Bonita (⭐138) (⭐137)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Cadence (⭐7.3k) (⭐7.3k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 
-#### [22. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [21. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### CSV
 
 *   [commata (⭐4)](https://github.com/furfurylic/commata) - Just another header-only C++17 CSV parser. \[Unlicense]
 
-#### [23. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Official documentation
-
-*   [Talk about Polars at EuroPython Conference 2023](https://www.youtube.com/watch?v=UwRlFtSd_-8) ⏳ `28 min` - Talk by [@ritchie46](https://github.com/ritchie46) that introduces Polars and some of its design decisions.
-
-##### Resources / Blog posts
-
-*   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
-
-#### [24. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [22. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### Plugins and scripts / Various Godot versions
 
 *   [BoxCam2D (⭐14)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 *   [Simplified Flight Simulation library (⭐41)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 
-#### [25. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+#### [23. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ##### Libraries and Frameworks
 
 *   [horcrux (⭐4.1k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
-#### [26. Public Apis](/content/public-apis/public-apis/README.md)
+#### [24. Public Apis](/content/public-apis/public-apis/README.md)
 
 ##### Geocoding
 
@@ -375,13 +282,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [27. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [25. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Reading and Writing Tools / Note-taking
 
 *   [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/saber/id1671523739)[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adil192/saber)
 
-#### [28. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+#### [26. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ##### Extensions / Community
 
@@ -390,7 +297,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [OpenAI Automatic Translation (⭐34)](https://github.com/timio23/directus-operation-auto-translate/) - An operaiton to automatically translate new items via OpenAI.
 *   [Machine Learning Operations (⭐8)](https://github.com/karamokoisrael/directus-hackathon-submission/) - A set of extensions to train, test and use machine learning models.
 
-#### [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### (requires Neovim 0.5)
 
@@ -438,61 +345,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [chrisgrieser/nvim-kickstart-python (⭐2)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
-#### [30. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+#### [28. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ##### Projects
 
 *   [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
 
-#### [31. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
-
-##### Machine Learning / General Purpose Machine Learning
-
-*   [Shogun (⭐3k)](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox.
-
-##### Machine Learning / Automated Machine Learning
-
-*   [AutoKeras (⭐8.9k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning.
-
-##### Machine Learning / Gradient Boosting
-
-*   [NGBoost (⭐1.5k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
-*   [TensorFlow Decision Forests (⭐614)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
-
-##### Deep Learning / Others
-
-*   [transformers (⭐112k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-
-##### Natural Language Processing / Others
-
-*   [KerasNLP (⭐566)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
-
-##### Computer Vision / Others
-
-*   [KerasCV (⭐830)](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="MXNet based">
-
-##### Reinforcement Learning / Others
-
-*   [Gymnasium (⭐3.7k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐33k)](https://github.com/openai/gym)).
-*   [Stable Baselines3 (⭐6.4k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
-*   [Acme (⭐3.2k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
-*   [Catalyst-RL (⭐45)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research.
-*   [d3rlpy (⭐1.1k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
-*   [Tianshou (⭐6.7k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library.
-
-##### Graph Machine Learning / Others
-
-*   [dgl (⭐12k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
-
-##### Probabilistic Graphical Models / Others
-
-*   [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
-
-##### Feature Engineering / General
-
-*   [OpenFE (⭐545)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
-
-#### [32. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [29. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Python / Financial Instruments and Pricing
 
@@ -502,91 +361,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [QSTrader (⭐2.5k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
 
-#### [33. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data and ML
-
-*   [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 50 credits per month for free.
-*   [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month.
-*   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any frontend. Developer plan allows 100 orders per month and up to 1,000 SKUs for free.
-*   [Mockfly](https://www.mockfly.dev/) — Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. Free tier offers 500 requests per day.
-*   [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.
-*   [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. Free plan includes 100 cloud scrape credits.
-
-##### CMS
-
-*   [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
-
-##### Code Generation
-
-*   [Metalama](https://www.postsharp.net/metalama) - Only for C#. Metalama generates the boilerplate the code on the fly, during compilation, so that your source code remains clean. It is completely free for open-source projects, and their commercial-friendly free tier includes 3 aspects.
-
-##### Code Quality
-
-*   [CodSpeed](https://codspeed.io) - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.
-
-##### CI and CD
-
-*   [CircleCI](https://circleci.com/) — Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, and ARM executors as well as local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, and up to 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
-
-##### Testing
-
-*   [welltested.ai](https://welltested.ai) - Generate unit and integration tests within minutes using AI for mobile languages like Flutter. Free forever for developers.
-
-##### Authentication, Authorization and User Management
-
-*   [Kinde](https://kinde.com/) - Simple, powerful authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
-*   [Stytch](https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).
-
-##### Mobile App Distribution and Feedback
-
-*   [TestApp.io](https://testapp.io) - Your go-to platform for making sure your mobile apps work like they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.
-*   [Diawi](https://www.diawi.com) - Deploy iOS & Android apps directly to devices. Free plan: app uploads, password-protected links, 1-day expiration, 10 installations.
-*   [InstallOnAir](https://www.installonair.com) - Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.
-*   [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. Free plan includes: 1 app project, 3 app versions, 500 MB storage, and 100 app installations per month.
-*   [Appho.st](https://appho.st) - Mobile app hosting platform. Free plan includes: 5 apps, 50 monthly downloads, and a maximum file size of 100MB.
-
-##### Monitoring
-
-*   [Wachete](https://www.wachete.com) - monitor 5 pages, checks every 24 hours.
-
-##### Crash and Exception Handling
-
-*   [Embrace](https://embrace.io/) — Mobile app monitoring. Free for small teams up to 1 million user sessions per year.
-
-##### Email
-
-*   [EtherealMail](https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered.
-
-##### Feature Toggles Management Platforms
-
-*   [Toggled.dev](https://www.toggled.dev) - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.
-
-##### Forms
-
-*   [Screeb](https://screeb.app/) - In-app surveys and product analytics for decoding user behavior. Forever free plan allows 500 monthly active users, unlimited responses and events, many integrations, export, and periodic reports.
-
-##### BaaS
-
-*   [IFTTT](https://ifttt.com) — Automate your favorite apps and devices. Free 2 Applets
-*   [Integrately](https://integrately.com) — Automate your tedious tasks with a single click. Free 100 Tasks, 15 Minute
-    Update Time, 5 active automations, webhooks.
-
-##### Design and UI
-
-*   [Float UI](https://floatui.com/) - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers.
-*   [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
-*   [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools
-
-##### Analytics, Events and Statistics
-
-*   [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
-
-##### Other Free Resources
-
-*   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
-
-#### [34. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -604,7 +379,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Tailor](https://www.usetailor.com): Get a daily podcast and newsletter, created for you by an AI
 
-#### [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [31. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Extensions
 
@@ -689,7 +464,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [36. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [32. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Apps
 
@@ -727,13 +502,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application
 *   [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
-#### [37. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+#### [33. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ##### Utility / Barcode
 
 *   [SwiftAutoGUI (⭐24)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
 
-#### [38. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [34. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Dependency Injection
 
@@ -742,6 +517,288 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [PipeCD (⭐825)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
+
+#### [35. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 50 credits per month for free.
+*   [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.
+*   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
+*   [Mockfly](https://www.mockfly.dev/) — Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. Free tier offers 500 requests per day.
+*   [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.
+*   [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. Free plan includes 100 cloud scrape credits.
+
+##### CMS
+
+*   [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
+
+##### Code Generation
+
+*   [Metalama](https://www.postsharp.net/metalama) - Only for C#. Metalama generates the boilerplate the code on the fly, during compilation, so that your source code remains clean. It is completely free for open-source projects, and their commercial-friendly free tier includes 3 aspects.
+
+##### Code Quality
+
+*   [CodSpeed](https://codspeed.io) - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.
+
+##### CI and CD
+
+*   [CircleCI](https://circleci.com/) — Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, and ARM executors as well as local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, and up to 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
+
+##### Testing
+
+*   [welltested.ai](https://welltested.ai) - Generate unit and integration tests within minutes using AI for mobile languages like Flutter. Free forever for developers.
+
+##### Authentication, Authorization, and User Management
+
+*   [Kinde](https://kinde.com/) - Simple, powerful authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
+*   [Stytch](https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).
+
+##### Mobile App Distribution and Feedback
+
+*   [TestApp.io](https://testapp.io) - Your go-to platform for making sure your mobile apps work as they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.
+*   [Diawi](https://www.diawi.com) - Deploy iOS & Android apps directly to devices. Free plan: app uploads, password-protected links, 1-day expiration, 10 installations.
+*   [InstallOnAir](https://www.installonair.com) - Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.
+*   [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. The free plan includes 1 app project, 3 app versions, 500 MB storage, and 100 app installations per month.
+*   [Appho.st](https://appho.st) - Mobile app hosting platform. The free plan includes 5 apps, 50 monthly downloads, and a maximum file size of 100MB.
+
+##### Monitoring
+
+*   [Wachete](https://www.wachete.com) - monitor 5 pages, checks every 24 hours.
+
+##### Crash and Exception Handling
+
+*   [Embrace](https://embrace.io/) — Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.
+
+##### Email
+
+*   [EtherealMail](https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered.
+
+##### Feature Toggles Management Platforms
+
+*   [Toggled.dev](https://www.toggled.dev) - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.
+
+##### Forms
+
+*   [Screeb](https://screeb.app/) - In-app surveys and product analytics for decoding user behavior. Forever free plan allows 500 monthly active users, unlimited responses and events, many integrations, export, and periodic reports.
+
+##### BaaS
+
+*   [IFTTT](https://ifttt.com) — Automate your favorite apps and devices. Free 2 Applets
+*   [Integrately](https://integrately.com) — Automate your tedious tasks with a single click. Free 100 Tasks, 15 Minute
+    Update Time, 5 active automations, webhooks.
+
+##### Design and UI
+
+*   [Float UI](https://floatui.com/) - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers.
+*   [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
+*   [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools
+
+##### Analytics, Events and Statistics
+
+*   [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
+
+##### Other Free Resources
+
+*   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
+
+#### [36. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+##### Chat Bot
+
+- Name: [Build Chatbot](https://www.thataicollection.com/redirect/build-chatbot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Unveiling the World's #1 AI Chatbot - Auto-Trained on Your Private Data, Supporting All File Formats.
+
+  Description: Build Chatbot is a unique no-code chatbot builder empowering businesses and individuals alike to create their own personalized chatbot in a few easy steps. It's a powerful AI tool that effortlessly extracts precise information from various file formats like PDFs, CSV, DOCX files, URLs, and even audio and video files.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Claude](https://www.thataicollection.com/redirect/claude?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Claude is a next-generation AI assistant for your tasks, no matter the scale.
+
+  Description: Claude Our most powerful model, which excels at a wide range of tasks from sophisticated dialogue and creative content generation to detailed instruction.  Good for: Complex reasoning Creativity Thoughtful dialogue Coding Detailed content creation.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Ecommerce
+
+- Name: [VModel](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: VModel is an AI fashion models generator for efficient & cost-effective on-model photography. It boosts retail success by reducing model photography costs by 90%.
+
+  Description: VModel utilizes artificial intelligence technology to generate virtual fashion models, replacing the need for real-world fashion models. These virtual models are used to create product photos for clothing items, which are then showcased on e-commerce platforms.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Gaming
+
+- Name: [Rosebud AI](https://www.thataicollection.com/redirect/rosebud-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Rosebud AI - AI Generated Consistent Game Assets in Minutes.
+
+  Description: Concept and Create Rapidly with your AI Powered Asset Collaborator. Create: Props, Character Portraits, Isometric Tiles, Character Sprites, Concept Art, Environment, GUIs, Infinite Variations and more.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Photo & Image Editing
+
+- Name: [OurBabyAI](https://www.thataicollection.com/redirect/ourbabyai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: See Your Future Baby in AI-Generated Photos with Parents' Photos or 4D Ultrasound Scan.
+
+  Description: Simply upload photos and let our AI magically generate your future baby's image. See Your Baby With Parents' Photos  Delivered Within A Day #1 Baby Generator With 90% Match Rate Rated 4.8 🌟 by 5,500+ happy customers.
+
+  Offer Free Version: :grey\_question:
+
+
+
+##### Plugins & Extensions
+
+- Name: [Gist AI](https://www.thataicollection.com/redirect/gist-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: One extension to summarize everything!  ChatGPT-powered free summarizer tool for websites, YouTube videos, and PDF. One AI summarizer to summarize everything!.
+
+  Description: Gist AI is a free summary generator that extracts the key points from any website article, YouTube video, or PDF in just one click. It's the ultimate tool for summarizing and is more than just a text summarizer; it's your all-in-one solution.  Even better, Gist AI lets you deep dive into the summary source for clarity or jump right to that moment in a YouTube video, acting as a youtube summarizer.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Productivity & Personal Growth
+
+- Name: [Bongocat](https://www.thataicollection.com/redirect/bongocat?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Bongocat is an AI-integrated content management system, a blog that can write itself.
+
+  Description: Creating your Bongocat site is an easy no-code process. With a few clicks and a little setup, your new blog site is live and ready to start creating high-quality AI-generated content that you can review, edit and publish in minutes.
+
+  Offer Free Version: :grey\_question:
+
+
+
+##### Search Engines
+
+- Name: [SEOify](https://www.thataicollection.com/redirect/seoify?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: SEOify AI SEO Automated Assistant Tool to Help Rankings in Google.
+
+  Description: Introducing SEOify: Revolutionize your website's SEO with our cutting-edge AI-powered platform. Unlock the full potential of your site through automated, real-time optimization based on industry standards. Effortlessly enhance your rankings and organic traffic, thanks to our intelligent AI-driven SEO tool.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Translation & Transcript
+
+- Name: [RIVERSIDE](https://www.thataicollection.com/redirect/riverside?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Audio & Video Transcription. Powered by AI. Transcribe audio & video to text with 99% accuracy. ‍Available in 100+ languages and free of charge.
+
+  Description: Writes on the mark. Harness advanced algorithms and AI to convert your audio to text with absolute accuracy, word for word, to the last syllable, idiom, and nuance.  Native in 100+ languages. Automatic transcriptions in 100 different languages and idioms, multiplied by any accent or regional particulars you throw at it.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+#### [37. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+
+##### Machine Learning / General Purpose Machine Learning
+
+*   [Shogun (⭐3k)](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox.
+
+##### Machine Learning / Automated Machine Learning
+
+*   [AutoKeras (⭐8.9k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning.
+
+##### Machine Learning / Gradient Boosting
+
+*   [NGBoost (⭐1.5k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
+*   [TensorFlow Decision Forests (⭐614)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+
+##### Deep Learning / JAX
+
+*   [JAX (⭐25k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+*   [FLAX (⭐4.7k)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
+*   [Optax (⭐1.2k)](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
+
+##### Deep Learning / Others
+
+*   [transformers (⭐112k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+
+##### Natural Language Processing / Others
+
+*   [KerasNLP (⭐566)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
+
+##### Computer Vision / Others
+
+*   [KerasCV (⭐830)](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="MXNet based">
+
+##### Reinforcement Learning / Others
+
+*   [Gymnasium (⭐3.7k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐33k)](https://github.com/openai/gym)).
+*   [Stable Baselines3 (⭐6.4k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+*   [Acme (⭐3.2k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
+*   [Catalyst-RL (⭐45)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [d3rlpy (⭐1.1k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
+*   [Tianshou (⭐6.7k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [rlpyt (⭐2.2k)](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [cleanrl (⭐3.3k)](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
+*   [Machin (⭐372)](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [SKRL (⭐280)](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+
+##### Graph Machine Learning / Others
+
+*   [PyTorch Geometric Signed Directed (⭐91)](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [dgl (⭐12k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
+*   [StellarGraph (⭐2.8k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [Graph Nets (⭐5.3k)](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [TensorFlow GNN (⭐1.1k)](https://github.com/tensorflow/gnn) - A library to build Graph Neural Networks on the TensorFlow platform. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [Auto Graph Learning (⭐956)](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
+*   [PyTorch-BigGraph (⭐3.3k)](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [GreatX (⭐75)](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Jraph (⭐1.2k)](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
+
+##### Probabilistic Graphical Models / Others
+
+*   [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
+
+##### Feature Engineering / General
+
+*   [OpenFE (⭐545)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
+
+#### [38. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Official documentation
+
+*   [Talk about Polars at EuroPython Conference 2023](https://www.youtube.com/watch?v=UwRlFtSd_-8) ⏳ `28 min` - Talk by [@ritchie46](https://github.com/ritchie46) that introduces Polars and some of its design decisions.
+
+##### Resources / Blog posts
+
+*   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
+*   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
+
+#### [39. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+##### Text / ChatGPT extensions
+
+*   \[Gist AI] (<https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch>) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
+
+##### Image / Services
+
+*   [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
+
+##### NVIDIA Platform Extensions / Music
+
+*   [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
 ---
 
@@ -773,16 +830,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 22. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 20K 📝 09&#x2F;13 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
 23. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 09&#x2F;16 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 24. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 44K 📝 09&#x2F;02 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-25. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 6.2K 📝 09&#x2F;20 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
-26. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 09&#x2F;12 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-27. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 12K 📝 09&#x2F;12 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-28. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 4.7K 📝 09&#x2F;21 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
-29. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-30. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K 📝 09&#x2F;22 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
-31. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 5K 📝 09&#x2F;20 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-32. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.8K 📝 09&#x2F;18 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
-33. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-34. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.5K 📝 09&#x2F;18 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+25. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K 📝 09&#x2F;22 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+26. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 6.2K 📝 09&#x2F;20 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
+27. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 09&#x2F;12 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
+28. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 12K 📝 09&#x2F;12 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
+29. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 4.7K 📝 09&#x2F;21 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+30. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+31. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K 📝 09&#x2F;22 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
+32. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 5K 📝 09&#x2F;20 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+33. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.8K 📝 09&#x2F;18 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
+34. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 35. [Awesome Ddd](/content/heynickc/awesome-ddd/README.md) - ([Source ⭐ 10K 📝 09&#x2F;12 ](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 36. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8K 📝 09&#x2F;14 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 37. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 12K 📝 09&#x2F;10 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
@@ -792,9 +849,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 41. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.1K 📝 09&#x2F;18 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 42. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 13K 📝 09&#x2F;06 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 43. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 9.6K 📝 09&#x2F;07 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-44. [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K 📝 09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
-45. [Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md) - ([Source ⭐ 6.5K 📝 09&#x2F;10 ](https://github.com/troxler/awesome-css-frameworks)) - List of awesome CSS frameworks in 2023
-46. [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K 📝 09&#x2F;21 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
+44. [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K 📝 09&#x2F;22 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
+45. [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K 📝 09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
+46. [Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md) - ([Source ⭐ 6.5K 📝 09&#x2F;10 ](https://github.com/troxler/awesome-css-frameworks)) - List of awesome CSS frameworks in 2023
 47. [Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md) - ([Source ⭐ 4.5K 📝 09&#x2F;13 ](https://github.com/parro-it/awesome-micro-npm-packages)) - A curated list of small, focused npm packages.
 48. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 7.4K 📝 09&#x2F;07 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 49. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 16K 📝 08&#x2F;30 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
@@ -878,6 +935,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Computer Science
 
 - [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 2.1K, 📝 09&#x2F;17 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+- [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 122, 📝 09&#x2F;20 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
 - [Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md) - ([Source ⭐ 17K, 📝 21&#x2F;09&#x2F;28 ](https://github.com/jbhuang0604/awesome-computer-vision)) - A curated list of awesome computer vision resources
 - [Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md) - ([Source ⭐ 51, 📝 22&#x2F;01&#x2F;23 ](https://github.com/jyguyomarch/awesome-conversational-ai)) - A curated list of delightful Conversational AI resources.
 - [Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md) - ([Source ⭐ 5.8K, 📝 06&#x2F;23 ](https://github.com/likedan/Awesome-CoreML-Models)) - Largest list of models for Core ML (for iOS 11+)
@@ -1186,7 +1244,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Miscellaneous
 
-- [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.5K, 📝 09&#x2F;18 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+- [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K, 📝 09&#x2F;22 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 3.1K, 📝 09&#x2F;06 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 4.5K, 📝 07&#x2F;20 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Amas](/content/sindresorhus/amas/README.md) - ([Source ⭐ 1.4K, 📝 08&#x2F;18 ](https://github.com/sindresorhus/amas)) - Awesome & Marvelous Amas
@@ -1443,12 +1501,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 621, 📝 21&#x2F;01&#x2F;13 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 28K, 📝 22&#x2F;07&#x2F;23 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 397, 📝 09&#x2F;20 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 397, 📝 09&#x2F;22 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
 - [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 173K, 📝 07&#x2F;14 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
-- [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K, 📝 09&#x2F;21 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
+- [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K, 📝 09&#x2F;22 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
 - [Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md) - ([Source ⭐ 1.4K, 📝 07&#x2F;15 ](https://github.com/faroit/awesome-python-scientific-audio)) -  Curated list of python software and packages related to scientific research in audio
 - [Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md) - ([Source ⭐ 1.4K, 📝 07&#x2F;08 ](https://github.com/typeddjango/awesome-python-typing)) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md) - ([Source ⭐ 132, 📝 22&#x2F;08&#x2F;11 ](https://github.com/ebraminio/awesome-qsharp)) - A curated list of Q# code and resources.
