@@ -2,7 +2,7 @@
 
 A curated list of open-source projects related to esports.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Strift/awesome-esports/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Strift/awesome-esports](https://github.com/Strift/awesome-esports) · ⭐ 28 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Strift/awesome-esports/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Strift/awesome-esports](https://github.com/Strift/awesome-esports) · ⭐ 45 · 🏷️ Gaming
 
 [ [Daily](/content/Strift/awesome-esports/README.md) / [Weekly](/content/Strift/awesome-esports/week/README.md) / Overview ]
 
@@ -12,9 +12,9 @@ A curated list of open-source projects related to esports.
 
 > A curated list of open-source projects related to esports.
 
-[Esports](https://en.wikipedia.org/wiki/Esports) (also known as electronic sports, or e-sports) is a form of competition using video games. It often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams.
+[Esports](https://en.wikipedia.org/wiki/Esports) (also known as electronic sports or e-sports) is a form of competition using video games. It often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams.
 
-Unmaintained projects, now only relevant for educational purposes are in the [Archive](https://github.com/Strift/awesome-esports/blob/main/README.md/ARCHIVE.md).
+Unmaintained projects, now only relevant for educational purposes, are in the [Archive](https://github.com/Strift/awesome-esports/blob/main/README.md/ARCHIVE.md).
 
 ## Contents
 
@@ -25,8 +25,9 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
     *   [Team management](#team-management)
     *   [Tournaments management](#tournaments-management)
 *   [Developer tools](#developer-tools)
-*   [Unofficial documentations](#unofficial-documentations)
+*   [Unofficial documentation](#unofficial-documentation)
 *   [Applications & Tools](#applications--tools)
+*   [Education](#education)
 
 ## Libraries
 
@@ -34,64 +35,64 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 ### APIs & Web Services
 
-*   [Blizzard.js (⭐134)](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
-*   [Discord.js (⭐21k)](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
-*   [HLTV (⭐312)](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
-*   [liquipediapy (⭐49)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
-*   [steam (⭐739)](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
-*   [Steam Community (⭐352)](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
+*   [Blizzard.js (⭐139)](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
+*   [Discord.js (⭐24k)](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
+*   [HLTV (⭐341)](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
+*   [liquipediapy (⭐61)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
+*   [steam (⭐911)](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
+*   [Steam Community (⭐418)](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
 *   SteamID - A library for manipulating Steam IDs.
-    *   [Node.js (⭐59)](https://github.com/DoctorMcKay/node-steamid)
-    *   [PHP (⭐6)](https://github.com/DoctorMcKay/php-steamid)
-*   [SteamUser (⭐575)](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the the Steam client protocol.
-*   [Steam TOTP (⭐192)](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
-*   [valorant.js (⭐69)](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
+    *   [Node.js (⭐65)](https://github.com/DoctorMcKay/node-steamid)
+    *   [PHP (⭐8)](https://github.com/DoctorMcKay/php-steamid)
+*   [SteamUser (⭐719)](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the Steam client protocol.
+*   [Steam TOTP (⭐217)](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
+*   [valorant.js (⭐98)](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
 
 ### Authentication
 
-*   [Passport-Steam (⭐306)](https://github.com/liamcurry/passport-steam) - A Node.js passport authentication strategy for Steam.
+*   [Passport-Steam (⭐325)](https://github.com/liamcurry/passport-steam) - A Node.js passport authentication strategy for Steam.
 
 ### Data parsing and analysis
 
-*   [awpy (⭐216)](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing and visualizing CS:GO data.
-*   [Boxcars (⭐66)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
-*   [Cassiopeia (⭐464)](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
-*   [Clarity (⭐554)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
-*   [demoinfocs-golang (⭐440)](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
-*   [Rattletrap (⭐133)](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
+*   [awpy (⭐312)](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing, and visualizing CS:GO data.
+*   [Boxcars (⭐81)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
+*   [Cassiopeia (⭐516)](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
+*   [Clarity (⭐581)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
+*   [demoinfocs-golang (⭐545)](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+*   [Rattletrap (⭐140)](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
 
 ### Team management
 
-*   [LoL in-house bot (⭐105)](https://github.com/mrtolkien/inhouse_bot) - A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.
+*   [LoL in-house bot (⭐110)](https://github.com/mrtolkien/inhouse_bot) - A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.
 
 ### Tournaments management
 
-*   [brackets-manager.js (⭐85)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
-*   [brackets-viewer.js (⭐72)](https://github.com/Drarig29/brackets-viewer.js) - A JavaScript library to display tournament brackets.
+*   [brackets-manager.js (⭐172)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
+*   [brackets-viewer.js (⭐126)](https://github.com/Drarig29/brackets-viewer.js) - A JavaScript library to display tournament brackets.
 
 ## Developer tools
 
 > Tooling for developers.
 
-*   [Fortnite VSCode Theme (⭐166)](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fornite.
+*   [Fortnite VSCode Theme (⭐169)](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fortnite.
 
-## Unofficial documentations
+## Unofficial documentation
 
-> Community-maintained documentations of editor APIs.
+> Community-maintained documentation of editor APIs.
 
-*   [BNETDocs (⭐30)](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
-*   [Rift Explorer (⭐502)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
-*   [valorant-api-docs (⭐192)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
+*   [BNETDocs (⭐31)](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
+*   [Rift Explorer (⭐532)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
+*   [valorant-api-docs (⭐375)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
 
 ## Applications & Tools
 
 > Applications and general-purpose tooling.
 
-*   [Esport Team Logos (⭐19)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
+*   [Esport Team Logos (⭐21)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
 
 **Counter-Strike: Global Offensive**
 
-*   [Boltobserv (⭐171)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
+*   [Boltobserv (⭐209)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
@@ -100,8 +101,12 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 **League of Legends**
 
 *   [Foldy Sheet (⭐1)](https://github.com/chhopsky/foldysheet) - A Python script to determine whether teams can make playoffs or not.
-*   [LeagueDirector (⭐634)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
-*   [LeagueStats (⭐320)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners stats.
+*   [LeagueDirector (⭐742)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
+*   [LeagueStats (⭐370)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
+
+## Education
+
+*   [League of Legends Analytics (⭐18)](https://github.com/FloPrm/lol_analytics) - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
 
 ## Contributing
 

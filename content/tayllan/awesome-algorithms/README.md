@@ -2,9 +2,15 @@
 
 A curated list of awesome places to learn and/or practice algorithms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 14K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 15K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / [Overview](/content/tayllan/awesome-algorithms/readme/README.md) ]
+
+## [Sep 23, 2023](/content/2023/09/23/README.md)
+
+### Cheat Sheets / Randomized Algorithms
+
+*   [Tech Interview Cheat Sheet (⭐3.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 
@@ -81,36 +87,36 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Theoretical Computer Science (⭐375)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
+*   [Theoretical Computer Science (⭐489)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
 
 ## [Jul 07, 2021](/content/2021/07/07/README.md)
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Math (⭐7k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐7.5k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [Jul 04, 2021](/content/2021/07/04/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   PHP
-    *   [by @TheAlgorithms (⭐1.1k)](https://github.com/TheAlgorithms/PHP)
+    *   [by @TheAlgorithms (⭐1.4k)](https://github.com/TheAlgorithms/PHP)
 
 ## [Jun 22, 2021](/content/2021/06/22/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   Java
-    *   [by @jpa99 (⭐110)](https://github.com/jpa99/Algorithms)
-    *   [by @phishman3579 (⭐4.2k)](https://github.com/phishman3579/java-algorithms-implementation)
+    *   [by @jpa99 (⭐112)](https://github.com/jpa99/Algorithms)
+    *   [by @phishman3579 (⭐4.3k)](https://github.com/phishman3579/java-algorithms-implementation)
     *   [by @asmolich (⭐14)](https://github.com/asmolich/algorithms)
     *   [by @psjava (⭐70)](https://github.com/psjava/psjava)
-    *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
+    *   [by @jeandersonbc (⭐21)](https://github.com/jeandersonbc/algorithms-and-ds)
     *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
-    *   [by @Erdos-Graph-Framework (⭐112)](https://github.com/Erdos-Graph-Framework/Erdos)
+    *   [by @Erdos-Graph-Framework (⭐123)](https://github.com/Erdos-Graph-Framework/Erdos)
     *   [by @deepak-malik (⭐131)](https://github.com/deepak-malik/Data-Structures-In-Java)
     *   [by @yusufcakal (⭐23)](https://github.com/yusufcakal/algorithms)
-    *   [by @FarheenB (⭐132)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
+    *   [by @FarheenB (⭐135)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 
 ## [Jun 07, 2021](/content/2021/06/07/README.md)
 
@@ -175,12 +181,12 @@ A curated list of awesome places to learn and/or practice algorithms.
 ### Github Libraries / Randomized Algorithms
 
 *   Python
-    *   [by @nryoung (⭐2.8k)](https://github.com/nryoung/algorithms)
+    *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
     *   [by @prakhar1989 (⭐2.9k)](https://github.com/prakhar1989/Algorithms)
     *   [by @laurentluce (⭐265)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐51)](https://github.com/nbro/ands)
-    *   [by @keon (⭐22k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐622)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @nbro (⭐52)](https://github.com/nbro/ands)
+    *   [by @keon (⭐23k)](https://github.com/keon/algorithms)
+    *   [by @vinta (⭐643)](https://github.com/vinta/fuck-coding-interviews)
 
 ## [Aug 11, 2020](/content/2020/08/11/README.md)
 
@@ -200,7 +206,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Cheat Sheets / Randomized Algorithms
 
-*   [Algo Deck (⭐5k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
+*   [Algo Deck (⭐5.2k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## [Jan 07, 2020](/content/2020/01/07/README.md)
 
@@ -213,15 +219,15 @@ A curated list of awesome places to learn and/or practice algorithms.
 ### Github Libraries / Randomized Algorithms
 
 *   Lua
-    *   [by @evandrolg (⭐45)](https://github.com/EvandroLG/computer_science_in_lua)
+    *   [by @evandrolg (⭐47)](https://github.com/EvandroLG/computer_science_in_lua)
 
 ## [Oct 30, 2019](/content/2019/10/30/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   C
-    *   [by @fragglet (⭐2.9k)](https://github.com/fragglet/c-algorithms)
-    *   [by @TheAlgorithms (⭐16k)](https://github.com/TheAlgorithms/C)
+    *   [by @fragglet (⭐3k)](https://github.com/fragglet/c-algorithms)
+    *   [by @TheAlgorithms (⭐17k)](https://github.com/TheAlgorithms/C)
 
 ## [Oct 16, 2019](/content/2019/10/16/README.md)
 
@@ -246,14 +252,14 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 *   JavaScript
     *   [by @jiayihu (⭐2.2k)](https://github.com/jiayihu/pretty-algorithms)
-    *   [by @felipernb (⭐3.6k)](https://github.com/felipernb/algorithms.js)
-    *   [by @nzakas (⭐8.8k)](https://github.com/nzakas/computer-science-in-javascript)
-    *   [by @duereg (⭐918)](https://github.com/duereg/js-algorithms)
-    *   [by @mgechev (⭐7.6k)](https://github.com/mgechev/javascript-algorithms)
-    *   [by @trekhleb (⭐166k)](https://github.com/trekhleb/javascript-algorithms)
-    *   [by @ManrajGrover (⭐187)](https://github.com/ManrajGrover/algorithms-js)
-    *   [by @amejiarosario (⭐7.2k)](https://github.com/amejiarosario/dsa.js)
-    *   [by @zonayedpca (⭐95)](https://github.com/zonayedpca/AlgoDS.js)
+    *   [by @felipernb (⭐3.7k)](https://github.com/felipernb/algorithms.js)
+    *   [by @nzakas (⭐8.9k)](https://github.com/nzakas/computer-science-in-javascript)
+    *   [by @duereg (⭐920)](https://github.com/duereg/js-algorithms)
+    *   [by @mgechev (⭐7.7k)](https://github.com/mgechev/javascript-algorithms)
+    *   [by @trekhleb (⭐175k)](https://github.com/trekhleb/javascript-algorithms)
+    *   [by @ManrajGrover (⭐190)](https://github.com/ManrajGrover/algorithms-js)
+    *   [by @amejiarosario (⭐7.4k)](https://github.com/amejiarosario/dsa.js)
+    *   [by @zonayedpca (⭐98)](https://github.com/zonayedpca/AlgoDS.js)
 
 ## [Aug 28, 2019](/content/2019/08/28/README.md)
 
@@ -266,16 +272,15 @@ A curated list of awesome places to learn and/or practice algorithms.
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐4.8k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐600)](https://github.com/PetarV-/Algorithms)
+    *   [by @xtaci (⭐5k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐617)](https://github.com/PetarV-/Algorithms)
     *   [by @faheel (⭐491)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐140)](http://github.com/sslotin/algo)
+    *   [by @sslotin (⭐154)](http://github.com/sslotin/algo)
 
 ## [May 27, 2019](/content/2019/05/27/README.md)
 
 ### Cheat Sheets / Randomized Algorithms
 
-*   [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 *   [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 *   [CLRS in short](https://sinon.org/algorithms//#data-structures)
 *   [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
@@ -339,9 +344,9 @@ A curated list of awesome places to learn and/or practice algorithms.
 ### Github Libraries / Randomized Algorithms
 
 *   C#
-    *   [by @shkolovy (⭐26)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.4k)](https://github.com/aalhour/C-Sharp-Algorithms)
-    *   [by @justcoding121 (⭐1.1k)](https://github.com/justcoding121/Advanced-Algorithms)
+    *   [by @shkolovy (⭐28)](https://github.com/shkolovy/classic-algorithms)
+    *   [by @aalhour (⭐5.6k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @justcoding121 (⭐1.2k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ## [May 02, 2017](/content/2017/05/02/README.md)
 
@@ -364,7 +369,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 *   Ruby
     *   [by @kanwei (⭐2.6k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @kumar91gopi (⭐659)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    *   [by @kumar91gopi (⭐677)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 
 ## [Jan 26, 2017](/content/2017/01/26/README.md)
 
@@ -403,7 +408,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 *   [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 *   [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-*   [Elementary Algorithms (⭐5.6k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+*   [Elementary Algorithms (⭐5.8k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 *   [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 *   [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 *   [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
@@ -426,7 +431,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 ### Github Libraries / Randomized Algorithms
 
 *   Swift
-    *   [by @kingreza (⭐38)](https://github.com/kingreza/Swift-Algorithms-Strings-)
+    *   [by @kingreza (⭐39)](https://github.com/kingreza/Swift-Algorithms-Strings-)
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
     *   [by @hollance (⭐28k)](https://github.com/hollance/swift-algorithm-club)
 
@@ -440,7 +445,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Tools / Randomized Algorithms
 
-*   [interactive-coding-challenges (⭐27k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+*   [interactive-coding-challenges (⭐28k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## [Jul 23, 2014](/content/2014/07/23/README.md)
 
@@ -453,13 +458,13 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Github Libraries / Randomized Algorithms
 
-*   [Erlang (⭐146)](https://github.com/aggelgian/erlang-algorithms)
+*   [Erlang (⭐151)](https://github.com/aggelgian/erlang-algorithms)
 
 ## [Jul 17, 2014](/content/2014/07/17/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
-*   [Scala (⭐1.4k)](https://github.com/vkostyukov/scalacaster)
+*   [Scala (⭐1.5k)](https://github.com/vkostyukov/scalacaster)
 
 ## [Jul 16, 2014](/content/2014/07/16/README.md)
 

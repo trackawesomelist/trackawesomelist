@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Sep 23, 2023](/content/2023/09/23/README.md)
+
+### Media
+
+*   [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
+
 ## [Sep 20, 2023](/content/2023/09/20/README.md)
 
 ### Natural Language Processing
