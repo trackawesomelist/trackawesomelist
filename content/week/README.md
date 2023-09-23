@@ -345,17 +345,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application
 *   [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
-#### [29. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Dependency Injection
-
-*   [gontainer (⭐13)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
-
-##### DevOps Tools / Libraries for creating HTTP middlewares
-
-*   [PipeCD (⭐825)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
-
-#### [30. Ai Collection](/content/ai-collection/ai-collection/README.md)
+#### [29. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ##### Chat Bot
 
@@ -462,7 +452,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [31. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+#### [30. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ##### Machine Learning / General Purpose Machine Learning
 
@@ -528,7 +518,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OpenFE (⭐545)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
 
-#### [32. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [31. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Official documentation
 
@@ -539,7 +529,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
 *   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
 
-#### [33. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+#### [32. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
 ##### Text / ChatGPT extensions
 
@@ -553,13 +543,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
-#### [34. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+#### [33. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ##### Table of Contents / Streaming Library
 
 *   [FastStream (⭐562)](https://github.com/airtai/faststream) \[Python] - powerful and easy-to-use Python library simplifying the process of writing producers and consumers for message queues, handling all the parsing, networking and documentation generation automatically. Supports multiple protocols such as Apache Kafka, RabbitMQ and alike.
 
-#### [35. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [34. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Integrations
 
@@ -573,7 +563,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CometLLM (⭐193)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
-#### [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### (requires Neovim 0.5)
 
@@ -625,7 +615,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [chrisgrieser/nvim-kickstart-python (⭐2)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
-#### [37. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [36. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Resources / External Resources
 
@@ -640,19 +630,76 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [i18n-pro/vue (⭐1)](https://github.com/i18n-pro/vue) -  Lightweight, simple, flexible, automatic translation internationalization tool for Vue.
 *   [i18n-pro/vue2 (⭐0)](https://github.com/i18n-pro/vue2) -  Lightweight, simple, flexible, automatic translation internationalization tool for Vue 2.
 
-#### [38. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+#### [37. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ##### Platforms
 
 *   [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
 
-#### [39. Awesome Esports](/content/Strift/awesome-esports/README.md)
+#### [38. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
 ##### Education / Tournaments management
 
 *   [League of Legends Analytics (⭐18)](https://github.com/FloPrm/lol_analytics) - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
 
-#### [40. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Blogging Platforms
+
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐110)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+
+##### Software / Learning and Courses
+
+*   [INGInious](https://inginious.org/?lang=en) `⚠` - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐181)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
+
+##### Software / Search Engines
+
+*   [Websurfx (⭐347)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+
+##### Software / Software Development - API Management
+
+*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐54k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
+
+#### [40. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+
+##### Infrastructure
+
+*   [Interceptor Optimization (⭐94)](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
+
+#### [41. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+
+##### Packages / Cross-platform integration
+
+*   [napi-rs (⭐4.5k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
+*   [Neon (⭐7.4k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+*   [Edge.js (⭐5.4k)](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
+*   [DotNetJS (⭐594)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
+
+#### [42. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+
+##### Utility / Barcode
+
+*   [SwiftAutoGUI (⭐24)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
+
+#### [43. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Libraries / Email
+
+*   [duesee/imap-codec (⭐26)](https://github.com/duesee/imap-codec) \[[imap-codec](https://crates.io/crates/imap-codec)] — Rock-solid and complete codec for IMAP [![Build & Test](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml)
+
+#### [44. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+##### Notes and Tasks
+
+*   [Anytype](https://www.anytype.io/) - An open-source Notion alternative. E2EE, cloud and local network sync, can be self-hosted.
+
+#### [45. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+
+##### Cheat Sheets / Randomized Algorithms
+
+*   [Tech Interview Cheat Sheet (⭐3.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+
+#### [46. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -741,62 +788,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 
-#### [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [47. Awesome Go](/content/avelino/awesome-go/README.md)
 
-##### Software / Blogging Platforms
+##### Dependency Injection
 
-*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐110)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+*   [gontainer (⭐13)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
 
-##### Software / Learning and Courses
+##### Go Generate Tools / Libraries for creating HTTP middlewares
 
-*   [INGInious](https://inginious.org/?lang=en) `⚠` - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐181)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
+*   [re2dfa](https://gitlab.com/opennota/re2dfa) - Transform regular expressions into finite state machines and output Go source code.
 
-##### Software / Search Engines
+##### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [Websurfx (⭐347)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
-
-##### Software / Software Development - API Management
-
-*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐54k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
-
-#### [42. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
-
-##### Infrastructure
-
-*   [Interceptor Optimization (⭐94)](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
-
-#### [43. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
-
-##### Packages / Cross-platform integration
-
-*   [napi-rs (⭐4.5k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
-*   [Neon (⭐7.4k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-*   [Edge.js (⭐5.4k)](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
-*   [DotNetJS (⭐594)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
-
-#### [44. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-##### Utility / Barcode
-
-*   [SwiftAutoGUI (⭐24)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
-
-#### [45. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Libraries / Email
-
-*   [duesee/imap-codec (⭐26)](https://github.com/duesee/imap-codec) \[[imap-codec](https://crates.io/crates/imap-codec)] — Rock-solid and complete codec for IMAP [![Build & Test](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml)
-
-#### [46. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-##### Notes and Tasks
-
-*   [Anytype](https://www.anytype.io/) - An open-source Notion alternative. E2EE, cloud and local network sync, can be self-hosted.
-
-#### [47. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
-
-##### Cheat Sheets / Randomized Algorithms
-
-*   [Tech Interview Cheat Sheet (⭐3.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+*   [PipeCD (⭐825)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
 
 ---
 
@@ -806,7 +810,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 257K 📝 09&#x2F;21 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 148K 📝 09&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 108K 📝 09&#x2F;22 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 108K 📝 09&#x2F;23 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 73K 📝 09&#x2F;23 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 70K 📝 09&#x2F;23 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 6. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 297K 📝 09&#x2F;06 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
@@ -1480,7 +1484,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.8K, 📝 09&#x2F;18 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 108K, 📝 09&#x2F;22 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 108K, 📝 09&#x2F;23 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 689, 📝 07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources

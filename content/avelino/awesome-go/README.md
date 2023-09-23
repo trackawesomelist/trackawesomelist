@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 23, 2023](/content/2023/09/23/README.md)
+
+### Go Generate Tools / Libraries for creating HTTP middlewares
+
+*   [re2dfa](https://gitlab.com/opennota/re2dfa) - Transform regular expressions into finite state machines and output Go source code.
+
 ## [Sep 22, 2023](/content/2023/09/22/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
@@ -34,7 +40,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### SQL Query Builders
 
-*   [Hotcoal (⭐6)](https://github.com/motrboat/hotcoal) - Secure your handcrafted SQL against injection.
+*   [Hotcoal (⭐8)](https://github.com/motrboat/hotcoal) - Secure your handcrafted SQL against injection.
 
 ## [Sep 03, 2023](/content/2023/09/03/README.md)
 
@@ -73,7 +79,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [air (⭐11k)](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
+*   [air (⭐12k)](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
 
 ## [Aug 18, 2023](/content/2023/08/18/README.md)
 
@@ -280,7 +286,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [portal (⭐954)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
+*   [portal (⭐958)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
 
 ### Style Guides / Libraries for creating HTTP middlewares
 
@@ -592,7 +598,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Game Development
 
-*   [Harfang3D (⭐395)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐36)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐403)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐36)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -1145,7 +1151,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐784)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐792)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [May 18, 2022](/content/2022/05/18/README.md)
 
@@ -2263,7 +2269,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [ringpop-go (⭐798)](https://github.com/uber/ringpop-go) - Scalable, fault-tolerant application-layer sharding for Go applications.
 *   [rpcx (⭐7.7k)](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 *   [Semaphore (⭐87)](https://github.com/jexia/semaphore) - A straightforward (micro) service orchestrator.
-*   [sleuth (⭐366)](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ (⭐8.7k)](https://github.com/zeromq/libzmq)).
+*   [sleuth (⭐366)](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ (⭐8.8k)](https://github.com/zeromq/libzmq)).
 *   [torrent (⭐4.9k)](https://github.com/anacrolix/torrent) - BitTorrent client package.
 
 ### Dynamic DNS
@@ -2741,7 +2747,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Beaver (⭐1.5k)](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 *   [Benthos (⭐6.6k)](https://github.com/Jeffail/benthos) - A message streaming bridge between a range of protocols.
 *   [Bus (⭐311)](https://github.com/mustafaturan/bus) - Minimalist message bus implementation for internal communication.
-*   [Centrifugo (⭐7.3k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
+*   [Centrifugo (⭐7.4k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 *   [Chanify (⭐1.1k)](https://github.com/chanify/chanify) - A push notification server send message to your iOS devices.
 *   [Commander (⭐65)](https://github.com/jeroenrinzema/commander) - A high-level event driven consumer/producer supporting various "dialects" such as Apache Kafka.
 *   [Confluent Kafka Golang Client (⭐4.1k)](https://github.com/confluentinc/confluent-kafka-go) - confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.
@@ -3203,11 +3209,11 @@ A curated list of awesome Go frameworks, libraries and software
 *   [dudeldu (⭐141)](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
 *   [Easegress (⭐5.5k)](https://github.com/megaease/easegress) - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
 *   [etcd (⭐44k)](https://github.com/coreos/etcd) - Highly-available key value store for shared configuration and service discovery.
-*   [Euterpe (⭐494)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
+*   [Euterpe (⭐496)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
 *   [Fider (⭐2.4k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 *   [Flagr (⭐2.2k)](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 *   [flipt (⭐2.8k)](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
-*   [go-feature-flag (⭐805)](https://github.com/thomaspoignant/go-feature-flag) - A feature flag solution, with only a YAML file in the backend (S3, GitHub, HTTP, local file ...), no server to install, just add a file in a central system and refer to it.
+*   [go-feature-flag (⭐820)](https://github.com/thomaspoignant/go-feature-flag) - A feature flag solution, with only a YAML file in the backend (S3, GitHub, HTTP, local file ...), no server to install, just add a file in a central system and refer to it.
 *   [go-proxy-cache (⭐98)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 *   [jackal (⭐1.4k)](https://github.com/ortuman/jackal) - An XMPP server written in Go.
 *   [lets-proxy2 (⭐81)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
@@ -3219,7 +3225,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [psql-streamer (⭐52)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [riemann-relay (⭐2)](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
 *   [RoadRunner (⭐7.4k)](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
-*   [SFTPGo (⭐6.7k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+*   [SFTPGo (⭐6.8k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [simple-jwt-provider (⭐34)](https://github.com/leberKleber/simple-jwt-provider) - Simple and lightweight provider which exhibits JWTs, supports login, password-reset (via mail) and user management.
 *   [Trickster (⭐1.9k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 
@@ -3839,7 +3845,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gotests (⭐4.7k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
 *   [gounit (⭐72)](https://github.com/hexdigest/gounit) - Generate Go tests using your own templates.
 *   [hasgo (⭐130)](https://github.com/DylanMeeus/hasgo) - Generate Haskell inspired functions for your slices.
-*   [re2dfa](https://github.com/opennota/re2dfa) - Transform regular expressions into finite state machines and output Go source code.
 *   [TOML-to-Go](https://xuri.me/toml-to-go) - Translates TOML into a Go type in the browser instantly.
 *   [xgen (⭐267)](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator.
 
@@ -3927,7 +3932,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [terraform-provider-openapi (⭐258)](https://github.com/dikhan/terraform-provider-openapi) - Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed.
 *   [traefik (⭐45k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 *   [trubka (⭐330)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
-*   [uTask (⭐970)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
+*   [uTask (⭐983)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐22k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 *   [webhook (⭐9.3k)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
 *   [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
@@ -3936,7 +3941,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [Better Go Playground](https://goplay.tools) - Go playground with syntax highlight, code completion and other features.
-*   [blocky (⭐2.8k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features.
+*   [blocky (⭐2.9k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features.
 *   [borg (⭐1.6k)](https://github.com/crufter/borg) - Terminal based search engine for bash snippets.
 *   [boxed (⭐78)](https://github.com/tejo/boxed) - Dropbox based blog engine.
 *   [Cherry (⭐290)](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.
@@ -3944,9 +3949,9 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Comcast (⭐10k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.2k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
 *   [crawley (⭐165)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
-*   [croc (⭐23k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
+*   [croc (⭐24k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
-*   [Documize (⭐1.9k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
+*   [Documize (⭐2k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐84)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
 *   [drive (⭐6.6k)](https://github.com/odeke-em/drive) - Google Drive client for the commandline.
 *   [Duplicacy (⭐4.8k)](https://github.com/gilbertchen/duplicacy) - A cross-platform network and cloud backup tool based on the idea of lock-free deduplication.

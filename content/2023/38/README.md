@@ -195,6 +195,10 @@
 
 *   [gontainer (⭐13)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
 
+### Go Generate Tools / Libraries for creating HTTP middlewares
+
+*   [re2dfa](https://gitlab.com/opennota/re2dfa) - Transform regular expressions into finite state machines and output Go source code.
+
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [PipeCD (⭐825)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
