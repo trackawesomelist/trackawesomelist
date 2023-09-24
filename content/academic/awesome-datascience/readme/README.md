@@ -647,6 +647,7 @@ This section includes some additional reading material, channels to watch, and t
 *   [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430)
 *   [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
 *   [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early access
+*   [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
 
 #### Book Deals (Affiliated) 🛍
 
@@ -1098,7 +1099,7 @@ Some data mining competition platforms
 *   [Awesome Machine Learning (⭐60k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐9.2k)](https://github.com/jnv/lists)
 *   [awesome-dataviz (⭐3.4k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-python (⭐179k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐181k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐26k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐5.6k)](https://github.com/qinwf/awesome-R)
 *   [awesome-datasets (⭐56k)](https://github.com/awesomedata/awesome-public-datasets)

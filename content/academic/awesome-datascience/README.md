@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Sep 24, 2023](/content/2023/09/24/README.md)
+
+### Books / Visualization Tools
+
+*   [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
+
 ## [Sep 16, 2023](/content/2023/09/16/README.md)
 
 ### Free Courses
@@ -1062,7 +1068,7 @@
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐60k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐9.2k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐179k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐181k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐26k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐5.6k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐14k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
