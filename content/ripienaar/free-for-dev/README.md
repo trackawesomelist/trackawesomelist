@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 24, 2023](/content/2023/09/24/README.md)
+
+### APIs, Data, and ML
+
+*   [CometML](https://www.comet.com/site/) - The MLOps platform for experiment tracking, model production management, model registry, and full data lineage, covering your workflow from training straight through to production. Free for individuals and academics.
+
 ## [Sep 23, 2023](/content/2023/09/23/README.md)
 
 ### Design and UI
@@ -3318,7 +3324,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Source Code Repos
 
 *   [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this, some other free services(there are much more, but we list the main ones here) provided are :
-    *   [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free)
+    *   [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos)
     *   [Codespaces](https://github.com/codespaces) - Development environments that are hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
     *   [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
     *   [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)

@@ -6,6 +6,13 @@ Probably the best curated list of data science software in Python.
 
 [ Daily / [Weekly](/content/krzjoa/awesome-python-data-science/week/README.md) / [Overview](/content/krzjoa/awesome-python-data-science/readme/README.md) ]
 
+## [Sep 24, 2023](/content/2023/09/24/README.md)
+
+### Reinforcement Learning / Others
+
+*   [Shimmy (⭐89)](https://github.com/Farama-Foundation/Shimmy) - An API conversion tool for popular external reinforcement learning environments.
+*   [EnvPool (⭐910)](https://github.com/sail-sg/envpool) - C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
+
 ## [Sep 22, 2023](/content/2023/09/22/README.md)
 
 ### Deep Learning / JAX

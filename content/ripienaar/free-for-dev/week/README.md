@@ -12,6 +12,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 50 credits per month for free.
 *   [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.
+*   [CometML](https://www.comet.com/site/) - The MLOps platform for experiment tracking, model production management, model registry, and full data lineage, covering your workflow from training straight through to production. Free for individuals and academics.
 *   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
 *   [Mockfly](https://www.mockfly.dev/) — Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. Free tier offers 500 requests per day.
 *   [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.
@@ -2655,7 +2656,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Source Code Repos
 
 *   [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this, some other free services(there are much more, but we list the main ones here) provided are :
-    *   [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free)
+    *   [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos)
     *   [Codespaces](https://github.com/codespaces) - Development environments that are hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
     *   [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
     *   [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)

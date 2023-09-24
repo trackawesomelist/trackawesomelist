@@ -43,6 +43,8 @@ Probably the best curated list of data science software in Python.
 
 *   [Gymnasium (⭐3.7k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐33k)](https://github.com/openai/gym)).
 *   [Stable Baselines3 (⭐6.4k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+*   [Shimmy (⭐89)](https://github.com/Farama-Foundation/Shimmy) - An API conversion tool for popular external reinforcement learning environments.
+*   [EnvPool (⭐910)](https://github.com/sail-sg/envpool) - C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
 *   [Acme (⭐3.2k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
 *   [Catalyst-RL (⭐45)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [d3rlpy (⭐1.1k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.

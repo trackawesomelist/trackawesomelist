@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Sep 24, 2023](/content/2023/09/24/README.md)
+
+### Libraries / Network programming
+
+*   QUIC
+    *   [aws/s2n-quic (⭐948)](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol ![ci](https://img.shields.io/github/actions/workflow/status/aws/s2n-quic/ci.yml?branch=main)
+    *   [cloudflare/quiche (⭐8k)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
+    *   [mozilla/neqo (⭐1.6k)](https://github.com/mozilla/neqo) — an Implementation of QUIC written in Rust
+    *   [quinn-rs/quinn (⭐3k)](https://github.com/quinn-rs/quinn) — Futures-based QUIC implementation in Rust [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
+
 ## [Sep 23, 2023](/content/2023/09/23/README.md)
 
 ### Libraries / Email
@@ -2199,10 +2209,6 @@ A curated list of Rust code and resources.
     *   [Covertness/coap-rs (⭐183)](https://github.com/Covertness/coap-rs) — A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library for Rust.
 *   Docker
     *   [fussybeaver/bollard (⭐557)](https://github.com/fussybeaver/bollard) — Docker daemon API in Rust
-*   QUIC
-    *   [cloudflare/quiche (⭐8k)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/workflow/status/cloudflare/quiche/Stable)
-    *   [mozilla/neqo (⭐1.6k)](https://github.com/mozilla/neqo) — an Implementation of QUIC written in Rust
-    *   [quinn-rs/quinn (⭐3k)](https://github.com/quinn-rs/quinn) — Futures-based QUIC implementation in Rust [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
 
 ### Libraries / Parsing
 

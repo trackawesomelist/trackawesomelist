@@ -58,6 +58,10 @@ Collections of awesome neovim plugins.
 
 *   [chrisgrieser/nvim-kickstart-python (⭐2)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
+### OS-specific / Diagnostics
+
+*   [chrisgrieser/alfred-neovim-utilities (⭐24)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help `via Alfred (macOS).
+
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
 ### Plugin Manager
@@ -85,7 +89,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Diagnostics
 
-*   [piersolenski/telescope-import.nvim (⭐5)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐36)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ### Git / Diagnostics
 
@@ -121,7 +125,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [askfiy/visual\_studio\_code (⭐94)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐107)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 *   [Verf/deepwhite.nvim (⭐20)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐139)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
 
 ### Utility / Diagnostics

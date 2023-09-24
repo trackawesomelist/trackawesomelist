@@ -90,6 +90,7 @@ Collections of awesome neovim plugins.
 *   [External](#external)
     *   [Version Manager](#version-manager)
     *   [Boilerplate](#boilerplate)
+    *   [OS-specific](#os-specific)
 *   [Vim](#vim)
 *   [Resource](#resource)
 
@@ -382,7 +383,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [rafamadriz/neon (⭐150)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
 *   [tomasiser/vim-code-dark (⭐873)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
 *   [Mofiqul/vscode.nvim (⭐509)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
-*   [askfiy/visual\_studio\_code (⭐94)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐107)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 *   [marko-cerovac/material.nvim (⭐815)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [bluz71/vim-nightfly-colors (⭐669)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 *   [bluz71/vim-moonfly-colors (⭐658)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
@@ -772,7 +773,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [vuki656/package-info.nvim (⭐289)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
 *   [Saecki/crates.nvim (⭐578)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
-*   [piersolenski/telescope-import.nvim (⭐5)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐36)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ### Git
 
@@ -1083,6 +1084,10 @@ These tools are used externally to Neovim to enhance the experience.
 *   [gennaro-tedesco/boilit (⭐64)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
 *   [m00qek/plugin-template.nvim (⭐87)](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
 *   [ellisonleao/nvim-plugin-template (⭐150)](https://github.com/ellisonleao/nvim-plugin-template) - Another neovim plugin template, using GitHub's template feature.
+
+### OS-specific
+
+*   [chrisgrieser/alfred-neovim-utilities (⭐24)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help `via Alfred (macOS).
 
 ## Vim
 
