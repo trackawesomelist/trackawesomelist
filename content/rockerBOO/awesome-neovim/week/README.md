@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
+
+### Cursorline / Diagnostics
+
+*   [sontungexpt/stcursorword (⭐2)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### (requires Neovim 0.5)

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 25, 2023](/content/2023/09/25/README.md)
+
+### PaaS
+
+*   [Platformatic Cloud](https://platformatic.dev/) - Platformatic offers many open-source packages to wrap your Fastify application and deploy it in the Platformatic Cloud. Built in CD with a GitHub Action. [Free plan](https://platformatic.dev/pricing/) for hobbyists with a simple [GitHub login](https://platformatic.cloud/).
+
 ## [Sep 24, 2023](/content/2023/09/24/README.md)
 
 ### APIs, Data, and ML

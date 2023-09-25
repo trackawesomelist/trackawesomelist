@@ -12,7 +12,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch (⭐4.6k)](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐268k)](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐270k)](https://github.com/sindresorhus/awesome) lists.
 
 ## More awesome resources
 
@@ -318,12 +318,12 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [Neuledge (⭐236)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 *   :octocat: [Typetta (⭐90)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 *   :octocat: [TypeGQL (⭐422)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
-*   :octocat: [TSTL (⭐551)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
+*   :octocat: [TSTL (⭐555)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
     *   :octocat: [ECol (⭐9)](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
-    *   :octocat: [TGrid (⭐108)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
+    *   :octocat: [TGrid (⭐111)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
     *   :octocat: [Mutex-Server (⭐25)](https://github.com/samchon/mutex-server) - Critical sections controller, like mutex and semaphore, in the network level.
 *   :octocat: [Kalimdor.js (⭐531)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
-*   :octocat: [prelude.ts (⭐367)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+*   :octocat: [prelude.ts (⭐372)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
 *   :octocat: [ee-ts (⭐125)](https://github.com/aleclarson/ee-ts) - Typed event emitters
 *   :octocat: [io-ts (⭐6.4k)](https://github.com/gcanti/io-ts) - Type validation at runtime
 *   :octocat: [mokia (⭐109)](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
@@ -377,6 +377,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 # Roadmap
 
 *   [TypeScript Roadmap](https://roadmap.sh/typescript)
+*   [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) by OfferZen Origins
+    > The Documentary features core contributors and community members like Anders Hejlsberg, Steve Lucco, Luke Hoban, Daniel Rosenwasser, Ryan Cavanaugh, Amanda Silver, Matt Pocock, Josh Goldberg & many more!
 
 ### Badges
 

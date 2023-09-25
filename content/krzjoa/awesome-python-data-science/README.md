@@ -6,6 +6,12 @@ Probably the best curated list of data science software in Python.
 
 [ Daily / [Weekly](/content/krzjoa/awesome-python-data-science/week/README.md) / [Overview](/content/krzjoa/awesome-python-data-science/readme/README.md) ]
 
+## [Sep 25, 2023](/content/2023/09/25/README.md)
+
+### Reinforcement Learning / Others
+
+*   [PettingZoo (⭐2k)](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
+
 ## [Sep 24, 2023](/content/2023/09/24/README.md)
 
 ### Reinforcement Learning / Others

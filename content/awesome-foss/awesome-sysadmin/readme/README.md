@@ -90,7 +90,7 @@ Build automation.
 *   [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, a library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. ([Source Code (⭐382)](https://github.com/apache/ant)) `Apache-2.0` `Java`
 *   [Apache Maven](https://maven.apache.org/) - Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. ([Source Code (⭐3.8k)](https://github.com/apache/maven)) `Apache-2.0` `Java`
 *   [Bazel](https://www.bazel.io/) - A fast, scalable, multi-language and extensible build system. Used by Google. ([Source Code (⭐21k)](https://github.com/bazelbuild/bazel/)) `Apache-2.0` `Java`
-*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐464)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
+*   [Bolt](https://www.puppet.com/community/open-source/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐464)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 *   [GNU Make](https://www.gnu.org/software/make/) - The most popular automation build tool for many purposes, make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. ([Source Code](https://git.savannah.gnu.org/cgit/make.git)) `GPL-3.0` `C`
 *   [Gradle](https://gradle.org/) - Another build automation system. ([Source Code (⭐15k)](https://github.com/gradle/gradle)) `Apache-2.0` `Groovy/Java`
 *   [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code (⭐2.3k)](https://github.com/ruby/rake)) `MIT` `Ruby`
@@ -127,8 +127,9 @@ Build automation.
 
 Build and software organization tools.
 
-*   [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code (⭐298)](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
-*   [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐409)](https://github.com/TACC/Lmod)) `MIT` `Lua`
+*   [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code (⭐299)](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
+*   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐583)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
+*   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐417)](https://github.com/TACC/Lmod)) `MIT` `Lua`
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐3.6k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 ### ChatOps
@@ -157,7 +158,7 @@ Conversation-driven development and management.
 
 [Code review](https://en.wikipedia.org/wiki/Code_review) is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code.
 
-**Please visit [awesome-selfhosted/Software Development - Project Management (⭐147k)](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
+**Please visit [awesome-selfhosted/Software Development - Project Management (⭐149k)](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
 
 ### Configuration Management Database
 
@@ -230,7 +231,7 @@ Database servers.
 
 **Please visit [dbdb.io - Database of Databases](https://dbdb.io/)**
 
-*See also: [awesome-selfhosted/Database Management (⭐147k)](https://github.com/awesome-selfhosted/awesome-selfhosted#database-management)*
+*See also: [awesome-selfhosted/Database Management (⭐149k)](https://github.com/awesome-selfhosted/awesome-selfhosted#database-management)*
 
 ### Deployment Automation
 
@@ -258,7 +259,7 @@ Tools used to create diagrams of networks, flows, etc.
 *   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐36k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
 *   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. ([Source Code (⭐1k)](https://github.com/cidrblock/drawthe.net)) `MIT` `JavaScript`
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.3k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
-*   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐2.8k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
+*   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐2.9k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
 
 ### Distributed Filesystems
 
@@ -266,7 +267,7 @@ Tools used to create diagrams of networks, flows, etc.
 
 Network distributed filesystems.
 
-*See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers (⭐147k)](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers)*
+*See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers (⭐149k)](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers)*
 
 *   [Ceph](https://ceph.com/en/) - Distributed object, block, and file storage platform. ([Source Code (⭐12k)](https://github.com/ceph/ceph)) `LGPL-3.0` `C++`
 *   [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code (⭐514)](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
@@ -290,7 +291,7 @@ Network distributed filesystems.
 
 [DNS](https://en.wikipedia.org/wiki/Name_server) servers.
 
-*See also: [awesome-selfhosted/DNS (⭐147k)](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)*
+*See also: [awesome-selfhosted/DNS (⭐149k)](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)*
 
 *Related: [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)*
 
@@ -310,7 +311,7 @@ Network distributed filesystems.
 
 DNS server control panels, web interfaces and domain management tools.
 
-*See also: [awesome-selfhosted/DNS (⭐147k)](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)*
+*See also: [awesome-selfhosted/DNS (⭐149k)](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)*
 
 *Related: [DNS - Servers](#dns---servers)*
 
@@ -333,7 +334,7 @@ Open-source code editors.
 *   [Brackets](https://brackets.io/) - Code editor for web designers and front-end developers. ([Source Code (⭐1.1k)](https://github.com/brackets-cont/brackets)) `MIT` `JavaScript`
 *   [Eclipse](https://www.eclipse.org/) - IDE written in Java with an extensible plug-in system. ([Source Code](https://git.eclipse.org/c/)) `EPL-1.0` `Java`
 *   [Geany](https://www.geany.org/) - GTK2 text editor. ([Source Code (⭐2.7k)](https://github.com/geany/geany)) `GPL-2.0` `C/C++`
-*   [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more. ([Source Code (⭐4k)](https://github.com/emacs-mirror/emacs)) `GPL-3.0` `C`
+*   [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more. ([Source Code (⭐4.1k)](https://github.com/emacs-mirror/emacs)) `GPL-3.0` `C`
 *   [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview. ([Source Code (⭐1.6k)](https://github.com/rhiokim/haroopad)) `GPL-3.0` `JavaScript`
 *   [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages. ([Demo](http://demo.icecoder.net), [Source Code (⭐1.4k)](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
 *   [jotgit (⭐207)](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing. `MIT` `Nodejs`
@@ -374,14 +375,14 @@ Miscellaneous utilities and web interfaces for identity management systems.
 
 *   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. ([Source Code](https://gitlab.com/bounca/bounca/)) `Apache-2.0` `Python`
 *   [easy-rsa (⭐3.7k)](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
-*   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code (⭐146)](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
+*   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code (⭐145)](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
 *   [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code (⭐182)](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
-*   [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code (⭐374)](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
+*   [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code (⭐378)](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
 *   [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Source Code](https://git.linux-kernel.at/oliver/ivatar/)) `AGPL-3.0` `Python`
-*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.6k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
+*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.7k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 *   [Samba](https://www.samba.org/) - Active Directory and CIFS protocol implementation. ([Source Code](https://download.samba.org/pub/samba/)) `GPL-3.0` `C`
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐5.5k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
-*   [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code (⭐4.5k)](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐5.6k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+*   [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code (⭐4.7k)](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
 
 ### Identity Management - Single Sign-On (SSO)
 
@@ -436,7 +437,7 @@ An [email client](https://en.wikipedia.org/wiki/Email_client), email reader or, 
 
 Software that does not fit in another section.
 
-*   [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code (⭐9.3k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+*   [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code (⭐9.4k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 *   [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0` `Perl/Shell/Other`
 *   [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
 *   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code (⭐940)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
@@ -461,7 +462,7 @@ Monitoring software.
 *   [EdMon (⭐5)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 *   [eZ Server Monitor](https://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code (⭐336)](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
 *   [glances](https://nicolargo.github.io/glances/) - Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. ([Source Code (⭐23k)](https://github.com/nicolargo/glances))) `GPL-3.0` `Python`
-*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6.5k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6.6k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code (⭐1.9k)](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
 *   [LibreNMS](https://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support. ([Source Code (⭐3.3k)](https://github.com/librenms/librenms)) `GPL-3.0` `PHP`
 *   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
@@ -491,7 +492,7 @@ Monitoring software.
 
 [Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available.
 
-**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐147k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐149k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 ### Metrics & Metric Collection
 
@@ -541,7 +542,7 @@ A [package manager](https://en.wikipedia.org/wiki/Package_manager) or package-ma
 
 Web-based project management and bug tracking systems.
 
-**Please visit [awesome-selfhosted/Project Management (⭐147k)](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
+**Please visit [awesome-selfhosted/Project Management (⭐149k)](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
 
 ### Queuing
 
@@ -563,7 +564,7 @@ Web-based project management and bug tracking systems.
 
 [Remote Desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) client software.
 
-*See also: [awesome-selfhosted/Remote Access (⭐147k)](https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access)*
+*See also: [awesome-selfhosted/Remote Access (⭐149k)](https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access)*
 
 *   [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina)) `GPL-2.0` `C`
 *   [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code (⭐4.3k)](https://github.com/TigerVNC/tigervnc)) `GPL-2.0` `C++`
@@ -637,7 +638,7 @@ Software versioning and revision control.
 
 Virtualization software.
 
-*   [Ganeti](https://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen. ([Source Code (⭐428)](https://github.com/ganeti/ganeti)) `BSD-2-Clause` `Python/Haskell`
+*   [Ganeti](https://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen. ([Source Code (⭐429)](https://github.com/ganeti/ganeti)) `BSD-2-Clause` `Python/Haskell`
 *   [KVM](https://www.linux-kvm.org) - Linux kernel virtualization infrastructure. ([Source Code](https://git.kernel.org/pub/scm/virt/kvm/kvm.git/)) `GPL-2.0/LGPL-2.0` `C`
 *   [OpenNebula](https://opennebula.org/) - Build and manage enterprise clouds for virtualized services, containerized applications and serverless computing. ([Source Code (⭐1k)](https://github.com/OpenNebula/one)) `Apache-2.0` `C++`
 *   [oVirt](https://www.ovirt.org/) - Manages virtual machines, storage and virtual networks. ([Source Code](https://github.com/oVirt)) `Apache-2.0` `Java`
@@ -655,16 +656,16 @@ Virtualization software.
 
 VPN software.
 
-*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐798)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
-*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐4.8k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
+*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐819)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
+*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐5.3k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
 *   [Headscale (⭐15k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
-*   [Nebula (⭐12k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
+*   [Nebula (⭐13k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
 *   [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
-*   [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code (⭐9k)](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
+*   [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code (⭐9.1k)](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
 *   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6.4k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 *   [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features. ([Source Code (⭐10k)](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
 *   [sshuttle (⭐10k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
-*   [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code (⭐1.8k)](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
+*   [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code (⭐1.9k)](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
 *   [tinc](https://www.tinc-vpn.org/) - Distributed p2p VPN. ([Source Code](https://www.tinc-vpn.org/git/tinc)) `GPL-2.0` `C`
 *   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. ([Source Code](https://www.wireguard.com/repositories/)) `GPL-2.0` `C`
 
@@ -681,7 +682,7 @@ VPN software.
 *   [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `GPL-2.0` `C`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`
 *   [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip)) `BSD-2-Clause` `C`
-*   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐44k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
+*   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐45k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
 *   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐3.3k)](https://github.com/varnishcache/varnish-cache)) `BSD-2-Clause` `C`
 
 ***

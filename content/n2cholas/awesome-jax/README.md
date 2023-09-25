@@ -6,6 +6,12 @@ JAX - A curated list of resources https://github.com/google/jax
 
 [ Daily / [Weekly](/content/n2cholas/awesome-jax/week/README.md) / [Overview](/content/n2cholas/awesome-jax/readme/README.md) ]
 
+## [Sep 25, 2023](/content/2023/09/25/README.md)
+
+### Libraries
+
+*   [BlackJAX (⭐561)](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
+
 ## [Sep 24, 2023](/content/2023/09/24/README.md)
 
 ### Libraries / New Libraries
