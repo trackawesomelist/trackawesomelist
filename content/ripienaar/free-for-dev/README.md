@@ -10,6 +10,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### PaaS
 
+*   [deco.cx](https://www.deco.cx/en/dev) - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation and realtime analytics. Perfect for content-heavy and Enterprise ecommerce websites. Free up to 5k pageviews/month or open-source/personal projects.
 *   [Platformatic Cloud](https://platformatic.dev/) - Platformatic offers many open-source packages to wrap your Fastify application and deploy it in the Platformatic Cloud. Built in CD with a GitHub Action. [Free plan](https://platformatic.dev/pricing/) for hobbyists with a simple [GitHub login](https://platformatic.cloud/).
 
 ## [Sep 24, 2023](/content/2023/09/24/README.md)

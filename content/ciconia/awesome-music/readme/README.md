@@ -34,7 +34,7 @@ Thanks to all [contributors (⭐1.5k)](https://github.com/ciconia/awesome-music/
 *   [Audacity (⭐10k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 *   [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 *   [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
-*   [Stargate DAW (⭐475)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐485)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 *   [TuneFlow](https://tuneflow.com/) - a next-gen DAW that helps you generate melody, beats, or a whole song, while still being able to edit them.
 
 ## Audio Libraries
@@ -54,7 +54,7 @@ Thanks to all [contributors (⭐1.5k)](https://github.com/ciconia/awesome-music/
 ## Audio Tools
 
 *   [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
-*   [Cecilia (⭐176)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
+*   [Cecilia (⭐176)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 *   [cyanrip (⭐147)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 *   [fre:ac (⭐1.1k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 *   [Jack (⭐11)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
@@ -118,7 +118,6 @@ Thanks to all [contributors (⭐1.5k)](https://github.com/ciconia/awesome-music/
 *   [Ripple (⭐26)](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 *   [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 *   [Tbon (⭐13)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
-*   [Tunefl (⭐22)](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 *   [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
 *   [Verovio (⭐567)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.6k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
@@ -174,12 +173,13 @@ Thanks to all [contributors (⭐1.5k)](https://github.com/ciconia/awesome-music/
 
 ## Related lists
 
+*   [Awesome Audio DSP (⭐613)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 *   [Awesome Audio Visualization (⭐4.3k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 *   [Awesome Music Listening (⭐104)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
 *   [Awesome Music Production (⭐803)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 *   [Awesome Python for Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
 *   [Awesome sheet music (⭐635)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
-*   [Awesome WebAudio (⭐979)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome WebAudio (⭐985)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 

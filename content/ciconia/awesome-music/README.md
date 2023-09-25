@@ -6,6 +6,12 @@ Awesome Music Projects
 
 [ Daily / [Weekly](/content/ciconia/awesome-music/week/README.md) / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
+## [Sep 25, 2023](/content/2023/09/25/README.md)
+
+### Related lists
+
+*   [Awesome Audio DSP (⭐613)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
+
 ## [Sep 14, 2023](/content/2023/09/14/README.md)
 
 ### Music Programming
@@ -33,7 +39,7 @@ Awesome Music Projects
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐475)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐485)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [Mar 24, 2023](/content/2023/03/24/README.md)
 
@@ -119,7 +125,7 @@ Awesome Music Projects
 
 ### Audio Tools
 
-*   [Cecilia (⭐176)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
+*   [Cecilia (⭐176)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 
 ## [Feb 15, 2020](/content/2020/02/15/README.md)
 
@@ -209,7 +215,7 @@ Awesome Music Projects
 
 *   [Awesome Audio Visualization (⭐4.3k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 *   [Awesome Python for Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐979)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome WebAudio (⭐985)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ## [Jan 18, 2018](/content/2018/01/18/README.md)
 
@@ -384,12 +390,6 @@ Awesome Music Projects
 *   [MEI (Music Encoding Initiative)](http://music-encoding.org/) - an open-source effort to define a system for encoding musical documents in a machine-readable structure.
 *   [MusicXML](http://www.musicxml.com/) - the standard open format for exchanging digital sheet music.
 *   [SMuFL (Standard Music Font Layout)](http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
-
-## [Jan 23, 2016](/content/2016/01/23/README.md)
-
-### Music Notation
-
-*   [Tunefl (⭐22)](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 
 ## [Jan 04, 2016](/content/2016/01/04/README.md)
 
