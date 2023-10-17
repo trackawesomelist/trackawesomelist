@@ -2,9 +2,15 @@
 
 🔬 A repository of resources related to citizen, community-based and/or non-institutional science
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 158 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 202 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/dylanrees/citizen-science/week/README.md) / [Overview](/content/dylanrees/citizen-science/readme/README.md) ]
+
+## [Oct 10, 2023](/content/2023/10/10/README.md)
+
+### Tools and Equipment / 3D Printing and Fabrication
+
+*   [Printables](https://www.printables.com/) - Database of 3D-printable models with contests and an active community
 
 ## [Jul 07, 2022](/content/2022/07/07/README.md)
 
@@ -56,7 +62,7 @@
 
 ### Software / Publishing , Collaboration and Organization
 
-*   [RapidPro (⭐778)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+*   [RapidPro (⭐831)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
 
 ### Literature / Citizen Science Practice
 
@@ -173,7 +179,7 @@
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE (⭐211)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐213)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
@@ -201,7 +207,7 @@
 
 ### Literature / Citizen Science Theory
 
-*   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/\~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
+*   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
 
 ## [Oct 31, 2016](/content/2016/10/31/README.md)
 
@@ -335,7 +341,7 @@
 
 ### How do I contribute to this list? / Other Types of Support
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐155)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐202)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## [Aug 25, 2016](/content/2016/08/25/README.md)

@@ -2,7 +2,7 @@
 
 🔬 A repository of resources related to citizen, community-based and/or non-institutional science
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 158 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 202 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dylanrees/citizen-science/README.md) / [Weekly](/content/dylanrees/citizen-science/week/README.md) / Overview ]
 
@@ -10,7 +10,7 @@
 
 # Digital Tools for Citizen Science
 
-Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository (⭐889)](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
+Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository (⭐924)](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -55,13 +55,13 @@ Below is a curated list of awesome software and other resources to enable those 
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE (⭐211)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐213)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
 *   [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
 *   [PECE](http://www.worldpece.org/) - The Platform for Experimental and Collaborative Ethnography.  This project provides an online platform for academic collaboration that helps keep track of complex attribution of credit.  It is geared toward anthropologists but is expanding to become more broad.
-*   [RapidPro (⭐778)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+*   [RapidPro (⭐831)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
 *   [eu-citizen.science](https://eu-citizen.science/) - links to 200 projects
 *   [Zooniverse](https://github.com/zooniverse) - website for zoo & universe projects
 
@@ -106,6 +106,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ### 3D Printing and Fabrication
 
+*   [Printables](https://www.printables.com/) - Database of 3D-printable models with contests and an active community
 *   [Thingiverse](https://www.thingiverse.com/) - A search engine for 3D-printable models.
 *   [Ember](https://ember.autodesk.com/) - A comprehensively open-source DLP SLA 3D Printer project, powered by Autodesk.
 *   [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - A list of different 3d-printable science objects with models.
@@ -149,7 +150,7 @@ Below is a curated list of awesome software and other resources to enable those 
 *   [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research)
 *   [Citizen Science as an Ecological Research Tool: Challenges and Benefits](http://www.jstor.org/stable/pdf/27896218.pdf)
 *   [Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition ](http://online.liebertpub.com/doi/10.1089/ees.2016.0223)
-*   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/\~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
+*   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
 *   [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
 *   [From the March for Science to an Abolitionist Science](https://www.fromthesquare.org/march-science-abolitionist-science/#.WPpQv2nyuUl) - An article that offers several historical and current critiques of science that propose alternative ways of doing scientific work.
 *   [Whole Earth Catalog](http://www.wholeearth.com/index.php) - A site that contains the remnants of a famous late 1960s and early 1970s maker/ecology magazine.
@@ -246,7 +247,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐155)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐202)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## License

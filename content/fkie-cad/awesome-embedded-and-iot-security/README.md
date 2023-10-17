@@ -2,9 +2,15 @@
 
 A curated list of awesome embedded and IoT security resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fkie-cad/awesome-embedded-and-iot-security/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) · ⭐ 1.2K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fkie-cad/awesome-embedded-and-iot-security/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) · ⭐ 1.4K · 🏷️ Security
 
 [ Daily / [Weekly](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md) / [Overview](/content/fkie-cad/awesome-embedded-and-iot-security/readme/README.md) ]
+
+## [Oct 17, 2023](/content/2023/10/17/README.md)
+
+### Software Tools / Analysis Tools
+
+*   [cwe\_checker (⭐957)](https://github.com/fkie-cad/cwe_checker) - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -17,13 +23,13 @@ A curated list of awesome embedded and IoT security resources.
 
 ### Software Tools / Analysis Tools
 
-*   [emba (⭐1.9k)](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
+*   [emba (⭐2.1k)](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
 
 ## [Oct 06, 2020](/content/2020/10/06/README.md)
 
 ### Software Tools / Analysis Tools
 
-*   [Binwalk (⭐9.3k)](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+*   [Binwalk (⭐9.7k)](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
 
 ### Conferences / YouTube Channels
 
@@ -59,19 +65,19 @@ A curated list of awesome embedded and IoT security resources.
 
 ### Software Tools / Analysis Frameworks
 
-*   [HomePWN (⭐764)](https://github.com/ElevenPaths/HomePWN) - Swiss Army Knife for Pentesting of IoT Devices.
+*   [HomePWN (⭐787)](https://github.com/ElevenPaths/HomePWN) - Swiss Army Knife for Pentesting of IoT Devices.
 
 ### Software Tools / Misc Tools
 
-*   [Cotopaxi (⭐331)](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
-*   [dumpflash (⭐261)](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility.
-*   [flashrom (⭐679)](https://github.com/flashrom/flashrom) - Tool for detecting, reading, writing, verifying and erasing flash chips.
-*   [Samsung Firmware Magic (⭐178)](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates.
+*   [Cotopaxi (⭐334)](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
+*   [dumpflash (⭐264)](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility.
+*   [flashrom (⭐731)](https://github.com/flashrom/flashrom) - Tool for detecting, reading, writing, verifying and erasing flash chips.
+*   [Samsung Firmware Magic (⭐191)](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates.
 
 ### Hardware Tools / Misc Tools
 
 *   [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) - Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
-*   [Glasgow (⭐1.6k)](https://github.com/GlasgowEmbedded/Glasgow) - Tool for exploring and debugging different digital interfaces.
+*   [Glasgow (⭐1.8k)](https://github.com/GlasgowEmbedded/Glasgow) - Tool for exploring and debugging different digital interfaces.
 
 ### Books / RFID NFC Tools
 
@@ -136,7 +142,7 @@ A curated list of awesome embedded and IoT security resources.
 ### Books / RFID NFC Tools
 
 *   2020, Jasper van Woudenberg, Colin O'Flynn: [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://nostarch.com/hardwarehacking)
-*   2018, Mark Carney: [Pentesting Hardware - A Practical Handbook (DRAFT) (⭐483)](https://github.com/unprovable/PentestHardware)
+*   2018, Mark Carney: [Pentesting Hardware - A Practical Handbook (DRAFT) (⭐486)](https://github.com/unprovable/PentestHardware)
 
 ### Websites / Blogs
 
@@ -185,15 +191,15 @@ A curated list of awesome embedded and IoT security resources.
 
 ### Software Tools / Analysis Frameworks
 
-*   [HAL – The Hardware Analyzer (⭐455)](https://github.com/emsec/hal) - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
+*   [HAL – The Hardware Analyzer (⭐480)](https://github.com/emsec/hal) - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
 *   [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz) - Framework for automatisation of IoT layers security analysis: hardware, software and communication.
-*   [Killerbee (⭐681)](https://github.com/riverloopsec/killerbee) - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
-*   [PRET (⭐3.5k)](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit.
+*   [Killerbee (⭐707)](https://github.com/riverloopsec/killerbee) - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
+*   [PRET (⭐3.6k)](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit.
 *   [Routersploit (⭐11k)](https://github.com/threat9/routersploit) - Framework dedicated to exploit embedded devices.
 
 ### Software Tools / Analysis Tools
 
-*   [Firmwalker (⭐890)](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
+*   [Firmwalker (⭐942)](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
 
 ### Books / RFID NFC Tools
 
@@ -211,10 +217,10 @@ A curated list of awesome embedded and IoT security resources.
 
 ### Free Training / RFID NFC Tools
 
-*   [CSAW Embedded Security Challenge 2019 (⭐31)](https://github.com/TrustworthyComputing/csaw_esc_2019) - CSAW 2019 Embedded Security Challenge (ESC).
+*   [CSAW Embedded Security Challenge 2019 (⭐33)](https://github.com/TrustworthyComputing/csaw_esc_2019) - CSAW 2019 Embedded Security Challenge (ESC).
 *   [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
-*   [Rhme-2016 (⭐272)](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
-*   [Rhme-2017/2018 (⭐80)](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
+*   [Rhme-2016 (⭐286)](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
+*   [Rhme-2017/2018 (⭐84)](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
 
 ### Websites / RFID NFC Tools
 
@@ -273,12 +279,12 @@ A curated list of awesome embedded and IoT security resources.
 
 ### Software Tools / Analysis Frameworks
 
-*   [FwAnalyzer (⭐466)](https://github.com/cruise-automation/fwanalyzer) - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.
+*   [FwAnalyzer (⭐474)](https://github.com/cruise-automation/fwanalyzer) - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.
 
 ### Software Tools / Analysis Tools
 
-*   [Firmware Slap (⭐454)](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
-*   [Radare2 (⭐18k)](https://github.com/radare/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+*   [Firmware Slap (⭐462)](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
+*   [Radare2 (⭐19k)](https://github.com/radare/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
 
 ## [Aug 15, 2019](/content/2019/08/15/README.md)
 
@@ -294,7 +300,7 @@ A curated list of awesome embedded and IoT security resources.
 
 ### Software Tools / Support Tools
 
-*   [JTAGenum (⭐591)](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
+*   [JTAGenum (⭐625)](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
 *   [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing.
 
 ### Hardware Tools / Misc Tools
@@ -305,9 +311,9 @@ A curated list of awesome embedded and IoT security resources.
 
 ### Free Training / RFID NFC Tools
 
-*   [Hardware Hacking 101 (⭐36)](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
-*   [IoTGoat (⭐173)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
-*   [Rhme-2015 (⭐103)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
+*   [Hardware Hacking 101 (⭐37)](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
+*   [IoTGoat (⭐177)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
+*   [Rhme-2015 (⭐105)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 
 ## [Jul 31, 2019](/content/2019/07/31/README.md)
 
@@ -353,13 +359,13 @@ A curated list of awesome embedded and IoT security resources.
 
 ### Software Tools / Analysis Tools
 
-*   [Firmadyne (⭐1.6k)](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
-*   [Trommel (⭐196)](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
+*   [Firmadyne (⭐1.7k)](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
+*   [Trommel (⭐198)](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
 ### Software Tools / Extraction Tools
 
-*   [FACT Extractor (⭐62)](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
-*   [Firmware Mod Kit (⭐686)](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
+*   [FACT Extractor (⭐68)](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
+*   [Firmware Mod Kit (⭐726)](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
 
 ### Hardware Tools / Misc Tools
 

@@ -2,9 +2,15 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 570 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 580 · 🏷️ Business
 
 [ Daily / [Weekly](/content/wardley-maps-community/awesome-wardley-maps/week/README.md) / [Overview](/content/wardley-maps-community/awesome-wardley-maps/readme/README.md) ]
+
+## [Oct 17, 2023](/content/2023/10/17/README.md)
+
+### Tools & Scripts / AI
+
+*   [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 
 ## [Aug 05, 2023](/content/2023/08/05/README.md)
 
@@ -159,12 +165,6 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 *   [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA) - A basic introduction to change in the IT industry using the concept of Wardley maps by Simon Wardley (9:56).
 
-## [Jun 10, 2021](/content/2021/06/10/README.md)
-
-### Apps / Commercial Enterprise Platforms
-
-*   [Wemvula](https://wemvu.la/docs/pg.why.us.php) - A visual transformation platform that provides the situational awareness to make sense of your interconnected web of needs, ideas, service components, supply contracts and change activities.
-
 ## [Jun 07, 2021](/content/2021/06/07/README.md)
 
 ### Apps / Mapping
@@ -211,7 +211,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Apps / Mapping
 
-*   [OnlineWardleyMaps (⭐191)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐197)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [Dec 03, 2020](/content/2020/12/03/README.md)
 
@@ -223,7 +223,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Apps / Mapping
 
-*   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐17)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
+*   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐19)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 
 ## [Nov 09, 2020](/content/2020/11/09/README.md)
 
@@ -312,7 +312,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 ### Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads (⭐276)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐278)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
@@ -514,7 +514,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Workshops / Doctrine Assessement
 
-*   [Wardley Maps Battle Camp (⭐40)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Wardley Maps Battle Camp (⭐42)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
 ## [Jan 18, 2020](/content/2020/01/18/README.md)
 
@@ -561,7 +561,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Apps / Doctrine Assessement
 
-*   [Doctrine (⭐49)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐50)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ## [Jan 11, 2020](/content/2020/01/11/README.md)
 

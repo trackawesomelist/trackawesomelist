@@ -2,7 +2,7 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.3K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / [Weekly](/content/markodenic/web-development-resources/week/README.md) / Overview ]
 
@@ -49,6 +49,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 *   [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 *   [Newsletters](#newsletters)
 *   [CSS Generators](#css-generators)
+*   [CSS Games 🎮](#css-games)
 *   [Online Tools](#online-tools)
 *   [UI Components](#ui-components)
 *   [Vue UI libraries](#vue-ui-libraries)
@@ -75,6 +76,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://pages.cloudflare.com/>                  | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
 | <https://supabase.com>                           | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                           |
 | <https://railway.app/>                           | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                     |
+| <https://fly.io/>                                | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                           |
 
 [⬆ back to top](#table-of-contents)
 
@@ -151,6 +153,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://www.jschallenger.com>       |
 | <https://www.codingninjas.com>       |
 | <https://lab.reaal.me/jsrobot/>      |
+| <https://divize.io/challenges>       |
 
 [⬆ back to top](#table-of-contents)
 
@@ -197,8 +200,13 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://www.remotehub.com>           |
 | <https://startup.jobs/remote-jobs>    |
 | <https://remotescout.ch>              |
+| <https://jobstache.com>               |
+| <https://jobsinjs.com>                |
 | <https://devemploy.com>               |
+| <https://echojobs.io>                 |
+| <https://AiJobsTracker.com/remote>    |
 | <https://www.remote.io>               |
+| <https://web3.career/remote-jobs>     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -265,6 +273,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                     |
 | ------------------------------------------- |
+| <https://free-icons.github.io/free-icons>   |
 | <https://fontawesome.com>                   |
 | <https://flaticon.com>                      |
 | <https://icons8.com>                        |
@@ -292,6 +301,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://www.iconspedia.com>                |
 | <https://favicons.beaubus.com/>             |
 | <https://www.3dicons.com/>                  |
+| <https://flowbite.com/icons/>               |
 
 [⬆ back to top](#table-of-contents)
 
@@ -345,7 +355,10 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
 | [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)             |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
+| [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
+| [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
+| [Corey Schafer](https://www.youtube.com/@coreyms)                             |
 
 [⬆ back to top](#table-of-contents)
 
@@ -462,6 +475,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
 | [Framer motion](https://www.framer.com/motion)                 |
 | [SwiperJS](https://swiperjs.com)                               |
+| [Motion One](https://motion.dev)                               |
 
 [⬆ back to top](#table-of-contents)
 
@@ -495,8 +509,9 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                        |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                   |
 | [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                 |
-| [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                           |
+| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                     |
 | [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
+| [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                    |
 
 [⬆ back to top](#table-of-contents)
 
@@ -510,6 +525,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Yslow](https://yslow.org/)                             |
 | [web.dev](https://web.dev/measure/)                     |
 | [Optimizilla](https://imagecompressor.com/)             |
+| [SEOTester](https://seotest.me/)                        |
 
 [⬆ back to top](#table-of-contents)
 
@@ -565,6 +581,23 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.                                                                               |
 | [Neumorphism](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
 | [Scrollbar.app](https://scrollbar.app/)                                               | A simple online tool for creating custom scrollbars for the web.                                                                                                                      |
+| [Code Magic](https://code-magic.vercel.app/)                                          | A free tool to make CSS easier by generating Tailwind and CSS code for effects, gradients and inputs                                                                                  |
+
+[⬆ back to top](#table-of-contents)
+
+## CSS Games:
+
+| Website                                                               | Description                                                                                                                                        |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flexbox froggy](https://flexboxfroggy.com/)                          | Flexbox Froggy is an interactive game that helps users learn and practice the **CSS Flexbox layout**.                                              |
+| [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/) | Set of challenges where we must use **Flexbox properties** to position and align elements on the screen to complete a medieval-themed game layout. |
+| [Grid garden](https://cssgridgarden.com/)                             | A Grid Garden is an interactive game that helps users learn and practice the **CSS Grid layout**.                                                  |
+| [Grid attack](https://codingfantasy.com/games/css-grid-attack/play)   | Learn and practice the **CSS Grid layout**                                                                                                         |
+| [CSS Diner](https://flukeout.github.io/)                              | Fun and interactive way to learn how to select elements on a web page using CSS.                                                                   |
+| [Guess CSS](https://www.guess-css.app/)                               | Another Fun and interactive way to learn CSS.                                                                                                      |
+| [CSS Speedrun](https://css-speedrun.netlify.app/)                     | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                          |
+
+[⬆ back to top](#table-of-contents)
 
 ## Online Tools:
 
@@ -597,11 +630,12 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Vue UI libraries:
 
-| Website                                                   | Description                                                                                                                                                                                                                                                                                         |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Vuetify](https://vuetifyjs.com/)                         | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features. |
-| [Vue Material](https://www.creative-tim.com/vuematerial/) | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                |
-| [BootstrapVue](https://bootstrap-vue.org/)                | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                         |
+| Website                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Vuetify](https://vuetifyjs.com/)                         | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features.                                                                                                                                                                                                                                                            |
+| [Vue Material](https://www.creative-tim.com/vuematerial/) | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| [BootstrapVue](https://bootstrap-vue.org/)                | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| [Quasar framework](https://quasar.dev/)                   | Quasar is an MIT licensed open-source Vue.js based framework. It enables web developers to create responsive++ websites/apps in various formats: SPAs, SSR (+ optional PWA client takeover), PWAs, BEX, Mobile Apps (Android, iOS, etc.), and Multi-platform Desktop Apps (using Electron). Quasar's motto is "write code once, deploy it as a website, Mobile App, and/or Electron App." It provides a state-of-the-art CLI and efficient Quasar web components, eliminating the need for additional heavy libraries like Hammer.js, Moment.js, or Bootstrap. |
 
 [⬆ back to top](#table-of-contents)
 

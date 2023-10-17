@@ -183,6 +183,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 *   [ascii2d](http://www.ascii2d.net/) - 2D art search. \[日本語]
 *   [Gochiusearch (⭐394)](https://github.com/ksasao/Gochiusearch) - Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'. \[日本語]
 *   Image Search Options ([Chrome Extension](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl) / [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)) - Search multiple image reverse search engines. \[English]
+*   [imsearch (⭐443)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
 *   [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/). \[English]
 *   [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html). \[English]
 *   [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - Better front-end for SauceNAO. \[English]
@@ -196,7 +197,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 *   [KonaBot (⭐29)](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net). \[English]
 *   [LNReader-Android (⭐116)](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android. \[English]
 *   [NineAnimator (⭐708)](https://github.com/SuperMarcus/NineAnimator) - Elegant, concise, and intuitive anime discovery app for iOS. \[English]
-*   [Tachiyomi (⭐24k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android. \[English]
+*   [Tachiyomi (⭐25k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android. \[English]
 
 ## Programming
 

@@ -2,9 +2,163 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.3K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [Oct 13, 2023](/content/2023/10/13/README.md)
+
+### Chrome Extensions:
+
+- Website: [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
+
+- Website: [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
+
+
+## [Oct 10, 2023](/content/2023/10/10/README.md)
+
+### Website Optimization Tools:
+
+- Website: [SEOTester](https://seotest.me/)
+
+
+
+## [Oct 07, 2023](/content/2023/10/07/README.md)
+
+### Coding Challenge Platforms:
+
+- Website: <https://divize.io/challenges>
+
+
+
+### Animation Libraries:
+
+- Website: [Motion One](https://motion.dev)
+
+
+
+## [Oct 04, 2023](/content/2023/10/04/README.md)
+
+### Remote Jobs:
+
+- Website: <https://web3.career/remote-jobs>
+
+
+
+## [Oct 02, 2023](/content/2023/10/02/README.md)
+
+### Remote Jobs:
+
+- Website: <https://echojobs.io>
+
+
+- Website: <https://AiJobsTracker.com/remote>
+
+
+
+### Icons:
+
+- Website: <https://free-icons.github.io/free-icons>
+
+
+
+### Youtube Channels:
+
+- Website: [Corey Schafer](https://www.youtube.com/@coreyms)
+
+
+
+### CSS Generators:
+
+- Website: [Code Magic](https://code-magic.vercel.app/)
+
+  Description: A free tool to make CSS easier by generating Tailwind and CSS code for effects, gradients and inputs
+
+
+
+### Vue UI libraries:
+
+- Website: [Quasar framework](https://quasar.dev/)
+
+  Description: Quasar is an MIT licensed open-source Vue.js based framework. It enables web developers to create responsive++ websites/apps in various formats: SPAs, SSR (+ optional PWA client takeover), PWAs, BEX, Mobile Apps (Android, iOS, etc.), and Multi-platform Desktop Apps (using Electron). Quasar's motto is "write code once, deploy it as a website, Mobile App, and/or Electron App." It provides a state-of-the-art CLI and efficient Quasar web components, eliminating the need for additional heavy libraries like Hammer.js, Moment.js, or Bootstrap.
+
+
+
+## [Oct 01, 2023](/content/2023/10/01/README.md)
+
+### Hosting:
+
+- Website: <https://fly.io/>
+
+  Description: **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.
+
+
+
+### Remote Jobs:
+
+- Website: <https://jobstache.com>
+
+
+- Website: <https://jobsinjs.com>
+
+
+
+### Icons:
+
+- Website: <https://flowbite.com/icons/>
+
+
+
+### Youtube Channels:
+
+- Website: [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)
+
+
+- Website: [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
+
+
+
+## [Sep 26, 2023](/content/2023/09/26/README.md)
+
+### CSS Games:
+
+- Website: [Flexbox froggy](https://flexboxfroggy.com/)
+
+  Description: Flexbox Froggy is an interactive game that helps users learn and practice the **CSS Flexbox layout**.
+
+
+- Website: [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)
+
+  Description: Set of challenges where we must use **Flexbox properties** to position and align elements on the screen to complete a medieval-themed game layout.
+
+
+- Website: [Grid garden](https://cssgridgarden.com/)
+
+  Description: A Grid Garden is an interactive game that helps users learn and practice the **CSS Grid layout**.
+
+
+- Website: [Grid attack](https://codingfantasy.com/games/css-grid-attack/play)
+
+  Description: Learn and practice the **CSS Grid layout**
+
+
+- Website: [CSS Diner](https://flukeout.github.io/)
+
+  Description: Fun and interactive way to learn how to select elements on a web page using CSS.
+
+
+- Website: [Guess CSS](https://www.guess-css.app/)
+
+  Description: Another Fun and interactive way to learn CSS.
+
+
+- Website: [CSS Speedrun](https://css-speedrun.netlify.app/)
+
+  Description: A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).
+
+
 
 ## [Sep 20, 2023](/content/2023/09/20/README.md)
 
@@ -463,9 +617,6 @@ Awesome Web Development Resources.
 ### Chrome Extensions:
 
 - Website: [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)
-
-
-- Website: [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 
 

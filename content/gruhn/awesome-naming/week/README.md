@@ -6,11 +6,21 @@ A curated list for when naming things is done right.
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
+
+### User Interface Design
+
+*   [Bento layout](https://www.saasframe.io/blog/the-bento-layout-trend) - A grid based layout resembling the compartmentation of bento boxes.
+
+### Other
+
+*   [Choreographic programming](https://en.wikipedia.org/wiki/Choreographic_programming) - A programming paradigm where programs are compositions of interactions among multiple concurrent participants.
+
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### Libraries and Frameworks
 
-*   [horcrux (⭐4.1k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐4.2k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 

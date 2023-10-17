@@ -17,7 +17,7 @@ A curated list of add-ons that extend/enhance the git CLI.
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐270k)](https://github.com/sindresorhus/awesome) list thing.
 
 **Note**: Some of the commands may not work out of the box. You might need to run a post install script to add aliases or add them manually.
 
@@ -747,7 +747,7 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
     $ git imerge reparent
     67ebc0e6517ac791de6699453b71d2c7fd81ffcd
 
-## [git-issue (⭐709)](https://github.com/dspinellis/git-issue)
+## [git-issue (⭐719)](https://github.com/dspinellis/git-issue)
 
 ### Initialize issue repository
 
@@ -960,7 +960,7 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
            "repository": "gulpjs/gulp",
            "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
 
-## [git-plus (⭐180)](https://github.com/tkrajina/git-plus)
+## [git-plus (⭐181)](https://github.com/tkrajina/git-plus)
 
 ### multi
 
@@ -1056,14 +1056,14 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
     $ git unpublish master
     Unpublishing master.
 
-## [git-when-merged (⭐408)](https://github.com/mhagger/git-when-merged)
+## [git-when-merged (⭐411)](https://github.com/mhagger/git-when-merged)
 
     $ git when-merged a2c9e695ecf3600f21fa731e705fd1a0503632d9
     refs/heads/master                      5a2ec1b1a6633f830bd4a2b1daab578c062e6975
     $ git when-merged HEAD
     refs/heads/master                      Commit is directly on this branch.
 
-## [git-playback (⭐126)](https://github.com/jianli/git-playback)
+## [git-playback (⭐127)](https://github.com/jianli/git-playback)
 
     $ git playback README.md
 
@@ -1121,7 +1121,7 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
     • sass-lint ............................................. 2015-10-14
         - module does not work
 
-## [recursive-blame (⭐66)](https://github.com/scottgonzalez/recursive-blame)
+## [recursive-blame (⭐67)](https://github.com/scottgonzalez/recursive-blame)
 
     $ git recursive-blame version package.json
 
@@ -1181,7 +1181,7 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
 
 ![git word-blame on this README](https://user-images.githubusercontent.com/1469823/57202569-0247eb00-6fa7-11e9-8549-f55d81299fab.png)
 
-## [git-fire (⭐4.2k)](https://github.com/qw3rtman/git-fire)
+## [git-fire (⭐4.3k)](https://github.com/qw3rtman/git-fire)
 
     $ git fire
     Switched to a new branch 'fire-master-maochenyan@gmail.com-1451379915'
@@ -1197,9 +1197,81 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
 
     Leave building!
 
-## [git-town (⭐2.2k)](https://github.com/Originate/git-town)
+## [Git Town (⭐2.2k)](https://github.com/git-town/git-town)
 
-TBD - PR Welcome!
+### git hack
+
+    $ git hack my-branch
+    [main] git fetch --prune --tags
+
+    [main] git rebase origin/main
+
+    [main] git branch my-branch main
+
+    [main] git checkout my-branch
+
+### git sync
+
+    $ git sync
+    [my-branch] git fetch --prune --tags
+
+    [my-branch] git checkout main
+
+    [main] git rebase origin/main
+
+    [main] git checkout my-branch
+
+    [my-branch] git merge --no-edit main
+
+    [my-branch] git push -u origin my-branch
+     * [new branch]      my-branch -> my-branch
+    Branch 'my-branch' set up to track remote branch 'my-branch' from 'origin'.
+
+### git new-pull-request
+
+    $ git new-pull-request
+    [my-branch] git fetch --prune --tags
+
+    [my-branch] git checkout main
+
+    [main] git rebase origin/main
+
+    [main] git checkout my-branch
+
+    [my-branch] git merge --no-edit origin/my-branch
+
+    [my-branch] git merge --no-edit main
+
+    open <url to create pull request for current branch>
+
+### git ship
+
+    [my-branch] git fetch --prune --tags
+
+    [my-branch] git checkout main
+
+    [main] git rebase origin/main
+
+    [main] git checkout my-branch
+
+    [my-branch] git merge --no-edit origin/my-branch
+
+    [my-branch] git merge --no-edit main
+
+    [my-branch] git checkout main
+
+    [main] git merge --squash my-branch
+
+    [main] git commit
+     1 file changed, 2 insertions(+)
+
+    [main] git push
+
+    [main] git push origin :my-branch
+     - [deleted]         my-branch
+
+    [main] git branch -D my-branch
+    Deleted branch my-branch (was 55cb0f7).
 
 ## [git-blame-someone-else (⭐10k)](https://github.com/jayphelps/git-blame-someone-else)
 
@@ -1216,7 +1288,7 @@ TBD - PR Welcome!
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret (⭐3.3k)](https://github.com/sobolevn/git-secret)
+## [git-secret (⭐3.5k)](https://github.com/sobolevn/git-secret)
 
 ### git secret init
 
@@ -1256,13 +1328,13 @@ TBD - PR Welcome!
     File `hideme.txt' exists. Overwrite? (y/N) y
     done. all 1 files are revealed.
 
-## [git-secrets (⭐11k)](https://github.com/awslabs/git-secrets)
+## [git-secrets (⭐12k)](https://github.com/awslabs/git-secrets)
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
 TBD - PR Welcome!
 
-## [git-fixup (⭐220)](https://github.com/keis/git-fixup)
+## [git-fixup (⭐224)](https://github.com/keis/git-fixup)
 
     $ git diff --cached -U0
     diff --git a/README.md b/README.md
@@ -1276,7 +1348,7 @@ TBD - PR Welcome!
     24aa3d9c10cc02fe813dc83d1ac792cc2e7d705d [F] add screenshot of git-stats <maochenyan@gmail.com>
     6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
 
-## [git-recent (⭐915)](https://github.com/paulirish/git-recent)
+## [git-recent (⭐920)](https://github.com/paulirish/git-recent)
 
     $ git recent
 
@@ -1288,7 +1360,7 @@ TBD - PR Welcome!
 
 ![git-interactive-rebase-tool screenshot](https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/git-interactive-rebase-demo.gif)
 
-## [git-fiddle (⭐204)](https://github.com/felixSchl/git-fiddle)
+## [git-fiddle (⭐203)](https://github.com/felixSchl/git-fiddle)
 
     $ git fiddle -h
     git-fiddle
@@ -1342,11 +1414,11 @@ TBD - PR Welcome!
       home: Edward Hyde <hyde@night.com>
       work: Dr. Henry Jekyll <henry@jekyll.com>
 
-## [gitsome (⭐7.4k)](https://github.com/donnemartin/gitsome)
+## [gitsome (⭐7.5k)](https://github.com/donnemartin/gitsome)
 
 TBD - PR Welcome!
 
-## [git-hound (⭐301)](https://github.com/ezekg/git-hound)
+## [git-hound (⭐303)](https://github.com/ezekg/git-hound)
 
 TBD - PR Welcome!
 
@@ -1500,7 +1572,7 @@ TBD - PR Welcome!
     =======================================================================================================================
     01234567890ABCDEF | VALIDSIG   | ULTIMATE  | Sat Nov 10 13:16:10 EST 2018 | Steve Mao <maochenyan@gmail.com>
 
-## [git-profile (⭐9)](https://github.com/dm3ch/git-profile-manager)
+## [git-profile (⭐10)](https://github.com/dm3ch/git-profile-manager)
 
 ### add a work profile
 
@@ -1528,15 +1600,15 @@ TBD - PR Welcome!
 
 Currently there will be no output in case of success
 
-## [git-revise (⭐678)](https://github.com/mystor/git-revise)
+## [git-revise (⭐682)](https://github.com/mystor/git-revise)
 
 TBD - PR Welcome!
 
-## [filter-repo (⭐6.1k)](https://github.com/newren/git-filter-repo)
+## [filter-repo (⭐6.3k)](https://github.com/newren/git-filter-repo)
 
 TBD - PR Welcome!
 
-## [git-jump (⭐182)](https://github.com/mykolaharmash/git-jump)
+## [git-jump (⭐185)](https://github.com/mykolaharmash/git-jump)
 
 Interactive UI and fuzzy-search for Git branches.
 
@@ -1554,7 +1626,7 @@ Interactive UI and fuzzy-search for Git branches.
 
     $ git project board
 
-     Project: shoppinglist 
+     Project: shoppinglist
     +-----------+------+
     |   OPEN    | DONE |
     +-----------+------+
@@ -1578,7 +1650,7 @@ Interactive UI and fuzzy-search for Git branches.
       3|  ⭐  milk
       4|  ✅  love
 
-## [git-branchcut (⭐6)](https://github.com/dlsrb6342/git-branchcut)
+## [git-branchcut (⭐7)](https://github.com/dlsrb6342/git-branchcut)
 
 ### Delete branches with string pattern
 
@@ -1594,7 +1666,7 @@ Interactive UI and fuzzy-search for Git branches.
     Deleted branch bugfix/test (was e2afad6).
     Deleted branch too-old-branch (was 1d3f82d).
 
-## [git-spend (⭐7)](https://github.com/Goutte/git-spend)
+## [git-spend (⭐9)](https://github.com/Goutte/git-spend)
 
 Collect and sum the `/spend <duration>` directives found in commit messages.
 

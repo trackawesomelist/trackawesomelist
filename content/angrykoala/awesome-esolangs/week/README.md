@@ -6,6 +6,12 @@ Curated list of awesome Esoteric languages and resources
 
 [ [Daily](/content/angrykoala/awesome-esolangs/README.md) / Weekly / [Overview](/content/angrykoala/awesome-esolangs/readme/README.md) ]
 
+## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
+
+### Languages
+
+*   [CellTail (⭐5)](https://github.com/mousetail/celltail) - A 1d celular automata based language, supports a complex pattern matching syntax.
+
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### Languages

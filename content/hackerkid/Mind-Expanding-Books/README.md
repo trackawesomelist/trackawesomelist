@@ -1,10 +1,45 @@
 # Track Mind Expanding Books Updates Daily
 
- :books: Books everyone should read!
+ :books: Find your next book to read!
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 11K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/hackerkid/Mind-Expanding-Books/week/README.md) / [Overview](/content/hackerkid/Mind-Expanding-Books/readme/README.md) ]
+
+## [Oct 11, 2023](/content/2023/10/11/README.md)
+
+### Education
+
+- Name: Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life
+
+  Author: Jim Kwik
+
+  Goodreads Rating: [4.09](https://www.goodreads.com/book/show/49994260-limitless?from_search=true\&from_srp=true\&qid=pbeSkuESjB\&rank=1)
+
+  Year Published: 2020
+
+
+
+### Health / Miscellaneous
+
+- Name: Brain Food: The Surprising Science of Eating for Cognitive Power
+
+  Author: Lisa Mosconi
+
+  Goodreads Rating: [3.92](https://www.goodreads.com/book/show/35457267-brain-food)
+
+  Year Published: 2018
+
+
+- Name: Super Human: The Bulletproof Plan to Age Backward and Maybe Even Live Forever
+
+  Author: Dave Asprey
+
+  Goodreads Rating: [3.86](https://www.goodreads.com/book/show/43801612-super-human?ref=nav_sb_ss_3_11)
+
+  Year Published: 2019
+
+
 
 ## [Sep 03, 2023](/content/2023/09/03/README.md)
 
@@ -56,7 +91,7 @@
 
 - Name: The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living
 
-  Author: Ryan Holding, Stephan Hanselman
+  Author: Ryan Holiday, Stephan Hanselman
 
   Goodreads Rating: [4.34](https://www.goodreads.com/book/show/29093292-the-daily-stoic)
 

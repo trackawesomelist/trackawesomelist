@@ -6,6 +6,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ [Daily](/content/soruly/awesome-acg/README.md) / Weekly / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
+
+### Image Reverse Search
+
+*   [imsearch (⭐443)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
+
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### Uncategorized
@@ -292,7 +298,7 @@ A curated list of awesome technologies related to Anime, Comic and Games
 *   [KonaBot (⭐29)](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net). \[English]
 *   [LNReader-Android (⭐116)](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android. \[English]
 *   [NineAnimator (⭐708)](https://github.com/SuperMarcus/NineAnimator) - Elegant, concise, and intuitive anime discovery app for iOS. \[English]
-*   [Tachiyomi (⭐24k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android. \[English]
+*   [Tachiyomi (⭐25k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android. \[English]
 
 ### Programming
 

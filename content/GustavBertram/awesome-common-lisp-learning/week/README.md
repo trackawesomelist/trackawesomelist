@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp learning resources
 
 [ [Daily](/content/GustavBertram/awesome-common-lisp-learning/README.md) / Weekly / [Overview](/content/GustavBertram/awesome-common-lisp-learning/readme/README.md) ]
 
+## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
+
+### Online Community
+
+*   [Exercism's Common Lisp track](https://exercism.org/tracks/common-lisp) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
+
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### How To Use
@@ -91,7 +97,6 @@ A curated list of awesome Common Lisp learning resources
 *   The [Cliki](http://cliki.net) - The Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
 *   [Lisp Subreddit](http://www.reddit.com/r/lisp/) - An active community, and has loads of useful links and reference documents in the sidebar.
     *   [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp) - The Subreddit for Common Lisp.
-*   [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 
 ### Library Management
 

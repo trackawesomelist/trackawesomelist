@@ -6,6 +6,12 @@ Carefully curated list of awesome Jamstack resources
 
 [ [Daily](/content/automata/awesome-jamstack/README.md) / Weekly / [Overview](/content/automata/awesome-jamstack/readme/README.md) ]
 
+## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
+
+### API / Database
+
+*   [Fireproof](https://use-fireproof.com/) - Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud.
+
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### Platforms
@@ -74,12 +80,6 @@ Carefully curated list of awesome Jamstack resources
 
 *   [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
 
-## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
-
-### API / E-commerce
-
-*   [LiveMart](https://www.livemart.store) - GraphQL headless eCommerce solution.
-
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
 ### API / Forms
@@ -90,8 +90,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Authentication
 
-*   [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐111k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐112k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -164,10 +163,6 @@ Carefully curated list of awesome Jamstack resources
 
 *   [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 
-### Serverless / Automation
-
-*   [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses.
-
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
 
 ### Jamstack Sites Showcase
@@ -228,7 +223,6 @@ Carefully curated list of awesome Jamstack resources
 
 ### Tutorials / Articles / Automation
 
-*   [State of the Headless CMS Market 2020 report](https://tracker.kontent.ai/592920/state-of-the-headless-cms-market-2020)
 *   [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
@@ -406,12 +400,6 @@ Carefully curated list of awesome Jamstack resources
 
 *   [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
-## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
-
-### API / Forms
-
-*   [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
-
 ## [Sep 16 - Sep 22, 2019](/content/2019/37/README.md)
 
 ### Tutorials / Articles / Automation
@@ -512,7 +500,6 @@ Carefully curated list of awesome Jamstack resources
 
 ### Platforms
 
-*   [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 *   [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 
 ### Static Site Generators
@@ -535,7 +522,6 @@ Carefully curated list of awesome Jamstack resources
 *   [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 *   [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-*   [Tipe](https://tipe.io) - Next Generation API-first CMS.
 *   [Coisas (⭐316)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 
@@ -617,7 +603,6 @@ Carefully curated list of awesome Jamstack resources
 
 *   [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 *   [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
-*   [Building Paul The Octopus](https://www.tomango.co.uk/thinks/paul-the-octopus-2018/)
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
@@ -630,7 +615,6 @@ Carefully curated list of awesome Jamstack resources
 
 ### Chats
 
-*   [Appernetic Gitter Chat](https://gitter.im/appernetic/issues)
 *   [Netlify Gitter Chat](https://gitter.im/netlify/community)
 *   [NetlifyCMS Gitter Chat](https://gitter.im/netlify/NetlifyCMS)
 *   [the New Dynamic Slack](https://join.slack.com/t/thenewdynamic/shared_invite/enQtMjkwNjYwNTY0NjkxLWI1NDhlNjZkZjA5ZGJmODE1OThiMjkwN2ZkMzE1YjEwN2YwNWUxYTNjZTUxMGQ2MzU3NWQ0YmVjNGU1NTkxMDk)

@@ -1,6 +1,6 @@
 # Mind Expanding Books Overview
 
- :books: Books everyone should read!
+ :books: Find your next book to read!
 
 [🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 11K · 🏷️ Miscellaneous
 
@@ -146,7 +146,7 @@ If you like Mind Expanding books you should check out my new project <http://dif
 | The Slight Edge - Secret to a Successful Life                                                                                      | Jeff Olson                              | [4.39](https://www.goodreads.com/book/show/590652.The_Slight_Edge)                                | 2005           |
 | Education and the Significance of Life                                                                                             | Krishnamurti                            | [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life)         | 2008           |
 | Passions Within Reason: The Strategic Role of the Emotions                                                                         | Robert H. Frank                         | [4.34](https://www.goodreads.com/book/show/452114.Passions_Within_Reason)                         | 1989           |
-| The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living                                                    | Ryan Holding, Stephan Hanselman         | [4.34](https://www.goodreads.com/book/show/29093292-the-daily-stoic)                              | 2016           |
+| The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living                                                    | Ryan Holiday, Stephan Hanselman         | [4.34](https://www.goodreads.com/book/show/29093292-the-daily-stoic)                              | 2016           |
 | Man's Search for Meaning                                                                                                           | Viktor E. Frankl                        | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)                         | 2006           |
 | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones                                                          | James Clear                             | [4.32](https://www.goodreads.com/book/show/40121378-atomic-habits)                                | 2018           |
 | The User Illusion: Cutting Consciousness Down to Size                                                                              | Tor Norretranders                       | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion)                              | 1999           |
@@ -436,19 +436,20 @@ If you like Mind Expanding books you should check out my new project <http://dif
 
 ## Education
 
-| Name                                                                                     | Author                                                   | Goodreads Rating                                                                    | Year Published |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------- |
-| Educated: A Memoir                                                                       | Tara Westover                                            | [4.47](https://www.goodreads.com/book/show/35133922-educated)                       | 2018           |
-| Mindstorms: Children, Computers, And Powerful Ideas                                      | Seymour A. Papert                                        | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms)                       | 1993           |
-| The Little Prince                                                                        | Antoine de Saint-Exupéry                                 | [4.31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe)               | 1943           |
-| How Children Fail                                                                        | John Holt                                                | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail)                | 1995           |
-| Deep Work: Rules for Focused Success in a Distracted World                               | Cal Newport                                              | [4.20](https://www.goodreads.com/book/show/25744928-deep-work)                      | 2016           |
-| Make It Stick: The Science of Successful Learning                                        | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel  | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick)                  | 2014           |
-| Teaching as a Subversive Activity                                                        | Neil Postman, Charles Weingartner                        | [4.19](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) | 1971           |
-| Summerhill School: A New View of Childhood                                               | A. S. Neill, Albert Lamb                                 | [4.09](https://www.goodreads.com/book/show/178734.Summerhill)                       | 1995           |
-| The Art of Learning: An Inner Journey to Optimal Performance                             | Josh Waitzkin                                            | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)              | 2016           |
-| Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school)               | 2009           |
-| Curious Minds: How a Child Becomes a Scientist                                           | John Brockman                                            | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds)                    | 2005           |
+| Name                                                                                     | Author                                                   | Goodreads Rating                                                                                                       | Year Published |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Educated: A Memoir                                                                       | Tara Westover                                            | [4.47](https://www.goodreads.com/book/show/35133922-educated)                                                          | 2018           |
+| Mindstorms: Children, Computers, And Powerful Ideas                                      | Seymour A. Papert                                        | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms)                                                          | 1993           |
+| The Little Prince                                                                        | Antoine de Saint-Exupéry                                 | [4.31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe)                                                  | 1943           |
+| How Children Fail                                                                        | John Holt                                                | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail)                                                   | 1995           |
+| Deep Work: Rules for Focused Success in a Distracted World                               | Cal Newport                                              | [4.20](https://www.goodreads.com/book/show/25744928-deep-work)                                                         | 2016           |
+| Make It Stick: The Science of Successful Learning                                        | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel  | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick)                                                     | 2014           |
+| Teaching as a Subversive Activity                                                        | Neil Postman, Charles Weingartner                        | [4.19](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity)                                    | 1971           |
+| Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life   | Jim Kwik                                                 | [4.09](https://www.goodreads.com/book/show/49994260-limitless?from_search=true\&from_srp=true\&qid=pbeSkuESjB\&rank=1) | 2020           |
+| Summerhill School: A New View of Childhood                                               | A. S. Neill, Albert Lamb                                 | [4.09](https://www.goodreads.com/book/show/178734.Summerhill)                                                          | 1995           |
+| The Art of Learning: An Inner Journey to Optimal Performance                             | Josh Waitzkin                                            | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)                                                 | 2016           |
+| Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school)                                                  | 2009           |
+| Curious Minds: How a Child Becomes a Scientist                                           | John Brockman                                            | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds)                                                       | 2005           |
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
@@ -670,15 +671,17 @@ If you like Mind Expanding books you should check out my new project <http://dif
 
 ## Health
 
-| Name                                                                                          | Author                      | Goodreads Rating                                                            | Year Published |
-| --------------------------------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------- | -------------- |
-| How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease       | Michael Greger, M.D.        | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die)         | 2015           |
-| Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (2nd edition) | Steven Low                  | [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity)      | 2016           |
-| Breath: The New Science of a Lost Art                                                         | James Nestor                | [4.15](https://www.goodreads.com/book/show/48890486-breath)                 | 2020           |
-| Convict Conditioning                                                                          | Paul Wade                   | [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning)     | 2012           |
-| Eat and Run: My Unlikely Journey to Ultramarathon Greatness                                   | Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run)            | 2012           |
-| 8 Weeks to Optimum Health                                                                     | Andrew Weil                 | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |                |
-| Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers  | David Perlmutter            | [3.89](https://www.goodreads.com/book/show/17333302-grain-brain)            | 2013           |
+| Name                                                                                          | Author                      | Goodreads Rating                                                                    | Year Published |
+| --------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------------------------- | -------------- |
+| How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease       | Michael Greger, M.D.        | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die)                 | 2015           |
+| Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (2nd edition) | Steven Low                  | [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity)              | 2016           |
+| Breath: The New Science of a Lost Art                                                         | James Nestor                | [4.15](https://www.goodreads.com/book/show/48890486-breath)                         | 2020           |
+| Convict Conditioning                                                                          | Paul Wade                   | [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning)             | 2012           |
+| Eat and Run: My Unlikely Journey to Ultramarathon Greatness                                   | Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run)                    | 2012           |
+| Brain Food: The Surprising Science of Eating for Cognitive Power                              | Lisa Mosconi                | [3.92](https://www.goodreads.com/book/show/35457267-brain-food)                     | 2018           |
+| Super Human: The Bulletproof Plan to Age Backward and Maybe Even Live Forever                 | Dave Asprey                 | [3.86](https://www.goodreads.com/book/show/43801612-super-human?ref=nav_sb_ss_3_11) | 2019           |
+| 8 Weeks to Optimum Health                                                                     | Andrew Weil                 | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health)         |                |
+| Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers  | David Perlmutter            | [3.89](https://www.goodreads.com/book/show/17333302-grain-brain)                    | 2013           |
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 

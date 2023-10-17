@@ -20,7 +20,7 @@ There are other Awesome Common Lisp lists that focus on other topics:
 
 *   [Libraries (⭐2.3k)](https://github.com/CodyReichert/awesome-cl)
     *   [Curated Libraries (⭐28)](https://github.com/vindarel/curated-awesome-cl) - Forked and updated from the above list.
-*   [Software (⭐278)](https://github.com/azzamsa/awesome-cl-software)
+*   [Software (⭐284)](https://github.com/azzamsa/awesome-cl-software)
 
 Contributions are welcome. Please read the [contribution guidelines](https://github.com/GustavBertram/awesome-common-lisp-learning/blob/master/README.md/contributing.md) for details.
 
@@ -114,7 +114,7 @@ These are books that you'll have to buy, or borrow from a library.
 *   The #clschool, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) on the [Libera.Chat](https://libera.chat/) network are great places for learning about Common Lisp. ([Freenode should be avoided.](https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409))
 *   [Lisp Subreddit](http://www.reddit.com/r/lisp/) - An active community, and has loads of useful links and reference documents in the sidebar.
     *   [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp) - The Subreddit for Common Lisp.
-*   [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
+*   [Exercism's Common Lisp track](https://exercism.org/tracks/common-lisp) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 *   [Lisp Discord server](https://discord.gg/7tSq5EaA6Z) - Is a Discord for Lisp. Has a channel dedicated to Common Lisp and will happily answer questions.
 
 ## Library Management

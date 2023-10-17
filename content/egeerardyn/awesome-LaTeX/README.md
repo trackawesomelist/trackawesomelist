@@ -6,6 +6,12 @@ Curated list of LaTeX awesomeness
 
 [ Daily / [Weekly](/content/egeerardyn/awesome-LaTeX/week/README.md) / [Overview](/content/egeerardyn/awesome-LaTeX/readme/README.md) ]
 
+## [Oct 03, 2023](/content/2023/10/03/README.md)
+
+### Online editors
+
+*   [WebLaTeX (⭐319)](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
+
 ## [Sep 25, 2023](/content/2023/09/25/README.md)
 
 ### Blogs / TikZ
