@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Oct 18, 2023](/content/2023/10/18/README.md)
+
+### Firmware projects / WIP
+
+*   [rmk (⭐1)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
 ### Community / Community Chat Rooms

@@ -8,6 +8,18 @@ Collections of awesome neovim plugins.
 
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
+### Plugin Manager
+
+*   [abeldekat/lazyflex.nvim (⭐9)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [text-to-colorscheme (⭐198)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+
+### Neovim Lua Development / Diagnostics
+
+*   [nvim-lusc (⭐9)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
+
 ### Motion / Diagnostics
 
 *   [gsuuon/tshjkl.nvim (⭐2)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.

@@ -23,6 +23,7 @@
 
 ### Graphical User Interfaces
 
+*   [GUI development with Relm4](https://relm4.org/book/stable/) - Aaron Erhardt
 *   [Search User Interfaces](https://searchuserinterfaces.com/book/) - Marti A. Hearst
 
 ### IDE and editors
@@ -907,7 +908,6 @@
 
 ### Graphical User Interfaces
 
-*   [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/) - Aaron Erhardt
 *   [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)

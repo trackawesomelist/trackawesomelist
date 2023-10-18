@@ -8,6 +8,10 @@
 
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
+### Tools / Agents
+
+*   [GPT Researcher (⭐5k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
+
 ### Tools / Platforms
 
 *   [Openllmetry (⭐418)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
@@ -59,7 +63,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LangStream (⭐225)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents.  ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
+*   [LangStream (⭐225)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents. ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
 
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 

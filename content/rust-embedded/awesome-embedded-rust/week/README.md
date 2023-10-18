@@ -22,6 +22,10 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [ethercrab (⭐114)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
 
+### Firmware projects / WIP
+
+*   [rmk (⭐1)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### no-std crates / WIP

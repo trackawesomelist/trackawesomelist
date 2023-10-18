@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Oct 18, 2023](/content/2023/10/18/README.md)
+
+### Graphical User Interfaces
+
+*   [GUI development with Relm4](https://relm4.org/book/stable/) - Aaron Erhardt
+
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
 ### Algorithms & Data Structures
@@ -1015,7 +1021,6 @@
 
 ### Graphical User Interfaces
 
-*   [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/) - Aaron Erhardt
 *   [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
 
 ## [Apr 28, 2022](/content/2022/04/28/README.md)
