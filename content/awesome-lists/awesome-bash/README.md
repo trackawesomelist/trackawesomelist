@@ -6,6 +6,12 @@ A curated list of delightful Bash scripts and resources.
 
 [ Daily / [Weekly](/content/awesome-lists/awesome-bash/week/README.md) / [Overview](/content/awesome-lists/awesome-bash/readme/README.md) ]
 
+## [Oct 18, 2023](/content/2023/10/18/README.md)
+
+### Books and Resources
+
+*   [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
+
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
 ### Shell Script Development

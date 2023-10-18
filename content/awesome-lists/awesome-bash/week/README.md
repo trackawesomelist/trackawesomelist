@@ -8,6 +8,10 @@ A curated list of delightful Bash scripts and resources.
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
+### Books and Resources
+
+*   [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
+
 ### Shell Script Development
 
 *   [bashunit (⭐119)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts

@@ -141,6 +141,7 @@ List of non-official ports of LangChain to other languages.
 *   [Metal](https://getmetal.io/): Metal is a managed service that allows you to build AI products without the hassle of managing infrastructure
 *   [Graphsignal](https://graphsignal.com/): Observability for AI agents and LLM-powered applications. Trace, monitor and debug LangChain in production.
 *   [Mona (⭐87)](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
+*   [Openllmetry (⭐418)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 
 ## Open Source Projects
 
@@ -208,6 +209,7 @@ List of non-official ports of LangChain to other languages.
 *   [Autonomous HR Chatbot (⭐199)](https://github.com/stepanogil/autonomous-hr-chatbot) An autonomous HR agent that can answer user queries using tools ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 *   [Lobe Chat (⭐1.5k)](https://github.com/lobehub/lobe-chat) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
 *   [Funcchain (⭐117)](https://github.com/shroominic/funcchain): write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)
+*   [PersonalityChatbot (⭐12)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
 
 ## Learn
 
@@ -286,6 +288,7 @@ List of non-official ports of LangChain to other languages.
 *   [Autogen (⭐8.3k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 *   [AgentVerse (⭐2.6k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 *   [Flappy (⭐129)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer !\[Github Repo stars]![](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
+*   [MemGPT (⭐1.6k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
 ## Complement to this list
 

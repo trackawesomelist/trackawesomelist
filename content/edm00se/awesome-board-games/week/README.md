@@ -2,7 +2,7 @@
 
 A curated list of awesome and exceptional board games. Please contribute!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 239 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 248 · 🏷️ Miscellaneous
 
 [ [Daily](/content/edm00se/awesome-board-games/README.md) / Weekly / [Overview](/content/edm00se/awesome-board-games/readme/README.md) ]
 
@@ -31,6 +31,15 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     1–4 |       13 | 60–150 Min |
+### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
+
+> Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
+
+![Lotería image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Loteria_boards.jpg/330px-Loteria_boards.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  20m |
 ### [Tzolk'in: The Mayan Calendar](https://boardgamegeek.com/boardgame/126163/tzolk-mayan-calendar)
 
 > Tzolkin: The Mayan Calendar presents a new game mechanism: dynamic worker placement. Players representing different Mayan tribes place their workers on giant connected gears, and as the gears rotate they take the workers to different action spots.
@@ -169,9 +178,6 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |        6 | 10-15m |
-
-### Contribute
-
 ### [Mouse Trap](https://en.wikipedia.org/wiki/Mouse_Trap_\(board_game\))
 
 > Mouse Trap (originally Mouse Trap Game) is a board game first published by Ideal in 1963 for two to four players. It is one of the first mass-produced three-dimensional board games.The basic premise of Mouse Trap has been consistent over time, but the turn-based gameplay has changed. Its concept was first invented by Marvin Glass and designer Gordon Barlow from Marvin's company
@@ -181,6 +187,18 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
+
+### Contribute
+
+### [Outfoxed](https://boardgamegeek.com/boardgame/172931/outfoxed)
+
+> This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
+
+![Outfoxed](https://upload.wikimedia.org/wikipedia/commons/f/f6/Outfoxed.webp)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        5 |  20m |
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 

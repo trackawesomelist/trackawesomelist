@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Oct 18, 2023](/content/2023/10/18/README.md)
+
+### Tools / Platforms
+
+*   [Openllmetry (⭐418)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+
+### Open Source Projects / Other / Chatbots
+
+*   [PersonalityChatbot (⭐12)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [MemGPT (⭐1.6k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
 ### LangChain Framework

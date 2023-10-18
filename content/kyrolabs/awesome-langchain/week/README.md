@@ -16,16 +16,22 @@
 
 *   [waggledance.ai (⭐48)](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
 
+### Tools / Platforms
+
+*   [Openllmetry (⭐418)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+
 ### Open Source Projects / Other / Chatbots
 
 *   [Lobe Chat (⭐1.5k)](https://github.com/lobehub/lobe-chat) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
 *   [Funcchain (⭐117)](https://github.com/shroominic/funcchain): write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)
+*   [PersonalityChatbot (⭐12)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Magentic (⭐1.1k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
 *   [Autogen (⭐8.3k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 *   [Flappy (⭐129)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer !\[Github Repo stars]![](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
+*   [MemGPT (⭐1.6k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
 ### Complement to this list / Videos Playlists
 
