@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Oct 19, 2023](/content/2023/10/19/README.md)
+
+### Functions
+
+*   [munch](https://hackage.haskell.org/package/base-4.19.0.0/docs/Text-ParserCombinators-ReadP.html#v:munch) - Parser function that greedily consumes an input stream until it's satisfied.
+
 ## [Oct 08, 2023](/content/2023/10/08/README.md)
 
 ### User Interface Design

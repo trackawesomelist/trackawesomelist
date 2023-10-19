@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 19, 2023](/content/2023/10/19/README.md)
+
+### Media / Diagnostics
+
+*   [edluffy/hologram.nvim (⭐1k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
+
+### Code Runner / Diagnostics
+
+*   [dasupradyumna/launch.nvim (⭐11)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Plugin Manager
@@ -1704,7 +1714,6 @@ Collections of awesome neovim plugins.
 *   [LinArcX/telescope-command-palette.nvim (⭐267)](https://github.com/LinArcX/telescope-command-palette.nvim) - Lua plugin to create key-bindings and watch them with telescope.
 *   [slugbyte/unruly-worker (⭐26)](https://github.com/slugbyte/unruly-worker) - A ridiculously fun alternative keymap for the workman keyboard layout with Neovim features like LSP support, built and configured with Lua.
 *   [FeiyouG/command\_center.nvim (⭐274)](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
-*   [linty-org/key-menu.nvim (⭐243)](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window.
 *   [anuvyklack/hydra.nvim (⭐891)](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra.
 *   [anuvyklack/keymap-amend.nvim (⭐55)](https://github.com/anuvyklack/keymap-amend.nvim) - Amend the existing keymap.
 *   [max397574/better-escape.nvim (⭐412)](https://github.com/max397574/better-escape.nvim) - Create shortcuts to escape insert mode without getting delay.
