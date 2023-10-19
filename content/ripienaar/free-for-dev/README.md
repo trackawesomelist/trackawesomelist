@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 19, 2023](/content/2023/10/19/README.md)
+
+### Other Free Resources
+
+*   [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
+
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Security and PKI

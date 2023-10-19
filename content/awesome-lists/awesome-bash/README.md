@@ -6,6 +6,12 @@ A curated list of delightful Bash scripts and resources.
 
 [ Daily / [Weekly](/content/awesome-lists/awesome-bash/week/README.md) / [Overview](/content/awesome-lists/awesome-bash/readme/README.md) ]
 
+## [Oct 19, 2023](/content/2023/10/19/README.md)
+
+### Customization
+
+*   [LS\_COLORS (⭐1.9k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions
+
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Books and Resources

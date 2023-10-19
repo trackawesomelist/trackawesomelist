@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-zh/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) · ⭐ 299K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-zh/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) · ⭐ 300K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md) / Overview ]
 
@@ -102,7 +102,7 @@
 *   [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
 *   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
 *   [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 廖雪峰
-*   [Github帮助文档 (⭐832)](https://github.com/waylau/github-help) - Way Lau
+*   [Github帮助文档 (⭐833)](https://github.com/waylau/github-help) - Way Lau
 *   [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/) - snowdream86
 *   [Got GitHub (⭐1.5k)](https://github.com/gotgit/gotgithub) - Jiang Xin, The GotGit community
 *   [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - Jiang Xin, The GotGit community
@@ -125,7 +125,7 @@
 ### 操作系统
 
 *   [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
-*   [理解Linux进程 (⭐948)](https://github.com/tobegit3hub/understand_linux_process)
+*   [理解Linux进程 (⭐958)](https://github.com/tobegit3hub/understand_linux_process)
 *   [命令行的艺术 (⭐140k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 *   [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
 *   [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
@@ -176,7 +176,7 @@
 ### 计算机图形学
 
 *   [LearnOpenGL CN](https://learnopengl-cn.github.io)
-*   [OpenGL 教程 (⭐793)](https://github.com/zilongshanren/opengl-tutorials)
+*   [OpenGL 教程 (⭐794)](https://github.com/zilongshanren/opengl-tutorials)
 
 ### 其它
 
@@ -253,7 +253,7 @@
 *   [前端资源分享（二） (⭐519)](https://github.com/hacke2/hacke2.github.io/issues/3)
 *   [前端资源分享（一） (⭐519)](https://github.com/hacke2/hacke2.github.io/issues/1)
 *   [移动前端开发收藏夹 (⭐1.7k)](https://github.com/hoosin/mobile-web-favorites)
-*   [移动Web前端知识库 (⭐9.5k)](https://github.com/AlloyTeam/Mars)
+*   [移动Web前端知识库 (⭐9.6k)](https://github.com/AlloyTeam/Mars)
 *   [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 *   [Chrome 开发者工具中文手册 (⭐2.3k)](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 *   [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
@@ -276,7 +276,7 @@
 
 ### Android
 
-*   [Android Note(开发过程中积累的知识点) (⭐3.2k)](https://github.com/CharonChui/AndroidNote)
+*   [Android Note(开发过程中积累的知识点) (⭐3.3k)](https://github.com/CharonChui/AndroidNote)
 *   [Android开发技术前线(android-tech-frontier) (⭐10k)](https://github.com/bboyfeiyu/android-tech-frontier)
 *   [Google Material Design 正體中文版](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) - Tillonter, 陳世能, Sean Chen, et al.
 *   [Google Material Design 中文协同翻译 (⭐3.1k)](https://github.com/1sters/material_design_zh) - 1sters 极客实验室, 四勾 4J, IceskYsl, et al.
@@ -296,7 +296,7 @@
 
 ### C
 
-*   [新概念 C 语言教程 (⭐450)](https://github.com/limingth/NCCL)
+*   [新概念 C 语言教程 (⭐454)](https://github.com/limingth/NCCL)
 *   [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
 *   [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 *   [Linux C 编程一站式学习](https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C\&CPP/c/) *(:card\_file\_box: archived)*
@@ -307,18 +307,18 @@
 
 ### <a id="cpp"></a>C++
 
-*   [100个gcc小技巧 (⭐514)](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
+*   [100个gcc小技巧 (⭐516)](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 *   [100个gdb小技巧 (⭐2.8k)](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
 *   [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card\_file\_box: archived)*
 *   [現代 C++ 101](https://hackmd.io/@lumynou5/CppTutorial-zh-tw) - Lumynous (:construction: *in process*)
 *   [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 *   [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
-*   [C/C++ Primer (⭐271)](https://github.com/andycai/cprimer) - andycai
+*   [C/C++ Primer (⭐274)](https://github.com/andycai/cprimer) - andycai
 *   [C++ 并发编程指南 (⭐4.9k)](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 *   [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
-*   [C++ Primer 5th Answers (⭐7.7k)](https://github.com/Mooophy/Cpp-Primer)
-*   [C++ Template 进阶指南 (⭐8.3k)](https://github.com/wuye9036/CppTemplateTutorial)
-*   [CGDB中文手册 (⭐256)](https://github.com/leeyiw/cgdb-manual-in-chinese)
+*   [C++ Primer 5th Answers (⭐7.8k)](https://github.com/Mooophy/Cpp-Primer)
+*   [C++ Template 进阶指南 (⭐8.4k)](https://github.com/wuye9036/CppTemplateTutorial)
+*   [CGDB中文手册 (⭐258)](https://github.com/leeyiw/cgdb-manual-in-chinese)
 *   [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 *   [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 *   [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
@@ -362,16 +362,16 @@
 *   [Go 官方文档翻译 (⭐150)](https://github.com/golang-china/golangdoc.translations)
 *   [Go 简易教程 (⭐395)](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trl.:` Song Song Li (《[The Little Go Book (⭐2k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
 *   [Go 命令教程 (⭐3.4k)](https://github.com/hyper-carrot/go_command_tutorial)
-*   [Go 入门指南 (⭐33k)](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
+*   [Go 入门指南 (⭐34k)](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 *   [Go 语法树入门 (⭐5.1k)](https://github.com/chai2010/go-ast-book)
 *   [Go 语言标准库 (⭐9.3k)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 *   [Go 语言高级编程（Advanced Go Programming） (⭐19k)](https://github.com/chai2010/advanced-go-programming-book)
 *   [Go 语言设计与实现](https://draveness.me/golang) - draveness
 *   [Go 语言实战笔记 (⭐252)](https://github.com/rujews/go-in-action-notes)
 *   [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
-*   [Go Web 编程 (⭐42k)](https://github.com/astaxie/build-web-application-with-golang)
+*   [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
 *   [Go实战开发 (⭐3.4k)](https://github.com/astaxie/go-best-practice)
-*   [Go语言博客实践 (⭐392)](https://github.com/achun/Go-Blog-In-Action)
+*   [Go语言博客实践 (⭐393)](https://github.com/achun/Go-Blog-In-Action)
 *   [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 *   [Network programming with Go 中文翻译版本 (⭐579)](https://github.com/astaxie/NPWG_zh)
 *   [Revel 框架手册](https://web.archive.org/web/20190610030938/https://gorevel.cn/docs/manual/index.html) *(:card\_file\_box: archived)*
@@ -389,7 +389,7 @@
 ### HTML and CSS
 
 *   [前端代码规范](http://alloyteam.github.io/CodeGuide/) - 腾讯AlloyTeam团队
-*   [通用 CSS 笔记、建议与指导 (⭐639)](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+*   [通用 CSS 笔记、建议与指导 (⭐642)](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 *   [学习CSS布局](http://zh.learnlayout.com)
 *   [Bootstrap 4 繁體中文手冊](https://bootstrap.hexschool.com) - 六角學院
 *   [Bootstrap 5 繁體中文手冊](https://bootstrap5.hexschool.com) - 六角學院
@@ -412,8 +412,8 @@
 
 *   [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C\(%E9%BB%84%E5%B1%B1%E7%89%88\).pdf) (PDF)
 *   [用jersey构建REST服务 (⭐168)](https://github.com/waylau/RestDemo)
-*   [Activiti 5.x 用户指南 (⭐194)](https://github.com/waylau/activiti-5.x-user-guide)
-*   [Apache MINA 2 用户指南 (⭐215)](https://github.com/waylau/apache-mina-2.x-user-guide)
+*   [Activiti 5.x 用户指南 (⭐195)](https://github.com/waylau/activiti-5.x-user-guide)
+*   [Apache MINA 2 用户指南 (⭐216)](https://github.com/waylau/apache-mina-2.x-user-guide)
 *   [Apache Shiro 用户指南 (⭐474)](https://github.com/waylau/apache-shiro-1.2.x-reference)
 *   [Google Java编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
 *   [H2 Database 教程 (⭐44)](https://github.com/waylau/h2-database-doc)
@@ -436,8 +436,7 @@
 ### JavaScript
 
 *   [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
-*   [你不知道的JavaScript (⭐171k)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
-*   [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+*   [你不知道的JavaScript (⭐172k)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 *   [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
 *   [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
 *   [Airbnb JavaScript 规范 (⭐647)](https://github.com/adamlu/javascript-style-guide)
@@ -446,11 +445,9 @@
 *   [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
 *   [javascript 的 12 个怪癖 (⭐264)](https://github.com/justjavac/12-javascript-quirks)
 *   [JavaScript 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
-*   [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 *   [《JavaScript 模式》 (⭐340)](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
 *   [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 *   [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
-*   [JavaScript编程指南](http://pij.robinqu.me) ([源码 (⭐134)](https://github.com/RobinQu/Programing-In-Javascript))
 
 #### AngularJS
 
@@ -471,7 +468,6 @@
 
 *   [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
 *   [官方API文档 (⭐106k)](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
-*   [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
 *   [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
 
 #### Electron.js
@@ -498,7 +494,7 @@
 *   [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
 *   [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
 *   [Node.js 包教不包会 (⭐17k)](https://github.com/alsotang/node-lessons)
-*   [Node.js Fullstack《從零到一的進撃》 (⭐324)](https://github.com/jollen/nodejs-fullstack-lessons)
+*   [Node.js Fullstack《從零到一的進撃》 (⭐325)](https://github.com/jollen/nodejs-fullstack-lessons)
 *   [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 *   [Nodejs Wiki Book (⭐414)](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
 *   [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
@@ -507,7 +503,7 @@
 #### React.js
 
 *   [Learn React & Webpack by building the Hacker News front page (⭐412)](https://github.com/theJian/build-a-hn-front-page)
-*   [React-Bits 中文文档 (⭐650)](https://github.com/hateonion/react-bits-CN)
+*   [React-Bits 中文文档 (⭐652)](https://github.com/hateonion/react-bits-CN)
 *   [React webpack-cookbook (⭐274)](https://github.com/fakefish/react-webpack-cookbook)
 *   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 *   [React.js 中文文档](https://discountry.github.io/react/)
@@ -552,7 +548,7 @@
 *   [Redis 命令参考](http://redisdoc.com)
 *   [Redis 设计与实现](http://redisbook.com)
 *   [The Little MongoDB Book (⭐520)](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
-*   [The Little Redis Book (⭐590)](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+*   [The Little Redis Book (⭐589)](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 
 ### Perl
 
@@ -596,7 +592,7 @@
 
 *   [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *(:card\_file\_box: archived)*
 *   [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - zhang\_derek *(内含丰富的笔记以及各类教程)*
-*   [深入 Python 3 (⭐25)](https://github.com/jiechic/diveintopython3)
+*   [深入 Python 3 (⭐26)](https://github.com/jiechic/diveintopython3)
 *   [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) (Online)
 *   [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) (Online)
 *   [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
@@ -693,7 +689,7 @@
 
 ### VBA (Microsoft Visual Basic Applications)
 
-*   [简明Excel VBA (⭐452)](https://github.com/Youchien/concise-excel-vba)
+*   [简明Excel VBA (⭐458)](https://github.com/Youchien/concise-excel-vba)
 
 ### Visual Prolog
 

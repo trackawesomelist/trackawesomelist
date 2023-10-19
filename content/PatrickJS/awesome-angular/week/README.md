@@ -6,6 +6,12 @@
 
 [ [Daily](/content/PatrickJS/awesome-angular/README.md) / Weekly / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Fabio Biondi](https://github.com/fabiobiondi)
+
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
 ### Integrations / Components
@@ -97,7 +103,7 @@
 
 ### Misc Components / Components
 
-*   [@tolgee/ngx (⭐198)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+*   [@tolgee/ngx (⭐199)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 *   [ng-let (⭐42)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐25)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 

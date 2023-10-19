@@ -20,6 +20,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Carousel Hero](https://carouselhero.com/) - Free online tool to create social media carousels.
 
+### Other Free Resources
+
+*   [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
+
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
 ### Testing

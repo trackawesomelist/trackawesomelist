@@ -63,6 +63,7 @@ In addition to this list, you should read the list [awesome-shell (⭐29k)](http
 *   [git-prompt (⭐325)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
 *   [gittify (⭐66)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 *   [liquidprompt (⭐4.3k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+*   [LS\_COLORS (⭐1.9k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions
 *   [mysql-colorize (⭐95)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 *   [oh-my-git (⭐3.6k)](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 *   [progress-bar.sh (⭐222)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest ![progress-bar.sh in action](http://pix.toile-libre.org/upload/original/1476311497.gif).

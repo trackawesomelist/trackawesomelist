@@ -12,6 +12,10 @@ A curated list of delightful Bash scripts and resources.
 
 *   [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
 
+### Customization
+
+*   [LS\_COLORS (⭐1.9k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions
+
 ### Shell Script Development
 
 *   [bashunit (⭐119)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts
