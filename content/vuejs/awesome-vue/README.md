@@ -6,6 +6,21 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Oct 20, 2023](/content/2023/10/20/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-tailwind-datepicker (⭐157)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
+
+### Components & Libraries / Frameworks
+
+*   [Stellar UI (⭐7)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+*   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) -  Vue integration with Tailwind CSS - a free, open-source UI Kit
+
+### Components & Libraries / Utilities
+
+*   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+
 ## [Oct 14, 2023](/content/2023/10/14/README.md)
 
 ### Components & Libraries / UI Components
@@ -106,7 +121,7 @@
 
 *   [tanstack-table (⭐23k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐6)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐157)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐165)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [@kolirt/vue-web3-auth (⭐16)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
@@ -183,12 +198,6 @@
 
 *   [activist.org/](https://activist.org/) - Open-source, nonprofit activism platform.
 
-## [May 13, 2023](/content/2023/05/13/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [Tailwind Elemetns for Vue](https://tailwind-elements.com/docs/standard/integrations/vue-integration/) -  Vue integration with Tailwind Elements - a free, open-source UI Kit
-
 ## [May 09, 2023](/content/2023/05/09/README.md)
 
 ### Projects Using Vue.js / Open Source
@@ -216,7 +225,7 @@
 ### Resources / Examples
 
 *   [Vitesse Starter (⭐8.1k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
-*   [Vitesse-lite Starter (⭐936)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+*   [Vitesse-lite Starter (⭐941)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 
 ## [Apr 24, 2023](/content/2023/04/24/README.md)
 
@@ -241,7 +250,7 @@
 *   [1llest-waveform-vue (⭐18)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
 *   [vue3-calendar-heatmap (⭐57)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
 *   [vue3-code-block (⭐9)](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
-*   [Everright-formEditor (⭐300)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐305)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ### Components & Libraries / UI Layout
 
@@ -250,7 +259,7 @@
 ### Components & Libraries / Frameworks
 
 *   [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
-*   [îles (⭐997)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
+*   [îles (⭐1k)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
 
 ### Components & Libraries / UI Utilities
 
@@ -260,7 +269,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vite-plugin-vue-preview (⭐28)](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
+*   [vite-plugin-vue-preview (⭐29)](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
 
 ## [Jan 28, 2023](/content/2023/01/28/README.md)
 
@@ -314,7 +323,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vutron (⭐116)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+*   [Vutron (⭐121)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -731,7 +740,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐8)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [v-route-generate (⭐9)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 
 ## [May 10, 2022](/content/2022/05/10/README.md)
 
@@ -921,7 +930,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐198)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐199)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 ## [Mar 02, 2022](/content/2022/03/02/README.md)
 
@@ -951,7 +960,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐310)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐318)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [Feb 16, 2022](/content/2022/02/16/README.md)
 
@@ -1323,7 +1332,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Context Note (⭐667)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
+*   [Context Note (⭐670)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 
 ## [Sep 24, 2021](/content/2021/09/24/README.md)
 
@@ -2001,7 +2010,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐439)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐445)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [Feb 01, 2021](/content/2021/02/01/README.md)
 
@@ -2142,7 +2151,7 @@
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐686)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐687)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
@@ -4933,7 +4942,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐374)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐376)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ## [Mar 27, 2020](/content/2020/03/27/README.md)
 
@@ -7195,7 +7204,7 @@
 
 ### Resources / Official Resources
 
-*   [GitHub Repo (⭐205k)](https://github.com/vuejs/vue)
+*   [GitHub Repo (⭐206k)](https://github.com/vuejs/vue)
 
 ## [Oct 06, 2016](/content/2016/10/06/README.md)
 
@@ -7288,7 +7297,7 @@
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐205k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐206k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -7297,4 +7306,4 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐205k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐206k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)

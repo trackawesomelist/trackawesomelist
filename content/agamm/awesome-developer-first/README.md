@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab or Bitbucket and host headless WordPress.
 
+### Integrations
+
+*   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
+
 ## [Oct 13, 2023](/content/2023/10/13/README.md)
 
 ### Monitoring

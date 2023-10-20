@@ -2,29 +2,39 @@
 
 :iphone: List of open source Flutter applications :octocat:
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tortuvshin/open-source-flutter-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) · ⭐ 3.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tortuvshin/open-source-flutter-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) · ⭐ 3.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/tortuvshin/open-source-flutter-apps/README.md) / Weekly / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
+
+## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
+
+### Contents / Media
+
+*   [Kimo-Anime (⭐3)](https://github.com/yon30c/kimoi) - An app to watch anime subtitled in Spanish by [Yon30c](https://github.com/yon30c).
+
+### Contents / Tools
+
+*   [Ejimo (⭐28)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### Contents / Productivity
 
-*   [Openreads (⭐375)](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
+*   [Openreads (⭐434)](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Contents / Finance
 
-*   [Budgeto (⭐13)](https://github.com/tejasbadone/budgeto) - finance management prototype app with categories such as needs, expenses, and savings and features like autopay, investments, and planning tools by [Tejas Badone](https://github.com/tejasbadone).
+*   [Budgeto (⭐21)](https://github.com/tejasbadone/budgeto) - finance management prototype app with categories such as needs, expenses, and savings and features like autopay, investments, and planning tools by [Tejas Badone](https://github.com/tejasbadone).
 
 ### Contents / Health and Fitness
 
-*   [Open Food Facts (⭐445)](https://github.com/openfoodfacts/smooth-app) - The new mobile app of Open Food Facts, with other 2 million installs, that allows you to understand the health and environmental impact of your food, as well as to contribute new products to the Open Database [Open Food facts](https://github.com/openfoodfacts/)
+*   [Open Food Facts (⭐543)](https://github.com/openfoodfacts/smooth-app) - The new mobile app of Open Food Facts, with other 2 million installs, that allows you to understand the health and environmental impact of your food, as well as to contribute new products to the Open Database [Open Food facts](https://github.com/openfoodfacts/)
 
 ### Contents / Media
 
-*   [BlackHole (⭐5.9k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter by [Ankit Sangwan](https://github.com/Sangwan5688).
+*   [BlackHole (⭐7.4k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter by [Ankit Sangwan](https://github.com/Sangwan5688).
 
 ### Contents / Tools
 
@@ -39,25 +49,25 @@
 
 ### Contents / Personalization
 
-*   [LifeList (⭐27)](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
+*   [LifeList (⭐29)](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
 ### Contents / Tools
 
-*   [Immich (⭐16k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
+*   [Immich (⭐20k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
 ### Contents / Health and Fitness
 
-*   [Meditation App (⭐13)](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
+*   [Meditation App (⭐14)](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Contents / Productivity
 
-*   [NotePad (⭐5)](https://github.com/sarvesh4396/notepad) - A very simple notepad app with no fancy features to distract you. Just write what you want and tag by [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
+*   [NotePad (⭐6)](https://github.com/sarvesh4396/notepad) - A very simple notepad app with no fancy features to distract you. Just write what you want and tag by [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
@@ -69,107 +79,107 @@
 
 ### Contents / Finance
 
-*   [MMAS: Money Tracker (⭐199)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
+*   [MMAS: Money Tracker (⭐231)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
 
 ### Contents / Personalization
 
-*   [Spooky (⭐113)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
+*   [Spooky (⭐138)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
 ### Contents / Education
 
-*   [TubeCards (⭐238)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
+*   [TubeCards (⭐265)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
 
 ### Contents / Entertainment
 
-*   [Aniflix (⭐11)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
+*   [Aniflix (⭐13)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
 
 ### Contents / Productivity
 
-*   [Virlow Flutter Recorder (⭐19)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
+*   [Virlow Flutter Recorder (⭐21)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
 
 ### Contents / Tools
 
-*   [RSA Encryption (⭐26)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+*   [RSA Encryption (⭐27)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
 
 ### Contents / Games
 
-*   [Arcade Plaza (⭐25)](https://github.com/aryamangodara/Arcade-Plaza) - Hub of online games built by [Aryaman Godara](https://medium.com/@aryamangodara/why-i-open-sourced-my-flutter-game-application-7d008cdd01c5).
+*   [Arcade Plaza (⭐26)](https://github.com/aryamangodara/Arcade-Plaza) - Hub of online games built by [Aryaman Godara](https://medium.com/@aryamangodara/why-i-open-sourced-my-flutter-game-application-7d008cdd01c5).
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
 ### Contents / Tools
 
-*   [NetworkArch (⭐13)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
+*   [NetworkArch (⭐15)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
 ### Contents / Tools
 
-*   [Voting Dapp (⭐12)](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
+*   [Voting Dapp (⭐13)](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
 ### Contents / Tools
 
-*   [Airdash (⭐360)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
+*   [Airdash (⭐404)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
 
 ## [Jun 13 - Jun 19, 2022](/content/2022/24/README.md)
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐65)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐72)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐301)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐329)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
 ### Contents / Finance
 
-*   [HADWIN (⭐63)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
+*   [HADWIN (⭐66)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
 ### Contents / Media
 
-*   [Movies App (⭐159)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
+*   [Movies App (⭐164)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
 ### Contents / Entertainment
 
-*   [Tachidesk-Sorayomi (⭐296)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
+*   [Tachidesk-Sorayomi (⭐393)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 
 ### Contents / Media
 
-*   [Stream Music Player (⭐42)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
+*   [Stream Music Player (⭐45)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
 ### Contents / Entertainment
 
-*   [Doddle- (become an artist in a minute) (⭐87)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
+*   [Doddle- (become an artist in a minute) (⭐103)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
 
 ### Contents / News and Magazine
 
-*   [Hacki (⭐712)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
+*   [Hacki (⭐776)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
 ### Contents / Tools
 
-*   [Blink Comparison (⭐207)](https://github.com/proninyaroslav/blink-comparison) - Simplifies comparing photos of tamper-evident seals and patterns using your eyes by [Yaroslav Pronin](https://github.com/proninyaroslav)
+*   [Blink Comparison (⭐213)](https://github.com/proninyaroslav/blink-comparison) - Simplifies comparing photos of tamper-evident seals and patterns using your eyes by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
 ### Contents / Social Network
 
-*   [Skyfeed (⭐92)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
+*   [Skyfeed (⭐95)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
@@ -181,32 +191,32 @@
 
 ### Contents / Tools
 
-*   [One Second Diary (⭐187)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
+*   [One Second Diary (⭐203)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
 ### Contents / Games
 
-*   [Space Empires (⭐81)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+*   [Space Empires (⭐83)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
 
 ### Contents / Entertainment
 
-*   [AnimSearch (⭐67)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [AnimSearch (⭐71)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ### Contents / Productivity
 
-*   [LibreTrack (⭐167)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
+*   [LibreTrack (⭐177)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
 ### Contents / Social Network
 
-*   [Fedi (⭐121)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
+*   [Fedi (⭐124)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
 
 ### Contents / Tools
 
 *   [Weather (⭐31)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by [1hanzla100](https://github.com/1hanzla100/).
-*   [FlutterWeather (⭐224)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [FlutterWeather (⭐238)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
@@ -218,7 +228,7 @@
 
 ### Contents / Health and Fitness
 
-*   [QuitSmoke (⭐65)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
+*   [QuitSmoke (⭐66)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
@@ -234,7 +244,7 @@
 
 ### Contents / Shopping
 
-*   [Flutter WooCommerce app (⭐415)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
+*   [Flutter WooCommerce app (⭐461)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
@@ -246,60 +256,60 @@
 
 ### Contents / Entertainment
 
-*   [Flutter Ebook App (⭐2.3k)](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
+*   [Flutter Ebook App (⭐2.5k)](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
 
 ### Contents / Finance
 
 *   [BudgetBudy (⭐22)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
-*   [Natrium (⭐744)](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
+*   [Natrium (⭐783)](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
 
 ### Contents / Health and Fitness
 
 *   [Feeel](https://gitlab.com/enjoyingfoss/feeel/) — A home workout app that respects your privacy by [Enjoying FOSS](https://gitlab.com/enjoyingfoss).
-*   [Watermaniac (⭐164)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
-*   [wger (⭐275)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
+*   [Watermaniac (⭐168)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
+*   [wger (⭐347)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
 
 ### Contents / Productivity
 
-*   [Time Cop (⭐714)](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
+*   [Time Cop (⭐746)](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
 
 ### Contents / Tools
 
-*   [You (⭐238)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
+*   [You (⭐245)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
 ### Contents / Education
 
-*   [Mathematics (⭐78)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [Mathematics (⭐87)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 
 ### Contents / Finance
 
-*   [Be Thrifty Today (⭐133)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
+*   [Be Thrifty Today (⭐135)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
 
 ### Contents / Media
 
-*   [Flutter Music (⭐147)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
+*   [Flutter Music (⭐150)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
 
 ### Contents / Social Network
 
-*   [Fwitter (⭐3.1k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
-*   [GroupChatApp (⭐239)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
+*   [Fwitter (⭐3.3k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
+*   [GroupChatApp (⭐242)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
 
 ### Contents / Shopping
 
-*   [LaCoro Q-commerce app (⭐57)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
+*   [LaCoro Q-commerce app (⭐59)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
 
 ### Contents / Tools
 
-*   [Flutter Browser App (⭐323)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Flutter Browser App (⭐340)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ## [Mar 15 - Mar 21, 2021](/content/2021/11/README.md)
 
 ### Contents / News and Magazine
 
-*   [NewsApp (⭐185)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar).
-*   [InNews (⭐15)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
+*   [NewsApp (⭐196)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [InNews (⭐16)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
@@ -323,14 +333,14 @@
 
 ### Contents / Games
 
-*   [Sudoku (⭐73)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
-*   [Truth or Dare (⭐42)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
+*   [Sudoku (⭐77)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
+*   [Truth or Dare (⭐43)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)
 
 ### Contents / Finance
 
-*   [Receipt Manager (⭐159)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
+*   [Receipt Manager (⭐170)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
@@ -348,7 +358,7 @@
 
 ### Contents / Business
 
-*   [Open E-Commerce App (⭐739)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
+*   [Open E-Commerce App (⭐766)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 
@@ -375,11 +385,11 @@
 ### Contents / Finance
 
 *   [Money Tracker (⭐48)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
-*   [Piggyvault (⭐421)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Piggyvault (⭐427)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐910)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐942)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
@@ -387,7 +397,7 @@
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐649)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐661)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
@@ -405,47 +415,47 @@
 
 ### Contents / Entertainment
 
-*   [TV Randshow (⭐150)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
+*   [TV Randshow (⭐170)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 
 ### Contents / Tools
 
-*   [Enigma Signal Meter (⭐22)](https://github.com/shaxxx/Signalmeter2) - Align your satellite dish by reading signal from satellite receiver by [Krkadoni](https://krkadoni.com)
+*   [Enigma Signal Meter (⭐23)](https://github.com/shaxxx/Signalmeter2) - Align your satellite dish by reading signal from satellite receiver by [Krkadoni](https://krkadoni.com)
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
 ### Contents / Games
 
-*   [Impossiblocks (⭐94)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
+*   [Impossiblocks (⭐101)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
 ### Contents / Games
 
-*   [Math Matrix (⭐258)](https://github.com/jaysavsani07/math-metrix) -Brain training games composition [Mehul Makwana](https://github.com/mehulmk).
+*   [Math Matrix (⭐292)](https://github.com/jaysavsani07/math-metrix) -Brain training games composition [Mehul Makwana](https://github.com/mehulmk).
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 
 ### Contents / Finance
 
-*   [Wallet UI (⭐510)](https://github.com/kalismeras61/flutter_wallet_ui) - Flutter Wallet APP UI by [Yasin ilhan](https://github.com/kalismeras61).
+*   [Wallet UI (⭐514)](https://github.com/kalismeras61/flutter_wallet_ui) - Flutter Wallet APP UI by [Yasin ilhan](https://github.com/kalismeras61).
 
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐194)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐196)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
 ## [Dec 02 - Dec 08, 2019](/content/2019/48/README.md)
 
 ### Contents / Entertainment
 
-*   [CineReel (⭐185)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
-*   [Fluttery Filmy (⭐197)](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
-*   [Toughest (⭐255)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
-*   [Sandwhich (⭐153)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
+*   [CineReel (⭐184)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
+*   [Fluttery Filmy (⭐196)](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
+*   [Toughest (⭐264)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
+*   [Sandwhich (⭐154)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
 
 ### Contents / Games
 
@@ -455,22 +465,22 @@
 
 ### Contents / Games
 
-*   [Pokedex (⭐2k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
+*   [Pokedex (⭐2.1k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
 
 ### Contents / Travel
 
-*   [Flight search (⭐832)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
+*   [Flight search (⭐842)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
 
 ## [May 20 - May 26, 2019](/content/2019/20/README.md)
 
 ### Contents / Finance
 
-*   [Bit Alarm (⭐169)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
+*   [Bit Alarm (⭐173)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
 
 ### Contents / Productivity
 
-*   [Flutter Todo (⭐121)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
-*   [Notes App (⭐396)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
+*   [Flutter Todo (⭐130)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
+*   [Notes App (⭐417)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
 *   [WhatTodo (⭐1.1k)](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 
 ### Contents / Tools
@@ -482,17 +492,17 @@
 
 ### Contents / Personalization
 
-*   [Dashboard (⭐890)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
-*   [Tailor made (⭐298)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
+*   [Dashboard (⭐897)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Tailor made (⭐307)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
 
 ### Contents / Social Network
 
-*   [FlutterWhatsAppClone (⭐1.5k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
-*   [Tinder Card (⭐775)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [FlutterWhatsAppClone (⭐1.6k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
+*   [Tinder Card (⭐797)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Shopping
 
-*   [Plantly (⭐166)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Plantly (⭐165)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Travel
 
@@ -507,94 +517,94 @@
 
 ### Contents / Communication
 
-*   [FlutterMates (⭐552)](https://github.com/CodemateLtd/FlutterMates) - A sample app for our internal company talk about Flutter by [Codemate Ltd](https://github.com/CodemateLtd).
+*   [FlutterMates (⭐564)](https://github.com/CodemateLtd/FlutterMates) - A sample app for our internal company talk about Flutter by [Codemate Ltd](https://github.com/CodemateLtd).
 
 ### Contents / Health and Fitness
 
-*   [Weight Tracker (⭐355)](https://github.com/MSzalek-Mobile/weight_tracker) - Weight Tracker is an application dedicated for people who want to dump or maintain weight by [Marcin Szałek](https://github.com/MarcinusX).
+*   [Weight Tracker (⭐356)](https://github.com/MSzalek-Mobile/weight_tracker) - Weight Tracker is an application dedicated for people who want to dump or maintain weight by [Marcin Szałek](https://github.com/MarcinusX).
 
 ### Contents / Games
 
-*   [Solitaire (⭐240)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
+*   [Solitaire (⭐242)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
 
 ### Contents / News and Magazine
 
-*   [Flews (⭐159)](https://github.com/jbarr21/flews) - A news client written in Flutter that displays top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos by [James Barr](https://github.com/jbarr21).
+*   [Flews (⭐160)](https://github.com/jbarr21/flews) - A news client written in Flutter that displays top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos by [James Barr](https://github.com/jbarr21).
 
 ### Contents / Personalization
 
-*   [Furniture (⭐319)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
+*   [Furniture (⭐320)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
 
 ### Contents / Productivity
 
 *   [GSYGithubAppFlutter (⭐14k)](https://github.com/CarGuo/GSYGithubAppFlutter) - An open source Github client App developed by Flutter by [Shuyu Guo](https://github.com/CarGuo).
-*   [Habbit (⭐137)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐137)](https://github.com/lzyy/habbit).
+*   [Habbit (⭐136)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐136)](https://github.com/lzyy/habbit).
 
 ### Contents / Social Network
 
 *   [FlutterGram (⭐2.2k)](https://github.com/mdanics/fluttergram) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 *   [Flutter Chat App (⭐1.1k)](https://github.com/rohan20/flutter-chat-app) - A one-to-one chat app built on Flutter with firebase authentication and image sharing capability by [Rohan Taneja](https://github.com/rohan20).
 *   [Lime (⭐377)](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
-*   [Meme Chat (⭐532)](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+*   [Meme Chat (⭐533)](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 
 ### Contents / Shopping
 
-*   [Grocery-App (⭐906)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
+*   [Grocery-App (⭐930)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
 *   [Flutter Games (⭐253)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
 
 ### Contents / Tools
 
-*   [Trovami (⭐252)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
+*   [Trovami (⭐251)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 
 ### Contents / Travel
 
-*   [Tourism (⭐296)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
+*   [Tourism (⭐297)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
 ## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
 
 ### Contents / Communication
 
-*   [DroidKaigi2018-flutter (⭐513)](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
-*   [SpaceX GO (⭐811)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
+*   [DroidKaigi2018-flutter (⭐511)](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
+*   [SpaceX GO (⭐818)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
 
 ### Contents / Finance
 
 *   [Trace (⭐1.1k)](https://github.com/trentpiercy/trace) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
-*   [Platypus Crypto (⭐183)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
+*   [Platypus Crypto (⭐182)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
 
 ### Contents / Games
 
-*   [Flip (⭐262)](https://github.com/RedBrogdon/flutterflip) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
-*   [2048 (⭐291)](https://github.com/anuranBarman/2048) - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
-*   [TRex (⭐2)](https://github.com/renancaraujo/trex-flame) - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
-*   [Crush (⭐513)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
+*   [Flip (⭐263)](https://github.com/RedBrogdon/flutterflip) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
+*   [2048 (⭐297)](https://github.com/anuranBarman/2048) - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
+*   [TRex (⭐4)](https://github.com/renancaraujo/trex-flame) - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
+*   [Crush (⭐521)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
 *   [Slide Puzzle (⭐176)](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 
 ### Contents / Lifestyle
 
-*   [Beer-Me-Up (⭐479)](https://github.com/benoitletondor/Beer-Me-Up) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
+*   [Beer-Me-Up (⭐480)](https://github.com/benoitletondor/Beer-Me-Up) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
 
 ### Contents / Media
 
-*   [Grey (⭐519)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
+*   [Grey (⭐522)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
 *   [InKino (⭐3.5k)](https://github.com/roughike/inKino) - A multiplatform Dart movie app by [Iiro Krankka](https://github.com/roughike).
 *   [Music Player (⭐1.6k)](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
-*   [Cinematic (⭐874)](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+*   [Cinematic (⭐876)](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 
 ### Contents / News and Magazine
 
-*   [NewsBuzz (⭐576)](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
+*   [NewsBuzz (⭐573)](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
 
 ### Contents / Productivity
 
-*   [BookSearch (⭐527)](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
-*   [Taskist (⭐892)](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
-*   [Trinity Orientation (⭐615)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
+*   [BookSearch (⭐531)](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+*   [Taskist (⭐910)](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
+*   [Trinity Orientation (⭐614)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 
 ### Contents / Social Network
 
-*   [Deer (⭐393)](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+*   [Deer (⭐392)](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 
 ### Contents / Tools
 
-*   [Flitter (⭐188)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
+*   [Flitter (⭐187)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.

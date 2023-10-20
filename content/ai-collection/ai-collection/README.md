@@ -6,6 +6,80 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Oct 20, 2023](/content/2023/10/20/README.md)
+
+### Idea Generation
+
+- Name: [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: AI Date Idea Generator by My Spicy Vanilla.
+
+  Description: AI Date Idea Generator by My Spicy Vanilla is a tool that utilizes AI to generate unique date night plans.  To use the tool, users are prompted to fill out a form with basic information such as category, location, budget, duration, and time of day.  Once submitted, our AI curates a tailor-made date description, providing helpful tips, product recommendations to elevate the experience/.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Meeting Assistant
+
+- Name: [Avoma](https://www.thataicollection.com/redirect/avoma?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Accelerate your team’s productivity and company’s revenue growth.
+
+  Description: The leading AI Meeting Assistant and Revenue Intelligence solution. All in one place, not all over the place. AI Meeting Assistant - Get transcript and AI notes to focus on conversations. Meeting Collaboration - Collaborate with cross-functional teams for better alignment. Conversation & Revenue Intelligence - Learn critical insights for data-driven decisions and coaching.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Fathom](https://www.thataicollection.com/redirect/fathom?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Upgrade your productivity with your own free AI Meeting Assistant.
+
+  Description: Fathom records, transcribes, highlights, and summarizes your meetings so you can focus on the conversation. Get setup in minutes.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Otter](https://www.thataicollection.com/redirect/otter?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Otter - Regain your schedule with Otter.
+
+  Description: Get an AI meeting assistant that records audio, writes notes, captures action items, and generates summaries. Write Notes and Summarize Meetings 30x faster, Save time with Automated Meeting Notes. Get answers instantly, Keep everyone aligned with Live Summary.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Sembly AI](https://www.thataicollection.com/redirect/sembly-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Sembly AI - The smartest AI team assistant.
+
+  Description: Sembly transcribes, takes meeting notes, and generates insights for your professional meetings. Make all your meetings productive: Meeting notes for every meeting, Find any past meeting any time, Recall your past meetings, Enjoy AI meeting summaries, Stay informed without attending, Automate your follow-ups.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [tl;dv](https://www.thataicollection.com/redirect/tl;dv?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: We take your meeting notes. You run the show.
+
+  Description: The meeting recorder that transcribes & summarizes your calls with customers, prospects, and your team.  Automatically Record and Transcribe Zoom and Google Meet, Automatically Record and Transcribe Zoom and Google Meet, Focus on the conversation. AI will take your notes, Tell a powerful story with bite-sized customer clips.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Sales & Marketing
+
+- Name: [FlashIntel](https://www.thataicollection.com/redirect/flashintel?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: FlashIntel: Elevate revenue strategies. ☁.
+
+  Description: Introducing FlashIntel: A premier Go-to-Market Intelligence company that strengthens revenue teams by improving their capacity to discover and connect with ideal customer profiles. Our all-inclusive solutions combine sales intelligence and engagement functionalities within a unified platform, allowing revenue teams to refine their workflows and concentrate on achieving enhanced performance.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Oct 14, 2023](/content/2023/10/14/README.md)
 
 ### Art & Image Generator
@@ -32,7 +106,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
-### Meeting Summary
+### Meeting Assistant
 
 - Name: [Wudpecker](https://www.thataicollection.com/redirect/wudpecker?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
@@ -4029,7 +4103,16 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
-### Meeting Summary
+### Meeting Assistant
+
+- Name: [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Fireflies.Ai - Automate your meeting notes - Notetaker & Conversation Intelligence.
+
+  Description: Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations. Automatically record and transcribe meetings, Find anything with AI-Powered Search, Collaborate with your co-workers, Analyze meetings using conversation intelligence.
+
+  Offer Free Version: :white\_check\_mark:
+
 
 - Name: [Jamie](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
@@ -6566,6 +6649,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Your AI Video Toolkit - Create, Dub & Personalise Videos.
+
+  Description: The future of video is AI Generated, Ultra Localised & Hyper Personalised. With Yepic AI, anyone can create and translate talking head style videos in minutes without expensive cameras, actors or studios.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ### Web Design
 
@@ -7372,15 +7464,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Exactbuyer - AI Powered Business Search for Prospecting Teams.
 
   Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Fireflies.Ai - Fireflies AI Notetaker & Conversation Intelligence.
-
-  Description: Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
 
   Offer Free Version: :grey\_question:
 
@@ -8425,15 +8508,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Writer - AI Writing Platform for Teams.
 
   Description: World-class companies use Writers AI writing platform to unlock on-brand content at scale.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Your AI Video Toolkit - Create, Dub & Personalise Videos.
-
-  Description: Create, Dub and Personalise Videos Anywhere.
 
   Offer Free Version: :grey\_question:
 

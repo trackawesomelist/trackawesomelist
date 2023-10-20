@@ -12,6 +12,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [GoatCounter](https://www.goatcounter.com/) - Privacy aware, lightweight and open-source analytics platform.
 
+### Commenting Engines
+
+*   [Cusdis (⭐2.4k)](https://github.com/djyde/cusdis) - Lightweight, privacy-friendly alternative to Disqus.
+*   [Disgus (⭐36)](https://github.com/carlitoplatanito/disgus) - Embeddable comments for your website, backed by Nostr. Like Disqus but Nostr.
+
 ### Creator Tools
 
 *   [vdo.ninja](https://vdo.ninja/) - Powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
@@ -246,8 +251,8 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Commenting Engines
 
 *   **Disqus** - Many trackers are in their sites. Disqus collects (as per their Privacy Policy):  IP address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
-*   [Isso (⭐4.9k)](https://github.com/posativ/isso) - A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
 *   [Commento](https://commento.io/) - Commento is a fast, privacy-focused commenting platform. Can be selfhosted or use their SaaS.
+*   [Isso (⭐4.9k)](https://github.com/posativ/isso) - A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
 *   [Remark42](https://remark42.com) - Self-hosted, lightweight, and simple (yet functional) comment engine, which doesn't spy on users.
 
 ### Notes and Tasks
@@ -278,7 +283,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Self-hosted
 
-*   [Memos (⭐19k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐20k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ### Blogging platforms (Medium)
 
@@ -384,7 +389,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Reddit
 
-*   [Kbin (⭐700)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Kbin (⭐702)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 *   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
@@ -405,11 +410,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### File Management and Sharing
 
-*   [Paperless-ngx (⭐10k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐11k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐7k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐7.1k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ### PC / MacOS
 
@@ -450,8 +455,8 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
 *   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
-*   [Shiori (⭐7.9k)](https://github.com/go-shiori/shiori)
-*   [LinkAce (⭐2.1k)](https://github.com/Kovah/LinkAce)
+*   [Shiori (⭐8k)](https://github.com/go-shiori/shiori)
+*   [LinkAce (⭐2.2k)](https://github.com/Kovah/LinkAce)
 *   [LinkDing (⭐4.1k)](https://github.com/sissbruecker/linkding)
 
 ### Cloud Storage
@@ -469,7 +474,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Pastebin and Secret Sharing
 
 *   [Yopass (⭐1.4k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
-*   [PrivateBin (⭐5.3k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+*   [PrivateBin (⭐5.4k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ### Sonic the Hedgehog
 
@@ -598,7 +603,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Search Engines
 
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
-    *   [SearxNG (⭐5.6k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
+    *   [SearxNG (⭐5.7k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -631,7 +636,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
 *   [Immich (WIP) (⭐20k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐5.9k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [LibrePhotos (⭐6k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
 
 ### Search Engines
 
@@ -842,7 +847,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Alternative Frontends
 
-*   [Nitter (⭐8.4k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐8.5k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.4k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android (feed no longer available).
         *   *   [Squawker (⭐281)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
 
@@ -1134,7 +1139,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Search Engines
 
 *   Bing
-*   [Whoogle Search (⭐7.9k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+*   [Whoogle Search (⭐8k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
 
 ### YouTube
@@ -1160,7 +1165,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Streaming Platforms (Twitch)
 
-*   [Owncast (⭐8.2k)](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+*   [Owncast (⭐8.3k)](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
 *   [livego (⭐9.2k)](https://github.com/gwuhaolin/livego) - Live video streaming server in golang.
 
 ### Teamworking Tools
@@ -1239,7 +1244,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Video and Audio
 
-*   [Dim (⭐3.4k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+*   [Dim (⭐3.5k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 

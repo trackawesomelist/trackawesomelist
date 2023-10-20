@@ -6,11 +6,17 @@ Useful resources for Silverstripe CMS and framework
 
 [ Daily / [Weekly](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md) / [Overview](/content/wernerkrauss/awesome-silverstripe-cms/readme/README.md) ]
 
+## [Oct 20, 2023](/content/2023/10/20/README.md)
+
+### Site Search
+
+*   [Elastic search (⭐0)](https://github.com/firesphere/silverstripe-elastic) - Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module.
+
 ## [Jul 27, 2023](/content/2023/07/27/README.md)
 
 ### Virtualisation / Docker
 
-*   [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS
+*   [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -39,7 +45,7 @@ Useful resources for Silverstripe CMS and framework
 
 ### Management
 
-*   [SSPak (⭐45)](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
+*   [SSPak (⭐46)](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
 *   [SSPy (⭐1)](https://github.com/Firesphere/silverstripe-sspy) - Python version of SSPak, that can handle assets more than 2GB.
 
 ### IDE Plugins
@@ -60,7 +66,7 @@ Useful resources for Silverstripe CMS and framework
 
 ### Site Search
 
-*   [Solr search (⭐10)](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
+*   [Solr search (⭐10)](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
 
 ## [Oct 11, 2020](/content/2020/10/11/README.md)
 
@@ -68,8 +74,8 @@ Useful resources for Silverstripe CMS and framework
 
 *   [Silverstripe Searchable (⭐13)](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
 *   [Searchable DataObjects (⭐25)](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
-*   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
-*   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 instance for local development.
+*   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4 (EOL).
+*   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 (EOL) instance for local development.
 
 ## [Oct 08, 2020](/content/2020/10/08/README.md)
 
@@ -118,8 +124,8 @@ Useful resources for Silverstripe CMS and framework
 
 ### Development Helpers
 
-*   [Debugbar (⭐54)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
-*   [IdeAnnotator (⭐43)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
+*   [Debugbar (⭐53)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
+*   [IdeAnnotator (⭐44)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
 *   [Populate (⭐24)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 *   [Mock DataObjects (⭐18)](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
 *   [Version Truncator (⭐34)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
