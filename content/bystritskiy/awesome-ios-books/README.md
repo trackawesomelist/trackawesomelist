@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Oct 20, 2023](/content/2023/10/20/README.md)
+
+### Reverse Engineering
+
+*   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
+
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Swift

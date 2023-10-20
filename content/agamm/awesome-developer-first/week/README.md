@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
+
+### Deployment Hosting
+
+*   [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab or Bitbucket and host headless WordPress.
+
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
 ### Deployment Hosting
@@ -28,7 +34,7 @@ A curated list of awesome developer-first tools products.
 
 ### Natural Language Processing
 
-*   [CometLLM (⭐241)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [CometLLM (⭐270)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 

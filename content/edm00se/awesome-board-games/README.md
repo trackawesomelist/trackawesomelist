@@ -6,6 +6,34 @@ A curated list of awesome and exceptional board games. Please contribute!
 
 [ Daily / [Weekly](/content/edm00se/awesome-board-games/week/README.md) / [Overview](/content/edm00se/awesome-board-games/readme/README.md) ]
 
+## [Oct 20, 2023](/content/2023/10/20/README.md)
+
+### Party
+
+### [Forest Shuffle](https://boardgamegeek.com/boardgame/391163/forest-shuffle)
+
+> In Forest Shuffle, players compete to gather the most valuable trees, then attract species to these trees, thus creating an ecologically balanced habitat for flora and fauna.To start, each player has six cards in hand, with cards depicting either a particular type of tree or two forest dwellers (animal, plant, mushroom, etc.), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.On a turn, either draw two cards — whether face down from the deck or face up from the clearing — and add them to your hand, or play a card from your hand by paying the cost, then putting it into play.Each tree and dweller shows a cost, and to pay this cost, you must discard cards from your hand into the clearing face up. If you play a tree, flip the top card of the deck into the clearing, then place the tree in front of you. If you play a dweller, pay only the cost on the dweller you choose, then slide this card under a tree that has an empty side that matches the dweller you want to play. (A tree can have cards played on all four sides of it: top, bottom, left, and right.)
+
+![Forest Shuffle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk96Soxg16hec_i8-hs_hOnxn7dNJhRFfqBfomV7lc48kaTczCHxUyWCJw2GGZwfQzOl4\&usqp=CAU)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |       10 | 40-60m |
+
+### Contribute
+
+### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
+
+> Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
+
+![Dice Forge](https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__itemrep/img/0hqPt1oo9J1GxmHqluUP-QC7xII=/fit-in/246x300/filters:strip_icc\(\)/pic3477004.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  45m |
+
+Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
+
 ## [Oct 19, 2023](/content/2023/10/19/README.md)
 
 ### Family
@@ -60,7 +88,7 @@ A curated list of awesome and exceptional board games. Please contribute!
 | ------: | -------: | ---: |
 |       2 |        8 |  20m |
 
-### Contribute
+### Party
 
 ### [Outfoxed](https://boardgamegeek.com/boardgame/172931/outfoxed)
 
@@ -71,8 +99,6 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |        5 |  20m |
-
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 

@@ -176,6 +176,7 @@ For the latest additions [click here (⭐623)](https://github.com/agamm/awesome-
 *   [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 *   [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 *   [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
+*   [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab or Bitbucket and host headless WordPress.
 *   [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
 *   [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 *   [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
@@ -329,7 +330,7 @@ For the latest additions [click here (⭐623)](https://github.com/agamm/awesome-
 
 *Interactions with natural language.*
 
-*   [CometLLM (⭐241)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [CometLLM (⭐270)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration

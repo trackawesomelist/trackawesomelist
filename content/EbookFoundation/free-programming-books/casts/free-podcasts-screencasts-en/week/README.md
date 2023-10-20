@@ -2,9 +2,29 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 260K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 300K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/readme/README.md) ]
+
+## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
+
+### C#
+
+*   [Keep Coding Podcast](https://www.youtube.com/playlist?list=PL3bCPMOBNeGwG1fkIs6FCF7_jpeVgQLS0) - Nick Chapsas (podcast)
+
+## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
+
+### C#
+
+*   [General .NET videos](https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL) - Nick Chapsas(screencast)
+
+### PostgreSQL / React.js
+
+*   [Postgres FM](https://postgres.fm) - Michael Christofides, Nikolay Samokhvalov (podcast)
+
+### Ruby / React.js
+
+*   [Ruby for All](https://rubyforall.com) - Andrew Mason, Julie J (podcast)
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -67,10 +87,6 @@
 *   [Talking Code](https://podcasts.apple.com/us/podcast/talking-code/id988073177) - Josh Smith, Venkat Dinavahi (podcast)
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
-
-### C++
-
-*   [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
 
 ### Cloud computing
 

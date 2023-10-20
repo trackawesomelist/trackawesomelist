@@ -12,6 +12,10 @@
 
 *   [*Swift Apprentice: Beyond the Basics* by Eli Ganim, Ehab Amer, Matt Galloway](https://www.kodeco.com/books/swift-apprentice-beyond-the-basics)
 
+### Reverse Engineering
+
+*   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Database
