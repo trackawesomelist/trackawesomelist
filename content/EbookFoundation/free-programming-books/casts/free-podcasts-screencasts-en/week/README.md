@@ -12,6 +12,11 @@
 
 *   [Keep Coding Podcast](https://www.youtube.com/playlist?list=PL3bCPMOBNeGwG1fkIs6FCF7_jpeVgQLS0) - Nick Chapsas (podcast)
 
+### C++
+
+*   [cpp.chat](https://cpp.chat) - Jon Kalb, Phil Nash (podcast)
+*   [No Diagnostic Required](https://nodiagnosticrequired.tv) - Anastasia Kazakova, Phil Nash (podcast)
+
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
 ### C#

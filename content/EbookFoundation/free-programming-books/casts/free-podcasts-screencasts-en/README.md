@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/readme/README.md) ]
 
+## [Oct 21, 2023](/content/2023/10/21/README.md)
+
+### C++
+
+*   [cpp.chat](https://cpp.chat) - Jon Kalb, Phil Nash (podcast)
+*   [No Diagnostic Required](https://nodiagnosticrequired.tv) - Anastasia Kazakova, Phil Nash (podcast)
+
 ## [Oct 20, 2023](/content/2023/10/20/README.md)
 
 ### C#

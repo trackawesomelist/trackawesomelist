@@ -46,7 +46,7 @@ A curated list of awesome qubes os links
 
 A security-focused desktop operating system that aims to provide security through isolation.
 
-This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto (⭐272k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto (⭐274k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -127,7 +127,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Building (⭐5)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
 *   [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
 *   [Qubes OS 4.1.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1.1 download.
-*   [Qubes OS 4.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1.2 Weekly Build download.
+*   [Qubes OS 4.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2 Weekly Build download.
 *   [Upgrading](https://www.qubes-os.org/doc/upgrade/) - These guides are for upgrading from one version of Qubes to another.
 
 ## How-to guides
@@ -230,6 +230,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Clearnet & Anonymous Networking
 
+### DNS
+
+*   [dnscrypt-proxy](https://forum.qubes-os.org/t/guide-how-to-setup-a-sys-dns-qube/13749) -  Run dnscrypt-proxy inside of sys-net to encrypt and secure dns-requests.
+
 ### Wireguard
 
 *   [Mullvad VPN (FE36 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
@@ -279,7 +283,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Exploitation Tools
 
-*   [Awesome-Fuzzing (⭐696)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [Awesome-Fuzzing (⭐700)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [AFL++ (⭐4k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 *   [Bonzai (⭐138)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
@@ -418,7 +422,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 
 ## Adventure Further
 
-*   Adventures start here ---> [Adventure Here! (⭐272k)](https://github.com/sindresorhus/awesome) - All the awesome list.
+*   Adventures start here ---> [Adventure Here! (⭐274k)](https://github.com/sindresorhus/awesome) - All the awesome list.
     **[⬆ back to top](#awesome-qubes-os-)**
 
 `:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X`
