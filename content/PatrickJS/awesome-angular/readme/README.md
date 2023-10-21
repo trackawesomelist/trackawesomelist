@@ -241,6 +241,7 @@ Table of contents:
 *   [List of 100 Angular Interview questions and answers (⭐3.5k)](https://github.com/sudheerj/angular-interview-questions)
 *   [Angular References](https://ngrefs.com)
 *   [Angular Developer Roadmap](https://roadmap.sh/angular)
+*   [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
 
 #### Features
 
@@ -295,6 +296,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 *   [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 *   [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
+*   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri)
 
 ##### Ahead-of-Time Compilation
 
@@ -521,6 +523,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 *   [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 *   [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
+*   [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests.
 
 #### TodoMVC
 
@@ -586,6 +589,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [angular2-froala-wysiwyg (⭐725)](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
 *   [ng2-ace (⭐32)](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
 *   [ng2-quill-editor (⭐228)](https://github.com/surmon-china/ngx-quill-editor) - Quill editor component for Angular2
+*   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+
 
 #### File Upload
 
@@ -612,6 +616,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [ngx-flag-picker (⭐14)](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
 *   [ngx-flexible-select (⭐6)](https://github.com/andreysyagrovskiy/ngx-flexible-select) - The most flexible and customized select
 *   [ngx-recursive-form (⭐36)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input.
+*   [ngx-translation-validation (⭐2)](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language
 
 #### Icons
 
@@ -629,6 +634,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Layout Components
 
+*   [@robingenz/ngx-infinite-scroll (⭐3)](https://github.com/robingenz/ngx-infinite-scroll) Simple Angular directive for infinite scrolling.
 *   [angular-fullpage (⭐167)](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
 *   [angular-split (⭐771)](https://github.com/bertrandg/angular-split) Angular split component
 *   [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
@@ -652,6 +658,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [ngx-config (⭐145)](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
 *   [ngx-img-fallback (⭐82)](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
 *   [ngx-progressbar (⭐972)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
+*   [@dotglitch/ngx-lazy-loader (⭐1)](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components.
 
 #### Maps
 
@@ -679,6 +686,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [ngx-cache (⭐156)](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 *   [universal-model-angular (⭐8)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
 *   [ng-http-caching (⭐33)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+*   [akita (⭐3.7k)](https://github.com/datorama/akita/) - A Reactive State Management Tailored-Made for JS Applications
 *   [ng-simple-state (⭐37)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
 #### Tables
@@ -697,20 +705,23 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 *   [@ngx-kit/sula (⭐18)](https://github.com/ngx-kit/sula) - Set of themed components for Angular.
 *   [Axponents: of Accessible Web Components (Dylan Barrell) (⭐20)](https://github.com/dylanb/Axponents/tree/master/angular2)
+*   [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite
 *   [Element Angular (⭐527)](https://github.com/ElemeFE/element-angular) - Element Design components built on top of Angular 2
 *   [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
+*   [ExtAngular](https://www.sencha.com/products/extangular/) - Sencha ExtAngular Pre-built UI Components
 *   [Nebular (⭐7.9k)](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
 *   [NG ZORRO MOBILE (⭐787)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 *   [NG ZORRO (⭐8.6k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 *   [ng-lightning (⭐914)](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 *   [ng-metro4 (⭐38)](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
-*   [ng-sq-ui (⭐98)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers! [![contributions welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=flat)](https://github.com/SQ-UI/ng-sq-ui/issues) [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
+*   [ng-sq-ui (⭐98)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers!
 *   [ngSemantic (⭐980)](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 *   [ngx-qrcode2 (⭐192)](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
 *   [ngx-ui (⭐692)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 *   [prime-ng](https://www.primefaces.org/primeng/) Collection of rich UI components for Angular 2
 *   [vmware clarity (⭐6.4k)](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 *   [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
+*   [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
 *   [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
 
 ##### Material Based
@@ -779,6 +790,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [xng-breadcrumb (⭐212)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 *   [ng-let (⭐42)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐25)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
+*   [ngx-observers (⭐0)](https://github.com/Raiper34/ngx-observers) - Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
 
 ### JAM Stack
 

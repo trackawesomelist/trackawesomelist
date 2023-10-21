@@ -6,6 +6,50 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Oct 21, 2023](/content/2023/10/21/README.md)
+
+### Cheatsheet
+
+*   [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
+
+### Test / Components
+
+*   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri)
+
+### Developer tools / Components
+
+*   [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests.
+
+### Editor Components / Components
+
+*   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+
+
+### Form Controls / Components
+
+*   [ngx-translation-validation (⭐2)](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language
+
+### Layout Components / Components
+
+*   [@robingenz/ngx-infinite-scroll (⭐3)](https://github.com/robingenz/ngx-infinite-scroll) Simple Angular directive for infinite scrolling.
+
+### Loaders / Components
+
+*   [@dotglitch/ngx-lazy-loader (⭐1)](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components.
+
+### State Management / Components
+
+*   [akita (⭐3.7k)](https://github.com/datorama/akita/) - A Reactive State Management Tailored-Made for JS Applications
+
+### General / Components
+
+*   [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite
+*   [ExtAngular](https://www.sencha.com/products/extangular/) - Sencha ExtAngular Pre-built UI Components
+*   [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
+
+### Misc Components / Components
+
+*   [ngx-observers (⭐0)](https://github.com/Raiper34/ngx-observers) - Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
+
 ## [Oct 19, 2023](/content/2023/10/19/README.md)
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -483,7 +527,7 @@
 *   [NG ZORRO (⭐8.6k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 *   [ng-lightning (⭐914)](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 *   [ng-metro4 (⭐38)](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
-*   [ng-sq-ui (⭐98)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers! [![contributions welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=flat)](https://github.com/SQ-UI/ng-sq-ui/issues) [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
+*   [ng-sq-ui (⭐98)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers!
 *   [ngSemantic (⭐980)](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 *   [ngx-qrcode2 (⭐192)](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
 *   [ngx-ui (⭐692)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!

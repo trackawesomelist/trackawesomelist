@@ -1,12 +1,23 @@
 # Awesome List Updates on Oct 16 - Oct 22, 2023
 
-64 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [1. Magictools](/content/ellisonleao/magictools/week/README.md)
+
+### Communities / Voxel Editors
+
+*   [Reddit r/gamedev](https://www.reddit.com/r/gamedev/)
+*   [Game Dev League](https://discord.com/invite/gamedev)
+*   [Reddit r/IndieGaming](https://www.reddit.com/r/IndieGaming/)
+*   [Brackeys Discord](https://discord.gg/brackeys)
+*   [Brackeys Forum](https://forum.brackeys.com/)
+*   [GameDev.tv](https://community.gamedev.tv/)
+
+## [2. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Idea Generation
 
@@ -80,7 +91,7 @@
 
 
 
-## [2. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Media
 
@@ -90,7 +101,7 @@
 
 *   [Ejimo (⭐28)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -105,13 +116,13 @@
 
 *   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
-## [4. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
+## [5. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
 
 ### Site Search
 
 *   [Elastic search (⭐0)](https://github.com/firesphere/silverstripe-elastic) - Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module.
 
-## [5. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [6. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Reverse Proxy
 
@@ -121,13 +132,17 @@
 
 *   [uniget (⭐0)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Money, Budgeting & Management
+
+*   [Galette](https://galette.eu/) - Galette is a membership management web application towards non profit organizations. ([Source Code](https://git.tuxfamily.org/galette/galette.git/)) `GPL-3.0` `PHP`
 
 ### Software / URL Shorteners
 
 *   [rs-short](https://git.42l.fr/42l/rs-short) - A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`
 
-## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
@@ -135,7 +150,7 @@
 *   [Starforged Custom Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starforged-custom-oracles) - A FoundryVTT compendium of the fan-created oracles for the Ironsworn: Starforged system
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
 
-## [8. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [9. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
@@ -145,13 +160,13 @@
 
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 
-## [9. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+## [10. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
 
 ### C#
 
 *   [Keep Coding Podcast](https://www.youtube.com/playlist?list=PL3bCPMOBNeGwG1fkIs6FCF7_jpeVgQLS0) - Nick Chapsas (podcast)
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / Beginner Guides
 
@@ -169,19 +184,19 @@
 
 *   [Speakeasy](https://www.speakeasyapi.dev/) - Generate a terraform provider from an OpenAPI specification.
 
-## [11. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [12. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Functions
 
 *   [munch](https://hackage.haskell.org/package/base-4.19.0.0/docs/Text-ParserCombinators-ReadP.html#v:munch) - Parser function that greedily consumes an input stream until it's satisfied.
 
-## [12. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [13. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Integration
 
 *   [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
-## [13. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [14. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
@@ -244,37 +259,79 @@
 *   [LinkedIn](https://www.linkedin.com/groups/13657731/)
 *   [Blog](https://typedb.com/blog)
 
-## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
 *   [listr2 (⭐398)](https://github.com/listr2/listr2) - Terminal task list.
 
-## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [16. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Machine Learning
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 
-## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Fabio Biondi](https://github.com/fabiobiondi)
 
-## [17. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+### Cheatsheet
+
+*   [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
+
+### Test / Components
+
+*   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri)
+
+### Developer tools / Components
+
+*   [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests.
+
+### Editor Components / Components
+
+*   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+
+
+### Form Controls / Components
+
+*   [ngx-translation-validation (⭐2)](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language
+
+### Layout Components / Components
+
+*   [@robingenz/ngx-infinite-scroll (⭐3)](https://github.com/robingenz/ngx-infinite-scroll) Simple Angular directive for infinite scrolling.
+
+### Loaders / Components
+
+*   [@dotglitch/ngx-lazy-loader (⭐1)](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components.
+
+### State Management / Components
+
+*   [akita (⭐3.7k)](https://github.com/datorama/akita/) - A Reactive State Management Tailored-Made for JS Applications
+
+### General / Components
+
+*   [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite
+*   [ExtAngular](https://www.sencha.com/products/extangular/) - Sencha ExtAngular Pre-built UI Components
+*   [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
+
+### Misc Components / Components
+
+*   [ngx-observers (⭐0)](https://github.com/Raiper34/ngx-observers) - Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
+
+## [18. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
 
-## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [StorageBox (⭐10)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 
-## [19. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [20. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -284,7 +341,7 @@
 
 *   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
 
-## [20. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
@@ -296,13 +353,13 @@
 *   [BugProve](https://www.bugprove.com) :copyright: — BugProve is a firmware analysis platform featuring both static and dynamic analysis techniques to discover memory corruptions, command injections and other classes or common weaknesses in binary code. It also detects vulnerable dependencies, weak cryptographic parameters, misconfigurations, and more.
 *   [OpenRewrite](https://docs.openrewrite.org/) — OpenRewrite [fixes common static analysis issues](https://docs.openrewrite.org/running-recipes/popular-recipe-guides/common-static-analysis-issue-remediation)  reported through Sonar and other tools using a Maven and Gradle plugin or the Moderne CLI.
 
-## [21. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [22. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Chatbots
 
 *   [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 
-## [22. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [23. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
@@ -312,7 +369,7 @@
 
 *   [MesoSim Options Trading Strategy Library (⭐1)](https://github.com/deltaray-io/strategy-library) - Free and public Options Trading strategy library for MesoSim.
 
-## [23. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [24. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
@@ -329,7 +386,7 @@
 *   [Machine Learning with Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo60l16AWCJJHLE6liGPqa7u\&si=uNsH5I7GUojXeJmw) ⏳ 6 videos - A playlist of 6 videos that analyzing and cleaning data using Polars to train machine learning models by [Joram Mutenge](https://www.linkedin.com/in/jorammutenge/).
 *   [Pandas and Polars with Marco Gorelli](https://thebakery.dev/68/) ⏳ `55 min` - A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [24. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [25. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### LangChain Framework
 
@@ -361,7 +418,7 @@
 
 *   [Awesome Language Agents (⭐326)](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
 
-## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Theory of Concepts
 
@@ -379,7 +436,7 @@
 
 *   [Song-Chun Zhu](https://zhusongchun.net/) - ***School of AI and Institute for AI, Peking University (PKU)***.
 
-## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [27. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Books
 
@@ -393,13 +450,13 @@
 
 *   [How to: Keycloak - ASP.NET Core - Angular (⭐13)](https://github.com/fschick/Keycloak.ASPNet.Angular)
 
-## [27. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [28. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Tools
 
 *   [cwe\_checker (⭐957)](https://github.com/fkie-cad/cwe_checker) - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 
-## [28. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [29. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Analytics
 
@@ -424,13 +481,13 @@
 
 *   [Mint (Cinnamon)](https://linuxmint.com/edition.php?id=305) is a beginner friendly distribution.
 
-## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [30. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [CakeFuzzer (⭐80)](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -450,13 +507,13 @@
 
 *   [rmk (⭐1)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 
-## [31. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
 *   [dialog (⭐11)](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
 
-## [32. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [33. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / User Interfaces
 
@@ -470,13 +527,13 @@
 
 *   [Waterproof proof language (⭐22)](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
 
-## [33. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### OS and Kernels / MIT
 
 *   [ironclad](https://ironclad.cx/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐33)](https://github.com/streaksu/Gloire).
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
@@ -486,25 +543,25 @@
 
 *   [Crystal newsletters](https://crystal-lang.org/#newsletter)
 
-## [35. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
+## [36. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
 ### Online Community
 
 *   [Exercism's Common Lisp track](https://exercism.org/tracks/common-lisp) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 
-## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Utils / Third-party APIs
 
 *   ⭐ [lparallel (⭐9)](https://github.com/sharplispers/lparallel) - A library for parallel programming. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Originally on [lmj/lparallel (⭐235)](https://github.com/lmj/lparallel).
 
-## [37. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [38. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### End-user applications / XML
 
 *   [tshare (⭐75)](https://github.com/trikko/tshare) - fast file sharing from cli, using transfer.sh
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
@@ -538,7 +595,7 @@
 *   [libenvpp (⭐101)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
 *   [StringZilla (⭐851)](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
 
-## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -552,7 +609,7 @@
 
 *   [Async Elixir (⭐113)](https://github.com/Arp-G/async-elixir) - Dive into Elixir's world of concurrency and processes with this interactive Livebook.
 
-## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [41. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### HTML/XML Parsing
 
@@ -562,7 +619,7 @@
 
 *   [ruby-clock (⭐65)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
 
-## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -648,7 +705,7 @@
 
 *   [Go with the domain](https://threedots.tech/go-with-the-domain/) - A book showing how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 
-## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -689,7 +746,7 @@
 
 *   [idletea/tokio-socketcan (⭐33)](https://github.com/idletea/tokio-socketcan) \[[tokio-socketcan](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
 
-## [43. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [44. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
@@ -727,13 +784,13 @@
 
 *   [treelite (⭐688)](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
 
-## [44. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [45. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [Verticalize (⭐285)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 
-## [45. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [46. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -834,13 +891,13 @@
 *   [Protocol Buffers (⭐61k) (⭐61k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐271) (⭐271)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [47. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) (October, 2023)
 
-## [47. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [48. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -871,13 +928,13 @@
 *   [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
 *   [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
 
-## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Theory
 
 *   [Complex Systems (⭐90)](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 
-## [49. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [50. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -888,7 +945,7 @@
 *   [monorepo-template-react (⭐39)](https://github.com/stormkit-io/monorepo-template-react) - React + Typescript template for SSR, SPG, SPA and API provision.
 *   [vite-react-dapp-template (⭐0)](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
 
-## [50. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [51. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -977,13 +1034,13 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [51. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [52. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [warcdb (⭐378)](https://github.com/florents-Tselai/warcdb) - A command line utility (Python) for importing WARC files into a SQLite database. *(Stable)*
 
-## [52. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [53. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -1199,6 +1256,44 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
+### [Bruxelles 1893](https://boardgamegeek.com/boardgame/144592/bruxelles-1893)
+
+> Bruxelles 1893 is a worker placement game with elements of bidding and majority control. Each player is an architect of the late 19th century and is trying to achieve, through various actions, an architectural work in the Art Nouveau style. The most successful building yields the most points. Each player can also create works of art to increase his score.The action board is modular, with not every player having access to each action each turn. Some actions cost money – acquiring high-quality materials, building a level of your personal house, finding a patron, creating a work of art, selling that art for money and prestige – while other actions are free but can potentially cause you to lose one of your workers; these latter actions include acquiring low-quality materials, activating your patrons, visiting the stock exchange, and taking one of the actions with a cost. Once everyone has passed on taking more actions, the round ends and players have an art exhibition during which they can sell works. After this, players receive prestige points or bonus cards based on the symbols they've placed their workers next to on the action board.After five rounds, the game ends and players score bonus points based on their architect level, their bonus cards, how well they've completed their work, and their money on hand. The player with the most points wins.
+
+![Bruxelles 1893](https://cf.geekdo-images.com/sDga04VbcuQdapSSJme-Tg__itemrep/img/aui_nJkuW72phCvPezxpp5Pnw7M=/fit-in/246x300/filters:strip_icc\(\)/pic1726346.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 5 |       13 | 50-125m |
+### [Here I Stand](https://boardgamegeek.com/boardgame/17392/here-i-stand)
+
+> Here I Stand is the first card-driven game to prominently feature secret deal-making. A true six-sided diplomatic struggle, the game places a heavy emphasis on successful alliance-building through negotiations that occur away from the table during the pre-turn Diplomacy Phase. Set during the period in which Niccolò Machiavelli published his masterpiece "The Prince," backstabbing is always possible, especially because the card deck is loaded with event and response cards that can be played by any power to disrupt the plans of the powers in the lead.Here I Stand integrates religion, politics, economics, and diplomacy in a card-driven design. Games vary in length from 3–4 hours for a tournament scenario up to full campaign games that run about twice the time. Rules to play games with 3, 4, or 5 players are also included. The 3-player game is just as well balanced as the standard 6-player configuration, taking advantage of the natural alliances of the period.
+
+![Here I Stand](https://cf.geekdo-images.com/SaJz1vt6j4njvkhDaplSHA__itemrep/img/28KXJz7JsY47i1eKS6TRY_elzYg=/fit-in/246x300/filters:strip_icc\(\)/pic353047.jpg)
+
+| Players | Min. Age |     Time |
+| ------: | -------: | -------: |
+|   2 - 6 |       12 | 180-360m |
+### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-board-game)
+
+> In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
+
+![Space Marine: The Board Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kxMoBJRFMOhti-sS_IXqVau-oWahn1XkwQ\&usqp=CAU)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |       12 | 30-60m |
+### [Moon](https://boardgamegeek.com/boardgame/358386/moon)
+
+> Moon depicts an almost plausible rush to construct lunar bases that are attractive places to live and work for the people of Earth. The most prestigious base will become the new lunar capital!
+> The game employs the familiar "pick & pass" or "hand drafting" mechanism for players to select a new structure cards to add to their base. Each hand of cards represents a convoy of experts and equipment travelling between the players' outposts, giving the player the choice of one new construction each turn. In a new twist on the genre, each hand always contains one of a number of "Expedition" cards that grant a special free action every turn before passing on to the next player.Wooden lunar rover tokens are a neutral resource that add a worker placement element to the game. They are also used to break ties and so must be used with care.
+> Over the three distinct eras of the game, players compete for majority in 5 aspects of their bases: housing, transportation, science, industry, and food production. At the end of each era, the leader in each of these areas as determined by flag icons on their constructed buildings, collects bonus victory points.
+
+![Moon](https://cf.geekdo-images.com/5S4mv0txfpPBtvttcOThUg__itemrep/img/tDaLiIY58rhlKzdvCnfxf31QTZ0=/fit-in/246x300/filters:strip_icc\(\)/pic6742326.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 | 45-90m |
 ### [Risk](https://en.wikipedia.org/wiki/Risk_\(game\))
 
 > ...A strategy game of diplomacy, conflict and conquest. The standard version is played on a board depicting a political map of the world, divided into 42 territories, which are grouped into six continents.
@@ -1369,9 +1464,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
-
-### Contribute
-
 ### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
 
 > Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
@@ -1381,16 +1473,47 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  45m |
+### [Paperback](https://boardgamegeek.com/boardgame/141572/paperback)
+
+> You are a paperback author trying to finish novels for your editor. Complete Westerns, Science Fiction, Romance or even the rare Best-Seller. Live the dream — and maybe pay the bills.
+> Word-building meets deck-building in the unique game Paperback. Players start with a deck of letter cards and wild cards. Each hand they form words, and purchase more powerful letters based on how well their word scored. Most letters have abilities that activate when they are used in a word, such as drawing more cards or double letter score. Players buy wilds to gain victory points. Variant included for cooperative play.
+
+![Paperback](https://cf.geekdo-images.com/iZl2U-2BjftbWfLw5y25Vg__itemrep/img/q0jh-ilPLYilMgq_LUePnruriKM=/fit-in/246x300/filters:strip_icc\(\)/pic7069377.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  45m |
+### [Photosynthesis](https://boardgamegeek.com/boardgame/218603/photosynthesis)
+
+> Photosynthesis is a visually captivating board game that invites players to immerse themselves in the beauty of a forest's life cycle. In this game, you'll strategically grow and shape your trees as they strive to reach for the sun's nourishing light. With its unique 3D cardboard trees and a thematic focus on ecology, Photosynthesis provides not only a delightful gaming experience but also an educational one. Players must strategically position their trees to maximize sunlight exposure while casting shadows on their opponents' growth.
+
+![Photosynthesis](https://cf.geekdo-images.com/HhkYuVxMy-XrRCBWmZ78Eg__itemrep/img/WkJh5sVmz8F92ekuvSnHHebZA7I=/fit-in/246x300/filters:strip_icc\(\)/pic3364832.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  30m |
+
+### Contribute
+
+### [Kemet](https://boardgamegeek.com/boardgame/127023/kemet)
+
+> Kemet is a thrilling and strategic board game set in the mystical world of ancient Egypt. Players take on the roles of different Egyptian tribes vying for dominance. The game is known for its asymmetric powers, offering each tribe unique abilities and strengths. The goal is to build a powerful army, engage in epic battles, and conquer temples to gain victory points. With its rich theme, engaging battles, and diverse strategies, Kemet offers a dynamic and competitive gaming experience, where only the most cunning and powerful tribe will emerge victorious.
+
+![Kemet](https://cf.geekdo-images.com/IU-az-0jlIpoUxDHCCclNw__itemrep/img/hk01l3YMGIwS85fFnHjmaonYmnM=/fit-in/246x300/filters:strip_icc\(\)/pic6230640.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       13 |  90m |
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [53. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [54. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-spotify-playlists (⭐11)](https://github.com/danjeltahko/spotify-tmux) Another Spotify plugin, but for saving and playing your favorite playlists
 
-## [54. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [55. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Books and Resources
 
@@ -1404,19 +1527,19 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [bashunit (⭐119)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts
 
-## [55. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [56. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
 *   [Querybook (⭐1.6k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 
-## [56. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [57. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Tools & Scripts / AI
 
 *   [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 
-## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### IaaS
 
@@ -1435,13 +1558,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
 
-## [58. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [59. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [parens-8 (⭐6)](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
 
-## [59. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [60. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Web Development
 
@@ -1451,7 +1574,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Obsidian Rocks](https://obsidian.rocks/). Obsidian (the private and flexible writing app that adapts to the way you think) tips and tricks.
 
-## [60. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [61. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -1490,19 +1613,19 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [sontungexpt/stinvim (⭐1)](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
 
-## [61. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [62. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / General Tools
 
 *   [CleanMyMac X](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cleanmymac-x/id1339170533?mt=12)
 
-## [62. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [63. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Discussions and Philosophy / Papers Collections
 
 *   [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2)
 
-## [63. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [64. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1510,7 +1633,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [history-sync (vitobotta) (⭐4)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
 *   [history-sync (wulfgarpro) (⭐212)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
 
-## [64. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [65. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### LLMs
 
