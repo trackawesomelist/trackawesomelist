@@ -458,9 +458,6 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  30m |
-
-### Contribute
-
 ### [Kemet](https://boardgamegeek.com/boardgame/127023/kemet)
 
 > Kemet is a thrilling and strategic board game set in the mystical world of ancient Egypt. Players take on the roles of different Egyptian tribes vying for dominance. The game is known for its asymmetric powers, offering each tribe unique abilities and strengths. The goal is to build a powerful army, engage in epic battles, and conquer temples to gain victory points. With its rich theme, engaging battles, and diverse strategies, Kemet offers a dynamic and competitive gaming experience, where only the most cunning and powerful tribe will emerge victorious.
@@ -470,6 +467,27 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 5 |       13 |  90m |
+### [Imperial Settlers](https://boardgamegeek.com/boardgame/154203/imperial-settlers)
+
+> Imperial Settlers is a card game that lets players lead one of the four factions and build empires by placing buildings, then sending workers to those buildings to acquire new resources and abilities. The game is played over five rounds during which players take various actions in order to explore new lands, build buildings, trade resources, conquer enemies, and thus score victory points.
+
+![Imperial Settlers](https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__itemrep/img/fTfXILZ-2FIy12vUC3Fxix3RmzY=/fit-in/246x300/filters:strip_icc\(\)/pic2871265.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 45-90m |
+
+### Contribute
+
+### [Space Alert](https://boardgamegeek.com/boardgame/38453/space-alert)
+
+> Space Alert is a cooperative team survival game. Players become crew members of a small spaceship scanning dangerous sectors of the galaxy. The missions last just 10 real-time minutes (hyperspace jump, sector scan, hyperspace jump back) and the only task the players have is to protect their ship. During play, the central computer will announce the presence of various threats on one of the supplied 10 minute soundtracks that also acts as a game timer. The threats vary from space battleships and interceptors to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree who will take care of which task and coordinate their actions (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety. The game offers several difficulty levels, huge variability and a unique experience for one to five player teams. One mission lasts only about 30 minutes, including setup and evaluation.
+
+![Space Alert](https://cf.geekdo-images.com/tinE1f2lauIsEL4aC9aU-w__itemrep/img/BOGa_tAkG2aSoCtTlarj2JY4O3A=/fit-in/246x300/filters:strip_icc\(\)/pic384313.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       12 |  30m |
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 

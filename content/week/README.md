@@ -723,11 +723,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Stellar UI (⭐7)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) -  Vue integration with Tailwind CSS - a free, open-source UI Kit
 
-##### Components & Libraries / Utilities
+#### [51. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+
+##### Contents / Libraries
 
 *   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
-#### [51. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+#### [52. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ##### Contents / Media
 
@@ -737,7 +739,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Ejimo (⭐28)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
 
-#### [52. Ai Collection](/content/ai-collection/ai-collection/README.md)
+#### [53. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ##### Idea Generation
 
@@ -811,7 +813,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [53. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [54. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Miscellaneous Data Structures and Algorithms
 
@@ -897,7 +899,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Go with the domain](https://threedots.tech/go-with-the-domain/) - A book showing how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 
-#### [54. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [55. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Analytics
 
@@ -922,7 +924,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Mint (Cinnamon)](https://linuxmint.com/edition.php?id=305) is a beginner friendly distribution.
 
-#### [55. Magictools](/content/ellisonleao/magictools/README.md)
+#### [56. Magictools](/content/ellisonleao/magictools/README.md)
 
 ##### Communities / Voxel Editors
 
@@ -933,7 +935,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Brackeys Forum](https://forum.brackeys.com/)
 *   [GameDev.tv](https://community.gamedev.tv/)
 
-#### [56. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [57. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Money, Budgeting & Management
 
@@ -942,473 +944,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Software / URL Shorteners
 
 *   [rs-short](https://git.42l.fr/42l/rs-short) - A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`
-
-#### [57. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
-
-##### Family
-
-### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
-
-> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
->
-> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
->
-> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
->
-> The game has 2 22"x34" maps, 300 counters.
->
-> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
->
-> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
->
-> Losses can be applied to the HQ of a formation, not only directly to units.
->
-> Low counter density, high maneuver. Medium-high complexity.
-
-<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|    1 -2 |       12 | 360m |
-
-##### Strategy
-
-### [The Book of Pop-Up Board Games](https://boardgamegeek.com/boardgame/22626/book-pop-board-games)
-
-> There are four pop-up board games in this book. The games are, Space Escape, Pirate Treasure, Mummy Chase, & Save the Princess. Each game has a storage pocket to store the stand-up people. There is also a fold out spinner, that you use to move.
-
-![The Book of Pop-Up Board Games (1996)](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/27a63c2f-e87d-4457-b944-f0f1b2ef8f53)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       10 |  30m |
-### [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist)
-
-> This age of art and capitalism has created a need for a new occupation - The Gallerist.
-> Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote and nurture Artists; buy, display, and sell their Art; and build and exert your international reputation. As a result, you will achieve the respect needed to draw visitors to your Gallery from all over the world.
-> There's a lot of work to be done, but don't worry, you can hire assistants to help you achieve your goals. Build your fortune by running the most lucrative Gallery and secure your reputation as a world-class Gallerist!
-> Maximize your money and thus win the game by:
-
-![The Gallerist game image](https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc\(\)/pic2503200.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       13 | 60–150 Min |
-### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
-
-> Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
-
-![Lotería image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Loteria_boards.jpg/330px-Loteria_boards.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|       2 |        8 |  20m |
-### [Tzolk'in: The Mayan Calendar](https://boardgamegeek.com/boardgame/126163/tzolk-mayan-calendar)
-
-> Tzolkin: The Mayan Calendar presents a new game mechanism: dynamic worker placement. Players representing different Mayan tribes place their workers on giant connected gears, and as the gears rotate they take the workers to different action spots.
-> During a turn, players can either (a) place one or more workers on the lowest visible spot of the gears or (b) pick up one or more workers. When placing workers, they must pay corn, which is used as a currency in the game. When they pick up a worker, they perform certain actions depending on the position of the worker. Actions located "later" on the gears are more valuable, so it's wise to let the time work for you – but players cannot skip their turn; if they have all their workers on the gears, they have to pick some up.
-
-![Tzolk'in: The Mayan Calendar game image](https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__itemrep/img/8M-vck69HAdoJdStBZ8q91-7hRs=/fit-in/246x300/filters:strip_icc\(\)/pic4604439.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|     2–4 |       13 | 90 Min |
-### [Paladins of the West Kingdom](https://boardgamegeek.com/boardgame/266810/paladins-west-kingdom)
-
-> Paladins of the West Kingdom is set at a turbulent time of West Francia's story, circa 900 AD. Despite recent efforts to develop the city, outlying townships are still under threat from outsiders. Saracens scout the borders, while Vikings plunder wealth and livestock. Even the Byzantines from the east have shown their darker side. As noble men and women, players must gather workers from the city to defend against enemies, build fortifications and spread faith throughout the land. Fortunately you are not alone. In his great wisdom, the King has sent his finest knights to help aid in our efforts. So ready the horses and sharpen the swords. The Paladins are approaching.
-> The aim of Paladins of the West Kingdom is to be the player with the most victory points (VP) at game's end. Points are gained by building outposts and fortifications, commissioning monks and confronting outsiders. Each round, players will enlist the help of a specific Paladin and gather workers to carry out tasks. As the game progresses, players will slowly increase their faith, strength and influence. Not only will these affect their final score, but they will also determine the significance of their actions. The game is concluded at the end of the seventh round.
-
-![Paladins of the West Kingdom game image](https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__itemrep/img/2YT-EqfAb6vwxDSrFQMSm-luQAs=/fit-in/246x300/filters:strip_icc\(\)/pic4462987.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       12 | 90–120 Min |
-### [Concordia Venus](https://boardgamegeek.com/boardgame/256916/concordia-venus)
-
-> Concordia Venus is a standalone reimplementation of Concordia with some added features.
-> Concordia Venus is a peaceful strategy game of economic development in Roman times for 2-6 players aged 13 and up. Instead of looking to the luck of dice or cards, players must rely on their strategic abilities. Be sure to watch your rivals to determine which goals they are pursuing and where you can outpace them! In the game, colonists are sent out from Rome to settle down in cities that produce bricks, food, tools, wine, and cloth. Each player starts with an identical set of playing cards and acquires more cards during the game. These cards serve two purposes:
-> They allow a player to choose actions during the game.
-> They are worth victory points (VPs) at the end of the game.
-
-![Concordia Venus game image](https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__itemrep/img/_lJIROiyeLhIZi7z9XO3Wt9w7wA=/fit-in/246x300/filters:strip_icc\(\)/pic4356580.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     2–6 |      12+ | 60–120 Min |
-### [Obsession](https://boardgamegeek.com/boardgame/231733/obsession)
-
-> You are the head of a respected but troubled family estate in mid-19th century Victorian England. After several lean decades, family fortunes are looking up! Your goal is to improve your estate so as to be in better standing with the truly influential families in Derbyshire.
-> Obsession is a game of 16 to 20 turns in which players build a deck of Victorian gentry (British social upper class), renovate their estate by acquiring building tiles from a centralized builders' market, and manipulate an extensive service staff of butlers, housekeepers, underbutlers, maids, valets, and footmen utilizing a novel worker placement mechanic. Successfully hosting prestigious social activities such as Fox Hunts, Music Recitals, Billiards, Political Debates, and Grand Balls increases a player's wealth, reputation, and connections among the elite.
-
-![Obsession game image](https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__itemrep/img/_1IdpMxkMKCR0bx-7E8mbh3nqzM=/fit-in/246x300/filters:strip_icc\(\)/pic5902073.png)
-
-| Players | Min. Age |      Time |
-| ------: | -------: | --------: |
-|     1–4 |      14+ | 30–90 Min |
-### [Beyond the Sun](https://boardgamegeek.com/boardgame/317985/beyond-sun)
-
-> Beyond the Sun is a space civilization game in which players collectively decide the technological progress of humankind at the dawn of the Spacefaring Era, while competing against each other to be the leading faction in economic development, science, and galactic influence.
-> The game is played over a variable number of rounds until a number of game-end achievements are collectively claimed by the players. The winner is the faction with the most victory points, which are obtained by researching technologies, improving their economy, controlling and colonizing systems, and completing various achievements and events throughout the game.
-> On a turn, a player moves their action pawn to an empty action space, then takes that action. They then conduct their production phase, either producing ore, growing their population, or trading one of those resources for another. Finally, they can claim up to one achievement, if possible.
-
-![Beyond the Sun game image](https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__itemrep/img/kSw_dxGnXuq6trYpz7ob53-u2uU=/fit-in/246x300/filters:strip_icc\(\)/pic5617866.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     2–4 |      14+ | 60–120 Min |
-### [The Crew: The Quest for Planet Nine](https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine)
-
-> In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space.
-> With each mission the game becomes more difficult. After each mission the game can be paused and continued later. During each mission it is not the number of tricks but the right tricks at the right time that count.
-> The team completes a mission only if every single player is successful in fulfilling their tasks.
-
-![The Crew: The Quest for Planet Nine game image](https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc\(\)/pic5687013.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|     2–5 |      10+ | 20 Min |
-### [Clans of Caledonia](https://boardgamegeek.com/boardgame/216132/clans-caledonia)
-
-> Clans of Caledonia is a mid-to-heavy economic game set in 19th-century Scotland. At this time, Scotland made the transition from an agricultural to an industrialized country that heavily relied on trade and export. In the following years, food production increased significantly to feed the population growth. Linen was increasingly substituted by the cheaper cotton and raising sheep was given high importance. More and more distilleries were founded and whisky became the premium alcoholic beverage in Europe.
-> Players represent historic clans with unique abilities and compete to produce, trade and export agricultural goods and of course whisky!
-> The game ends after five rounds. Each round consists of the three phases:
-
-![Clans of Caledonia game image](https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__itemrep/img/xxhvhwGExrMMiLD9lcsUvQoKxU8=/fit-in/246x300/filters:strip_icc\(\)/pic3511783.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       12 | 30–120 Min |
-### [Mechs vs. Minions](https://boardgamegeek.com/boardgame/209010/mechs-vs-minions)
-
-> Mechs vs. Minions is a cooperative tabletop campaign for 2-4 players. Set in the world of Runeterra, players take on the roles of four intrepid Yordles: Corki, Tristana, Heimerdinger, and Ziggs, who must join forces and pilot their newly-crafted mechs against an army of marauding minions. With modular boards, programmatic command lines, and a story-driven campaign, each mission will be unique, putting your teamwork, programming, and piloting skills to the test.
-> There are ten missions in total, and each individual mission will take about 60-90 minutes. The box includes five game boards, four command lines (one for each player), four painted mech miniatures, ability and damage decks, a sand timer, a bomb-like-power source miniature, 6 metal trackers, 4 acrylic shards, 4 dice, and 100 minion miniatures. There also appears to be some large object trying to get out of that sealed box...
-
-![Mechs vs. Minions game image](https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__itemrep/img/httjWYSnwrB_d1pPomIftQATHMc=/fit-in/246x300/filters:strip_icc\(\)/pic3184103.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     2–4 |      14+ | 60–120 Min |
-### [Fields of Arle](https://boardgamegeek.com/boardgame/159675/fields-arle)
-
-> Welcome to Arle
-> In Fields of Arle, created by Uwe Rosenberg, one to two players live as farmers in the small and peaceful town of Arle in East Frisia. The flax grown in the land surrounding the village makes it a profitable place to work and live. Fields of Arle takes players through four and a half years of this era of prosperity, with different opportunities available as the seasons change. Farm the land to capitalize on the demand for flax, or find other ways to make the most of the small town’s prosperity.
-> Work the Land
-> Whether you delve into flax farming or leverage other areas of expertise, always make sure that you have the land to build up your village. Construct dikes to keep the waters at bay and expand your fields. Dry out bogs to harvest peat and then clear the land for cultivation. Create more fields for your livestock, buildings, or future crops; after that, you can decide whether to house animals or cultivate a forest for timber. Perhaps you’d like to take up some flax farming for yourself, or diversify and try out a little bit of everything.
-
-![Fields of Arle game image](https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__itemrep/img/d8By7I7jEh7VAduRxBrISS2qfnA=/fit-in/246x300/filters:strip_icc\(\)/pic2225968.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–2 |      13+ | 60–120 Min |
-### [Le Havre](https://boardgamegeek.com/boardgame/35677/le-havre)
-
-> In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.
-> After every seven turns, the round ends: players' cattle and grain may multiply through a Harvest, and players must feed their workers. After a fixed number of rounds, each player may carry out one final action, and then the game ends. Players add the value of their buildings and ships to their cash reserves. The player who has amassed the largest fortune is the winner.
-
-![Le Havre game image](https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__itemrep/img/4Ks1jgI4QIqGjDjsOPIk9fJuLIE=/fit-in/246x300/filters:strip_icc\(\)/pic6091101.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–5 |      12+ | 30–150 Min |
-### [Grand Austria Hotel](https://boardgamegeek.com/boardgame/182874/grand-austria-hotel)
-
-> In the thick of the Viennese modern age, exquisite cafés are competing for customers. Inspiring artists, important politicians, and tourists from all over the world are populating Vienna and in need of a hotel room. This is your opportunity to turn your little café into a world famous hotel. Hire staff, fulfill the wishes of your guests, and gain the emperor's favor. Only then will your café become the Grand Austria Hotel.
-> The start player rolls the dice, sorting them by the rolled number and placing them on the corresponding action spaces. On a turn, a player chooses one of the six actions and carries it out. The number of the available dice in the corresponding action spaces determines how much the player gets from the action. They then remove one of the dice and can carry out additional actions. With the different actions, a player can get the necessary drinks and dishes, prepare the rooms, or hire staff.
-
-![Grand Austria Hotel game image](https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__itemrep/img/Meb89u4vSn3xNl_2wJTF2TYXhr8=/fit-in/246x300/filters:strip_icc\(\)/pic6966955.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     2–4 |      12+ | 60–120 Min |
-### [The Forever War](https://boardgamegeek.com/boardgame/5043/forever-war)
-
-> The Forever War is a science fiction board game, based on the novel "Forever War" by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield. Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.
-
-![The Forever War](https://cf.geekdo-images.com/Dy8ocrTp51HxcARd6Rha1A__itemrep/img/zpLHyvIy06wU44yNwx5LM6UVwDA=/fit-in/246x300/filters:strip_icc\(\)/pic5722429.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  60m |
-
-##### Party
-
-### [Contigo](https://boardgamegeek.com/boardgame/2545/contigo)
-
-> This game in the 3M Bookshelf Series is a cross between Mancala (a.k.a. Warri, Oh-Wah-Ree, Kalah) and more traditional Checkers-like games. It is played by four players according to the original rules, but can be adapted to be played by just two (the three-player game would be unbalanced).The 6x6 board is surrounded by Mancala-like pits, where pebbles are moved. The number of pebbles in a row/column/diagonal's pits controls how the pawns on the board move.Two sets of rules are supplied: the Alignment game, where you are trying to be the first to align four of your pawns in any six-space row --either horizontally, vertically or diagonally-- without opposing pawns between them, and the more advanced Capture game, where you're trying to capture your opponents' key pawns (kings, really).
-
-![Contigo](https://cf.geekdo-images.com/B2P9bmgJlL87px1_mbSX6g__itemrep/img/6jfkcejPAXdZCyEClQGQtwWLUxQ=/fit-in/246x300/filters:strip_icc\(\)/pic4084792.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  45m |
-### [Jenga](https://en.wikipedia.org/wiki/Jenga)
-
-> Jenga is a game of physical skill created by British board game designer and author Leslie Scott and marketed by Hasbro. Players take turns removing one block at a time from a tower constructed of 54 blocks.
-
-![Jenga](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jenga.JPG/220px-Jenga.JPG)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |        6 | 10-15m |
-### [Mouse Trap](https://en.wikipedia.org/wiki/Mouse_Trap_\(board_game\))
-
-> Mouse Trap (originally Mouse Trap Game) is a board game first published by Ideal in 1963 for two to four players. It is one of the first mass-produced three-dimensional board games.The basic premise of Mouse Trap has been consistent over time, but the turn-based gameplay has changed. Its concept was first invented by Marvin Glass and designer Gordon Barlow from Marvin's company
-
-![Mouse Trap](https://upload.wikimedia.org/wikipedia/en/5/5f/Mouse_Trap_Board_and_Box.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |        6 | 30-35m |
-### [Bruxelles 1893](https://boardgamegeek.com/boardgame/144592/bruxelles-1893)
-
-> Bruxelles 1893 is a worker placement game with elements of bidding and majority control. Each player is an architect of the late 19th century and is trying to achieve, through various actions, an architectural work in the Art Nouveau style. The most successful building yields the most points. Each player can also create works of art to increase his score.The action board is modular, with not every player having access to each action each turn. Some actions cost money – acquiring high-quality materials, building a level of your personal house, finding a patron, creating a work of art, selling that art for money and prestige – while other actions are free but can potentially cause you to lose one of your workers; these latter actions include acquiring low-quality materials, activating your patrons, visiting the stock exchange, and taking one of the actions with a cost. Once everyone has passed on taking more actions, the round ends and players have an art exhibition during which they can sell works. After this, players receive prestige points or bonus cards based on the symbols they've placed their workers next to on the action board.After five rounds, the game ends and players score bonus points based on their architect level, their bonus cards, how well they've completed their work, and their money on hand. The player with the most points wins.
-
-![Bruxelles 1893](https://cf.geekdo-images.com/sDga04VbcuQdapSSJme-Tg__itemrep/img/aui_nJkuW72phCvPezxpp5Pnw7M=/fit-in/246x300/filters:strip_icc\(\)/pic1726346.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 5 |       13 | 50-125m |
-### [Here I Stand](https://boardgamegeek.com/boardgame/17392/here-i-stand)
-
-> Here I Stand is the first card-driven game to prominently feature secret deal-making. A true six-sided diplomatic struggle, the game places a heavy emphasis on successful alliance-building through negotiations that occur away from the table during the pre-turn Diplomacy Phase. Set during the period in which Niccolò Machiavelli published his masterpiece "The Prince," backstabbing is always possible, especially because the card deck is loaded with event and response cards that can be played by any power to disrupt the plans of the powers in the lead.Here I Stand integrates religion, politics, economics, and diplomacy in a card-driven design. Games vary in length from 3–4 hours for a tournament scenario up to full campaign games that run about twice the time. Rules to play games with 3, 4, or 5 players are also included. The 3-player game is just as well balanced as the standard 6-player configuration, taking advantage of the natural alliances of the period.
-
-![Here I Stand](https://cf.geekdo-images.com/SaJz1vt6j4njvkhDaplSHA__itemrep/img/28KXJz7JsY47i1eKS6TRY_elzYg=/fit-in/246x300/filters:strip_icc\(\)/pic353047.jpg)
-
-| Players | Min. Age |     Time |
-| ------: | -------: | -------: |
-|   2 - 6 |       12 | 180-360m |
-### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-board-game)
-
-> In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
-
-![Space Marine: The Board Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kxMoBJRFMOhti-sS_IXqVau-oWahn1XkwQ\&usqp=CAU)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|       2 |       12 | 30-60m |
-### [Moon](https://boardgamegeek.com/boardgame/358386/moon)
-
-> Moon depicts an almost plausible rush to construct lunar bases that are attractive places to live and work for the people of Earth. The most prestigious base will become the new lunar capital!
-> The game employs the familiar "pick & pass" or "hand drafting" mechanism for players to select a new structure cards to add to their base. Each hand of cards represents a convoy of experts and equipment travelling between the players' outposts, giving the player the choice of one new construction each turn. In a new twist on the genre, each hand always contains one of a number of "Expedition" cards that grant a special free action every turn before passing on to the next player.Wooden lunar rover tokens are a neutral resource that add a worker placement element to the game. They are also used to break ties and so must be used with care.
-> Over the three distinct eras of the game, players compete for majority in 5 aspects of their bases: housing, transportation, science, industry, and food production. At the end of each era, the leader in each of these areas as determined by flag icons on their constructed buildings, collects bonus victory points.
-
-![Moon](https://cf.geekdo-images.com/5S4mv0txfpPBtvttcOThUg__itemrep/img/tDaLiIY58rhlKzdvCnfxf31QTZ0=/fit-in/246x300/filters:strip_icc\(\)/pic6742326.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 5 |       10 | 45-90m |
-### [Risk](https://en.wikipedia.org/wiki/Risk_\(game\))
-
-> ...A strategy game of diplomacy, conflict and conquest. The standard version is played on a board depicting a political map of the world, divided into 42 territories, which are grouped into six continents.
-
-![Risk Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amsterdam_-_Risk_players_-_1136_%28cropped%29.jpg/220px-Amsterdam_-_Risk_players_-_1136_%28cropped%29.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 6 |       10 | 1hr-5hr |
-### [London (Second Edition)](https://boardgamegeek.com/boardgame/236191/london-second-edition)
-
-> A brand new edition of a popular classic, London will appeal to the strategic thinker among board game fans. Tasked with rebuilding London in the decades following the great fire, players juggle building requirements, bank loans, and poverty as they strive to realize their vision for the city.The game features a unique mechanism of playing cards to develop the city, then "running" the city by taking all the card actions simultaneously. Players have to repay all their loans before the game ends, but need to worry only about how much poverty they're creating relative to the other players.
-
-![London (Second Edition)](https://images.tcdn.com.br/img/img_prod/1018249/90_london_second_edition_3583_1_a1994afae39c2d750a11164d6583491d.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       14 | 60-90m |
-### [Project L](https://boardgamegeek.com/boardgame/260180/project-l)
-
-> Project L is a fast-paced, tile-matching brain burner with triple-layer 3D puzzles and lovely acrylic pieces. Challenge your friends to a game of simple design but intricate gameplay that makes a lasting impression!The core of the game lies in using your pieces to complete puzzles. Starting with just two basic pieces, you use three actions every turn to develop a powerful engine. With more pieces of various types, you can efficiently complete even the most difficult puzzles. The puzzles you complete award you points or new pieces to further fuel your engine. Can you outsmart your opponents?
-
-![Project L](https://cf.geekdo-images.com/Zwx2ZXS6r6PaxhkaVEe75Q__itemrep/img/G_vl8CJ7cfz6_zaqp57D6z0YErU=/fit-in/246x300/filters:strip_icc\(\)/pic4309147.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |        8 | 20-40m |
-### [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
-
-> In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
-
-![King of Tokyo](https://www.boardgamesindia.com/image/cache/catalog/product/bgg_1589-320x320w.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 6 |        8 |  30m |
-### [Kutná Hora: The City of Silver](https://boardgamegeek.com/boardgame/385610/kutna-hora-city-silver)
-
-> Kutná Hora: The City of Silver is a historical city-building Eurogame for 2-4 players that features a real-life supply and demand experience in which every action you take has an impact on the game's dynamic economic systems.In each round, players take turns selecting actions from a hand of double-sided cards to engage strategic plans like mining, purchasing plots of land on which to build, gaining permits, raising buildings for their affiliated guilds, gaining profit from their production, and of course working towards the construction of Saint Barbara's Cathedral.The asymmetrical nature of each player's available guilds makes for highly interactive rounds in which each decision impacts the economy and other players in interesting ways as they expand their mines and build infrastructure across a shared board.Mine ore and smelt it into a fortune of silver for expanding this beautiful historic city, but take care to balance your personal goal advancement with the need to further the city's growth. Everything is connected, and sometimes the path to personal victory relies on the prosperity of the many.
-
-![Kutná Hora: The City of Silver](https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__itemrep/img/wZoUA-HbhYKYxbu_8GfXScu7WME=/fit-in/246x300/filters:strip_icc\(\)/pic7464921.png)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |       13 | 60-120m |
-### [The White Castle](https://boardgamegeek.com/boardgame/371942/white-castle)
-
-> The White Castle is a Euro type game with mechanics of resource management, worker placement and dice placement to carry out actions. During the game, over three rounds, players will send members of their clan to tend the gardens, defend the castle or progress up the social ladder of the nobility. At the end of the match, these will award players victory points in a variety of ways.The central panel shows Himeji Castle in all its splendor, divided into several zones. The largest is inside the castle, with the Room of the Thousand Carpets, where the courtiers must ascend socially until they reach the circle closest to the Daimio to enjoy his favor. There is also the pond and the gardens, patiently tended by the gardeners where everyone can relax and contemplate its beauty without restriction. Another important area is the wall and the outside of the castle, where the warriors patrol and stand guard. Finally, we find the area of the three bridges, where the three types of dice that can be used to carry out actions are accumulated, and the personal domain of each player, where they will keep track of their resources and where they will have the reserve of workers.With accessible rules and a very careful setting, The White Castle is a very versatile title that will fit in with different gaming groups. As is tradition with Llama Dice titles, its sleek and simple design belies a great deal of strategic depth within the grasp of players.
-
-![The White Castle](https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__itemrep/img/4VpX36FMypCo-iRbA_dkP9lhi-8=/fit-in/246x300/filters:strip_icc\(\)/pic7754663.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 4 |       12 |  80m |
-### [Nucleum](https://boardgamegeek.com/boardgame/396790/nucleum)
-
-> Nucleum is a heavy euro board game in which players take role of industrialists trying to succeed during the economic and technological boom of 19th-century Saxony, fueled by the invention and spread of the Nucleum (a nuclear reactor).Players earn victory points by developing their networks, building and powering urban buildings, securing contracts, and meeting milestones (randomized endgame goals). Each player also gets unique asymmetric technologies, giving them special powers when unlocked. Gameplay is continuous; players take turns one after another with no rounds or phases.
-
-![Nucleum](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIjE71tvWlOSqaWueAWUegRdzazPDQbY-gzBfyueNAevX5a33dfjs-FTwOS5Q7rKtmIQ\&usqp=CAU)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 4 |       14 | 60-150m |
-### [Voidfall](https://boardgamegeek.com/boardgame/337627/voidfall)
-
-> Voidfall is a space 4X game that brings the genre to Euro enthusiasts' tables. It combines the tension, player interaction, and deep empire customization of the 4X genre with the resource management, tight decisions, and minimum-luck gameplay of an economic Euro. Win by pushing back the Voidborn in the solo/coop mode, or by overcoming your rivals' influence in restoring the Domineum in the competitive mode — both using the same rule set and game system. Variability is ensured not only by multiple playable houses with their own strengths and weaknesses, but also by many different map set-ups for all game modes.
-
-![Voidfall](https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__itemrep/img/Uzot_otbvYXpwkTpnc1uwiXUWqs=/fit-in/246x300/filters:strip_icc\(\)/pic6153324.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 4 |       15 | 90-120m |
-### [Evenfall](https://boardgamegeek.com/boardgame/396989/evenfall)
-
-> It's Evenfall, and the Clans of Magic are preparing for a new era. Evenfall is the time when the boundaries of reality collapse and the supernatural awakens. The World-Tree opens its glowing gateways to unknown distant regions. Send Witches from your clan to discover and control new Places of Power. Use them for arcane rituals and battle for the favor of the Powerstones. But there is only one seat on the Enchanted Throne! Do you have the skills to lead the world into a new era?
-> Evenfall is a card-driven, engine-building game with both novel and familiar mechanisms for 1 to 4 players. Manage your resources, execute your actions in an efficient order, and discover card and action synergies that generate victory points. The game ends after three rounds, then the player with the most points wins.
-
-![Evenfall](https://cf.geekdo-images.com/hEbikkJceop4K5OIVPOmSQ__itemrep/img/Og-JaIOaoKSnDSWGA22vvrPfxcs=/fit-in/246x300/filters:strip_icc\(\)/pic7657810.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 4 |       14 | 60-120m |
-### [Septima](https://boardgamegeek.com/boardgame/360692/septima)
-
-> Septima is a competitive, highly interactive strategy game of witchcraft. As the leader of your coven, you must prove your worth in the town of Noctenburg to become the successor of Septima, the High Witch. Practice your craft and gain Wisdom by collecting herbs, brewing potions, healing the townsfolk, mastering charms and rescuing your fellow brothers and sisters from the trials.
-> Simultaneous action selection with positive player interaction: Septima’s central mechanism revolves around the simultaneous, secret selection of one of nine Action cards each turn: Move, Collect, Brew, Heal, Recruit, Plea, Chant, Rite and Remember. Each Action gets a powerful bonus if it is chosen by multiple players, but performing them together also raises suspicion in the townsfolk and attracts the attention of the Witch Hunters. Decisions of when to do a shared action (and who to do it with) adds a fresh, semi-cooperative touch to a competitive game, and lots of player interaction.
-> Rescue witches to build your Coven: Heal, enthrall or convince the townsfolk and amass enough support to sway the periodic Witch Trials in your favor. If the hostile witnesses are outvoted, the convicted witch is absolved and joins the coven that rescued them. You start small but you can grow your coven to up to four witches this way, each with their own personality and special ability to help your cause. Reckless Witches caught by Witch Hunters are also put to trial, so with enough support from the townsfolk, even witches from other, less careful players’ coven can end up in yours.
-> Accessible, intuitive and familiar: Septima is Mindclash Games’ most accessible title to date, with beautiful, hand-drawn art style by Villő Farkas and with the character art of Barbara Bernát, wooden components and intuitive, theme-inspired mechanisms. It is very quick to teach and set up, and takes less than 2 hours to play, even with four players.
-
-![Septima](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKbAxjXO8m6IA7ifrI5o_Q7mP24Lh2lxrYg\&usqp=CAU)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 4 |       12 | 50-100m |
-### [Evacuation](https://boardgamegeek.com/boardgame/382843/evacuation)
-
-> In Evacuation, life on our planet is being burned away thanks to increasingly intense sunlight, so everyone is trying to move all the people and factories in their territories from the "old" planet to a new one — and they have only four rounds in which to do so.You start the game with a full functioning economy, and over the course of play, you must dismantle that economy and move it. Income on the old planet shrinks over time, and production probably won't be much better until you establish yourself on the new planet and kick things into action. Resources can't be mixed across the planets, so you need to take special care with your planning.To do this, you choose actions from the player board, with the expert variant adding cards to your hand that allow you to choose additional actions and combine them. Each action has its own value, and the sum of these actions is important for an "end of the round" bonus. Additionally, players move their markers along the orbital track based on the value of their actions.If you can raise production of three resources to level 8 and have three virtual reality machines on the new planet, you win.
-
-![Evacuation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH6tyBr_kCApC4rO4jy0iT7lwN2k-9Jc-YZO-j9L6sDnYWeDKhsymhytJihS8Dfd60ujY\&usqp=CAU)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 4 |       12 | 60-150m |
-### [Sky Team](https://boardgamegeek.com/boardgame/373106/sky-team)
-
-> Sky Team is a co-operative game, exclusively for two players, in which you play a pilot and co-pilot at the controls of an airliner. Your goal is to work together as a team to land your airplane in different airports around the world.To land your plane, you need to silently assign your dice to the correct spaces in your cockpit to balance the axis of your plane, control its speed, deploy the flaps, extend the landing gear, contact the control tower to clear your path, and even have a little coffee to improve your concentration enough to change the value of your dice.If the aircraft tilts too much and stalls, overshoots the airport, or collides with another aircraft, you lose the game...and your pilot's license...and probably your life.From Montreal to Tokyo, each airport offers its own set of challenges. Watch out for the turbulence as this could end up being bumpy ride!
-
-![Sky team](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrVxx7Bo4gxSJggmQ3DsByCeAnzOuFhTGcS77p7knap5rvI7SUJB8afRLRolM-9eb1JM\&usqp=CAU)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|       2 |       12 |  15m |
-### [Living Forest](https://en.wikipedia.org/wiki/Living_Forest_\(board_game\))
-
-> Living Forest is a 2021 board game designed by Aske Christiansen.Players act as Spirits of Nature to defend trees from being burnt by Onibi. Each turn is split into three phases, the guardian animal phase, the action phase, and attacks by Onibi. In the guardian phase, players draw guardian animal cards to form help lines using a push-your-luck mechanism.The action phase is split into actions that players may perform depending on the symbols on their help line, including gaining fragment tiles, attracting guardian animals, extinguishing a fire, moving on the Circle of Spirits board, or placing a protective tree. However, the strengths of the actions vary depending on symbols on guardian animal cards. For example, players may only extinguish fires for which they have fire symbols. After the action phase, the players have to take penalty cards to their own discard pile, a tree is attacked, and guardian animals are altered. Once a player reaches one of the game thresholds, including planting 12 trees, extinguishing 12 fires or gaining 12 flower symbols, the player ending the game wins.
-
-![Living Forest](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsHzWlhZvgpR5MB4NhKMACKevOsMif4fALE1Z2ldv7qF2sNHkAITMnq6WMkepW_7btvQ\&usqp=CAU)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 4 |       10 |  40m |
-### [Pallanguzhi](https://en.wikipedia.org/wiki/Pallanguzhi)
-
-> Pallanguzhi or Pallankuli (fourteen pits) is a traditional mancala game played in south India. The game later also spread to as far as Sri Lanka and Malaysia. The game is played by two players, with a wooden board that has fourteen pits in all. There have been several variations in the layout of the pits, one among them being seven pits on each player's side. The pits contain cowry shells, seeds or small pebbles used as counters. It is played on a rectangular board with two rows and seven columns. 12 counters are placed in each cup except the middle of each row into which only 2 counters are placed. The starting player lifts the counters from any of his holes and, going counter-clockwise, distributes one counter in each hole. If he reaches the end of his cups he goes on his opponent's side of the board. When the player drops his last counter, he takes the counter from the next cup and continues placing them in this way. If the last counter falls into a cup with an empty cup beyond, the counters in the cup beyond the empty hole are captured by the player and put into his store. That player then continues play from the next cup containing counters. If the last counter falls into a cup with two empty holes beyond, he captures no counters and his turn is over. The next player continues play in the same way, taking counters from any of his cups and going around placing counters in a counter-clockwise direction. If, after having acounter dropped into it, a counter contains 6 counters, those become the property of the player who dropped it. The round is over when no counters remain.
-
-![Pallanguzhi](https://rukminim2.flixcart.com/image/416/416/jvmpci80/board-game/m/h/k/pallankuzhi-with-shells-and-box-jayam-original-imafggugzjk5q7yb.jpeg?q=70)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|       2 |        5 | 60m+ |
-### [Forest Shuffle](https://boardgamegeek.com/boardgame/391163/forest-shuffle)
-
-> In Forest Shuffle, players compete to gather the most valuable trees, then attract species to these trees, thus creating an ecologically balanced habitat for flora and fauna.To start, each player has six cards in hand, with cards depicting either a particular type of tree or two forest dwellers (animal, plant, mushroom, etc.), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.On a turn, either draw two cards — whether face down from the deck or face up from the clearing — and add them to your hand, or play a card from your hand by paying the cost, then putting it into play.Each tree and dweller shows a cost, and to pay this cost, you must discard cards from your hand into the clearing face up. If you play a tree, flip the top card of the deck into the clearing, then place the tree in front of you. If you play a dweller, pay only the cost on the dweller you choose, then slide this card under a tree that has an empty side that matches the dweller you want to play. (A tree can have cards played on all four sides of it: top, bottom, left, and right.)
-
-![Forest Shuffle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk96Soxg16hec_i8-hs_hOnxn7dNJhRFfqBfomV7lc48kaTczCHxUyWCJw2GGZwfQzOl4\&usqp=CAU)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |       10 | 40-60m |
-### [Frosthaven](https://boardgamegeek.com/boardgame/295770/frosthaven)
-
-> Frosthaven is a standalone adventure from the designer and publisher of Gloomhaven that features sixteen new characters, three new races, more than twenty new enemies, more than one hundred new items, and a new, 100-scenario campaign. Characters and items from Gloomhaven will be usable in Frosthaven, and vice versa.In addition to having the well-known combat mechanisms of Gloomhaven, Frosthaven will feature much more to do outside of combat, such as numerous mysteries to solve, a seasonal event system to live through, and player control over how this ramshackle village expands, with each new building offering new ways to progress.Frosthaven has a whole new set of items but there is a mechanic for bringing items over from 'Gloomhaven'. However, as it is a remote location, these products get imported and are not there as standard. Resources are much more valuable and you have to build items through a crafting system rather than just buy them.
-
-![Frosthaven](https://cf.geekdo-images.com/iEBr5o8AbJi9V9cgQcYROQ__itemrep/img/Z2XUvMkSdxK4qiewCLTJvUl41gA=/fit-in/246x300/filters:strip_icc\(\)/pic6177719.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 4 |       14 | 30-120m |
-### [Outfoxed](https://boardgamegeek.com/boardgame/172931/outfoxed)
-
-> This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
-
-![Outfoxed](https://upload.wikimedia.org/wikipedia/commons/f/f6/Outfoxed.webp)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |        5 |  20m |
-### [Verdant](https://www.flatout.games/verdant)
-
-> Verdant is a puzzly spatial card game for 1 to 5 players. You take on the role of a houseplant enthusiast trying to create the coziest interior space by collecting and arranging houseplants and other objects within your home. You must position your plants so that they are provided the most suitable light conditions and take care of them to create the most verdant collection.
-
-> Each turn, you select an adjacent pair of a card and token, then use those items to build an ever-expanding tableau of cards that represents your home. You need to keep various objectives in mind as you attempt to increase plant verdancy by making spatial matches and using item tokens to take various nurture actions. You can also build your "green thumb" skills, which allows you to take additional actions to care for your plants and create the coziest space!
-
-> Verdant has beautful artwork from Beth Sobel and was designed by Flatout games who also created Cascadia and Calico.
-
-![Verdant](https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__itemrep/img/4V6iTxz_WDK0EZCA4QSe2qQoTuU=/fit-in/246x300/filters:strip_icc\(\)/pic6094080.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 5 |       10 | 45-60m |
-### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
-
-> Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
-
-![Dice Forge](https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__itemrep/img/0hqPt1oo9J1GxmHqluUP-QC7xII=/fit-in/246x300/filters:strip_icc\(\)/pic3477004.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       10 |  45m |
-### [Paperback](https://boardgamegeek.com/boardgame/141572/paperback)
-
-> You are a paperback author trying to finish novels for your editor. Complete Westerns, Science Fiction, Romance or even the rare Best-Seller. Live the dream — and maybe pay the bills.
-> Word-building meets deck-building in the unique game Paperback. Players start with a deck of letter cards and wild cards. Each hand they form words, and purchase more powerful letters based on how well their word scored. Most letters have abilities that activate when they are used in a word, such as drawing more cards or double letter score. Players buy wilds to gain victory points. Variant included for cooperative play.
-
-![Paperback](https://cf.geekdo-images.com/iZl2U-2BjftbWfLw5y25Vg__itemrep/img/q0jh-ilPLYilMgq_LUePnruriKM=/fit-in/246x300/filters:strip_icc\(\)/pic7069377.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |        8 |  45m |
-### [Photosynthesis](https://boardgamegeek.com/boardgame/218603/photosynthesis)
-
-> Photosynthesis is a visually captivating board game that invites players to immerse themselves in the beauty of a forest's life cycle. In this game, you'll strategically grow and shape your trees as they strive to reach for the sun's nourishing light. With its unique 3D cardboard trees and a thematic focus on ecology, Photosynthesis provides not only a delightful gaming experience but also an educational one. Players must strategically position their trees to maximize sunlight exposure while casting shadows on their opponents' growth.
-
-![Photosynthesis](https://cf.geekdo-images.com/HhkYuVxMy-XrRCBWmZ78Eg__itemrep/img/WkJh5sVmz8F92ekuvSnHHebZA7I=/fit-in/246x300/filters:strip_icc\(\)/pic3364832.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       10 |  30m |
-
-##### Contribute
-
-### [Kemet](https://boardgamegeek.com/boardgame/127023/kemet)
-
-> Kemet is a thrilling and strategic board game set in the mystical world of ancient Egypt. Players take on the roles of different Egyptian tribes vying for dominance. The game is known for its asymmetric powers, offering each tribe unique abilities and strengths. The goal is to build a powerful army, engage in epic battles, and conquer temples to gain victory points. With its rich theme, engaging battles, and diverse strategies, Kemet offers a dynamic and competitive gaming experience, where only the most cunning and powerful tribe will emerge victorious.
-
-![Kemet](https://cf.geekdo-images.com/IU-az-0jlIpoUxDHCCclNw__itemrep/img/hk01l3YMGIwS85fFnHjmaonYmnM=/fit-in/246x300/filters:strip_icc\(\)/pic6230640.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |       13 |  90m |
-
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
 #### [58. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -1921,6 +1456,507 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Song-Chun Zhu](https://zhusongchun.net/) - ***School of AI and Institute for AI, Peking University (PKU)***.
 
+#### [70. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+
+##### Machine Learning Libraries / Frameworks
+
+*   [ruby-openai (⭐1.8k)](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
+
+##### Community / Vector search
+
+*   [Ruby AI Builders Discord](https://discord.gg/zDyFJFBTGB)
+
+#### [71. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+##### Family
+
+### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
+
+> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
+>
+> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
+>
+> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
+>
+> The game has 2 22"x34" maps, 300 counters.
+>
+> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
+>
+> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
+>
+> Losses can be applied to the HQ of a formation, not only directly to units.
+>
+> Low counter density, high maneuver. Medium-high complexity.
+
+<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|    1 -2 |       12 | 360m |
+
+##### Strategy
+
+### [The Book of Pop-Up Board Games](https://boardgamegeek.com/boardgame/22626/book-pop-board-games)
+
+> There are four pop-up board games in this book. The games are, Space Escape, Pirate Treasure, Mummy Chase, & Save the Princess. Each game has a storage pocket to store the stand-up people. There is also a fold out spinner, that you use to move.
+
+![The Book of Pop-Up Board Games (1996)](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/27a63c2f-e87d-4457-b944-f0f1b2ef8f53)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  30m |
+### [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist)
+
+> This age of art and capitalism has created a need for a new occupation - The Gallerist.
+> Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote and nurture Artists; buy, display, and sell their Art; and build and exert your international reputation. As a result, you will achieve the respect needed to draw visitors to your Gallery from all over the world.
+> There's a lot of work to be done, but don't worry, you can hire assistants to help you achieve your goals. Build your fortune by running the most lucrative Gallery and secure your reputation as a world-class Gallerist!
+> Maximize your money and thus win the game by:
+
+![The Gallerist game image](https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc\(\)/pic2503200.png)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–4 |       13 | 60–150 Min |
+### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
+
+> Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
+
+![Lotería image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Loteria_boards.jpg/330px-Loteria_boards.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  20m |
+### [Tzolk'in: The Mayan Calendar](https://boardgamegeek.com/boardgame/126163/tzolk-mayan-calendar)
+
+> Tzolkin: The Mayan Calendar presents a new game mechanism: dynamic worker placement. Players representing different Mayan tribes place their workers on giant connected gears, and as the gears rotate they take the workers to different action spots.
+> During a turn, players can either (a) place one or more workers on the lowest visible spot of the gears or (b) pick up one or more workers. When placing workers, they must pay corn, which is used as a currency in the game. When they pick up a worker, they perform certain actions depending on the position of the worker. Actions located "later" on the gears are more valuable, so it's wise to let the time work for you – but players cannot skip their turn; if they have all their workers on the gears, they have to pick some up.
+
+![Tzolk'in: The Mayan Calendar game image](https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__itemrep/img/8M-vck69HAdoJdStBZ8q91-7hRs=/fit-in/246x300/filters:strip_icc\(\)/pic4604439.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|     2–4 |       13 | 90 Min |
+### [Paladins of the West Kingdom](https://boardgamegeek.com/boardgame/266810/paladins-west-kingdom)
+
+> Paladins of the West Kingdom is set at a turbulent time of West Francia's story, circa 900 AD. Despite recent efforts to develop the city, outlying townships are still under threat from outsiders. Saracens scout the borders, while Vikings plunder wealth and livestock. Even the Byzantines from the east have shown their darker side. As noble men and women, players must gather workers from the city to defend against enemies, build fortifications and spread faith throughout the land. Fortunately you are not alone. In his great wisdom, the King has sent his finest knights to help aid in our efforts. So ready the horses and sharpen the swords. The Paladins are approaching.
+> The aim of Paladins of the West Kingdom is to be the player with the most victory points (VP) at game's end. Points are gained by building outposts and fortifications, commissioning monks and confronting outsiders. Each round, players will enlist the help of a specific Paladin and gather workers to carry out tasks. As the game progresses, players will slowly increase their faith, strength and influence. Not only will these affect their final score, but they will also determine the significance of their actions. The game is concluded at the end of the seventh round.
+
+![Paladins of the West Kingdom game image](https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__itemrep/img/2YT-EqfAb6vwxDSrFQMSm-luQAs=/fit-in/246x300/filters:strip_icc\(\)/pic4462987.png)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–4 |       12 | 90–120 Min |
+### [Concordia Venus](https://boardgamegeek.com/boardgame/256916/concordia-venus)
+
+> Concordia Venus is a standalone reimplementation of Concordia with some added features.
+> Concordia Venus is a peaceful strategy game of economic development in Roman times for 2-6 players aged 13 and up. Instead of looking to the luck of dice or cards, players must rely on their strategic abilities. Be sure to watch your rivals to determine which goals they are pursuing and where you can outpace them! In the game, colonists are sent out from Rome to settle down in cities that produce bricks, food, tools, wine, and cloth. Each player starts with an identical set of playing cards and acquires more cards during the game. These cards serve two purposes:
+> They allow a player to choose actions during the game.
+> They are worth victory points (VPs) at the end of the game.
+
+![Concordia Venus game image](https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__itemrep/img/_lJIROiyeLhIZi7z9XO3Wt9w7wA=/fit-in/246x300/filters:strip_icc\(\)/pic4356580.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     2–6 |      12+ | 60–120 Min |
+### [Obsession](https://boardgamegeek.com/boardgame/231733/obsession)
+
+> You are the head of a respected but troubled family estate in mid-19th century Victorian England. After several lean decades, family fortunes are looking up! Your goal is to improve your estate so as to be in better standing with the truly influential families in Derbyshire.
+> Obsession is a game of 16 to 20 turns in which players build a deck of Victorian gentry (British social upper class), renovate their estate by acquiring building tiles from a centralized builders' market, and manipulate an extensive service staff of butlers, housekeepers, underbutlers, maids, valets, and footmen utilizing a novel worker placement mechanic. Successfully hosting prestigious social activities such as Fox Hunts, Music Recitals, Billiards, Political Debates, and Grand Balls increases a player's wealth, reputation, and connections among the elite.
+
+![Obsession game image](https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__itemrep/img/_1IdpMxkMKCR0bx-7E8mbh3nqzM=/fit-in/246x300/filters:strip_icc\(\)/pic5902073.png)
+
+| Players | Min. Age |      Time |
+| ------: | -------: | --------: |
+|     1–4 |      14+ | 30–90 Min |
+### [Beyond the Sun](https://boardgamegeek.com/boardgame/317985/beyond-sun)
+
+> Beyond the Sun is a space civilization game in which players collectively decide the technological progress of humankind at the dawn of the Spacefaring Era, while competing against each other to be the leading faction in economic development, science, and galactic influence.
+> The game is played over a variable number of rounds until a number of game-end achievements are collectively claimed by the players. The winner is the faction with the most victory points, which are obtained by researching technologies, improving their economy, controlling and colonizing systems, and completing various achievements and events throughout the game.
+> On a turn, a player moves their action pawn to an empty action space, then takes that action. They then conduct their production phase, either producing ore, growing their population, or trading one of those resources for another. Finally, they can claim up to one achievement, if possible.
+
+![Beyond the Sun game image](https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__itemrep/img/kSw_dxGnXuq6trYpz7ob53-u2uU=/fit-in/246x300/filters:strip_icc\(\)/pic5617866.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     2–4 |      14+ | 60–120 Min |
+### [The Crew: The Quest for Planet Nine](https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine)
+
+> In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space.
+> With each mission the game becomes more difficult. After each mission the game can be paused and continued later. During each mission it is not the number of tricks but the right tricks at the right time that count.
+> The team completes a mission only if every single player is successful in fulfilling their tasks.
+
+![The Crew: The Quest for Planet Nine game image](https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc\(\)/pic5687013.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|     2–5 |      10+ | 20 Min |
+### [Clans of Caledonia](https://boardgamegeek.com/boardgame/216132/clans-caledonia)
+
+> Clans of Caledonia is a mid-to-heavy economic game set in 19th-century Scotland. At this time, Scotland made the transition from an agricultural to an industrialized country that heavily relied on trade and export. In the following years, food production increased significantly to feed the population growth. Linen was increasingly substituted by the cheaper cotton and raising sheep was given high importance. More and more distilleries were founded and whisky became the premium alcoholic beverage in Europe.
+> Players represent historic clans with unique abilities and compete to produce, trade and export agricultural goods and of course whisky!
+> The game ends after five rounds. Each round consists of the three phases:
+
+![Clans of Caledonia game image](https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__itemrep/img/xxhvhwGExrMMiLD9lcsUvQoKxU8=/fit-in/246x300/filters:strip_icc\(\)/pic3511783.png)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–4 |       12 | 30–120 Min |
+### [Mechs vs. Minions](https://boardgamegeek.com/boardgame/209010/mechs-vs-minions)
+
+> Mechs vs. Minions is a cooperative tabletop campaign for 2-4 players. Set in the world of Runeterra, players take on the roles of four intrepid Yordles: Corki, Tristana, Heimerdinger, and Ziggs, who must join forces and pilot their newly-crafted mechs against an army of marauding minions. With modular boards, programmatic command lines, and a story-driven campaign, each mission will be unique, putting your teamwork, programming, and piloting skills to the test.
+> There are ten missions in total, and each individual mission will take about 60-90 minutes. The box includes five game boards, four command lines (one for each player), four painted mech miniatures, ability and damage decks, a sand timer, a bomb-like-power source miniature, 6 metal trackers, 4 acrylic shards, 4 dice, and 100 minion miniatures. There also appears to be some large object trying to get out of that sealed box...
+
+![Mechs vs. Minions game image](https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__itemrep/img/httjWYSnwrB_d1pPomIftQATHMc=/fit-in/246x300/filters:strip_icc\(\)/pic3184103.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     2–4 |      14+ | 60–120 Min |
+### [Fields of Arle](https://boardgamegeek.com/boardgame/159675/fields-arle)
+
+> Welcome to Arle
+> In Fields of Arle, created by Uwe Rosenberg, one to two players live as farmers in the small and peaceful town of Arle in East Frisia. The flax grown in the land surrounding the village makes it a profitable place to work and live. Fields of Arle takes players through four and a half years of this era of prosperity, with different opportunities available as the seasons change. Farm the land to capitalize on the demand for flax, or find other ways to make the most of the small town’s prosperity.
+> Work the Land
+> Whether you delve into flax farming or leverage other areas of expertise, always make sure that you have the land to build up your village. Construct dikes to keep the waters at bay and expand your fields. Dry out bogs to harvest peat and then clear the land for cultivation. Create more fields for your livestock, buildings, or future crops; after that, you can decide whether to house animals or cultivate a forest for timber. Perhaps you’d like to take up some flax farming for yourself, or diversify and try out a little bit of everything.
+
+![Fields of Arle game image](https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__itemrep/img/d8By7I7jEh7VAduRxBrISS2qfnA=/fit-in/246x300/filters:strip_icc\(\)/pic2225968.png)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–2 |      13+ | 60–120 Min |
+### [Le Havre](https://boardgamegeek.com/boardgame/35677/le-havre)
+
+> In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.
+> After every seven turns, the round ends: players' cattle and grain may multiply through a Harvest, and players must feed their workers. After a fixed number of rounds, each player may carry out one final action, and then the game ends. Players add the value of their buildings and ships to their cash reserves. The player who has amassed the largest fortune is the winner.
+
+![Le Havre game image](https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__itemrep/img/4Ks1jgI4QIqGjDjsOPIk9fJuLIE=/fit-in/246x300/filters:strip_icc\(\)/pic6091101.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–5 |      12+ | 30–150 Min |
+### [Grand Austria Hotel](https://boardgamegeek.com/boardgame/182874/grand-austria-hotel)
+
+> In the thick of the Viennese modern age, exquisite cafés are competing for customers. Inspiring artists, important politicians, and tourists from all over the world are populating Vienna and in need of a hotel room. This is your opportunity to turn your little café into a world famous hotel. Hire staff, fulfill the wishes of your guests, and gain the emperor's favor. Only then will your café become the Grand Austria Hotel.
+> The start player rolls the dice, sorting them by the rolled number and placing them on the corresponding action spaces. On a turn, a player chooses one of the six actions and carries it out. The number of the available dice in the corresponding action spaces determines how much the player gets from the action. They then remove one of the dice and can carry out additional actions. With the different actions, a player can get the necessary drinks and dishes, prepare the rooms, or hire staff.
+
+![Grand Austria Hotel game image](https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__itemrep/img/Meb89u4vSn3xNl_2wJTF2TYXhr8=/fit-in/246x300/filters:strip_icc\(\)/pic6966955.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     2–4 |      12+ | 60–120 Min |
+### [The Forever War](https://boardgamegeek.com/boardgame/5043/forever-war)
+
+> The Forever War is a science fiction board game, based on the novel "Forever War" by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield. Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.
+
+![The Forever War](https://cf.geekdo-images.com/Dy8ocrTp51HxcARd6Rha1A__itemrep/img/zpLHyvIy06wU44yNwx5LM6UVwDA=/fit-in/246x300/filters:strip_icc\(\)/pic5722429.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  60m |
+
+##### Party
+
+### [Contigo](https://boardgamegeek.com/boardgame/2545/contigo)
+
+> This game in the 3M Bookshelf Series is a cross between Mancala (a.k.a. Warri, Oh-Wah-Ree, Kalah) and more traditional Checkers-like games. It is played by four players according to the original rules, but can be adapted to be played by just two (the three-player game would be unbalanced).The 6x6 board is surrounded by Mancala-like pits, where pebbles are moved. The number of pebbles in a row/column/diagonal's pits controls how the pawns on the board move.Two sets of rules are supplied: the Alignment game, where you are trying to be the first to align four of your pawns in any six-space row --either horizontally, vertically or diagonally-- without opposing pawns between them, and the more advanced Capture game, where you're trying to capture your opponents' key pawns (kings, really).
+
+![Contigo](https://cf.geekdo-images.com/B2P9bmgJlL87px1_mbSX6g__itemrep/img/6jfkcejPAXdZCyEClQGQtwWLUxQ=/fit-in/246x300/filters:strip_icc\(\)/pic4084792.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  45m |
+### [Jenga](https://en.wikipedia.org/wiki/Jenga)
+
+> Jenga is a game of physical skill created by British board game designer and author Leslie Scott and marketed by Hasbro. Players take turns removing one block at a time from a tower constructed of 54 blocks.
+
+![Jenga](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jenga.JPG/220px-Jenga.JPG)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |        6 | 10-15m |
+### [Mouse Trap](https://en.wikipedia.org/wiki/Mouse_Trap_\(board_game\))
+
+> Mouse Trap (originally Mouse Trap Game) is a board game first published by Ideal in 1963 for two to four players. It is one of the first mass-produced three-dimensional board games.The basic premise of Mouse Trap has been consistent over time, but the turn-based gameplay has changed. Its concept was first invented by Marvin Glass and designer Gordon Barlow from Marvin's company
+
+![Mouse Trap](https://upload.wikimedia.org/wikipedia/en/5/5f/Mouse_Trap_Board_and_Box.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        6 | 30-35m |
+### [Bruxelles 1893](https://boardgamegeek.com/boardgame/144592/bruxelles-1893)
+
+> Bruxelles 1893 is a worker placement game with elements of bidding and majority control. Each player is an architect of the late 19th century and is trying to achieve, through various actions, an architectural work in the Art Nouveau style. The most successful building yields the most points. Each player can also create works of art to increase his score.The action board is modular, with not every player having access to each action each turn. Some actions cost money – acquiring high-quality materials, building a level of your personal house, finding a patron, creating a work of art, selling that art for money and prestige – while other actions are free but can potentially cause you to lose one of your workers; these latter actions include acquiring low-quality materials, activating your patrons, visiting the stock exchange, and taking one of the actions with a cost. Once everyone has passed on taking more actions, the round ends and players have an art exhibition during which they can sell works. After this, players receive prestige points or bonus cards based on the symbols they've placed their workers next to on the action board.After five rounds, the game ends and players score bonus points based on their architect level, their bonus cards, how well they've completed their work, and their money on hand. The player with the most points wins.
+
+![Bruxelles 1893](https://cf.geekdo-images.com/sDga04VbcuQdapSSJme-Tg__itemrep/img/aui_nJkuW72phCvPezxpp5Pnw7M=/fit-in/246x300/filters:strip_icc\(\)/pic1726346.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 5 |       13 | 50-125m |
+### [Here I Stand](https://boardgamegeek.com/boardgame/17392/here-i-stand)
+
+> Here I Stand is the first card-driven game to prominently feature secret deal-making. A true six-sided diplomatic struggle, the game places a heavy emphasis on successful alliance-building through negotiations that occur away from the table during the pre-turn Diplomacy Phase. Set during the period in which Niccolò Machiavelli published his masterpiece "The Prince," backstabbing is always possible, especially because the card deck is loaded with event and response cards that can be played by any power to disrupt the plans of the powers in the lead.Here I Stand integrates religion, politics, economics, and diplomacy in a card-driven design. Games vary in length from 3–4 hours for a tournament scenario up to full campaign games that run about twice the time. Rules to play games with 3, 4, or 5 players are also included. The 3-player game is just as well balanced as the standard 6-player configuration, taking advantage of the natural alliances of the period.
+
+![Here I Stand](https://cf.geekdo-images.com/SaJz1vt6j4njvkhDaplSHA__itemrep/img/28KXJz7JsY47i1eKS6TRY_elzYg=/fit-in/246x300/filters:strip_icc\(\)/pic353047.jpg)
+
+| Players | Min. Age |     Time |
+| ------: | -------: | -------: |
+|   2 - 6 |       12 | 180-360m |
+### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-board-game)
+
+> In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
+
+![Space Marine: The Board Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kxMoBJRFMOhti-sS_IXqVau-oWahn1XkwQ\&usqp=CAU)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |       12 | 30-60m |
+### [Moon](https://boardgamegeek.com/boardgame/358386/moon)
+
+> Moon depicts an almost plausible rush to construct lunar bases that are attractive places to live and work for the people of Earth. The most prestigious base will become the new lunar capital!
+> The game employs the familiar "pick & pass" or "hand drafting" mechanism for players to select a new structure cards to add to their base. Each hand of cards represents a convoy of experts and equipment travelling between the players' outposts, giving the player the choice of one new construction each turn. In a new twist on the genre, each hand always contains one of a number of "Expedition" cards that grant a special free action every turn before passing on to the next player.Wooden lunar rover tokens are a neutral resource that add a worker placement element to the game. They are also used to break ties and so must be used with care.
+> Over the three distinct eras of the game, players compete for majority in 5 aspects of their bases: housing, transportation, science, industry, and food production. At the end of each era, the leader in each of these areas as determined by flag icons on their constructed buildings, collects bonus victory points.
+
+![Moon](https://cf.geekdo-images.com/5S4mv0txfpPBtvttcOThUg__itemrep/img/tDaLiIY58rhlKzdvCnfxf31QTZ0=/fit-in/246x300/filters:strip_icc\(\)/pic6742326.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 | 45-90m |
+### [Risk](https://en.wikipedia.org/wiki/Risk_\(game\))
+
+> ...A strategy game of diplomacy, conflict and conquest. The standard version is played on a board depicting a political map of the world, divided into 42 territories, which are grouped into six continents.
+
+![Risk Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amsterdam_-_Risk_players_-_1136_%28cropped%29.jpg/220px-Amsterdam_-_Risk_players_-_1136_%28cropped%29.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 6 |       10 | 1hr-5hr |
+### [London (Second Edition)](https://boardgamegeek.com/boardgame/236191/london-second-edition)
+
+> A brand new edition of a popular classic, London will appeal to the strategic thinker among board game fans. Tasked with rebuilding London in the decades following the great fire, players juggle building requirements, bank loans, and poverty as they strive to realize their vision for the city.The game features a unique mechanism of playing cards to develop the city, then "running" the city by taking all the card actions simultaneously. Players have to repay all their loans before the game ends, but need to worry only about how much poverty they're creating relative to the other players.
+
+![London (Second Edition)](https://images.tcdn.com.br/img/img_prod/1018249/90_london_second_edition_3583_1_a1994afae39c2d750a11164d6583491d.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       14 | 60-90m |
+### [Project L](https://boardgamegeek.com/boardgame/260180/project-l)
+
+> Project L is a fast-paced, tile-matching brain burner with triple-layer 3D puzzles and lovely acrylic pieces. Challenge your friends to a game of simple design but intricate gameplay that makes a lasting impression!The core of the game lies in using your pieces to complete puzzles. Starting with just two basic pieces, you use three actions every turn to develop a powerful engine. With more pieces of various types, you can efficiently complete even the most difficult puzzles. The puzzles you complete award you points or new pieces to further fuel your engine. Can you outsmart your opponents?
+
+![Project L](https://cf.geekdo-images.com/Zwx2ZXS6r6PaxhkaVEe75Q__itemrep/img/G_vl8CJ7cfz6_zaqp57D6z0YErU=/fit-in/246x300/filters:strip_icc\(\)/pic4309147.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |        8 | 20-40m |
+### [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
+
+> In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
+
+![King of Tokyo](https://www.boardgamesindia.com/image/cache/catalog/product/bgg_1589-320x320w.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 6 |        8 |  30m |
+### [Kutná Hora: The City of Silver](https://boardgamegeek.com/boardgame/385610/kutna-hora-city-silver)
+
+> Kutná Hora: The City of Silver is a historical city-building Eurogame for 2-4 players that features a real-life supply and demand experience in which every action you take has an impact on the game's dynamic economic systems.In each round, players take turns selecting actions from a hand of double-sided cards to engage strategic plans like mining, purchasing plots of land on which to build, gaining permits, raising buildings for their affiliated guilds, gaining profit from their production, and of course working towards the construction of Saint Barbara's Cathedral.The asymmetrical nature of each player's available guilds makes for highly interactive rounds in which each decision impacts the economy and other players in interesting ways as they expand their mines and build infrastructure across a shared board.Mine ore and smelt it into a fortune of silver for expanding this beautiful historic city, but take care to balance your personal goal advancement with the need to further the city's growth. Everything is connected, and sometimes the path to personal victory relies on the prosperity of the many.
+
+![Kutná Hora: The City of Silver](https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__itemrep/img/wZoUA-HbhYKYxbu_8GfXScu7WME=/fit-in/246x300/filters:strip_icc\(\)/pic7464921.png)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |       13 | 60-120m |
+### [The White Castle](https://boardgamegeek.com/boardgame/371942/white-castle)
+
+> The White Castle is a Euro type game with mechanics of resource management, worker placement and dice placement to carry out actions. During the game, over three rounds, players will send members of their clan to tend the gardens, defend the castle or progress up the social ladder of the nobility. At the end of the match, these will award players victory points in a variety of ways.The central panel shows Himeji Castle in all its splendor, divided into several zones. The largest is inside the castle, with the Room of the Thousand Carpets, where the courtiers must ascend socially until they reach the circle closest to the Daimio to enjoy his favor. There is also the pond and the gardens, patiently tended by the gardeners where everyone can relax and contemplate its beauty without restriction. Another important area is the wall and the outside of the castle, where the warriors patrol and stand guard. Finally, we find the area of the three bridges, where the three types of dice that can be used to carry out actions are accumulated, and the personal domain of each player, where they will keep track of their resources and where they will have the reserve of workers.With accessible rules and a very careful setting, The White Castle is a very versatile title that will fit in with different gaming groups. As is tradition with Llama Dice titles, its sleek and simple design belies a great deal of strategic depth within the grasp of players.
+
+![The White Castle](https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__itemrep/img/4VpX36FMypCo-iRbA_dkP9lhi-8=/fit-in/246x300/filters:strip_icc\(\)/pic7754663.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 4 |       12 |  80m |
+### [Nucleum](https://boardgamegeek.com/boardgame/396790/nucleum)
+
+> Nucleum is a heavy euro board game in which players take role of industrialists trying to succeed during the economic and technological boom of 19th-century Saxony, fueled by the invention and spread of the Nucleum (a nuclear reactor).Players earn victory points by developing their networks, building and powering urban buildings, securing contracts, and meeting milestones (randomized endgame goals). Each player also gets unique asymmetric technologies, giving them special powers when unlocked. Gameplay is continuous; players take turns one after another with no rounds or phases.
+
+![Nucleum](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIjE71tvWlOSqaWueAWUegRdzazPDQbY-gzBfyueNAevX5a33dfjs-FTwOS5Q7rKtmIQ\&usqp=CAU)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       14 | 60-150m |
+### [Voidfall](https://boardgamegeek.com/boardgame/337627/voidfall)
+
+> Voidfall is a space 4X game that brings the genre to Euro enthusiasts' tables. It combines the tension, player interaction, and deep empire customization of the 4X genre with the resource management, tight decisions, and minimum-luck gameplay of an economic Euro. Win by pushing back the Voidborn in the solo/coop mode, or by overcoming your rivals' influence in restoring the Domineum in the competitive mode — both using the same rule set and game system. Variability is ensured not only by multiple playable houses with their own strengths and weaknesses, but also by many different map set-ups for all game modes.
+
+![Voidfall](https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__itemrep/img/Uzot_otbvYXpwkTpnc1uwiXUWqs=/fit-in/246x300/filters:strip_icc\(\)/pic6153324.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       15 | 90-120m |
+### [Evenfall](https://boardgamegeek.com/boardgame/396989/evenfall)
+
+> It's Evenfall, and the Clans of Magic are preparing for a new era. Evenfall is the time when the boundaries of reality collapse and the supernatural awakens. The World-Tree opens its glowing gateways to unknown distant regions. Send Witches from your clan to discover and control new Places of Power. Use them for arcane rituals and battle for the favor of the Powerstones. But there is only one seat on the Enchanted Throne! Do you have the skills to lead the world into a new era?
+> Evenfall is a card-driven, engine-building game with both novel and familiar mechanisms for 1 to 4 players. Manage your resources, execute your actions in an efficient order, and discover card and action synergies that generate victory points. The game ends after three rounds, then the player with the most points wins.
+
+![Evenfall](https://cf.geekdo-images.com/hEbikkJceop4K5OIVPOmSQ__itemrep/img/Og-JaIOaoKSnDSWGA22vvrPfxcs=/fit-in/246x300/filters:strip_icc\(\)/pic7657810.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       14 | 60-120m |
+### [Septima](https://boardgamegeek.com/boardgame/360692/septima)
+
+> Septima is a competitive, highly interactive strategy game of witchcraft. As the leader of your coven, you must prove your worth in the town of Noctenburg to become the successor of Septima, the High Witch. Practice your craft and gain Wisdom by collecting herbs, brewing potions, healing the townsfolk, mastering charms and rescuing your fellow brothers and sisters from the trials.
+> Simultaneous action selection with positive player interaction: Septima’s central mechanism revolves around the simultaneous, secret selection of one of nine Action cards each turn: Move, Collect, Brew, Heal, Recruit, Plea, Chant, Rite and Remember. Each Action gets a powerful bonus if it is chosen by multiple players, but performing them together also raises suspicion in the townsfolk and attracts the attention of the Witch Hunters. Decisions of when to do a shared action (and who to do it with) adds a fresh, semi-cooperative touch to a competitive game, and lots of player interaction.
+> Rescue witches to build your Coven: Heal, enthrall or convince the townsfolk and amass enough support to sway the periodic Witch Trials in your favor. If the hostile witnesses are outvoted, the convicted witch is absolved and joins the coven that rescued them. You start small but you can grow your coven to up to four witches this way, each with their own personality and special ability to help your cause. Reckless Witches caught by Witch Hunters are also put to trial, so with enough support from the townsfolk, even witches from other, less careful players’ coven can end up in yours.
+> Accessible, intuitive and familiar: Septima is Mindclash Games’ most accessible title to date, with beautiful, hand-drawn art style by Villő Farkas and with the character art of Barbara Bernát, wooden components and intuitive, theme-inspired mechanisms. It is very quick to teach and set up, and takes less than 2 hours to play, even with four players.
+
+![Septima](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKbAxjXO8m6IA7ifrI5o_Q7mP24Lh2lxrYg\&usqp=CAU)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       12 | 50-100m |
+### [Evacuation](https://boardgamegeek.com/boardgame/382843/evacuation)
+
+> In Evacuation, life on our planet is being burned away thanks to increasingly intense sunlight, so everyone is trying to move all the people and factories in their territories from the "old" planet to a new one — and they have only four rounds in which to do so.You start the game with a full functioning economy, and over the course of play, you must dismantle that economy and move it. Income on the old planet shrinks over time, and production probably won't be much better until you establish yourself on the new planet and kick things into action. Resources can't be mixed across the planets, so you need to take special care with your planning.To do this, you choose actions from the player board, with the expert variant adding cards to your hand that allow you to choose additional actions and combine them. Each action has its own value, and the sum of these actions is important for an "end of the round" bonus. Additionally, players move their markers along the orbital track based on the value of their actions.If you can raise production of three resources to level 8 and have three virtual reality machines on the new planet, you win.
+
+![Evacuation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH6tyBr_kCApC4rO4jy0iT7lwN2k-9Jc-YZO-j9L6sDnYWeDKhsymhytJihS8Dfd60ujY\&usqp=CAU)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       12 | 60-150m |
+### [Sky Team](https://boardgamegeek.com/boardgame/373106/sky-team)
+
+> Sky Team is a co-operative game, exclusively for two players, in which you play a pilot and co-pilot at the controls of an airliner. Your goal is to work together as a team to land your airplane in different airports around the world.To land your plane, you need to silently assign your dice to the correct spaces in your cockpit to balance the axis of your plane, control its speed, deploy the flaps, extend the landing gear, contact the control tower to clear your path, and even have a little coffee to improve your concentration enough to change the value of your dice.If the aircraft tilts too much and stalls, overshoots the airport, or collides with another aircraft, you lose the game...and your pilot's license...and probably your life.From Montreal to Tokyo, each airport offers its own set of challenges. Watch out for the turbulence as this could end up being bumpy ride!
+
+![Sky team](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrVxx7Bo4gxSJggmQ3DsByCeAnzOuFhTGcS77p7knap5rvI7SUJB8afRLRolM-9eb1JM\&usqp=CAU)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       12 |  15m |
+### [Living Forest](https://en.wikipedia.org/wiki/Living_Forest_\(board_game\))
+
+> Living Forest is a 2021 board game designed by Aske Christiansen.Players act as Spirits of Nature to defend trees from being burnt by Onibi. Each turn is split into three phases, the guardian animal phase, the action phase, and attacks by Onibi. In the guardian phase, players draw guardian animal cards to form help lines using a push-your-luck mechanism.The action phase is split into actions that players may perform depending on the symbols on their help line, including gaining fragment tiles, attracting guardian animals, extinguishing a fire, moving on the Circle of Spirits board, or placing a protective tree. However, the strengths of the actions vary depending on symbols on guardian animal cards. For example, players may only extinguish fires for which they have fire symbols. After the action phase, the players have to take penalty cards to their own discard pile, a tree is attacked, and guardian animals are altered. Once a player reaches one of the game thresholds, including planting 12 trees, extinguishing 12 fires or gaining 12 flower symbols, the player ending the game wins.
+
+![Living Forest](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsHzWlhZvgpR5MB4NhKMACKevOsMif4fALE1Z2ldv7qF2sNHkAITMnq6WMkepW_7btvQ\&usqp=CAU)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 4 |       10 |  40m |
+### [Pallanguzhi](https://en.wikipedia.org/wiki/Pallanguzhi)
+
+> Pallanguzhi or Pallankuli (fourteen pits) is a traditional mancala game played in south India. The game later also spread to as far as Sri Lanka and Malaysia. The game is played by two players, with a wooden board that has fourteen pits in all. There have been several variations in the layout of the pits, one among them being seven pits on each player's side. The pits contain cowry shells, seeds or small pebbles used as counters. It is played on a rectangular board with two rows and seven columns. 12 counters are placed in each cup except the middle of each row into which only 2 counters are placed. The starting player lifts the counters from any of his holes and, going counter-clockwise, distributes one counter in each hole. If he reaches the end of his cups he goes on his opponent's side of the board. When the player drops his last counter, he takes the counter from the next cup and continues placing them in this way. If the last counter falls into a cup with an empty cup beyond, the counters in the cup beyond the empty hole are captured by the player and put into his store. That player then continues play from the next cup containing counters. If the last counter falls into a cup with two empty holes beyond, he captures no counters and his turn is over. The next player continues play in the same way, taking counters from any of his cups and going around placing counters in a counter-clockwise direction. If, after having acounter dropped into it, a counter contains 6 counters, those become the property of the player who dropped it. The round is over when no counters remain.
+
+![Pallanguzhi](https://rukminim2.flixcart.com/image/416/416/jvmpci80/board-game/m/h/k/pallankuzhi-with-shells-and-box-jayam-original-imafggugzjk5q7yb.jpeg?q=70)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        5 | 60m+ |
+### [Forest Shuffle](https://boardgamegeek.com/boardgame/391163/forest-shuffle)
+
+> In Forest Shuffle, players compete to gather the most valuable trees, then attract species to these trees, thus creating an ecologically balanced habitat for flora and fauna.To start, each player has six cards in hand, with cards depicting either a particular type of tree or two forest dwellers (animal, plant, mushroom, etc.), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.On a turn, either draw two cards — whether face down from the deck or face up from the clearing — and add them to your hand, or play a card from your hand by paying the cost, then putting it into play.Each tree and dweller shows a cost, and to pay this cost, you must discard cards from your hand into the clearing face up. If you play a tree, flip the top card of the deck into the clearing, then place the tree in front of you. If you play a dweller, pay only the cost on the dweller you choose, then slide this card under a tree that has an empty side that matches the dweller you want to play. (A tree can have cards played on all four sides of it: top, bottom, left, and right.)
+
+![Forest Shuffle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk96Soxg16hec_i8-hs_hOnxn7dNJhRFfqBfomV7lc48kaTczCHxUyWCJw2GGZwfQzOl4\&usqp=CAU)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |       10 | 40-60m |
+### [Frosthaven](https://boardgamegeek.com/boardgame/295770/frosthaven)
+
+> Frosthaven is a standalone adventure from the designer and publisher of Gloomhaven that features sixteen new characters, three new races, more than twenty new enemies, more than one hundred new items, and a new, 100-scenario campaign. Characters and items from Gloomhaven will be usable in Frosthaven, and vice versa.In addition to having the well-known combat mechanisms of Gloomhaven, Frosthaven will feature much more to do outside of combat, such as numerous mysteries to solve, a seasonal event system to live through, and player control over how this ramshackle village expands, with each new building offering new ways to progress.Frosthaven has a whole new set of items but there is a mechanic for bringing items over from 'Gloomhaven'. However, as it is a remote location, these products get imported and are not there as standard. Resources are much more valuable and you have to build items through a crafting system rather than just buy them.
+
+![Frosthaven](https://cf.geekdo-images.com/iEBr5o8AbJi9V9cgQcYROQ__itemrep/img/Z2XUvMkSdxK4qiewCLTJvUl41gA=/fit-in/246x300/filters:strip_icc\(\)/pic6177719.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       14 | 30-120m |
+### [Outfoxed](https://boardgamegeek.com/boardgame/172931/outfoxed)
+
+> This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
+
+![Outfoxed](https://upload.wikimedia.org/wikipedia/commons/f/f6/Outfoxed.webp)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        5 |  20m |
+### [Verdant](https://www.flatout.games/verdant)
+
+> Verdant is a puzzly spatial card game for 1 to 5 players. You take on the role of a houseplant enthusiast trying to create the coziest interior space by collecting and arranging houseplants and other objects within your home. You must position your plants so that they are provided the most suitable light conditions and take care of them to create the most verdant collection.
+
+> Each turn, you select an adjacent pair of a card and token, then use those items to build an ever-expanding tableau of cards that represents your home. You need to keep various objectives in mind as you attempt to increase plant verdancy by making spatial matches and using item tokens to take various nurture actions. You can also build your "green thumb" skills, which allows you to take additional actions to care for your plants and create the coziest space!
+
+> Verdant has beautful artwork from Beth Sobel and was designed by Flatout games who also created Cascadia and Calico.
+
+![Verdant](https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__itemrep/img/4V6iTxz_WDK0EZCA4QSe2qQoTuU=/fit-in/246x300/filters:strip_icc\(\)/pic6094080.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 | 45-60m |
+### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
+
+> Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
+
+![Dice Forge](https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__itemrep/img/0hqPt1oo9J1GxmHqluUP-QC7xII=/fit-in/246x300/filters:strip_icc\(\)/pic3477004.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  45m |
+### [Paperback](https://boardgamegeek.com/boardgame/141572/paperback)
+
+> You are a paperback author trying to finish novels for your editor. Complete Westerns, Science Fiction, Romance or even the rare Best-Seller. Live the dream — and maybe pay the bills.
+> Word-building meets deck-building in the unique game Paperback. Players start with a deck of letter cards and wild cards. Each hand they form words, and purchase more powerful letters based on how well their word scored. Most letters have abilities that activate when they are used in a word, such as drawing more cards or double letter score. Players buy wilds to gain victory points. Variant included for cooperative play.
+
+![Paperback](https://cf.geekdo-images.com/iZl2U-2BjftbWfLw5y25Vg__itemrep/img/q0jh-ilPLYilMgq_LUePnruriKM=/fit-in/246x300/filters:strip_icc\(\)/pic7069377.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  45m |
+### [Photosynthesis](https://boardgamegeek.com/boardgame/218603/photosynthesis)
+
+> Photosynthesis is a visually captivating board game that invites players to immerse themselves in the beauty of a forest's life cycle. In this game, you'll strategically grow and shape your trees as they strive to reach for the sun's nourishing light. With its unique 3D cardboard trees and a thematic focus on ecology, Photosynthesis provides not only a delightful gaming experience but also an educational one. Players must strategically position their trees to maximize sunlight exposure while casting shadows on their opponents' growth.
+
+![Photosynthesis](https://cf.geekdo-images.com/HhkYuVxMy-XrRCBWmZ78Eg__itemrep/img/WkJh5sVmz8F92ekuvSnHHebZA7I=/fit-in/246x300/filters:strip_icc\(\)/pic3364832.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  30m |
+### [Kemet](https://boardgamegeek.com/boardgame/127023/kemet)
+
+> Kemet is a thrilling and strategic board game set in the mystical world of ancient Egypt. Players take on the roles of different Egyptian tribes vying for dominance. The game is known for its asymmetric powers, offering each tribe unique abilities and strengths. The goal is to build a powerful army, engage in epic battles, and conquer temples to gain victory points. With its rich theme, engaging battles, and diverse strategies, Kemet offers a dynamic and competitive gaming experience, where only the most cunning and powerful tribe will emerge victorious.
+
+![Kemet](https://cf.geekdo-images.com/IU-az-0jlIpoUxDHCCclNw__itemrep/img/hk01l3YMGIwS85fFnHjmaonYmnM=/fit-in/246x300/filters:strip_icc\(\)/pic6230640.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       13 |  90m |
+### [Imperial Settlers](https://boardgamegeek.com/boardgame/154203/imperial-settlers)
+
+> Imperial Settlers is a card game that lets players lead one of the four factions and build empires by placing buildings, then sending workers to those buildings to acquire new resources and abilities. The game is played over five rounds during which players take various actions in order to explore new lands, build buildings, trade resources, conquer enemies, and thus score victory points.
+
+![Imperial Settlers](https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__itemrep/img/fTfXILZ-2FIy12vUC3Fxix3RmzY=/fit-in/246x300/filters:strip_icc\(\)/pic2871265.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 45-90m |
+
+##### Contribute
+
+### [Space Alert](https://boardgamegeek.com/boardgame/38453/space-alert)
+
+> Space Alert is a cooperative team survival game. Players become crew members of a small spaceship scanning dangerous sectors of the galaxy. The missions last just 10 real-time minutes (hyperspace jump, sector scan, hyperspace jump back) and the only task the players have is to protect their ship. During play, the central computer will announce the presence of various threats on one of the supplied 10 minute soundtracks that also acts as a game timer. The threats vary from space battleships and interceptors to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree who will take care of which task and coordinate their actions (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety. The game offers several difficulty levels, huge variability and a unique experience for one to five player teams. One mission lasts only about 30 minutes, including setup and evaluation.
+
+![Space Alert](https://cf.geekdo-images.com/tinE1f2lauIsEL4aC9aU-w__itemrep/img/BOGa_tAkG2aSoCtTlarj2JY4O3A=/fit-in/246x300/filters:strip_icc\(\)/pic384313.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       12 |  30m |
+
+Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
+
+#### [72. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+##### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
+
+*   [PETEP (⭐88)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
+
 ---
 
 - Next: [Oct 09 - Oct 15, 2023](&#x2F;content&#x2F;2023&#x2F;41&#x2F;README.md)
@@ -1940,43 +1976,43 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 11. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 64K 📝 10&#x2F;16 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 12. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 38K 📝 10&#x2F;17 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 13. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 27K 📝 10&#x2F;20 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-14. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 10&#x2F;22 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-15. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 257K 📝 09&#x2F;21 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
-16. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K 📝 10&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
-17. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 12K 📝 10&#x2F;21 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-18. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 10&#x2F;20 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-19. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.1K 📝 10&#x2F;22 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
-20. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 14K 📝 10&#x2F;17 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-21. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 11K 📝 10&#x2F;19 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-22. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 10K 📝 10&#x2F;20 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-23. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 10&#x2F;17 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-24. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 10&#x2F;17 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-25. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 10&#x2F;17 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-26. [Awesome Security](/content/sbilly/awesome-security/README.md) - ([Source ⭐ 10K 📝 10&#x2F;17 ](https://github.com/sbilly/awesome-security)) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-27. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 9.3K 📝 10&#x2F;18 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-28. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;17 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-29. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 22K 📝 10&#x2F;07 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-30. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K 📝 10&#x2F;20 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-31. [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source ⭐ 6.5K 📝 10&#x2F;19 ](https://github.com/awesome-lists/awesome-bash)) - A curated list of delightful Bash scripts and resources.
-32. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 15K 📝 10&#x2F;10 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-33. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.2K 📝 10&#x2F;22 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-34. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 4.8K 📝 10&#x2F;20 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform
-35. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 6.3K 📝 10&#x2F;17 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
-36. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.9K 📝 10&#x2F;17 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
-37. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 5.3K 📝 10&#x2F;18 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-38. [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K 📝 10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
-39. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 4.9K 📝 10&#x2F;18 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-40. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.2K 📝 10&#x2F;20 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
-41. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8K 📝 10&#x2F;11 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-42. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 6.3K 📝 10&#x2F;13 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
-43. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K 📝 10&#x2F;17 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
-44. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 12K 📝 10&#x2F;06 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
-45. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 10&#x2F;03 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-46. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3.5K 📝 10&#x2F;17 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
-47. [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.2K 📝 10&#x2F;17 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
-48. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 3.2K 📝 10&#x2F;17 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
-49. [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.1K 📝 10&#x2F;19 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
-50. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.3K 📝 10&#x2F;17 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+14. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 19K 📝 10&#x2F;22 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
+15. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 10&#x2F;22 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+16. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 257K 📝 09&#x2F;21 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
+17. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K 📝 10&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+18. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 12K 📝 10&#x2F;21 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+19. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 10&#x2F;20 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+20. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.1K 📝 10&#x2F;22 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+21. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 14K 📝 10&#x2F;17 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+22. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 11K 📝 10&#x2F;19 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+23. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 10K 📝 10&#x2F;20 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+24. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 10&#x2F;17 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
+25. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 10&#x2F;17 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
+26. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 10&#x2F;17 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+27. [Awesome Security](/content/sbilly/awesome-security/README.md) - ([Source ⭐ 10K 📝 10&#x2F;17 ](https://github.com/sbilly/awesome-security)) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+28. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 9.3K 📝 10&#x2F;18 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
+29. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;17 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+30. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 22K 📝 10&#x2F;07 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+31. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K 📝 10&#x2F;20 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+32. [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source ⭐ 6.5K 📝 10&#x2F;19 ](https://github.com/awesome-lists/awesome-bash)) - A curated list of delightful Bash scripts and resources.
+33. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 15K 📝 10&#x2F;10 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+34. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.2K 📝 10&#x2F;22 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+35. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 4.8K 📝 10&#x2F;20 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform
+36. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 6.3K 📝 10&#x2F;17 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
+37. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.9K 📝 10&#x2F;17 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
+38. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 5.3K 📝 10&#x2F;18 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+39. [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K 📝 10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
+40. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 4.9K 📝 10&#x2F;18 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+41. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.2K 📝 10&#x2F;20 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
+42. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8K 📝 10&#x2F;11 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+43. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 6.3K 📝 10&#x2F;13 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
+44. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K 📝 10&#x2F;17 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
+45. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 12K 📝 10&#x2F;06 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
+46. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 10&#x2F;03 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
+47. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3.5K 📝 10&#x2F;17 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
+48. [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 2K 📝 10&#x2F;22 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
+49. [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.2K 📝 10&#x2F;17 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
+50. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 3.2K 📝 10&#x2F;17 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
 
 ## All Tracked List
 
@@ -2089,7 +2125,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Xai](/content/altamiracorp/awesome-xai/README.md) - ([Source ⭐ 54, 📝 21&#x2F;05&#x2F;04 ](https://github.com/altamiracorp/awesome-xai)) - Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources
 - [Computer Science](/content/ossu/computer-science/README.md) - ([Source ⭐ 150K, 📝 22&#x2F;03&#x2F;20 ](https://github.com/ossu/computer-science)) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 
-- [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 1.9K, 📝 06&#x2F;19 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
+- [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 2K, 📝 10&#x2F;22 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
 - [Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md) - ([Source ⭐ 967, 📝 22&#x2F;08&#x2F;27 ](https://github.com/arbox/nlp-with-ruby)) - Curated List: Practical Natural Language Processing done in Ruby
 - [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K, 📝 10&#x2F;20 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
@@ -2238,7 +2274,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 9.3K, 📝 10&#x2F;18 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
 - [Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/README.md) - ([Source ⭐ 629, 📝 21&#x2F;02&#x2F;02 ](https://github.com/csabapalfi/awesome-pagespeed-metrics)) - ⚡Metrics to help understand page speed and user experience
 - [Awesome Polymer](/content/Granze/awesome-polymer/README.md) - ([Source ⭐ 393, 📝 18&#x2F;01&#x2F;20 ](https://github.com/Granze/awesome-polymer)) - A collection of awesome Polymer resources.
-- [Awesome Preact](/content/preactjs/awesome-preact/README.md) - ([Source ⭐ 788, 📝 08&#x2F;21 ](https://github.com/preactjs/awesome-preact)) - A curated list of amazingly awesome things regarding Preact ecosystem :star2:
+- [Awesome Preact](/content/preactjs/awesome-preact/README.md) - ([Source ⭐ 809, 📝 10&#x2F;22 ](https://github.com/preactjs/awesome-preact)) - A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 - [Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md) - ([Source ⭐ 1.5K, 📝 17&#x2F;11&#x2F;24 ](https://github.com/TalAter/awesome-progressive-web-apps)) - :sunrise: A collection of awesome resources for building progressive web apps
 - [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 59K, 📝 10&#x2F;19 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
 - [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 38K, 📝 10&#x2F;22 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
@@ -2383,7 +2419,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md) - ([Source ⭐ 2.2K, 📝 22&#x2F;12&#x2F;31 ](https://github.com/danielecook/Awesome-Bioinformatics)) - A curated list of awesome Bioinformatics libraries and software.
 - [Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md) - ([Source ⭐ 99, 📝 21&#x2F;04&#x2F;01 ](https://github.com/keller-mark/awesome-biological-visualizations)) - A list of web-based interactive biological data visualizations.
 - [Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md) - ([Source ⭐ 326, 📝 07&#x2F;13 ](https://github.com/alexk111/awesome-bitcoin-payment-processors)) - 🌟 A curated list of Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
-- [Awesome Board Games](/content/edm00se/awesome-board-games/README.md) - ([Source ⭐ 248, 📝 10&#x2F;21 ](https://github.com/edm00se/awesome-board-games)) - A curated list of awesome and exceptional board games. Please contribute!
+- [Awesome Board Games](/content/edm00se/awesome-board-games/README.md) - ([Source ⭐ 248, 📝 10&#x2F;22 ](https://github.com/edm00se/awesome-board-games)) - A curated list of awesome and exceptional board games. Please contribute!
 - [Awesome Calculators](/content/xxczaki/awesome-calculators/README.md) - ([Source ⭐ 109, 📝 20&#x2F;10&#x2F;22 ](https://github.com/xxczaki/awesome-calculators)) - 😎 A curated list of resources related to calculators!
 - [Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md) - ([Source ⭐ 1.1K, 📝 10&#x2F;04 ](https://github.com/ZYSzys/awesome-captcha)) - :key: Curated list of awesome captcha libraries and crack tools.
 - [Awesome Chatops](/content/exAspArk/awesome-chatops/README.md) - ([Source ⭐ 782, 📝 21&#x2F;10&#x2F;14 ](https://github.com/exAspArk/awesome-chatops)) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
@@ -2668,7 +2704,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md) - ([Source ⭐ 961, 📝 21&#x2F;03&#x2F;06 ](https://github.com/fabacab/awesome-lockpicking)) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 - [Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md) - ([Source ⭐ 9.1K, 📝 20&#x2F;08&#x2F;19 ](https://github.com/rshipp/awesome-malware-analysis)) - Defund the Police.
 - [Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md) - ([Source ⭐ 76, 📝 03&#x2F;19 ](https://github.com/Karneades/awesome-malware-persistence)) - A curated list of awesome malware persistence tools and resources. 
-- [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 19K, 📝 08&#x2F;17 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
+- [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 19K, 📝 10&#x2F;22 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
 - [Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md) - ([Source ⭐ 23K, 📝 21&#x2F;04&#x2F;23 ](https://github.com/Igglybuff/awesome-piracy)) - A curated list of awesome warez and piracy links
 - [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 10K, 📝 10&#x2F;20 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [Awesome Security](/content/sbilly/awesome-security/README.md) - ([Source ⭐ 10K, 📝 10&#x2F;17 ](https://github.com/sbilly/awesome-security)) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
