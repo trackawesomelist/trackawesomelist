@@ -8,6 +8,10 @@
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
+### Community
+
+*   `#angular2` channel on Freenode IRC Server.
+
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Fabio Biondi](https://github.com/fabiobiondi)
@@ -115,7 +119,7 @@
 
 ### Material Design
 
-*   [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...)
+*   [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...).
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
@@ -291,8 +295,8 @@
 
 ### Community
 
-*   [AngularAir](https://angularair.com/) podcast and live broadcast
-*   [Angular Expo](https://angularexpo.com/) showcase
+*   [AngularAir](https://angularair.com/) podcast and live broadcast.
+*   [Angular Expo](https://angularexpo.com/) showcase.
 
 ### Test / Components
 
@@ -833,7 +837,7 @@
 
 ### Security / Components
 
-*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
+*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
     ##### Authentication
 
 ## [Feb 12 - Feb 18, 2018](/content/2018/7/README.md)
@@ -875,7 +879,7 @@
 
 ### Community
 
-*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
+*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1162,7 +1166,7 @@
 
 ### Material Design
 
-*   [ng2-materialize (⭐318)](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
+*   [ng2-materialize (⭐318)](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library.
 
 ### Cheatsheet
 
@@ -1238,8 +1242,8 @@
 
 *   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 *   [AngularJS on Google+](https://plus.google.com/+AngularJS)
-*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
-*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
+*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
+*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1287,8 +1291,8 @@
 
 ### Angular 2 in Cordova / Components
 
-*   [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova
-*   [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova
+*   [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova.
+*   [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova.
 
 ### Babel Seed Projects / Components
 
@@ -1331,8 +1335,8 @@
 ### Material Design
 
 *   [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
-*   [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
-*   [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
+*   [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core.
+*   [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite.
 
 ## [Aug 08 - Aug 14, 2016](/content/2016/32/README.md)
 
@@ -1540,7 +1544,7 @@
 
 ### Haxe Seed Projects / Components
 
-*   [angular2haxe (⭐28)](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
+*   [angular2haxe (⭐28)](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2.
 
 ### Scala Seed Projects / Components
 
@@ -1550,7 +1554,6 @@
 
 ### Community
 
-*   `#angular2` channel on Freenode IRC Server
 *   [Gitter Channel](https://gitter.im/angular/angular)
 *   [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 *   [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
@@ -1586,11 +1589,11 @@
 
 ### Dart General Resources / Components
 
-*   [Dart](https://www.dartlang.org/) Official Website for Dart
+*   [Dart](https://www.dartlang.org/) Official Website for Dart.
 *   [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
 *   [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
 *   [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
-*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
+*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community.
 *   [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
 
 ### Dart Seed Projects / Components
@@ -1599,18 +1602,18 @@
 
 ### Dart Demo, Samples, and Examples / Components
 
-*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart.
 *   [Router Demo (⭐1)](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 
 ### Traceur General Resources / Components
 
-*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
 
 ### Babel General Resources / Components
 
-*   [Babel](https://babeljs.io/) Official Website for Babel
-*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-*   [Babel Repository (GitHub) (⭐43k)](https://github.com/babel/babel) Official GitHub Repo for Babel
+*   [Babel](https://babeljs.io/) Official Website for Babel.
+*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser.
+*   [Babel Repository (GitHub) (⭐43k)](https://github.com/babel/babel) Official GitHub Repo for Babel.
 
 ### NativeScript General Resources / Components
 

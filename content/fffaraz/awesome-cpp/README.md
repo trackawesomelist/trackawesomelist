@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Oct 22, 2023](/content/2023/10/22/README.md)
+
+### Containers
+
+*   [unordered\_dense (⭐567)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
+
 ## [Oct 21, 2023](/content/2023/10/21/README.md)
 
 ### Configuration

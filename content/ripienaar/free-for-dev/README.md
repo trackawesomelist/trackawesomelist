@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 22, 2023](/content/2023/10/22/README.md)
+
+### Authentication, Authorization, and User Management
+
+*   [Corbado](https://www.corbado.com/) — Add passkey-first authentication to new or existing apps. Free for unlimited MAUs.
+
 ## [Oct 19, 2023](/content/2023/10/19/README.md)
 
 ### Monitoring

@@ -6,6 +6,39 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Oct 22, 2023](/content/2023/10/22/README.md)
+
+### Networking
+
+*   [Computer Networks](https://kanchiuniv.ac.in/coursematerials/VINODKUMAR_COMPUTER_NETWORKS.pdf) - J.Vinoth kumar (PDF)
+
+## [Oct 21, 2023](/content/2023/10/21/README.md)
+
+### Algorithms & Data Structures
+
+*   [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF)
+
+## [Oct 20, 2023](/content/2023/10/20/README.md)
+
+### Computer Science
+
+*   [Computer Science Class XII](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) - CBSE (PDF)
+*   [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
+
+## [Oct 19, 2023](/content/2023/10/19/README.md)
+
+### Algorithms & Data Structures
+
+*   [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
+
+### Artificial Intelligence
+
+*   [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
+
+### Computer Science
+
+*   [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
+
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Graphical User Interfaces

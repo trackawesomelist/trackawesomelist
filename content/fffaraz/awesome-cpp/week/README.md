@@ -17,6 +17,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [toml11 (⭐836)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 
+### Containers
+
+*   [unordered\_dense (⭐567)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
+
 ### Database
 
 *   [DuckDB](https://duckdb.org/) - in-process SQL OLAP Database Management System. \[MIT]
