@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### Software / Software Development - Low Code
+
+*   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Software / Money, Budgeting & Management
@@ -872,10 +878,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Miscellaneous
 
 *   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐12)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
-
-### Software / Software Development - Low Code
-
-*   [Hadmean](https://hadmean.com) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Source Code (⭐512)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -2833,10 +2835,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐1.3k)](https://github.com/espocrm/espocrm)) `GPL-3.0` `PHP`
 
-### Software / Pastebins
-
-*   [pasty (⭐180)](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go/Docker`
-
 ### Software / Resource Planning - Enterprise Resource Planning
 
 *   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐15k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
@@ -3604,10 +3602,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Gossa (⭐770)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [Jul 29 - Aug 04, 2019](/content/2019/30/README.md)
-
-### Software / Software Development - IDE & Tools
-
-*   [ICEcoder](https://icecoder.net/) - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. ([Demo](http://demo.icecoder.net/ICEcoder/), [Source Code (⭐1.4k)](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
 
 ### Software / Wikis
 

@@ -689,6 +689,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [coffee-time (⭐1)](https://github.com/gakimball/zsh-coffee-time) - Adds the `caf` alias, which runs `caffeinate -dims`. The extra flags keep everything awake: the system, the drive, and the display.
 *   [colored-man-pages-mod (⭐11)](https://github.com/zuxfoucault/colored-man-pages_mod) - Forked from [ohmyzsh/ohmyzsh/plugins/colored-man-pages (⭐163k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh). Colorizes `man` output.
 *   [colored-man-pages (⭐52)](https://github.com/ael-code/zsh-colored-man-pages) - Colorize `man` pages.
+*   [colorize-functions (⭐0)](https://github.com/Freed-Wu/zsh-colorize-functions) - Colorizes functions for ZSH.
 *   [colorize (⭐17)](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs.
 *   [colorls (⭐8)](https://github.com/Kallahan23/zsh-colorls) - Defines a few helpful shortcuts to some colorls functions.
 *   [colors (Tarrasch) (⭐41)](https://github.com/Tarrasch/zsh-colors) - Makes it easier to colorize text from the CLI. `red foo` just works.
@@ -909,6 +910,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [hangul (⭐154)](https://github.com/gomjellie/zsh-hangul) - Auto correct hangul(한글, korean) to English when it was supposed to be typed in English. 영어를 타이핑 해야되는데 한글로 타이핑된경우 자동으로 수정합니다.
 *   [hbt (⭐9)](https://github.com/lzambarda/hbt) - Heuristic ZSH suggestion system based on past command usage.
 *   [hebzsh (⭐1)](https://github.com/admons/hebzsh) - If a command is not found as typed in Hebrew, translates the command as if it was typed on a keyboard with a US English layout and tries again.
+*   [help (⭐0)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
 *   [hints (⭐56)](https://github.com/joepvd/zsh-hints) - Display glob and parameter flags and other non completable info right under your editing buffer.
 *   [hipchat (⭐13)](https://github.com/robertzk/hipchat.zsh) - Send hipchat messages from the shell.
 *   [hist (⭐120)](https://github.com/marlonrichert/zsh-hist) - Edit your history in ZSH, without ever leaving the command line.
@@ -1680,6 +1682,7 @@ If you're using [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen), you c
 *   [avit-mod (⭐0)](https://github.com/zlsun/avit-mod) - Modified version of oh-my-zsh's [avit (⭐163k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/avit.zsh-theme) theme.
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
 *   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐163k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [backbone (⭐2)](https://github.com/lmllrjr/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
 *   [banana (⭐5)](https://github.com/sorcererxw/banana-zsh-theme) - Includes `git` status decorations and current directory.
 *   [bandit (⭐3)](https://github.com/Holger-Will/zsh_bandit) - Another Powerline variant.
 *   [bar (anki-code) (⭐1)](https://github.com/anki-code/bar-theme) - Minimalist settings for [p10k (⭐39k)](https://github.com/romkatv/powerlevel10k).
@@ -2462,6 +2465,7 @@ If you're using [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen), you c
 *   [ubuntu-ish (⭐0)](https://github.com/Thesola10/zsh-ubuntu-ish) - Mimics the default Debian/Ubuntu `bash` prompt.
 *   [ubuntu-with-vitamins (⭐0)](https://github.com/ureesoriano/zsh-ubuntu-with-vitamins-zim-theme) - Mimics the default Ubuntu prompt, but with `git` decorations.
 *   [ubuntu (⭐1)](https://github.com/janstuemmel/zsh-ubuntu-theme) - Minimal theme, includes `git` status decorations.
+*   [ultima (⭐56)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
 *   [ultimate (⭐12)](https://github.com/b4b4r07/ultimate) - Minimalist theme with decorators for `git` status, vim mode indicator and shortened path.
 *   [ultimator (⭐0)](https://github.com/Ultimator14/ultimator-zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874)-like theme. Includes decorators for current directory, `user@host`, python virtualenv, background jobs, last command exit status, and `git` status information. Requires [zsh-git-prompt (⭐0)](https://github.com/Ultimator14/zsh-git-prompt) plugin and Nerdfonts.
 *   [unicorn (⭐1)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐474)](https://github.com/mashaal/wild-cherry).

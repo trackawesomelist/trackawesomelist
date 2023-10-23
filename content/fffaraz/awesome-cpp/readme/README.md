@@ -366,6 +366,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [robin-hood-hashing (⭐1.4k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
 *   [robin-map (⭐1.1k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 *   [sparsepp (⭐1.2k)](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. \[BSD 3-clause]
+*   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 *   [unordered\_dense (⭐567)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
 
 ## Cryptography
@@ -1291,8 +1292,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Fantastic C or C++ related books.*
 
 *   [List of Free C or C++ Books (⭐50k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
-*   [Free C Books (⭐300k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐300k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐301k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐301k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 *   [cppbestpractices (⭐7.4k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## Coding Standards

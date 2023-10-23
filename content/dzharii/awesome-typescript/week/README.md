@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ [Daily](/content/dzharii/awesome-typescript/README.md) / Weekly / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### Module Bundlers / Playground
+
+*   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Types / Playground

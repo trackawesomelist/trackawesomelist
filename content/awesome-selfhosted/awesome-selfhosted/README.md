@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Oct 23, 2023](/content/2023/10/23/README.md)
+
+### Software / Software Development - Low Code
+
+*   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
+
 ## [Oct 21, 2023](/content/2023/10/21/README.md)
 
 ### Software / Money, Budgeting & Management
@@ -981,10 +987,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Miscellaneous
 
 *   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐12)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
-
-### Software / Software Development - Low Code
-
-*   [Hadmean](https://hadmean.com) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Source Code (⭐512)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 
@@ -3125,10 +3127,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐1.3k)](https://github.com/espocrm/espocrm)) `GPL-3.0` `PHP`
 
-### Software / Pastebins
-
-*   [pasty (⭐180)](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go/Docker`
-
 ## [Jun 17, 2021](/content/2021/06/17/README.md)
 
 ### Software / Resource Planning - Enterprise Resource Planning
@@ -4000,12 +3998,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / File Transfer - Web-based File Managers
 
 *   [Gossa (⭐770)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
-
-## [Jul 24, 2019](/content/2019/07/24/README.md)
-
-### Software / Software Development - IDE & Tools
-
-*   [ICEcoder](https://icecoder.net/) - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. ([Demo](http://demo.icecoder.net/ICEcoder/), [Source Code (⭐1.4k)](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
 
 ## [Jul 23, 2019](/content/2019/07/23/README.md)
 

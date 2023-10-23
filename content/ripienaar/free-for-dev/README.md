@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 23, 2023](/content/2023/10/23/README.md)
+
+### APIs, Data, and ML
+
+*   [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
+
 ## [Oct 22, 2023](/content/2023/10/22/README.md)
 
 ### Authentication, Authorization, and User Management
