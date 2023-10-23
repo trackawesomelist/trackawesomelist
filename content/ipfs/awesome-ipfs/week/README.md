@@ -6,6 +6,12 @@ Useful resources for using IPFS and building things on top of it
 
 [ [Daily](/content/ipfs/awesome-ipfs/README.md) / Weekly / [Overview](/content/ipfs/awesome-ipfs/readme/README.md) ]
 
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### Tools
+
+*   [dump-ipfs (⭐0)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Apps

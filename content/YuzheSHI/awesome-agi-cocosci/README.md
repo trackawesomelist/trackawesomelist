@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Oct 23, 2023](/content/2023/10/23/README.md)
+
+### Cognitive Development / Commonsense Knowledgebase
+
+*   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
+
 ## [Oct 22, 2023](/content/2023/10/22/README.md)
 
 ### Concepts / AI Concept Representation

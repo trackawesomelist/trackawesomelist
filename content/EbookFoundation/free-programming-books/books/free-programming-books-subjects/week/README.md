@@ -6,6 +6,12 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### Mathematics
+
+*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Algorithms & Data Structures
@@ -1279,7 +1285,6 @@
 ### Mathematics
 
 *   [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
-*   [A First Course in Complex Analysis](http://math.sfsu.edu/beck/complex.html) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 *   [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer
 *   [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields
 *   [A Programmer's Introduction to Mathematics](https://pimbook.org) - Jeremy Kun

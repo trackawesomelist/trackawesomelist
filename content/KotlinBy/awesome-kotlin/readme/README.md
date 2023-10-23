@@ -138,65 +138,63 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
+*   [AntiNeko/CatBoxForAndroid (⭐204)](https://github.com/AntiNeko/CatBoxForAndroid) - CatBox is a universal proxy program for Android using sing-box. It was adapted from NekoBoxForAndroid, removing some unappealing content and improving the experience in some cases.
 *   [FooIbar/EhViewer (⭐213)](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from [https://github.com/Ehviewer-Overhauled/Ehviewer (⭐4.3k)](https://github.com/Ehviewer-Overhauled/Ehviewer)
 *   [YenalyLiew/Han1meViewer (⭐255)](https://github.com/YenalyLiew/Han1meViewer) - A Hanime1.me Application for Android.
-*   [nightscout/AndroidAPS (⭐529)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
-*   [Skytils/SkytilsMod (⭐528)](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
-*   [mozilla-mobile/firefox-android (⭐1.1k)](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects.
+*   [Skytils/SkytilsMod (⭐614)](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
+*   [GuoXiCheng/SKIP (⭐738)](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
 *   [XayahSuSuSu/Android-DataBackup (⭐1.1k)](https://github.com/XayahSuSuSu/Android-DataBackup) - 数据备份 DataBackup for Android
-*   [d4rken-org/sdmaid-se (⭐1.4k)](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
 *   [EhViewer-NekoInverter/EhViewer (⭐1.5k)](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer-NekoInverter, feature requests are not accepted, but contributions are welcome.
 *   [Ivy-Apps/ivy-wallet (⭐1.7k)](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
 *   [doublesymmetry/react-native-track-player (⭐2.9k)](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, background mode and more!
 *   [MatsuriDayo/NekoBoxForAndroid (⭐3k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-*   [gkd-kit/gkd (⭐2.5k)](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
 *   [duckduckgo/Android (⭐3.3k)](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
-*   [mrousavy/react-native-vision-camera (⭐4.9k)](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
+*   [gkd-kit/gkd (⭐3.3k)](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
 *   [RikkaApps/Shizuku (⭐5.2k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+*   [JunkFood02/Seal (⭐5.2k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+*   [hectorqin/reader (⭐5.7k)](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 *   [yairm210/Unciv (⭐6k)](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
-*   [javalin/javalin (⭐6.8k)](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
+*   [libre-tube/LibreTube (⭐6.5k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+*   [ankidroid/Anki-Android (⭐7k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 *   [yujincheng08/BiliRoaming (⭐7.6k)](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
-*   [thundernest/k-9 (⭐8.3k)](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
+*   [thundernest/k-9 (⭐8.5k)](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 *   [pppscn/SmsForwarder (⭐11k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-*   [JetBrains/compose-multiplatform (⭐14k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 *   [gedoor/legado (⭐18k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+*   [2dust/v2rayNG (⭐24k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [tachiyomiorg/tachiyomi (⭐25k)](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 *   [Kr328/ClashForAndroid (⭐28k)](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
-*   [bannedbook/fanqiang (⭐32k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [maxrave-dev/SimpMusic (⭐389)](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
-*   [MM2-0/Kvaesitso (⭐1.2k)](https://github.com/MM2-0/Kvaesitso) - A FOSS Android launcher
-*   [home-assistant/android (⭐1.8k)](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
+*   [android/platform-samples (⭐533)](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
+*   [VegaBobo/DSU-Sideloader (⭐881)](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
+*   [NeoApplications/Neo-Store (⭐2k)](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 *   [Moriafly/SaltPlayerSource (⭐2k)](https://github.com/Moriafly/SaltPlayerSource) - Salt Player 椒盐音乐，你若热爱 我即强大
-*   [JetBrains/intellij-platform-plugin-template (⭐2.5k)](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
-*   [SimpleMobileTools/Simple-Gallery (⭐3.3k)](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
-*   [zhanghai/MaterialFiles (⭐3.9k)](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-*   [ReVanced/revanced-patches (⭐4.4k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+*   [z-huang/InnerTune (⭐2.3k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
+*   [mobile-dev-inc/maestro (⭐4.5k)](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
+*   [ReVanced/revanced-patches (⭐4.5k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 *   [tiann/KernelSU (⭐4.8k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 *   [vfsfitvnm/ViMusic (⭐5.4k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-*   [hectorqin/reader (⭐5.7k)](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
-*   [libre-tube/LibreTube (⭐6.4k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-*   [android/nowinandroid (⭐13k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+*   [ethereum-lists/chains (⭐7k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
 *   [mamoe/mirai (⭐13k)](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 *   [android/sunflower (⭐17k)](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 *   [android/compose-samples (⭐17k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-*   [2dust/v2rayNG (⭐24k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [square/okhttp (⭐45k)](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [getspherelabs/anypass-kmp (⭐127)](https://github.com/getspherelabs/anypass-kmp) - AnyPass: A Compose Multiplatform app for your all-in-one password management
-*   [pleisto/flappy (⭐129)](https://github.com/pleisto/flappy) - Production-Ready LLM Agent SDK for Every Developer
-*   [deniscerri/ytdlnis (⭐1.3k)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
-*   [fuqiuluo/unidbg-fetch-qsign (⭐1.4k)](https://github.com/fuqiuluo/unidbg-fetch-qsign) - 获取QQSign通过Unidbg
+*   [JohnnySC/ZeroToHeroAndroidTDD (⭐20)](https://github.com/JohnnySC/ZeroToHeroAndroidTDD) - Learn Android by solving TDD tasks
+*   [techyourchance/TechYourChance-Android-Application (⭐114)](https://github.com/techyourchance/TechYourChance-Android-Application) - This app demonstrates the best practices for Android development and contains a repository of useful features
+*   [nightscout/AndroidAPS (⭐535)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
+*   [fankes/TSBattery (⭐673)](https://github.com/fankes/TSBattery) - A new way to save your battery avoid cancer apps hacker it.
+*   [T8RIN/ImageToolbox (⭐715)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image toolbox is the app which based on modern tech stack using Clean Architecture. It has features like filters applying, cropping, EXIF editing, quality and output image type picking and tons of another options
 *   [KotatsuApp/Kotatsu (⭐1.4k)](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
+*   [Droid-ify/client (⭐1.9k)](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 *   [PaperMC/Folia (⭐2.7k)](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
-*   [tachiyomiorg/tachiyomi-extensions (⭐2.8k)](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
-*   [recloudstream/cloudstream (⭐4.5k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-*   [JunkFood02/Seal (⭐5k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
-*   [ethereum-lists/chains (⭐7k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
+*   [SimpleMobileTools/Simple-Gallery (⭐3.3k)](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
+*   [recloudstream/cloudstream (⭐4.6k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+*   [androidx/androidx (⭐4.8k)](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+*   [bannedbook/fanqiang (⭐32k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -294,7 +292,7 @@ Here is the awesome badge for your project:
 *   [laviua/komock (⭐10)](https://github.com/laviua/komock) - HTTP/Consul/SMTP/Spring Config mocker framework written in Kotlin
 *   [AurityLab/graphql-kotlin-toolkit (⭐10)](https://github.com/AurityLab/graphql-kotlin-toolkit) - GraphQL toolkit for Kotlin (includes code generator and spring boot integration)
 *   [bootique/bootique-kotlin (⭐13)](https://github.com/bootique/bootique-kotlin) - Provides extension function and features for smooth development with Bootique and Kotlin.
-*   [Flaxoos/flax-ktor-plugins (⭐12)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
+*   [Flaxoos/flax-ktor-plugins (⭐14)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
 *   [phenax/h (⭐17)](https://github.com/phenax/h) - HTML templating library written in Kotlin
 *   [moia-dev/lambda-kotlin-request-router (⭐17)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
 *   [darkredz/zeko-restapi-framework (⭐18)](https://github.com/darkredz/zeko-restapi-framework) - Asynchronous web framework for Kotlin. Create REST APIs in Kotlin easily with automatic Swagger/OpenAPI doc generation
@@ -661,7 +659,7 @@ Here is the awesome badge for your project:
 ### <a name="libraries-frameworks-dsl"></a>DSL <sup>[Back ⇈](#libraries-frameworks-dsl-subcategory)</sup>
 
 *   [h0tk3y/regex-dsl (⭐86)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
-*   [bipokot/Kabu (⭐28)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
+*   [bipokot/Kabu (⭐29)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 
@@ -781,11 +779,11 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-jetpack-compose"></a>Jetpack-Compose <sup>[Back ⇈](#libraries-frameworks-jetpack-compose-subcategory)</sup>
 
+*   [CuriousNikhil/neumorphic-compose (⭐336)](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI on Android with Jetpack Compose. Just add one modifier = Modifier.neumorphic()
 *   [CuriousNikhil/compose-particle-system (⭐59)](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks
 *   [CuriousNikhil/k5-compose (⭐200)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
 *   [Canopas/Intro-showcase-view (⭐315)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
 *   [mahozad/wavy-slider (⭐32)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
-*   [CuriousNikhil/neumorphic-compose (⭐336)](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI on Android with Jetpack Compose. Just add one modifier = Modifier.neumorphic()
 
 ## <a name="projects"></a>Projects <sup>[Back ⇈](#projects-category)</sup>
 
@@ -845,7 +843,7 @@ Here is the awesome badge for your project:
 *   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
 *   [pintowar/sudoscan (⭐6)](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
 *   [russellbanks/HashHash (⭐30)](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
-*   [krud-dev/ostara (⭐260)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
+*   [krud-dev/ostara (⭐264)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
 
 ### <a name="projects-examples"></a>Examples <sup>[Back ⇈](#projects-examples-subcategory)</sup>
 
@@ -986,9 +984,9 @@ Here is the awesome badge for your project:
 *   [MackHartley/DashedView (⭐66)](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
 *   [MackHartley/RoundedProgressBar (⭐653)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
 *   [developingdeveloper-tech/toaster-android (⭐25)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
+*   [heart-switch (⭐44)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 *   [Blueprint (⭐77)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 *   [OTPComposable (⭐2)](https://github.com/itmaginationdemos/OTPComposable) - A library dedicated to making OTP (One Time Password) components a breeze to implement
-*   [heart-switch (⭐44)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 

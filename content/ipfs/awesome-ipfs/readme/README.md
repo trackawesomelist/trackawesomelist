@@ -71,6 +71,7 @@ A list of web browsers with IPFS integrations
 *   [bifrost-gateway (⭐23)](https://github.com/ipfs/bifrost-gateway) - \[EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
 *   [create-ipfs-app (⭐13)](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 *   [dScan (⭐27)](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
+*   [dump-ipfs (⭐0)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
 *   [gatsby-plugin-ipfs (⭐114)](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 *   [git-ipfs-rehost (⭐196)](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 *   [git-remote-ipfs (⭐220)](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS.
@@ -135,13 +136,13 @@ A list of web browsers with IPFS integrations
 
 We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a pr and we'll get it into the right place.
 
-[View the list here](https://github.com/ipfs/awesome-ipfs/blob/master/README.md/./stale.md)
+[View the list here](https://github.com/ipfs/awesome-ipfs/blob/main/README.md/./stale.md)
 
 ## Contribute
 
 Contributions are welcome!
 
-See the [**Contribution Guidelines**](https://github.com/ipfs/awesome-ipfs/blob/master/README.md/./CONTRIBUTING.md).
+See the [**Contribution Guidelines**](https://github.com/ipfs/awesome-ipfs/blob/main/README.md/./CONTRIBUTING.md).
 
 ## License
 

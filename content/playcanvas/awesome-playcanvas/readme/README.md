@@ -2,7 +2,7 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 224 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 225 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / Overview ]
 
@@ -75,8 +75,8 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [playcanvas-p2.js (⭐20)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 *   [playcanvas-spine (⭐43)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 *   [playcanvas-tween (⭐51)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
-*   [playcanvas-vue (⭐40)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-*   [tween.js (⭐9.4k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [playcanvas-vue (⭐41)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
+*   [tween.js (⭐9.5k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 *   [PlayBuild (⭐9)](https://github.com/wearekuva/playbuild) - An integrated bundler and package manager with support for TypeScript & JSX.
 *   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 *   [Sublime Completions (⭐5)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
@@ -145,6 +145,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
 *   [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
+*   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
 *   [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - Paint faster than your opponents to win the round.
 *   [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first person shooter.
 *   [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
@@ -217,5 +218,5 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐224)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐225)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 

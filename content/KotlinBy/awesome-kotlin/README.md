@@ -6,7 +6,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Oct 17, 2023](/content/2023/10/17/README.md)
+## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -99,7 +99,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Web
 
-*   [Flaxoos/flax-ktor-plugins (⭐12)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
+*   [Flaxoos/flax-ktor-plugins (⭐14)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
 
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 
@@ -111,7 +111,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / DSL
 
-*   [bipokot/Kabu (⭐28)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
+*   [bipokot/Kabu (⭐29)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
 
 ## [Jul 14, 2023](/content/2023/07/14/README.md)
 
@@ -142,7 +142,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Projects / Desktop
 
-*   [krud-dev/ostara (⭐260)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
+*   [krud-dev/ostara (⭐264)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 

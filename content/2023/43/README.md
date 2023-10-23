@@ -1,24 +1,195 @@
 # Awesome List Updates on Oct 23 - Oct 29, 2023
 
-9 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Cognitive Development / Commonsense Knowledgebase
+
+*   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
+
+## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+
+### Tools
+
+*   [dump-ipfs (⭐0)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
+### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+### Libraries/Frameworks / Data Science
+
+*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐58)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐69)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐421)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+### Projects / Desktop
+
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+
+### Projects / Android
+
+*   [skydoves/githubfollows (⭐295)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐39)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Android / Tests
+
+*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐567)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐319)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+
+### Sports
+
+*   [Scriptable-lichess-Widget (⭐1)](https://github.com/bestmacfly/Scriptable-lichess-Widget) - Your current lichess statistics.
+
+    <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
+
+## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### IO Games
+
+*   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
+
+## [6. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Others
+
+*   [vite-vue3-chrome-extension-v3 (⭐140)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
+
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### (requires Neovim 0.5)
+
+*   [mrcjkb/rustaceanvim (⭐32)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+
+### Preconfigured Configuration / Diagnostics
+
+*   [mrcjkb/kickstart-nix.nvim (⭐18)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
+
+## [8. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+
+### Extensions / Community
+
+*   [Tab Group (⭐0)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
+*   [Drawer Notice (⭐0)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
+*   [Classified Group (⭐0)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
+*   [Tokenized Preview (⭐1)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+
+## [9. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+
+### Libraries / New Libraries
+
+*   [JAX Toolbox (⭐82)](https://github.com/NVIDIA/JAX-Toolbox) - Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine. <img src="https://img.shields.io/github/stars/NVIDIA/JAX-Toolbox?style=social" align="center">
+*   [Pgx (⭐194)](http://github.com/sotetsuk/pgx) - Vectorized board game environments for RL with an AlphaZero example. <img src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" align="center">
+
+### Tutorials and Blog Posts / NumPyro
+
+*   [Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh](https://www.kaggle.com/code/truthr/jax-0) - A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems.
+
+## [10. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Tutorials
+
+*   [Tutorials to get started on signal processing for machine learning (⭐41)](https://github.com/jinglescode/python-signal-processing)
+
+### Algorithms / Data Mining Algorithms
+
+*   KNN
+
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Mathematics
+
+*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
+
+## [12. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Industrial Control and SCADA Systems / Zealandia
 
 *   [OpalOPC](https://opalopc.com/) - Commercial OPC UA vulnerability assessment tool, sold by Molemmat.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+### Open Sources Intelligence (OSINT) / Web application and resource analysis tools
+
+*   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
+
+## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
 *   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
@@ -28,7 +199,7 @@
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-## [4. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [15. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -138,31 +309,35 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [16. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Low Code
 
 *   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
 
-## [8. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+### Testing
+
+*   [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
+
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Module Bundlers / Playground
 
 *   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

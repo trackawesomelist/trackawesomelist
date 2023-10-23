@@ -36,25 +36,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 
-#### [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
-
-#### [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Software Development - Low Code
 
 *   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-#### [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+#### [4. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ##### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-#### [6. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+#### [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ##### Strategy
 
@@ -164,7 +158,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-#### [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### ORM
 
@@ -174,17 +168,198 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-#### [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Containers
 
 *   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
-#### [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+#### [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+##### Mathematics
+
+*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
+
+#### [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+##### Tutorials
+
+*   [Tutorials to get started on signal processing for machine learning (⭐41)](https://github.com/jinglescode/python-signal-processing)
+
+##### Algorithms / Data Mining Algorithms
+
+*   KNN
+
+#### [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+
+##### Libraries / New Libraries
+
+*   [JAX Toolbox (⭐82)](https://github.com/NVIDIA/JAX-Toolbox) - Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine. <img src="https://img.shields.io/github/stars/NVIDIA/JAX-Toolbox?style=social" align="center">
+*   [Pgx (⭐194)](http://github.com/sotetsuk/pgx) - Vectorized board game environments for RL with an AlphaZero example. <img src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" align="center">
+
+##### Tutorials and Blog Posts / NumPyro
+
+*   [Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh](https://www.kaggle.com/code/truthr/jax-0) - A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems.
+
+#### [11. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+
+##### Extensions / Community
+
+*   [Tab Group (⭐0)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
+*   [Drawer Notice (⭐0)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
+*   [Classified Group (⭐0)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
+*   [Tokenized Preview (⭐1)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+
+#### [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [mrcjkb/rustaceanvim (⭐32)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+
+##### Preconfigured Configuration / Diagnostics
+
+*   [mrcjkb/kickstart-nix.nvim (⭐18)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
+
+#### [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+##### Templates / Others
+
+*   [vite-vue3-chrome-extension-v3 (⭐140)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
+
+#### [14. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+##### IO Games
+
+*   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
+
+#### [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
+
+##### Testing
+
+*   [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
+
+#### [16. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+
+##### Sports
+
+*   [Scriptable-lichess-Widget (⭐1)](https://github.com/bestmacfly/Scriptable-lichess-Widget) - Your current lichess statistics.
+
+    <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
+
+#### [17. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+##### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
+##### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+##### Libraries/Frameworks / Data Science
+
+*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+##### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+##### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐58)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+##### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+##### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+##### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐69)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐421)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+##### Projects / Desktop
+
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+##### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+
+##### Projects / Android
+
+*   [skydoves/githubfollows (⭐295)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+##### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+##### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐39)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+
+##### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+##### Android / Tests
+
+*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+
+##### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+##### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐567)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+##### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐319)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+##### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+#### [18. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+
+##### Tools
+
+*   [dump-ipfs (⭐0)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
+
+#### [19. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ##### Industrial Control and SCADA Systems / Zealandia
 
 *   [OpalOPC](https://opalopc.com/) - Commercial OPC UA vulnerability assessment tool, sold by Molemmat.
+
+##### Open Sources Intelligence (OSINT) / Web application and resource analysis tools
+
+*   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
+
+#### [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Cognitive Development / Commonsense Knowledgebase
+
+*   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
 
 ---
 
@@ -192,7 +367,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ## Top 50 Awesome List
 
-1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 300K 📝 10&#x2F;19 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
+1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 300K 📝 10&#x2F;23 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 2. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 273K 📝 10&#x2F;17 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 152K 📝 10&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 110K 📝 10&#x2F;20 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
@@ -203,41 +378,41 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 9. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 53K 📝 10&#x2F;19 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 10. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 38K 📝 10&#x2F;22 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 11. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 64K 📝 10&#x2F;16 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-12. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 38K 📝 10&#x2F;17 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
-13. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 27K 📝 10&#x2F;20 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-14. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 19K 📝 10&#x2F;23 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
-15. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 17K 📝 10&#x2F;23 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-16. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 10&#x2F;23 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-17. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 10&#x2F;23 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-18. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 257K 📝 09&#x2F;21 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
-19. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K 📝 10&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
-20. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 12K 📝 10&#x2F;21 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-21. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 10&#x2F;20 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-22. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.1K 📝 10&#x2F;22 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
-23. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 14K 📝 10&#x2F;17 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-24. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 11K 📝 10&#x2F;19 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-25. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 10K 📝 10&#x2F;20 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-26. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 10&#x2F;17 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-27. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 10&#x2F;17 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-28. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 10&#x2F;17 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-29. [Awesome Security](/content/sbilly/awesome-security/README.md) - ([Source ⭐ 10K 📝 10&#x2F;17 ](https://github.com/sbilly/awesome-security)) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-30. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 9.3K 📝 10&#x2F;18 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-31. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 22K 📝 10&#x2F;07 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-32. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K 📝 10&#x2F;20 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+12. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 22K 📝 10&#x2F;23 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+13. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 38K 📝 10&#x2F;17 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+14. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 27K 📝 10&#x2F;20 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
+15. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 19K 📝 10&#x2F;23 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
+16. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 17K 📝 10&#x2F;23 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
+17. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 10&#x2F;23 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
+18. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 10&#x2F;23 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+19. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K 📝 10&#x2F;23 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+20. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 12K 📝 10&#x2F;23 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+21. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;23 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+22. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 257K 📝 09&#x2F;21 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
+23. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 12K 📝 10&#x2F;21 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+24. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 10&#x2F;20 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+25. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.1K 📝 10&#x2F;22 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+26. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 14K 📝 10&#x2F;17 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+27. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 10K 📝 10&#x2F;20 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+28. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 10&#x2F;17 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
+29. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 10&#x2F;17 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
+30. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 10&#x2F;17 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+31. [Awesome Security](/content/sbilly/awesome-security/README.md) - ([Source ⭐ 10K 📝 10&#x2F;17 ](https://github.com/sbilly/awesome-security)) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+32. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 9.3K 📝 10&#x2F;18 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
 33. [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source ⭐ 6.5K 📝 10&#x2F;19 ](https://github.com/awesome-lists/awesome-bash)) - A curated list of delightful Bash scripts and resources.
-34. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 15K 📝 10&#x2F;10 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-35. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.2K 📝 10&#x2F;23 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-36. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 4.8K 📝 10&#x2F;20 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform
-37. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 6.3K 📝 10&#x2F;17 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
-38. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.9K 📝 10&#x2F;17 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
-39. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 5.3K 📝 10&#x2F;18 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-40. [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K 📝 10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
-41. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 4.9K 📝 10&#x2F;18 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-42. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.2K 📝 10&#x2F;20 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
-43. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8K 📝 10&#x2F;11 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-44. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 6.3K 📝 10&#x2F;13 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
-45. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;08 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-46. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K 📝 10&#x2F;17 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
+34. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K 📝 10&#x2F;20 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+35. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K 📝 10&#x2F;23 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
+36. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 15K 📝 10&#x2F;10 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+37. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.2K 📝 10&#x2F;23 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+38. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 4.8K 📝 10&#x2F;20 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform
+39. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 6.3K 📝 10&#x2F;17 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
+40. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.9K 📝 10&#x2F;17 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
+41. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 5.3K 📝 10&#x2F;18 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+42. [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K 📝 10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
+43. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 4.9K 📝 10&#x2F;18 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+44. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.2K 📝 10&#x2F;20 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
+45. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 8K 📝 10&#x2F;11 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+46. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 6.3K 📝 10&#x2F;13 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
 47. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 12K 📝 10&#x2F;06 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 48. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3.5K 📝 10&#x2F;17 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
 49. [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 2K 📝 10&#x2F;22 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
@@ -292,7 +467,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md) - ([Source ⭐ 283, 📝 19&#x2F;12&#x2F;06 ](https://github.com/TalAter/awesome-book-authoring)) - :books: A collection of awesome resources for technical book authors
 - [Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md) - ([Source ⭐ 299, 📝 10&#x2F;20 ](https://github.com/bystritskiy/awesome-ios-books)) - 📚 Directory of iOS books
 - [ElixirBooks](/content/sger/ElixirBooks/README.md) - ([Source ⭐ 1.2K, 📝 22&#x2F;08&#x2F;14 ](https://github.com/sger/ElixirBooks)) - List of Elixir books
-- [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 300K, 📝 10&#x2F;19 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
+- [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 300K, 📝 10&#x2F;23 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 - [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 15K, 📝 01&#x2F;07 ](https://github.com/dariubs/GoBooks)) - List of Golang books
 - [Rbooks](/content/RomanTsegelskyi/rbooks/README.md) - ([Source ⭐ 192, 📝 17&#x2F;10&#x2F;11 ](https://github.com/RomanTsegelskyi/rbooks)) - A curated list of #rstats books
 
@@ -328,7 +503,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Courses](/content/prakhar1989/awesome-courses/README.md) - ([Source ⭐ 43K, 📝 22&#x2F;11&#x2F;13 ](https://github.com/prakhar1989/awesome-courses)) - :books: List of awesome university courses for learning Computer Science!
 - [Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md) - ([Source ⭐ 1.5K, 📝 08&#x2F;02 ](https://github.com/pFarb/awesome-crypto-papers)) - A curated list of cryptography papers, articles, tutorials and howtos.
 - [Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md) - ([Source ⭐ 4.7K, 📝 07&#x2F;27 ](https://github.com/sobolevn/awesome-cryptography)) - A curated list of cryptography resources and links.
-- [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 22K, 📝 10&#x2F;07 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+- [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 22K, 📝 10&#x2F;23 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md) - ([Source ⭐ 20K, 📝 22&#x2F;11&#x2F;15 ](https://github.com/ChristosChristofidis/awesome-deep-learning)) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md) - ([Source ⭐ 24K, 📝 17&#x2F;09&#x2F;22 ](https://github.com/terryum/awesome-deep-learning-papers)) - The most cited deep learning papers
 - [Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md) - ([Source ⭐ 1.5K, 📝 21&#x2F;08&#x2F;04 ](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
@@ -337,7 +512,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md) - ([Source ⭐ 848, 📝 02&#x2F;24 ](https://github.com/lucasviola/awesome-functional-programming)) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [Awesome H2o](/content/h2oai/awesome-h2o/README.md) - ([Source ⭐ 345, 📝 05&#x2F;19 ](https://github.com/h2oai/awesome-h2o)) - A curated list of research, applications and projects built using the H2O Machine Learning platform
 - [Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/README.md) - ([Source ⭐ 894, 📝 17&#x2F;10&#x2F;23 ](https://github.com/harpribot/awesome-information-retrieval)) - A curated list of awesome information retrieval resources
-- [Awesome Jax](/content/n2cholas/awesome-jax/README.md) - ([Source ⭐ 1K, 📝 09&#x2F;25 ](https://github.com/n2cholas/awesome-jax)) - JAX - A curated list of resources https://github.com/google/jax
+- [Awesome Jax](/content/n2cholas/awesome-jax/README.md) - ([Source ⭐ 1.1K, 📝 10&#x2F;23 ](https://github.com/n2cholas/awesome-jax)) - JAX - A curated list of resources https://github.com/google/jax
 - [Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md) - ([Source ⭐ 563, 📝 19&#x2F;07&#x2F;22 ](https://github.com/siboehm/awesome-learn-datascience)) - :chart_with_upwards_trend: Curated list of resources to help you get started with Data Science
 - [Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md) - ([Source ⭐ 323, 📝 22&#x2F;12&#x2F;11 ](https://github.com/theimpossibleastronaut/awesome-linguistics)) - A curated list of anything remotely related to linguistics
 - [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 60K, 📝 09&#x2F;12 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
@@ -361,7 +536,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 ### Content Management Systems
 
 - [Awesome](/content/craftcms/awesome/README.md) - ([Source ⭐ 491, 📝 02&#x2F;02 ](https://github.com/craftcms/awesome)) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
-- [Awesome Directus](/content/directus-community/awesome-directus/README.md) - ([Source ⭐ 326, 📝 09&#x2F;21 ](https://github.com/directus-community/awesome-directus)) - A curated list of awesome things related to Directus
+- [Awesome Directus](/content/directus-community/awesome-directus/README.md) - ([Source ⭐ 343, 📝 10&#x2F;23 ](https://github.com/directus-community/awesome-directus)) - A curated list of awesome things related to Directus
 - [Awesome Drupal](/content/nirgn975/awesome-drupal/README.md) - ([Source ⭐ 79, 📝 18&#x2F;07&#x2F;05 ](https://github.com/nirgn975/awesome-drupal)) - Useful resources for Drupal CMS 💧
 - [Awesome Plone](/content/collective/awesome-plone/README.md) - ([Source ⭐ 29, 📝 04&#x2F;28 ](https://github.com/collective/awesome-plone)) - Add-ons and resources for the CMS Plone
 - [Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md) - ([Source ⭐ 29, 📝 16&#x2F;04&#x2F;07 ](https://github.com/refinerycms-contrib/awesome-refinerycms)) - A collection of awesome Refinery CMS extensions, resources and shiny things.
@@ -439,7 +614,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K, 📝 10&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K, 📝 10&#x2F;23 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 950, 📝 22&#x2F;04&#x2F;30 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -519,7 +694,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 12K, 📝 10&#x2F;06 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 - [Awesome Text Editing](/content/dok/awesome-text-editing/README.md) - ([Source ⭐ 245, 📝 20&#x2F;06&#x2F;18 ](https://github.com/dok/awesome-text-editing)) - Collection of text editing resources and libraries for the web
 - [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.2K, 📝 10&#x2F;23 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-- [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 11K, 📝 10&#x2F;19 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+- [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 12K, 📝 10&#x2F;23 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
 - [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 70K, 📝 10&#x2F;20 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 - [Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md) - ([Source ⭐ 1.1K, 📝 21&#x2F;09&#x2F;16 ](https://github.com/sergey-pimenov/awesome-web-animation)) - A list of awesome web animation libraries, books, apps etc.
 - [Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md) - ([Source ⭐ 76, 📝 22&#x2F;02&#x2F;19 ](https://github.com/pajaydev/awesome-web-performance-budget)) - ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)
@@ -568,7 +743,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md) - ([Source ⭐ 348, 📝 09&#x2F;28 ](https://github.com/bs-community/awesome-minecraft)) - 📝 The curated list of awesome things related to Minecraft.
 - [Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md) - ([Source ⭐ 958, 📝 07&#x2F;30 ](https://github.com/michelpereira/awesome-open-source-games)) - Collection of Games that have the source code available on GitHub
 - [Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md) - ([Source ⭐ 2.4K, 📝 10&#x2F;16 ](https://github.com/pico-8/awesome-PICO-8)) - A curated list of awesome PICO-8 resources, carts, tools and more
-- [Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md) - ([Source ⭐ 224, 📝 10&#x2F;06 ](https://github.com/playcanvas/awesome-playcanvas)) - A curated list of awesome PlayCanvas assets, resources, and more.
+- [Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md) - ([Source ⭐ 225, 📝 10&#x2F;23 ](https://github.com/playcanvas/awesome-playcanvas)) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [Awesome Unity](/content/RyanNielson/awesome-unity/README.md) - ([Source ⭐ 5.4K, 📝 21&#x2F;04&#x2F;26 ](https://github.com/RyanNielson/awesome-unity)) - A curated list of awesome Unity assets, resources, and more.
 - [Game Datasets](/content/leomaurodesenv/game-datasets/README.md) - ([Source ⭐ 537, 📝 08&#x2F;12 ](https://github.com/leomaurodesenv/game-datasets)) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
 - [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 12K, 📝 10&#x2F;21 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -695,7 +870,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md) - ([Source ⭐ 2.7K, 📝 22&#x2F;03&#x2F;28 ](https://github.com/jdorfman/awesome-json-datasets)) - A curated list of awesome JSON datasets that don't require authentication.
 - [Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md) - ([Source ⭐ 3.5K, 📝 08&#x2F;21 ](https://github.com/markusschanta/awesome-jupyter)) - A curated list of awesome Jupyter projects, libraries and resources
 - [Awesome Katas](/content/gamontal/awesome-katas/README.md) - ([Source ⭐ 2.3K, 📝 07&#x2F;15 ](https://github.com/gamontal/awesome-katas)) - A curated list of code katas
-- [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K, 📝 10&#x2F;08 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+- [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K, 📝 10&#x2F;23 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 - [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 14K, 📝 08&#x2F;17 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
 - [Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md) - ([Source ⭐ 1.2K, 📝 10&#x2F;03 ](https://github.com/egeerardyn/awesome-LaTeX)) - Curated list of LaTeX awesomeness
 - [Awesome Ledger](/content/sfischer13/awesome-ledger/README.md) - ([Source ⭐ 126, 📝 18&#x2F;04&#x2F;25 ](https://github.com/sfischer13/awesome-ledger)) - :star: Useful resources for the Ledger command-line accounting system
@@ -732,7 +907,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md) - ([Source ⭐ 488, 📝 21&#x2F;07&#x2F;08 ](https://github.com/hbokh/awesome-saltstack)) - 🧂 A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1K, 📝 04&#x2F;13 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 592, 📝 08&#x2F;04 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
-- [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 886, 📝 08&#x2F;19 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
+- [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 945, 📝 10&#x2F;23 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
 - [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 152K, 📝 10&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
@@ -801,7 +976,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md) - ([Source ⭐ 286, 📝 21&#x2F;04&#x2F;30 ](https://github.com/jonleibowitz/awesome-digitalocean)) - A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin
 - [Awesome Dos](/content/balintkissdev/awesome-dos/README.md) - ([Source ⭐ 339, 📝 06&#x2F;07 ](https://github.com/balintkissdev/awesome-dos)) - Curated list of references for development of DOS applications.
 - [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 17K, 📝 10&#x2F;23 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-- [Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md) - ([Source ⭐ 17K, 📝 22&#x2F;08&#x2F;18 ](https://github.com/thangchung/awesome-dotnet-core)) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+- [Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md) - ([Source ⭐ 19K, 📝 22&#x2F;08&#x2F;18 ](https://github.com/thangchung/awesome-dotnet-core)) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 3.4K, 📝 09&#x2F;28 ](https://github.com/zoidbergwill/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
 - [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 25K, 📝 09&#x2F;15 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
 - [Awesome Esp](/content/agucova/awesome-esp/README.md) - ([Source ⭐ 482, 📝 22&#x2F;06&#x2F;19 ](https://github.com/agucova/awesome-esp)) - 📶 A curated list of awesome ESP8266/32 projects and code
@@ -814,7 +989,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 - [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 255, 📝 10&#x2F;18 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
 - [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 44K, 📝 09&#x2F;02 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md) - ([Source ⭐ 487, 📝 19&#x2F;09&#x2F;10 ](https://github.com/weblancaster/awesome-IoT-hybrid)) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
-- [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K, 📝 10&#x2F;17 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
+- [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K, 📝 10&#x2F;23 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
 - [Awesome Jvm](/content/deephacks/awesome-jvm/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;07&#x2F;12 ](https://github.com/deephacks/awesome-jvm)) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
 - [Awesome Kde](/content/francoism90/awesome-kde/README.md) - ([Source ⭐ 244, 📝 21&#x2F;11&#x2F;04 ](https://github.com/francoism90/awesome-kde)) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [Awesome Linux](/content/inputsh/awesome-linux/README.md) - ([Source ⭐ 3.5K, 📝 19&#x2F;01&#x2F;16 ](https://github.com/inputsh/awesome-linux)) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
@@ -954,7 +1129,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 194, 📝 10&#x2F;22 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 194, 📝 10&#x2F;23 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 15K, 📝 09&#x2F;23 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 7.1K, 📝 22&#x2F;08&#x2F;12 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 72, 📝 09&#x2F;15 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

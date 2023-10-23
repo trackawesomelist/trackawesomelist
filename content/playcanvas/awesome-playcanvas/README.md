@@ -2,9 +2,15 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 224 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 225 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
+
+## [Oct 23, 2023](/content/2023/10/23/README.md)
+
+### IO Games
+
+*   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
 
 ## [Oct 06, 2023](/content/2023/10/06/README.md)
 
@@ -396,7 +402,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [playcanvas-vue (⭐40)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
+*   [playcanvas-vue (⭐41)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 
 ## [Oct 28, 2020](/content/2020/10/28/README.md)
 
@@ -511,7 +517,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Extensions and Utilities
 
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.4k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.5k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 

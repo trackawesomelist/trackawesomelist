@@ -1922,6 +1922,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Perception of partly occluded objects in infancy](https://www.harvardlds.org/wp-content/uploads/2017/01/Perception-of-partly-occluded-objects-in-infancy-1.pdf) - ***Cognitive Psychology***, 1983. \[[All Versions](https://scholar.google.com/scholar?cluster=4182861116190610992\&hl=en\&as_sdt=0,5)].
 
+*   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
+
 \*[Back to Top](#c)
 
 ### Learning in the Open World
