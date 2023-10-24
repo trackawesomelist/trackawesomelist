@@ -16,6 +16,19 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
 
+### Web Hosting
+
+*   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) — Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
+
+### Issue Tracking and Project Management
+
+*   [WishKit](https://wishkit.io) —  Collect in-app user feedback for your iOS/macOS app and prioritize features based on user votes. Free plan up to 1 app.
+
+### IDE and Code Editing
+
+*   [Brackets](http://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
+*   [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Security and PKI
@@ -1664,7 +1677,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### IDE and Code Editing
 
-*   [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP.
+*   [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP
 
 ### Analytics, Events and Statistics
 

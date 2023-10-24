@@ -6,6 +6,12 @@ Useful resources for using IPFS and building things on top of it
 
 [ Daily / [Weekly](/content/ipfs/awesome-ipfs/week/README.md) / [Overview](/content/ipfs/awesome-ipfs/readme/README.md) ]
 
+## [Oct 24, 2023](/content/2023/10/24/README.md)
+
+### Pinning services
+
+*   [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
+
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### Tools

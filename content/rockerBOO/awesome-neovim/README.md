@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 24, 2023](/content/2023/10/24/README.md)
+
+### Motion / Diagnostics
+
+*   [smoka7/hop.nvim (⭐95)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+
+### Indent / Diagnostics
+
+*   [VidocqH/auto-indent.nvim (⭐2)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### (requires Neovim 0.5)
@@ -2842,7 +2852,6 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [phaazon/hop.nvim (⭐2.3k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 *   [ggandor/lightspeed.nvim (⭐1.6k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 
 ## [Jun 20, 2021](/content/2021/06/20/README.md)

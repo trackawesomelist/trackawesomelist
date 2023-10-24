@@ -6,6 +6,21 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 24, 2023](/content/2023/10/24/README.md)
+
+### Web Hosting
+
+*   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) — Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
+
+### Issue Tracking and Project Management
+
+*   [WishKit](https://wishkit.io) —  Collect in-app user feedback for your iOS/macOS app and prioritize features based on user votes. Free plan up to 1 app.
+
+### IDE and Code Editing
+
+*   [Brackets](http://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
+*   [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.
+
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### APIs, Data, and ML
@@ -2086,7 +2101,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### IDE and Code Editing
 
-*   [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP.
+*   [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
 

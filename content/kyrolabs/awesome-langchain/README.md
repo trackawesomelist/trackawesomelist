@@ -6,6 +6,21 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Oct 24, 2023](/content/2023/10/24/README.md)
+
+### Tools / Agents
+
+*   [Elasticsearch Agent (⭐9)](https://github.com/onepointconsulting/elasticsearch-agent): ElasticSearch agent based on ElasticSearch, LangChain and GPT 4 ![GitHub Repo stars](https://img.shields.io/github/stars/onepointconsulting/elasticsearch-agent?style=social)
+
+### Open Source Projects / Knowledge Management
+
+*   [Repochat (⭐144)](https://github.com/pnkvalavala/repochat): Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation ![GitHub Repo stars](https://img.shields.io/github/stars/pnkvalavala/repochat?style=social)
+*   [SolidGPT (⭐904)](https://github.com/AI-Citizen/SolidGPT): Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)
+
+### Open Source Projects / Other / Chatbots
+
+*   [XAgent (⭐3k)](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
+
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Tools / Agents
@@ -190,7 +205,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [Second Brain AI Agent (⭐83)](https://github.com/flepied/second-brain-agent): A streamlit app automaticall dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
+*   [Second Brain AI Agent (⭐83)](https://github.com/flepied/second-brain-agent): A streamlit app dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -225,7 +240,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [DataChad (⭐254)](https://github.com/gustavz/DataChad): A streamlit app that let's you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
+*   [DataChad (⭐254)](https://github.com/gustavz/DataChad): A streamlit app that lets you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
 
 ### Open Source Projects / Other / Chatbots
 

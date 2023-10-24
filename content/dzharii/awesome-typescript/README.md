@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Oct 24, 2023](/content/2023/10/24/README.md)
+
+### Tools / Playground
+
+*   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
+
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### Module Bundlers / Playground

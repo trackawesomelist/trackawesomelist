@@ -12,6 +12,10 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 *   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 
+### Tools / Playground
+
+*   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Types / Playground

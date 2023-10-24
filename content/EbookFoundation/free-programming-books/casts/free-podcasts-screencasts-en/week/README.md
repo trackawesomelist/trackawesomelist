@@ -6,6 +6,12 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/readme/README.md) ]
 
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### Language Agnostic / React.js
+
+*   [Compiler](https://www.redhat.com/en/compiler-podcast) - Angela Andrews, Brent Simoneaux, Red Hat (podcast)
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### C#

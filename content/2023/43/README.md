@@ -1,19 +1,94 @@
 # Awesome List Updates on Oct 23 - Oct 29, 2023
 
-23 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+
+### Tools / Agents
+
+*   [Elasticsearch Agent (⭐9)](https://github.com/onepointconsulting/elasticsearch-agent): ElasticSearch agent based on ElasticSearch, LangChain and GPT 4 ![GitHub Repo stars](https://img.shields.io/github/stars/onepointconsulting/elasticsearch-agent?style=social)
+
+### Open Source Projects / Knowledge Management
+
+*   [Repochat (⭐144)](https://github.com/pnkvalavala/repochat): Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation ![GitHub Repo stars](https://img.shields.io/github/stars/pnkvalavala/repochat?style=social)
+*   [SolidGPT (⭐904)](https://github.com/AI-Citizen/SolidGPT): Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)
+
+### Open Source Projects / Other / Chatbots
+
+*   [XAgent (⭐3k)](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+
+### Projects / API Management
+
+*   [Gravitee.io API Management (⭐75) (⭐69)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [WSO2 API Manager (⭐768) (⭐766)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐670) (⭐667)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [Zally (⭐826) (⭐825)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+### Projects / API Gateway
+
+*   [Apinto (⭐981) (⭐972)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
+
+### Projects / API Testing
+
+*   MQ clients
+    *   [JMSToolBox (⭐181) (⭐180)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
+    *   [kcat (⭐5k) (⭐5k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
+    *   [MQTT Explorer (⭐2.5k) (⭐2.5k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
+    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
+    *   [Service Bus Explorer (⭐1.8k) (⭐1.8k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
+*   Mocking tools
+    *   [Microcks (⭐1k) (⭐986)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
+    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
+    *   [Mockoon (⭐5.4k) (⭐5.4k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
+    *   [MockServer (⭐4.2k) (⭐4.3k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
+    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
+    *   [Prism (⭐3.7k) (⭐3.8k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
+    *   [WireMock (⭐5.7k) (⭐5.8k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
+
+### Projects / Data Mapping Solution
+
+*   [JSLT (⭐570) (⭐568)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+
+### Projects / ESB
+
+*   [NServiceBus (⭐2k) (⭐2k)](https://github.com/Particular/NServiceBus) - A .NET-based service bus that offers an intuitive developer-friendly environment.
+
+### Projects / Integration Frameworks
+
+*   [Apache Camel (⭐5.1k) (⭐5.1k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
+
+### Projects / Messaging
+
+*   [Redpanda (⭐7.9k) (⭐7.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+
+### Projects / Workflow engine
+
+*   [Bonita (⭐139) (⭐140)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
+*   [Elsa Core (⭐5.1k) (⭐5.1k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
+
+## [3. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+
+### Language Agnostic / React.js
+
+*   [Compiler](https://www.redhat.com/en/compiler-podcast) - Angela Andrews, Brent Simoneaux, Red Hat (podcast)
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / FFI
 
 *   Prolog
     *   [mthom/scryer-prolog (⭐1.8k)](https://github.com/mthom/scryer-prolog/) — Scryer Prolog is a free software ISO Prolog system written in Rust
 
-## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [5. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
 ### [Le Git Graph (⭐1.8k)](https://github.com/NirmalScaria/le-git-graph) <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -21,25 +96,29 @@ Browser extension to add git graph to GitHub website.
 
 Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
-## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Other Development Tools / Wallets
 
 *   [use-wallet-js (⭐2)](https://github.com/TxnLab/use-wallet-js) - TypeScript library for integrating Algorand wallets into decentralized applications.
 
-## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Cognitive Development / Commonsense Knowledgebase
 
 *   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
 
-## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [8. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [dump-ipfs (⭐0)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+### Pinning services
+
+*   [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
+
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -128,7 +207,7 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [7. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [10. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Sports
 
@@ -136,29 +215,37 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
     <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
 
-## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
 *   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Others
 
 *   [vite-vue3-chrome-extension-v3 (⭐140)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [mrcjkb/rustaceanvim (⭐32)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
+### Motion / Diagnostics
+
+*   [smoka7/hop.nvim (⭐95)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+
+### Indent / Diagnostics
+
+*   [VidocqH/auto-indent.nvim (⭐2)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+
 ### Preconfigured Configuration / Diagnostics
 
 *   [mrcjkb/kickstart-nix.nvim (⭐18)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
-## [11. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [14. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
@@ -167,7 +254,7 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 *   [Classified Group (⭐0)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 *   [Tokenized Preview (⭐1)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
-## [12. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [15. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -178,7 +265,7 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
 *   [Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh](https://www.kaggle.com/code/truthr/jax-0) - A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems.
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tutorials
 
@@ -188,17 +275,7 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
 *   KNN
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Mathematics
-
-*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
-
-### Programming
-
-*   [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
-
-## [15. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Industrial Control and SCADA Systems / Zealandia
 
@@ -208,13 +285,13 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
 *   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
 *   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
@@ -224,7 +301,7 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-## [18. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [20. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -388,19 +465,19 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [19. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [21. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Low Code
 
 *   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -410,13 +487,30 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
 
-## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+### Web Hosting
+
+*   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) — Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
+
+### Issue Tracking and Project Management
+
+*   [WishKit](https://wishkit.io) —  Collect in-app user feedback for your iOS/macOS app and prioritize features based on user votes. Free plan up to 1 app.
+
+### IDE and Code Editing
+
+*   [Brackets](http://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
+*   [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.
+
+## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Module Bundlers / Playground
 
 *   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 
-## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+### Tools / Playground
+
+*   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
+
+## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

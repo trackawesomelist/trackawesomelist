@@ -171,6 +171,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ## Tools
 
 *   [sqlx-ts (⭐95)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
+*   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
 *   [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
 *   [SweetIQ/schemats (⭐1k)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 *   [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects

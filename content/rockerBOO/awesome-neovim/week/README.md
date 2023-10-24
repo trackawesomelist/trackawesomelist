@@ -12,6 +12,14 @@ Collections of awesome neovim plugins.
 
 *   [mrcjkb/rustaceanvim (⭐32)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
+### Motion / Diagnostics
+
+*   [smoka7/hop.nvim (⭐95)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+
+### Indent / Diagnostics
+
+*   [VidocqH/auto-indent.nvim (⭐2)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+
 ### Preconfigured Configuration / Diagnostics
 
 *   [mrcjkb/kickstart-nix.nvim (⭐18)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
@@ -2344,7 +2352,6 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [phaazon/hop.nvim (⭐2.3k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 *   [ggandor/lightspeed.nvim (⭐1.6k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)

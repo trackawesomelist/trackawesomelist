@@ -12,6 +12,10 @@ Useful resources for using IPFS and building things on top of it
 
 *   [dump-ipfs (⭐0)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
 
+### Pinning services
+
+*   [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Apps
