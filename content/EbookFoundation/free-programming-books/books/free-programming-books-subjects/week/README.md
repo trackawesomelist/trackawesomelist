@@ -12,6 +12,10 @@
 
 *   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
 
+### Programming
+
+*   [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Algorithms & Data Structures

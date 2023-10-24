@@ -1,24 +1,45 @@
 # Awesome List Updates on Oct 23 - Oct 29, 2023
 
-20 awesome lists updated this week.
+23 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Development tools / FFI
+
+*   Prolog
+    *   [mthom/scryer-prolog (⭐1.8k)](https://github.com/mthom/scryer-prolog/) — Scryer Prolog is a free software ISO Prolog system written in Rust
+
+## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+
+### [Le Git Graph (⭐1.8k)](https://github.com/NirmalScaria/le-git-graph) <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Browser extension to add git graph to GitHub website.
+
+Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
+
+## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+
+### Other Development Tools / Wallets
+
+*   [use-wallet-js (⭐2)](https://github.com/TxnLab/use-wallet-js) - TypeScript library for integrating Algorand wallets into decentralized applications.
+
+## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Cognitive Development / Commonsense Knowledgebase
 
 *   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
 
-## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [dump-ipfs (⭐0)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -107,7 +128,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [7. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Sports
 
@@ -115,19 +136,19 @@
 
     <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
 *   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
 
-## [6. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Others
 
 *   [vite-vue3-chrome-extension-v3 (⭐140)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -137,7 +158,7 @@
 
 *   [mrcjkb/kickstart-nix.nvim (⭐18)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
-## [8. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [11. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
@@ -146,7 +167,7 @@
 *   [Classified Group (⭐0)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 *   [Tokenized Preview (⭐1)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
-## [9. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [12. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -157,7 +178,7 @@
 
 *   [Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh](https://www.kaggle.com/code/truthr/jax-0) - A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems.
 
-## [10. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tutorials
 
@@ -167,13 +188,17 @@
 
 *   KNN
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Mathematics
 
 *   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
 
-## [12. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+### Programming
+
+*   [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
+
+## [15. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Industrial Control and SCADA Systems / Zealandia
 
@@ -183,13 +208,13 @@
 
 *   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
 *   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
@@ -199,7 +224,7 @@
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-## [15. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [18. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -228,6 +253,15 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   1 - 5 |       14 | 60-120m |
+### [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
+
+> In the fabled Sultanate of Naqala, the old sultan's passing has left control of the realm in contention, as strangers aim to fulfill the oracles' prophecy by shrewdly maneuvering the Five Tribes—Assassins, Elders, Builders, Merchants, and Viziers—across villages, markets, oases, and sacred places. Designed by Bruno Cathala, Five Tribes is a captivating twist on worker placement games, with meeples already in place at the start. As you invoke Djinns and make calculated moves, you must strategically consider when and where to displace the tribes to secure your influence over this legendary city-state, all while weighing different pathways to victory and outmaneuvering your rivals.
+
+![Five Tribes](https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep/img/4RfYsuXBO2FrnJynkXV5zTj7PU4=/fit-in/246x300/filters:strip_icc\(\)/pic2055255.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       13 | 40–80m |
 ### [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
 
 > The year is 1926, and it is the height of the Roaring Twenties. Flappers dance till dawn in smoke-filled speakeasies drinking alcohol supplied by rum runners and the mob. It's a celebration to end all celebrations in the aftermath of the war to end all wars.Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient Ones lurk in the emptiness beyond space and time, writhing at the gates between worlds. These gates have begun to open and must be closed before the Ancient Ones make our world their ruined domination.
@@ -291,9 +325,6 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   1 - 4 |       13 | 60-120m |
-
-### Contribute
-
 ### [Falling Koalas](https://boardgamegeek.com/boardgame/270365/falling-koalas)
 
 > Falling Koalas is a card game all about koalas. Drop Bears, as they are affectionately called, are known to eat eucalyptus leaves and sleep all day. Although seemingly cute and cuddly, they attack!
@@ -306,22 +337,70 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 10-20m |
+### [Thunderstone](https://boardgamegeek.com/boardgame/53953/thunderstone)
+
+> Thunderstone is a fantasy deck-building game much in the style of Dominion. Before the game starts a selection of Village and Hero cards will be randomnly chosen that players may add to their specific decks. Like Dominion, every player starts with a basic deck of weaker cards that they can use to purchase other more powerful cards. In Thunderstone these cards may be different Heroes such as mages, archers, thieves, or warriors or they may be supplies the heroes need like weapons, rations, or light to reach further into the dungeon.
+
+![Thunderstone](https://cf.geekdo-images.com/pVyy-LSVBIMQ0GUsvsIfww__itemrep/img/CAn9h1_likJ6Lq_JtyspJwREDH0=/fit-in/246x300/filters:strip_icc\(\)/pic544780.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       12 |  60m |
+### [Skull](https://boardgamegeek.com/boardgame/92415/skull)
+
+> Skull & Roses is the quintessence of bluffing, a game in which everything is played in the players' heads. Each player plays a face-down card, then each player in turn adds one more card – until someone feels safe enough to state that he can turn a number of cards face up and get only roses. Other players can then overbid him, saying they can turn even more cards face up. The highest bidder must then turn that number of cards face up, starting with his own. If he shows only roses, he wins; if he reveals a skull, he loses, placing one of his cards out of play. Two successful challenges wins the game. Skull & Roses is not a game of luck; it's a game of poker face and meeting eyes.
+
+![Skull](https://cf.geekdo-images.com/OPrd2iXm43dir7BwKAMOuQ__itemrep/img/-OqEtnWB7kEI_C_Zq9XkhDYAnNI=/fit-in/246x300/filters:strip_icc\(\)/pic6097488.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 6 |       10 | 15-45m |
+### [Paleo](https://boardgamegeek.com/boardgame/300531/paleo)
+
+> Paleo is a co-operative adventure game set in the stone age, a game in which players try to keep the human beings in their care alive while completing missions. Sometimes you need a fur, sometimes a tent, but these are all minor quests compared to your long-term goal: Painting a woolly mammoth on the wall so that humans thousands of years later will know that you once existed. (Okay, you just think the mammoth painting looks cool. Preserving a record of your past existence is gravy.) Each player starts the game with a couple of humans, who each have a skill and a number of life points. On a turn, each player chooses to go to one location — possibly of the same type as other players, although not the same location — and while you have some idea of what you might find there, you won't know for sure until you arrive, at which point you might acquire food or resources, or find what you need to craft a useful object, or discover that you can help someone else in their project, or suffer a snakebite that brings you close to death.
+
+![Paleo](https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__itemrep/img/5Wx2IlXzKh8HmBD-_5Rm2b1YjO4=/fit-in/246x300/filters:strip_icc\(\)/pic6039256.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 45-60m |
+### [Paths of Glory](https://boardgamegeek.com/boardgame/91/paths-glory)
+
+> Paths of Glory: The First World War, designed by six-time Charles S. Roberts awards winner, Ted Raicer, allows players to step into the shoes of the monarchs and marshals who triumphed and bungled from 1914 to 1918. As the Central Powers you must use the advantage of interior lines and the fighting skill of the Imperial German Army to win your rightful 'place in the sun.' As the Entente Powers (Allies) you must bring your greater numbers to bear to put an end to German militarism and ensure this is the war 'to end all wars.' Both players will find their generalship and strategic abilities put to the test as Paths of Glory's innovative game systems let you recreate all the dramatic events of World War I.
+
+![Paths of Glory](https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc\(\)/pic4490515.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       14 | 480m |
+
+### Contribute
+
+### [Calico](https://boardgamegeek.com/boardgame/283155/calico)
+
+> Calico is a puzzly tile-laying game of quilts and cats. In Calico, players compete to sew the coziest quilt as they collect and place patches of different colors and patterns. Each quilt has a particular pattern that must be followed, and players are also trying to create color and pattern combinations that are not only aesthetically pleasing, but also able to attract the cuddliest cats! Turns are simple. Select a single patch tile from your hand and sew it into your quilt, then draw another patch into your hand from the three available. If you are able to create a color group, you may sew a button onto your quilt. If you are able to create a pattern combination that is attractive to any of the cats, it will come over and curl up on your quilt! At the end of the game, you score points for buttons, cats, and how well you were able to complete your unique quilt pattern.
+
+![Calico](https://cf.geekdo-images.com/6O6HqeMY6z1MPPKKVKp93g__itemrep/img/XYmwXWKrSFRSB4e_RVQ7AkACF_U=/fit-in/246x300/filters:strip_icc\(\)/pic7714854.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 30-45m |
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [16. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [19. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Low Code
 
 *   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -331,13 +410,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
 
-## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Module Bundlers / Playground
 
 *   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 
-## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

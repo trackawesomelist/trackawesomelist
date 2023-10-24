@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### Development tools / FFI
+
+*   Prolog
+    *   [mthom/scryer-prolog (⭐1.8k)](https://github.com/mthom/scryer-prolog/) — Scryer Prolog is a free software ISO Prolog system written in Rust
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Applications
@@ -73,7 +80,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐2.8k)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐3.1k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
@@ -195,7 +202,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐157)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐165)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Data visualization
 
@@ -291,7 +298,6 @@ A curated list of Rust code and resources.
     *   [Rust in Action](https://www.manning.com/books/rust-in-action) — A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
     *   [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols\&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
     *   [Rust Language Cheat Sheet](https://cheats.rs/)
-    *   [Rust Online Courses at Classpert](https://classpert.com/search/rust) — A list of Rust online courses (paid) from Classpert Online Course Search
     *   [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
     *   [rust-how-do-i-start (⭐941)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
     *   [rust-learning (⭐10k)](https://github.com/ctjhoa/rust-learning) — A collection of useful resources to learn Rust
@@ -1121,7 +1127,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [slint-ui/slint (⭐9.8k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+*   [slint-ui/slint (⭐10k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -1756,7 +1762,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [fschutt/azul (⭐5.6k)](https://github.com/fschutt/azul) — A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
+*   [fschutt/azul (⭐5.7k)](https://github.com/fschutt/azul) — A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
 *   [Qt](https://doc.qt.io)
     *   [cyndis/qmlrs (⭐431)](https://github.com/cyndis/qmlrs) — QtQuick bindings
     *   [rust-qt](https://github.com/rust-qt)
@@ -2555,7 +2561,7 @@ A curated list of Rust code and resources.
 ### Libraries / Game development
 
 *   Allegro
-    *   [SiegeLord/RustAllegro (⭐86)](https://github.com/SiegeLord/RustAllegro) — [Allegro 5](https://liballeg.github.io/) bindings
+    *   [SiegeLord/RustAllegro (⭐86)](https://github.com/SiegeLord/RustAllegro) — [Allegro 5](https://liballeg.org/) bindings
 *   Entity-Component Systems (ECS)
     *   [amethyst/specs (⭐2.3k)](https://github.com/amethyst/specs) — Specs Parallel ECS
     *   [legion (⭐1.5k)](https://github.com/amethyst/legion) — A feature rich high performance ECS library with minimal boilerplate [![build badge](https://github.com/amethyst/legion/workflows/CI/badge.svg?branch=master)](https://github.com/amethyst/legion/actions)
@@ -2948,7 +2954,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐7.8k)](https://github.com/Immediate-Mode-UI/Nuklear)
+*   [Nuklear (⭐7.9k)](https://github.com/Immediate-Mode-UI/Nuklear)
     *   [nuklear-rust (⭐347)](https://github.com/snuk182/nuklear-rust) — Rust bindings for Nuklear
 
 ### Libraries / Logging
@@ -3030,6 +3036,7 @@ A curated list of Rust code and resources.
 ### Libraries / GUI
 
 *   [Flutter](https://flutter.dev/)
+    *   [cunarist/rinf (⭐494)](https://github.com/cunarist/rinf) — Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
     *   [flutter-rs (⭐2.1k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
     *   [fzyzcjy/flutter\_rust\_bridge (⭐2.9k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
 
@@ -3228,7 +3235,7 @@ A curated list of Rust code and resources.
 ### Libraries / Game development
 
 *   Game Engines
-    *   [Bevy (⭐27k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
+    *   [Bevy (⭐28k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
         [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) — Rust Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
     *   [ggez (⭐3.9k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)

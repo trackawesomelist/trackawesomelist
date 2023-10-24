@@ -315,7 +315,7 @@ See also [Games Made With Piston (⭐4.5k)](https://github.com/PistonDevelopers/
 *   [Limeth/euclider (⭐206)](https://github.com/Limeth/euclider) — A real-time 4D CPU ray tracer
 *   [RazrFalcon/resvg (⭐2.2k)](https://github.com/RazrFalcon/resvg) — An SVG rendering library.
 *   [rodrigorc/papercraft (⭐54)](https://github.com/rodrigorc/papercraft) - A tool to unwrap 3D models and create them in paper with scissors and glue.
-*   [rustq/vue-skia (⭐157)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐165)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [turnage/valora](https://crates.io/crates/valora) — A library for generative fine art ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
 *   [Twinklebear/tray\_rust (⭐505)](https://github.com/Twinklebear/tray_rust) — A ray tracer
 
@@ -412,7 +412,7 @@ See also [A comparison of operating systems written in Rust (⭐568)](https://gi
 *   [ddh (⭐413)](https://github.com/darakian/ddh) — Fast duplicate file finder
 *   [diskonaut (⭐2k)](https://github.com/imsnif/diskonaut) — Terminal visual disk space navigator
 *   [dust (⭐6.8k)](https://github.com/bootandy/dust) — A more intuitive version of du
-*   [eza-community/eza (⭐2.8k)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐3.1k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 *   [fselect](https://crates.io/crates/fselect) — Find files with SQL-like queries
 *   [gitui (⭐14k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 *   [GQL (⭐589)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
@@ -686,6 +686,8 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
     *   [SSheldon/rust-objc (⭐364)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 *   PHP
     *   [phper-framework/phper (⭐213)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
+*   Prolog
+    *   [mthom/scryer-prolog (⭐1.8k)](https://github.com/mthom/scryer-prolog/) — Scryer Prolog is a free software ISO Prolog system written in Rust
 *   Python
     *   [dgrunwald/rust-cpython (⭐1.8k)](https://github.com/dgrunwald/rust-cpython) — Python bindings
     *   [getsentry/milksnake (⭐773)](https://github.com/getsentry/milksnake) — extension for python setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
@@ -1341,7 +1343,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 See also [Are we game yet?](https://arewegameyet.rs)
 
 *   Allegro
-    *   [SiegeLord/RustAllegro (⭐86)](https://github.com/SiegeLord/RustAllegro) — [Allegro 5](https://liballeg.github.io/) bindings
+    *   [SiegeLord/RustAllegro (⭐86)](https://github.com/SiegeLord/RustAllegro) — [Allegro 5](https://liballeg.org/) bindings
 *   [Awesome Quads (⭐143)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
 *   [Awesome wgpu (⭐353)](https://github.com/rofrol/awesome-wgpu) — A curated list of wgpu code and resources
 *   bracket-lib (previously RLTK)
@@ -1354,7 +1356,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [amethyst/specs (⭐2.3k)](https://github.com/amethyst/specs) — Specs Parallel ECS
     *   [legion (⭐1.5k)](https://github.com/amethyst/legion) — A feature rich high performance ECS library with minimal boilerplate [![build badge](https://github.com/amethyst/legion/workflows/CI/badge.svg?branch=master)](https://github.com/amethyst/legion/actions)
 *   Game Engines
-    *   [Bevy (⭐27k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
+    *   [Bevy (⭐28k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
         [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) — Rust Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
     *   [ggez (⭐3.9k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
@@ -1433,9 +1435,10 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [FLTK](https://www.fltk.org/)
     *   [fltk-rs (⭐1.3k)](https://github.com/fltk-rs/fltk-rs) — FLTK Rust bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 *   [Flutter](https://flutter.dev/)
+    *   [cunarist/rinf (⭐494)](https://github.com/cunarist/rinf) — Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
     *   [flutter-rs (⭐2.1k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
     *   [fzyzcjy/flutter\_rust\_bridge (⭐2.9k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
-*   [fschutt/azul (⭐5.6k)](https://github.com/fschutt/azul) — A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
+*   [fschutt/azul (⭐5.7k)](https://github.com/fschutt/azul) — A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
 *   [GTK+](https://www.gtk.org/) \[[gtk](https://crates.io/keywords/gtk)]
     *   [gtk-rs/gtk4-rs (⭐1.4k)](https://github.com/gtk-rs/gtk4-rs) - GTK4 binding for rust ![CI](https://github.com/gtk-rs/gtk4-rs/workflows/CI/badge.svg)
     *   [relm (⭐2.3k)](https://github.com/antoyo/relm) — Asynchronous, GTK+-based, GUI library, inspired by Elm
@@ -1447,7 +1450,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [ivanceras/sauron-native (⭐629)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
 *   [libui (⭐11k)](https://github.com/andlabs/libui)
     *   [rust-native-ui/libui-rs (⭐902)](https://github.com/rust-native-ui/libui-rs) — libui bindings.
-*   [Nuklear (⭐7.8k)](https://github.com/Immediate-Mode-UI/Nuklear)
+*   [Nuklear (⭐7.9k)](https://github.com/Immediate-Mode-UI/Nuklear)
     *   [nuklear-rust (⭐347)](https://github.com/snuk182/nuklear-rust) — Rust bindings for Nuklear
 *   [OrbTk (⭐3.8k)](https://github.com/redox-os/orbtk) — The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions)
 *   [PistonDevelopers/conrod (⭐3.3k)](https://github.com/PistonDevelopers/conrod/) — An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust
@@ -1459,7 +1462,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [saurvs/nfd-rs (⭐151)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.6k)](https://github.com/mlabbe/nativefiledialog) bindings
 *   [Sciter](https://sciter.com/)
     *   [sciter-sdk/rust-sciter (⭐784)](https://github.com/sciter-sdk/rust-sciter) — Sciter bindings [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
-*   [slint-ui/slint (⭐9.8k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+*   [slint-ui/slint (⭐10k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 *   [tauri-apps/tauri (⭐69k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐2.8k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 *   [tauri-apps/wry (⭐2.8k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 *   [xilem (⭐2k)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐9.1k)](https://github.com/linebender/druid).
@@ -1816,7 +1819,6 @@ A registry allows you to publish your Rust libraries as crate packages, to share
     *   [Rust in Action](https://www.manning.com/books/rust-in-action) — A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
     *   [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols\&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
     *   [Rust Language Cheat Sheet](https://cheats.rs/)
-    *   [Rust Online Courses at Classpert](https://classpert.com/search/rust) — A list of Rust online courses (paid) from Classpert Online Course Search
     *   [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
     *   [rust-how-do-i-start (⭐941)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
     *   [rust-learning (⭐10k)](https://github.com/ctjhoa/rust-learning) — A collection of useful resources to learn Rust
