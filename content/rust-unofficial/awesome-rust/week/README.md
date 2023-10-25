@@ -10,6 +10,8 @@ A curated list of Rust code and resources.
 
 ### Development tools / FFI
 
+*   C#
+    *   [csbindgen (⭐424)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
 *   Prolog
     *   [mthom/scryer-prolog (⭐1.8k)](https://github.com/mthom/scryer-prolog/) — Scryer Prolog is a free software ISO Prolog system written in Rust
 

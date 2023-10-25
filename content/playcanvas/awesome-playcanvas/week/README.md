@@ -11,6 +11,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### IO Games
 
 *   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
+*   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
@@ -40,7 +41,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### IO Games
 
-*   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza) - Multiplayer restaurant game.
 *   [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)

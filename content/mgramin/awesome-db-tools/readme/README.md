@@ -50,6 +50,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
     *   [Extensions](#extensions)
     *   [Frameworks](#frameworks)
     *   [Formatters](#formatters)
+    *   [Games](#games)
     *   [Parsers](#parsers)
     *   [Über SQL](#über-sql)
     *   [Language Server Protocol](#language-server-protocol)
@@ -372,6 +373,14 @@ Low-code and no-code platforms for application building
 *   [pgFormatter (⭐1.5k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 *   [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting.
 *   [SQL Formatter (⭐1.8k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+
+### Games
+
+*   [Lost at SQL](https://lost-at-sql.therobinlord.com) - A SQL learning game to help you pick up basic SQL skills - so that you can use queries to get information.
+*   [Schemaverse](https://datalemur.com/blog/games-to-learn-sql#schemaverse) - A Space-based strategy game implemented entirely within a PostgreSQL database.
+*   [SQL Island](https://sql-island.informatik.uni-kl.de) - After the survived plane crash, you will be stuck on SQL Island for the time being. By making progress in the game, you will find a way to escape from this island.
+*   [SQL Murder Mystery](https://mystery.knightlab.com) - Designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+*   [SQL Police Department](https://sqlpd.com) - In SQLPD, you get to solve crimes while learning SQL at the same time.
 
 ### Parsers
 

@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Oct 25, 2023](/content/2023/10/25/README.md)
+
+### IO Games
+
+*   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
+
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### IO Games
@@ -40,7 +46,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### IO Games
 
-*   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza) - Multiplayer restaurant game.
 *   [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
 ## [Mar 09, 2023](/content/2023/03/09/README.md)

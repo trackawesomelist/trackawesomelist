@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 25, 2023](/content/2023/10/25/README.md)
+
+### Development tools / FFI
+
+*   C#
+    *   [csbindgen (⭐424)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
+
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 
 ### Development tools / FFI
