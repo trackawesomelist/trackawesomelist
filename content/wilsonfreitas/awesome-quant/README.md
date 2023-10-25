@@ -6,6 +6,12 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 [ Daily / [Weekly](/content/wilsonfreitas/awesome-quant/week/README.md) / [Overview](/content/wilsonfreitas/awesome-quant/readme/README.md) ]
 
+## [Oct 25, 2023](/content/2023/10/25/README.md)
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [Quant-Finance-With-Python-Code (⭐21)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
+
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
 ### Python / Trading & Backtesting

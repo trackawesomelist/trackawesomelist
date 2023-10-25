@@ -6,6 +6,16 @@ Awesome Web Development Resources.
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Oct 25, 2023](/content/2023/10/25/README.md)
+
+### Angular UI libraries:
+
+- Website: [Angular Material](https://material.angular.io/)
+
+  Description: Angular Material is a UI library component developed by Google in 2014.
+
+
+
 ## [Oct 13, 2023](/content/2023/10/13/README.md)
 
 ### Chrome Extensions:

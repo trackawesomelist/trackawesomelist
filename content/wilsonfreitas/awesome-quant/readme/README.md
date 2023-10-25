@@ -516,4 +516,5 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [Hands-On Machine Learning for Algorithmic Trading (⭐1.2k)](https://github.com/packtpublishing/hands-on-machine-learning-for-algorithmic-trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
 *   [financialnoob-misc (⭐21)](https://github.com/financialnoob/misc) - Codes from @financialnoob's posts
 *   [MesoSim Options Trading Strategy Library (⭐1)](https://github.com/deltaray-io/strategy-library) - Free and public Options Trading strategy library for MesoSim.
+*   [Quant-Finance-With-Python-Code (⭐21)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 
