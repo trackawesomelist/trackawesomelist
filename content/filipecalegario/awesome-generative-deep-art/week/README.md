@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### Courses and Educational Materials / Deforum
+
+*   [Animated AI](https://animatedai.github.io/): animations and instructional videos about neural networks
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [AI Worship | Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Discussions and Philosophy / Papers Collections
@@ -1175,7 +1185,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Galleries
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.2k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.3k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   [chaosreactor/awesome-generative-ai (⭐26)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)

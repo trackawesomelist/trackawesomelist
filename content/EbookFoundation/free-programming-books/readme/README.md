@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 300K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 302K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/week/README.md) / Overview ]
 
@@ -73,7 +73,10 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Fortran](#fortran)
 *   [FreeBSD](#freebsd)
 *   [Go](#go)
-*   [GraphQL](#graphql)
+*   [Graphs](#graphs)
+    *   [GraphQL](#graphql)
+    *   [Gremlin](#gremlin)
+    *   [Neo4J](#neo4j)
 *   [Groovy](#groovy)
     *   [Gradle](#gradle)
     *   [Grails](#grails)
@@ -148,7 +151,6 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Modelica](#modelica)
 *   [MongoDB](#mongodb)
 *   [MySQL](#mysql)
-*   [Neo4J](#neo4j)
 *   [.NET Core / .NET](#net-core)
 *   [.NET Framework](#net-framework)
 *   [NewSQL](#newsql)
@@ -574,6 +576,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 *   [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
 *   [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
+*   [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
 *   [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
 *   [Micro Focus: OO Programming with Object COBOL for UNIX (1999)](https://www.microfocus.com/documentation/object-cobol/oc41books/oppubb.htm) - MERANT International Ltd. (HTML)
 *   [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
@@ -744,6 +747,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Fortran
 
 *   [Exploring Modern Fortran Basics](https://www.manning.com/books/exploring-modern-fortran-basics) - Milan Curcic
+*   [Fortran](https://personalpages.manchester.ac.uk/staff/david.d.apsley/lectures/fortran/fortranA.pdf) -  David Apsley (PDF)
 *   [Fortran 90 Tutorial](http://www.cs.mtu.edu/~shene/COURSES/cs201/NOTES/fortran.html) - C.-K. Shene at Michigan Technological University (HTML)
 *   [Fortran 90 Tutorial](https://web.stanford.edu/class/me200c/tutorial_90/) - Sarah T. Whitlock, Paul H. Hargrove, Stanford University (HTML)
 *   [Fortran information & resources](https://www.fortranplus.co.uk/fortran-information/) - fortranplus.co.uk (HTML)
@@ -763,11 +767,12 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Go
 
 *   [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) - Caleb Doxsey
-*   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+*   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie
 *   [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 *   [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 *   [Effective Go](https://golang.org/doc/effective_go.html)
 *   [Essential Go](https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors
+*   [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io) - Baiju Muthukadan (HTML)
 *   [Gin Web Framework](https://chenyitian.gitbooks.io/gin-web-framework/content/)
 *   [Go 101](https://go101.org/article/101.html) - [@TapirLiu](https://twitter.com/TapirLiu)
 *   [Go by Example](https://gobyexample.com)
@@ -788,13 +793,28 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Practical Go Lessons](https://www.practical-go-lessons.com) - Maximilien Andile
 *   [Production Go](https://leanpub.com/productiongo/read) - Herman Schaaf and Shawn Smith (EPUB, HTML, PDF) (:construction: *in process*) *(Leanpub account or valid email requested for EPUB or PDF)*
 *   [The Go Tutorial](http://tour.golang.org)
-*   [The Little Go Book (⭐2k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
+*   [The Little Go Book (⭐2.1k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
 *   [Web apps in Go, the anti textbook (⭐3.1k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
-### GraphQL
+### Graphs
+
+#### GraphQL
 
 *   [Fullstack GraphQL (⭐590)](https://github.com/GraphQLCollege/fullstack-graphql)
+*   [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
 *   [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+#### Gremlin
+
+*   [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.html) - Kelvin R. Lawrence
+
+#### Neo4J
+
+*   [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) - William Lyon (PDF) *(email requested)*
+*   [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) - Mark Needham, Amy E. Hodler (PDF, EPUB, MOBI) *(email requested)*
+*   [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber, Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
+*   [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
+*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 ### Groovy
 
@@ -929,6 +949,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [NSHipster](http://nshipster.com/#archive) (Resource)
 *   [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
 *   [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
+*   [Xcode Tutorial for Beginners](https://codewithchris.com/xcode-tutorial) - Chris Ching
 
 ### IoT
 
@@ -1495,16 +1516,9 @@ Books on general-purpose programming that don't focus on a specific language are
 ### MySQL
 
 *   [Essential MySQL](https://www.programming-books.io/essential/mysql/) - Krzysztof Kowalczyk, StackOverflow Contributors
+*   [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
 *   [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
-
-### Neo4J
-
-*   [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) - William Lyon (PDF) *(email requested)*
-*   [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) - Mark Needham, Amy E. Hodler (PDF, EPUB, MOBI) *(email requested)*
-*   [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber, Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
-*   [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
-*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 ### .NET Core
 
@@ -2248,6 +2262,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 *   [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 *   [Introduction to SQL (⭐237)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
+*   [Learning SQL](https://riptutorial.com/Download/sql.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [Oracle Database Notes for Professionals](https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf) Compiled from StackOverflow Documentation (PDF)
 *   [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
 *   [SQL For Web Nerds](http://philip.greenspun.com/sql/) - Philip Greenspun (HTML)
@@ -2268,6 +2283,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2008R2)
 *   [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2012)
 *   [Introducing Microsoft SQL Server 2014](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx)
+*   [Learning Microsoft SQL Server](https://riptutorial.com/Download/microsoft-sql-server.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler) - Brad McGehee (PDF)
 *   [Microsoft SQL Server Notes for Professionals](http://goalkicker.com/MicrosoftSQLServerBook/) - Compiled from StackOverflow Documentation (PDF)
 *   [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views) - Tim Ford, Louis Davidson (PDF)

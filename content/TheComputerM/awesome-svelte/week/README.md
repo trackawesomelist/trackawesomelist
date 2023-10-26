@@ -8,6 +8,10 @@
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
+### Form / Checkbox
+
+*   [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
+
 ### PWA / Checkbox
 
 *   [SvelteKit-Adapter-Versioned-Worker (⭐5)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.

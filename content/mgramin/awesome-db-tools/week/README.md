@@ -8,6 +8,10 @@ Everything that makes working with databases easier
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
+### Testing / Zabbix
+
+*   [pgTAP (⭐866)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
+
 ### SQL / Games
 
 *   [Lost at SQL](https://lost-at-sql.therobinlord.com) - A SQL learning game to help you pick up basic SQL skills - so that you can use queries to get information.

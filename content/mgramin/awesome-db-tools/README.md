@@ -6,6 +6,12 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Oct 26, 2023](/content/2023/10/26/README.md)
+
+### Testing / Zabbix
+
+*   [pgTAP (⭐866)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
+
 ## [Oct 25, 2023](/content/2023/10/25/README.md)
 
 ### SQL / Games

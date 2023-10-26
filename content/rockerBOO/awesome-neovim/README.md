@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 26, 2023](/content/2023/10/26/README.md)
+
+### Deployment / Diagnostics
+
+*   [coffebar/transfer.nvim (⭐3)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 
 ### Motion / Diagnostics
@@ -100,17 +106,17 @@ Collections of awesome neovim plugins.
 
 ### Search / Diagnostics
 
-*   [nvimdev/hlsearch.nvim (⭐27)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐32)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ## [Oct 09, 2023](/content/2023/10/09/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvimtools/none-ls.nvim (⭐424)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐622)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ### Utility / Diagnostics
 
-*   [JMarkin/gentags.lua (⭐2)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+*   [JMarkin/gentags.lua (⭐10)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
 
 ## [Oct 08, 2023](/content/2023/10/08/README.md)
 
@@ -271,7 +277,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Diagnostics
 
-*   [piersolenski/telescope-import.nvim (⭐40)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐42)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## [Sep 07, 2023](/content/2023/09/07/README.md)
 
@@ -327,7 +333,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [askfiy/visual\_studio\_code (⭐110)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐111)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 
 ## [Aug 23, 2023](/content/2023/08/23/README.md)
 
@@ -665,7 +671,7 @@ Collections of awesome neovim plugins.
 
 ## [May 22, 2023](/content/2023/05/22/README.md)
 
-### Remote Development / Diagnostics
+### Deployment / Diagnostics
 
 *   [OscarCreator/rsync.nvim (⭐25)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 

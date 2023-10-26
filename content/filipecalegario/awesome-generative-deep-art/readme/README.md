@@ -492,6 +492,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Courses and Educational Materials
 
+*   [Animated AI](https://animatedai.github.io/): animations and instructional videos about neural networks
 *   [Deep Learning AI - Learn the fundamentals of generative AI for real-world applications](https://www.deeplearning.ai/courses/generative-ai-with-llms/): created in partnership with AWS, this course presents the fundamentals of how generative AI works and how to deploy it in real-world applications.
 *   [Google Cloud Skills Boost - Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536): an introductory level microlearning course covering Google Tools aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods.
 *   [Google Cloud Skills Boost: Generative AI learning path](https://www.cloudskillsboost.google/journeys/118): curated content on Generative AI "from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud"
@@ -578,6 +579,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Critical Views about Generative AI
 
+*   [AI Worship | Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
 *   [Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water | AP News](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)
 *   [ChatGPT is fun, but not an author | Science](https://www.science.org/doi/10.1126/science.adg7879)
 *   [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
@@ -967,7 +969,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [kyrolabs/awesome-langchain (⭐5.2k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐71)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 *   \[🔥] [amrzv/awesome-colab-notebooks (⭐970)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.2k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.3k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐303)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 *   [margaretmz/awesome-ai-art-design (⭐24)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐269)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory

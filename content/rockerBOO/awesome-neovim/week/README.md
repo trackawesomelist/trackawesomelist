@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [mrcjkb/rustaceanvim (⭐32)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
+### Deployment / Diagnostics
+
+*   [coffebar/transfer.nvim (⭐3)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+
 ### Motion / Diagnostics
 
 *   [smoka7/hop.nvim (⭐95)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
@@ -75,11 +79,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [nvimtools/none-ls.nvim (⭐424)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐622)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ### Search / Diagnostics
 
-*   [nvimdev/hlsearch.nvim (⭐27)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐32)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ### Note Taking / Diagnostics
 
@@ -87,7 +91,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [JMarkin/gentags.lua (⭐2)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+*   [JMarkin/gentags.lua (⭐10)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
 
 ### Remote Development / Diagnostics
 
@@ -221,7 +225,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Diagnostics
 
-*   [piersolenski/telescope-import.nvim (⭐40)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐42)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ### Git / Diagnostics
 
@@ -257,7 +261,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [askfiy/visual\_studio\_code (⭐110)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐111)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 *   [Verf/deepwhite.nvim (⭐31)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐146)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
 
 ### Utility / Diagnostics
@@ -511,7 +515,7 @@ Collections of awesome neovim plugins.
 
 *   [maxmx03/FluoroMachine.nvim (⭐116)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
 
-### Remote Development / Diagnostics
+### Deployment / Diagnostics
 
 *   [OscarCreator/rsync.nvim (⭐25)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 

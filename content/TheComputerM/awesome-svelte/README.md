@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Oct 26, 2023](/content/2023/10/26/README.md)
+
+### Form / Checkbox
+
+*   [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
+
 ## [Oct 25, 2023](/content/2023/10/25/README.md)
 
 ### PWA / Checkbox

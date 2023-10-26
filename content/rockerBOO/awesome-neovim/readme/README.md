@@ -60,6 +60,7 @@ Collections of awesome neovim plugins.
 *   [Terminal Integration](#terminal-integration)
 *   [Debugging](#debugging)
     *   [Quickfix](#quickfix)
+*   [Deployment](#deployment)
 *   [Test](#test)
 *   [Code Runner](#code-runner)
 *   [Neovim Lua Development](#neovim-lua-development)
@@ -153,7 +154,7 @@ Collections of awesome neovim plugins.
 *   [creativenull/efmls-configs-nvim (⭐190)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
 *   [creativenull/diagnosticls-configs-nvim (⭐89)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 *   [hinell/lsp-timeout.nvim (⭐68)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
-*   [nvimtools/none-ls.nvim (⭐424)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐622)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 *   [vxpm/ferris.nvim (⭐24)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 *   [mrcjkb/rustaceanvim (⭐32)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
@@ -299,7 +300,7 @@ Collections of awesome neovim plugins.
 *   [roobert/search-replace.nvim (⭐177)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
 *   [AckslD/muren.nvim (⭐283)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 *   [windwp/nvim-spectre (⭐1.3k)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
-*   [nvimdev/hlsearch.nvim (⭐27)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐32)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ## Fuzzy Finder
 
@@ -374,7 +375,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [rafamadriz/neon (⭐152)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
 *   [tomasiser/vim-code-dark (⭐872)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
 *   [Mofiqul/vscode.nvim (⭐521)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
-*   [askfiy/visual\_studio\_code (⭐110)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐111)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 *   [marko-cerovac/material.nvim (⭐825)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [bluz71/vim-nightfly-colors (⭐685)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 *   [bluz71/vim-moonfly-colors (⭐668)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
@@ -669,7 +670,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [LintaoAmons/scratch.nvim (⭐107)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
 *   [luckasRanarison/nvim-devdocs (⭐161)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 *   [VidocqH/data-viewer.nvim (⭐34)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
-*   [JMarkin/gentags.lua (⭐2)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+*   [JMarkin/gentags.lua (⭐10)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
 
 ## Terminal Integration
 
@@ -710,6 +711,11 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [yorickpeterse/nvim-pqf (⭐35)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 *   [nyngwang/NeoWell.lua (⭐14)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 *   [ashfinal/qfview.nvim (⭐38)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
+
+## Deployment
+
+*   [coffebar/transfer.nvim (⭐3)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [OscarCreator/rsync.nvim (⭐25)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 
 ## Test
 
@@ -777,7 +783,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [vuki656/package-info.nvim (⭐298)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
 *   [Saecki/crates.nvim (⭐595)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
-*   [piersolenski/telescope-import.nvim (⭐40)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐42)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## Git
 
@@ -998,7 +1004,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [jamestthompson3/nvim-remote-containers (⭐647)](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode.
 *   [esensar/nvim-dev-container (⭐374)](https://github.com/esensar/nvim-dev-container) - Neovim devcontainer.json and general development container support.
 *   [miversen33/netman.nvim (⭐269)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
-*   [OscarCreator/rsync.nvim (⭐25)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 *   [niuiic/remote.nvim (⭐0)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
 ## Split and Window

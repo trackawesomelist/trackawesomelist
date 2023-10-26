@@ -293,6 +293,7 @@ Low-code and no-code platforms for application building
 ## Testing
 
 *   [DbFit (⭐225)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+*   [pgTAP (⭐866)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 *   [RegreSQL (⭐260)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 *   [SQLancer (⭐1.3k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 

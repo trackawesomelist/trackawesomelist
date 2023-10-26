@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 300K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 302K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/readme/README.md) ]
 ## Related Files
@@ -13,11 +13,55 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
+## [Oct 26, 2023](/content/2023/10/26/README.md)
+
+### Graphs / Gremlin
+
+*   [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.html) - Kelvin R. Lawrence
+
+## [Oct 24, 2023](/content/2023/10/24/README.md)
+
+### COBOL / Non-X86
+
+*   [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
+
+### Fortran / Phoenix
+
+*   [Fortran](https://personalpages.manchester.ac.uk/staff/david.d.apsley/lectures/fortran/fortranA.pdf) -  David Apsley (PDF)
+
+### Graphs / GraphQL
+
+*   [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
+
+## [Oct 23, 2023](/content/2023/10/23/README.md)
+
+### Go / Phoenix
+
+*   [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io) - Baiju Muthukadan (HTML)
+
+## [Oct 19, 2023](/content/2023/10/19/README.md)
+
+### iOS / Bootstrap
+
+*   [Xcode Tutorial for Beginners](https://codewithchris.com/xcode-tutorial) - Chris Ching
+
+### MySQL / PicoLisp
+
+*   [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
+
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Go / Phoenix
 
 *   [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) - Caleb Doxsey
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [Learning SQL](https://riptutorial.com/Download/sql.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### SQL Server / Play Scala
+
+*   [Learning Microsoft SQL Server](https://riptutorial.com/Download/microsoft-sql-server.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
@@ -319,6 +363,10 @@
 
 *   [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
 
+### Graphs / Neo4J
+
+*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
+
 ### JavaScript / Wicket
 
 *   [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
@@ -339,10 +387,6 @@
 
 *   [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
 *   [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
-
-### Neo4J / PicoLisp
-
-*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 ### Python / Django
 
@@ -918,6 +962,12 @@
 
 *   [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, Timothy J. Raymond (PDF, EPUB)
 
+### Graphs / Neo4J
+
+*   [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) - Mark Needham, Amy E. Hodler (PDF, EPUB, MOBI) *(email requested)*
+*   [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber, Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
+*   [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
+
 ### Hadoop / Spock Framework
 
 *   [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner, Sujee Maniyam
@@ -1008,12 +1058,6 @@
 ### Mathematica / PicoLisp
 
 *   [Mathematica® programming: an advanced introduction](http://www.mathprogramming-intro.org) - Leonid Shifrin
-
-### Neo4J / PicoLisp
-
-*   [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) - Mark Needham, Amy E. Hodler (PDF, EPUB, MOBI) *(email requested)*
-*   [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber, Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
-*   [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
 
 ### NoSQL / PicoLisp
 
@@ -1820,7 +1864,7 @@
 
 ## [Oct 04, 2021](/content/2021/10/04/README.md)
 
-### GraphQL / Phoenix
+### Graphs / GraphQL
 
 *   [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
@@ -1907,7 +1951,7 @@
 
 ## [Sep 29, 2021](/content/2021/09/29/README.md)
 
-### GraphQL / Phoenix
+### Graphs / GraphQL
 
 *   [Fullstack GraphQL (⭐590)](https://github.com/GraphQLCollege/fullstack-graphql)
 
@@ -2010,7 +2054,7 @@
 
 ### Go / Phoenix
 
-*   [The Little Go Book (⭐2k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
+*   [The Little Go Book (⭐2.1k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
 
 ### Linux / TeX
 
@@ -2717,7 +2761,7 @@
 
 *   [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 
-### Neo4J / PicoLisp
+### Graphs / Neo4J
 
 *   [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) - William Lyon (PDF) *(email requested)*
 
@@ -4632,7 +4676,7 @@
 
 ### Go / Phoenix
 
-*   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+*   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie
 
 ## [Nov 23, 2015](/content/2015/11/23/README.md)
 
