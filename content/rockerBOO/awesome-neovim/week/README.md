@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### (requires Neovim 0.5)
 
 *   [mrcjkb/rustaceanvim (⭐32)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+*   [soulis-1256/hoverhints.nvim (⭐3)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
 
 ### Deployment / Diagnostics
 

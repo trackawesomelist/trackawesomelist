@@ -8,6 +8,10 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
+### Game
+
+*   [DotRecast (⭐221)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+
 ### ORM
 
 *   [EntityFrameworkCore.SqlServer.SimpleBulks (⭐119)](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
@@ -888,7 +892,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Deployment
 
-*   [yuniql (⭐389)](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. <https://yuniql.io>
+*   [yuniql (⭐392)](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. <https://yuniql.io>
 
 ### GIS
 

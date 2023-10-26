@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Oct 26, 2023](/content/2023/10/26/README.md)
 
+### (requires Neovim 0.5)
+
+*   [soulis-1256/hoverhints.nvim (⭐3)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
+
 ### Deployment / Diagnostics
 
 *   [coffebar/transfer.nvim (⭐3)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.

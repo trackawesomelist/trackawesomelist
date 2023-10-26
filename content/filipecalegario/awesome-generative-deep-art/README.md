@@ -16,6 +16,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI Worship | Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
 
+### Roadmaps, Tracks, Rails / Auxiliary tools and concepts
+
+*   [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
+*   [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+
 ## [Oct 16, 2023](/content/2023/10/16/README.md)
 
 ### Discussions and Philosophy / Papers Collections
@@ -43,9 +48,9 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Altern](https://altern.ai) - The place to discover new AI tools and products.
 
-### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
+### Roadmaps, Tracks, Rails / Auxiliary tools and concepts
 
-*   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
+*   [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
 
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 
@@ -1870,7 +1875,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐13k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐14k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 
 ### Courses and Educational Materials / Deforum
 

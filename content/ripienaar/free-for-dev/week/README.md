@@ -29,6 +29,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Brackets](http://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
 *   [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.
 
+### Analytics, Events and Statistics
+
+*   [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Security and PKI

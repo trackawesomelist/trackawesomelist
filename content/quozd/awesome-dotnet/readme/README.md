@@ -464,7 +464,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Unfold (⭐133)](https://github.com/thomasvm/unfold) - PowerShell-based deployment solution for .NET web applications
 *   [DbUp (⭐2k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 *   [Octo Pack (⭐182)](https://github.com/OctopusDeploy/OctoPack) - Used to build NuGet packages of your application for deployment using tools such as Octopus Deploy
-*   [yuniql (⭐389)](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. <https://yuniql.io>
+*   [yuniql (⭐392)](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. <https://yuniql.io>
 
 ## DirectX
 
@@ -564,6 +564,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Devtodev (⭐7)](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 *   [UnrealCLR (⭐2.9k)](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 *   [osu!framework (⭐1.5k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+*   [DotRecast (⭐221)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ## GIS
 
