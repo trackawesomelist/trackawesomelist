@@ -27,6 +27,20 @@ A curated list of awesome and exceptional board games. Please contribute!
 
 ## Family
 
+### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-brimstone-swamps-death)
+
+> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome.
+>
+> Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
+>
+> In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
+
+![Shadows of Brimstone: Swamps of Death game image](https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__itemrep/img/inbrCrbkzm-36PykegNeHmOD7yc=/fit-in/246x300/filters:strip_icc\(\)/pic2037826.jpg)
+
+| Players | Min. Age |      Time |
+| ------: | -------: | --------: |
+|   1 - 4 |       12 | 90 - 180m |
+
 ### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
 
 > In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.

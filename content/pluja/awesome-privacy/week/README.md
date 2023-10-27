@@ -6,6 +6,18 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### ChatGPT
+
+*   [ollama (⭐10k)](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
+
+### Copilot
+
+*   [Localpilot (⭐2.5k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
+*   [Fauxpilot (⭐13k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
+    *   [vscode-fauxpilot (⭐171)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Analytics
@@ -120,11 +132,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Midjourney
 
 *   [Stable Diffusion (⭐31k)](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models.
-    *   [Stable Diffusion Web UI (⭐105k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
+    *   [Stable Diffusion Web UI (⭐107k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
 
 ### Medical health
 
-*   [Fasten (⭐911)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
+*   [Fasten (⭐971)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
 
 ### Audio
 
@@ -569,7 +581,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   [ViMusic (⭐5.4k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐5.7k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -944,7 +956,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android Keyboard
 
-*   [FlorisBoard (⭐4.5k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+*   [FlorisBoard (⭐4.6k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
 *   [Simple Keyboard (⭐826)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
@@ -992,7 +1004,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
-*   [Krita (⭐5.7k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Krita (⭐5.8k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
 *   [Czkawka (⭐13k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 
 ### Domain Registrar

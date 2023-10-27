@@ -2,9 +2,92 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 303 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 335 · 🏷️ Miscellaneous
 
 [ [Daily](/content/j0hnm4r5/awesome-creative-technology/README.md) / Weekly / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
+
+### Creative Technology
+
+- Name: [**Gallagher & Associates**](https://www.gallagherdesign.com/)
+
+  Locations: \[DC] \[NYC] \[Portland] \[Singapore]
+
+  Keywords: harmony between technology, narrative, and physical design
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.gallagherdesign.com%2F)
+
+
+- Name: [**HUSH**](https://heyhush.com/)
+
+  Locations: \[NYC]
+
+  Keywords: marketing and advertising, retail and DTC, architecture
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fheyhush.com%2F)
+
+
+- Name: [**Master of Shapes**](https://masterofshapes.com/)
+
+  Locations: \[LA]
+
+  Keywords: a space surfing, geometry taming, buffalo riding, Future House
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmasterofshapes.com%2F)
+
+
+- Name: [**Neon Global**](https://www.neonglobal.com/)
+
+  Locations: \[Singapore]
+
+  Keywords: world class and epic experiences that are innovative, creative and exciting
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.neonglobal.com%2F)
+
+
+- Name: [**RadicalMedia**](https://www.radicalmedia.com/)
+
+  Locations: \[NYC] \[LA]
+
+  Keywords: commercials, documentaries, music videos, branded experiences, & immersive environments
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.radicalmedia.com%2F)
+
+
+- Name: [**THG**](https://thehettemagroup.com/)
+
+  Locations: \[LA]
+
+  Keywords: experiential, exhibit, live shows, theme parks, retail, dining, museums
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fthehettemagroup.com%2F)
+
+
+
+### Collectives & Practices
+
+- Name: [**Kimchi and Chips**](https://www.kimchiandchips.com/)
+
+  Locations: \[South Korea]
+
+  Keywords: intersection of art, science and philosophy through ambitious large-scale installations
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.kimchiandchips.com%2F)
+
+
+
+### Architecture
+
+- Name: [**Gensler DXD**](https://dxd.gensler.com/)
+
+  Locations: \[Worldwide]
+
+  Keywords: built environment with integrated capabilities in strategy, design, technology, data, and architecture
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdxd.gensler.com%2F)
+
+
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
@@ -862,15 +945,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.futurecolossal.com%2F)
 
 
-- Name: [**Gallagher Design**](https://www.gallagherdesign.com/)
-
-  Locations: \[DC] \[NYC] \[Portland] \[Singapore]
-
-  Keywords: harmony between technology, narrative, and physical design
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.gallagherdesign.com%2F)
-
-
 - Name: [**Game Seven**](https://www.gamesevenmktg.com/)
 
   Locations: \[NYC] \[LA]
@@ -898,15 +972,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fgiantspoon.com%2F)
 
 
-- Name: [**Hettema Group**](https://thehettemagroup.com/)
-
-  Locations: \[LA]
-
-  Keywords: experiential, exhibit, live shows, theme parks, retail, dining, museums
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fthehettemagroup.com%2F)
-
-
 - Name: [**Hotel Creative**](https://hotelcreative.com/)
 
   Locations: \[London]
@@ -923,15 +988,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   Keywords: interactive installations, site-specific content, retail, sports
 
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.hovercraftstudio.com%2F)
-
-
-- Name: [**Hush Studios**](https://heyhush.com/)
-
-  Locations: \[NYC]
-
-  Keywords: marketing and advertising, retail and DTC, architecture
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fheyhush.com%2F)
 
 
 - Name: [**IMG SRC**](https://www.imgsrc.co.jp/)
@@ -1676,15 +1732,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   Keywords: design and innovation office, MIT Media Lab: Senseable City Lab
 
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fcarloratti.com%2F)
-
-
-- Name: [**Gensler**](https://dxd.gensler.com/)
-
-  Locations: \[Worldwide]
-
-  Keywords: built environment with integrated capabilities in strategy, design, technology, data, and architecture
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdxd.gensler.com%2F)
 
 
 - Name: [**Olson Kundig**](https://olsonkundig.com/)

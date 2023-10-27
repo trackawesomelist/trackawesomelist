@@ -213,7 +213,7 @@ Preinstalled file managers and third-party file manager apps found on the play s
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Instead use**
 
-*   [FlorisBoard (⭐4.5k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+*   [FlorisBoard (⭐4.6k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
 *   [Simple Keyboard (⭐826)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
@@ -244,11 +244,15 @@ When using cloud-based AI services, the data you input is often collected and st
 #### ChatGPT
 
 *   [llama.cpp (⭐42k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
+*   [ollama (⭐10k)](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
 *   [LocalAI (⭐12k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 
 #### Copilot
 
 *   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
+*   [Localpilot (⭐2.5k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
+*   [Fauxpilot (⭐13k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
+    *   [vscode-fauxpilot (⭐171)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
 
 #### ElevenLabs Text To Speech
 
@@ -257,7 +261,7 @@ Go to the [Text To Speech](#text-to-speech) section.
 #### Midjourney
 
 *   [Stable Diffusion (⭐31k)](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models.
-    *   [Stable Diffusion Web UI (⭐105k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
+    *   [Stable Diffusion Web UI (⭐107k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
 
 ## Bookmarking
 
@@ -508,7 +512,7 @@ If you need an app for **menstrual cycle tracking** please don't use any apps li
 
 ### Medical health
 
-*   [Fasten (⭐911)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
+*   [Fasten (⭐971)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
 
 ## Fonts
 
@@ -798,7 +802,7 @@ With email aliases, you can finally create a different identity for each website
 **Youtube Music alternative clients**
 
 *   [Beatbump (⭐845)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
-*   [ViMusic (⭐5.4k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐5.7k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 **Deezer alternative clients**
 
@@ -1057,7 +1061,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 #### Desktop
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
-*   [Krita (⭐5.7k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Krita (⭐5.8k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
 *   [Czkawka (⭐13k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 *   [DigiKam](https://www.digikam.org/) - Awesome Professional Photo Management with the Power of Open Source.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.

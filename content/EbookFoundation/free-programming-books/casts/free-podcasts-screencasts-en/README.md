@@ -2,9 +2,30 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 300K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 302K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/readme/README.md) ]
+
+## [Oct 27, 2023](/content/2023/10/27/README.md)
+
+### Data Science
+
+*   [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Tobias Macey (podcast)
+
+### DevOps
+
+*   [Adventures in DevOps](https://topenddevs.com/podcasts/adventures-in-devops) - Jillian Rowe, Jonathan Hall, Will Button (podcast)
+*   [DevOps Cafe](http://devopscafe.org) - John Willis, Damon Edwards (podcast)
+
+### Java
+
+*   [airhacks.fm podcast](https://airhacks.fm) - Adam Bien (podcast)
+
+### Swift / React.js
+
+*   [Swift by Sundell](https://www.swiftbysundell.com/podcast) - John Sundell (podcast)
+*   [Swift over Coffee](https://podcasters.spotify.com/pod/show/swiftovercoffee) - Paul Hudson, Mikaela Caron (podcast)
+*   [The Swift Community Podcast](https://www.swiftcommunitypodcast.org) - Kate Castellano, Paul Hudson, Chris Lattner, Bas Broek (podcast)
 
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 
@@ -58,12 +79,6 @@
 
 *   [Persuasive Technology and Behavioural Design](https://anchor.fm/digital-mindfulness/episodes/DM-20-BJ-Fogg---Persuasive-Technology--Behavioural-Design-eu6onh) - BJ Fogg (podcast)
 *   [Your Undivided Attention](https://www.humanetech.com/podcast) - Tristan Harris and Aza Raskin (podcast)
-
-## [Oct 18, 2022](/content/2022/10/18/README.md)
-
-### Swift / React.js
-
-*   [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
 
 ## [Oct 15, 2022](/content/2022/10/15/README.md)
 
@@ -223,6 +238,67 @@
 *   [Talking Machines](https://www.thetalkingmachines.com) - Katherine Gorman, Neil Lawrence (podcast)
 *   [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi, Christopher Peter Makris, Corey Strausman (podcast)
 
+### Language Agnostic / React.js
+
+*   [Arrested DevOps](https://www.arresteddevops.com) - Bridget Kromhout, Jeff Smith, Jessica Kerr, Joe Laha, Matt Stratton, Trevor Hess (podcast)
+*   [Ladybug Podcast](https://www.ladybug.dev) - Kelly Vaughn, Ali Spittel, Emma Bostian, Sidney Buckner (podcast)
+*   [/dev/hell](https://devhell.info) - Chris Hartjes, Ed Finkler (podcast)
+*   [ADSP: The Podcast](https://adspthepodcast.com) - Bryce Adelstein Lelbach, Conor Hoekstra (podcast)
+*   [Array Cast](https://arraycast.com) - Conor Hoekstra, Adám Brudzewsky, Richard Park, Rodrigo Girão Serrão, Stephen Taylor, Nick Psaris, Bob Therriault (podcast)
+*   [baseCS](https://www.codenewbie.org/basecs) - Vaidehi Joshi, Saron Yitbarek (podcast based on [a series of posts on medium](https://medium.com/basecs))
+*   [Between | Screens Podcast](https://soundcloud.com/between-screens) - Ed Wassermann (podcast)
+*   [BSDTalk](https://bsdtalk.blogspot.com) - Will Backman (podcast)
+*   [CodeNewbie](https://www.codenewbie.org/podcast) - CodeNewbie Team (podcast)
+*   [CodePen Radio](https://blog.codepen.io/radio/) - CodePen Team (podcast)
+*   [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
+*   [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Saron Yitbarek, Red Hat (podcast)
+*   [CTRL+CLICK CAST](https://ctrlclickcast.com) - Lea Alcantara, Emily Lewis, Bright Umbrella (podcast)
+*   [Darknet Diaries](https://darknetdiaries.com) - Jack Rhysider, Fiona Guy, Leah Hurvoloy, et al. (podcast)
+*   [Developer On Fire](https://developeronfire.com) - Dave Rael (podcast)
+*   [Developer Tea](https://developertea.com) - Jonathan Cutrell (podcast)
+*   [DevelopersHangout](https://www.developershangout.io) - Eric J Silva (podcast)
+*   [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
+    *   [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
+*   [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) - Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman (podcast)
+*   [Frontside the Podcast](https://frontside.io/podcast/) - Charles Lowell, Taras Mankovski (podcast)
+*   [Full Stack Radio](https://www.fullstackradio.com) - Adam Wathan (podcast)
+*   [Functional Geekery](https://www.functionalgeekery.com) - Steven Proctor (podcast)
+*   [Garbage](https://garbage.jcs.org) - Brandon Mercer, Joshua Stein (podcast)
+*   [Hacker Culture](https://anchor.fm/hackerculture) - Jaron Swab (podcast)
+*   [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) - Grady Booch (podcast)
+*   [Learn to Code with Me](https://learntocodewith.me/podcast/) - Laurence Bradford (podcast)
+*   [Loosely Coupled](https://looselycoupled.info) - Jeff Carouth, Matt Frost (podcast)
+*   [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
+*   [Open Source System Podcast](https://opensourcesystempodcast.vf.io) - Vlad Filippov, Kyle Robinson Young, Tim Branyen, Darcy Clarke, Mike Taylor, Alex Sexton, Jason Etcovitch (podcast)
+*   [Programming Throwdown](https://www.programmingthrowdown.com) - Jason Gauci, Patrick Wheeler (podcast)
+*   [Security Now](https://www.grc.com/securitynow.htm) - Steve Gibson, Leo Laporte (podcast)
+*   [Shop Talk Show](https://shoptalkshow.com) - Dave Rupert, Chris Coyier (podcast)
+*   [Smashing podcast](https://podcast.smashingmagazine.com) - Drew McLellan, Smashing Magazine Team (podcast)
+*   [Soft Skills Engineering Podcast](https://softskills.audio) - Dave Smith, Jamison Dance (podcast)
+*   [Software Engineering Daily](https://softwareengineeringdaily.com) - Jeff Meyerson, Alex DeBrie, Lee Atchison, Jocelyn Byrne Houle, Mike Bifulco, Sean Falconer, et al. (podcast)
+*   [Software Engineering Radio](https://www.se-radio.net) - Robert Blumen, Jeff Doolittle, Felienne Hermans, Gavin Henry, Jeremy Jung, Nikhil Krishna, Priyanka Raghavan, Kanchan Shringi, Philip Winston (podcast)
+*   [Syscast Podcast](https://podcast.sysca.st) - Mattias Geniar (podcast)
+*   [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - Stephen Janaway, Dan Ashby (podcast)
+*   [The Big Web Show](https://bigwebshow.fireside.fm) - Jeffrey Zeldman (podcast)
+*   [The Changelog Podcast](https://changelog.com/podcast/) - Adam Stacoviak, Jerod Santo (podcast)
+*   [The Cloudcast](https://www.thecloudcast.net) - Aaron Delp, Brian Gracely (podcast)
+*   [The Cognicast](https://blog.cognitect.com/cognicast) - The Cognitect Team (podcast)
+*   [The Creative Coding Podcast](https://creativecodingpodcast.com) - Seb Lee-Delisle, Iain Lobb (podcast)
+*   [The Cynical Developer: Weekly Technology and Software Developer Podcast](https://cynicaldeveloper.com/podcast) - James Studdart (podcast)
+*   [The Debug Log](https://player.fm/series/series-1402172) - Andrew, Obinna, Zack, Ryan, Eduardo (podcast)
+*   [The Hanselminutes podcast](https://hanselminutes.com) - Scott Hanselman (podcast)
+*   [The Path to Performance](https://pathtoperf.com) - Katie Kovalcin, Tim Kadlec (podcast)
+*   [The Podcast from DZone.com: "For Developers, by Developers"](https://soundcloud.com/john-esposito-23072673) - John Esposito (podcast)
+*   [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) - Gary McGraw (podcast)
+*   [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - The Stack Overflow team (podcast)
+*   [The Web Platform](https://thewebplatform.libsyn.com) - Erik Isaksen, Justin Ribeiro, Danny Blue, Amal Hussein, Leon Revill, et al. (podcast)
+*   [Thinking with Tanay](https://anchor.fm/tanaypratap) - Tanay Pratap (podcast)
+*   [This Developer's Life](https://thisdeveloperslife.com) - Rob Conery, Scott Hanselman (podcast)
+*   [Three Devs and a Maybe](https://threedevsandamaybe.com) - Michael Budd, Fraser Hart, Lewis Cains, Edd Mann (podcast)
+*   [Toolsday](https://spec.fm/podcasts/toolsday) - Una Kravets, Chris Dhanaraj (podcast)
+*   [TTL Podcast](https://podtail.com/es/podcast/ttl-podcast/) - Rebecca Murphey (podcast)
+*   [Women in TECH with Ariana](https://www.wallwaytech.com/podcast) - Ariana The Techie (podcast)
+
 ### Elixir
 
 *   [Elixir Sips](http://elixirsips.com) - Josh Adams (screencast)
@@ -295,67 +371,6 @@
 *   [Inside Java](https://inside.java/podcast) - Chad Arimura, David Delabassee (podcast)
 *   [Java OffHeap](https://www.javaoffheap.com) - Freddy Guime, Bob Paulin, Michael Minella, Josh Juneau, et al. (podcast)
 *   [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime, Bob Paulin (podcast)
-
-### Language Agnostic / React.js
-
-*   [Ladybug Podcast](https://www.ladybug.dev) - Kelly Vaughn, Ali Spittel, Emma Bostian, Sidney Buckner (podcast)
-*   [/dev/hell](https://devhell.info) - Chris Hartjes, Ed Finkler (podcast)
-*   [ADSP: The Podcast](https://adspthepodcast.com) - Bryce Adelstein Lelbach, Conor Hoekstra (podcast)
-*   [Array Cast](https://arraycast.com) - Conor Hoekstra, Adám Brudzewsky, Richard Park, Rodrigo Girão Serrão, Stephen Taylor, Nick Psaris, Bob Therriault (podcast)
-*   [Arrested DevOps](https://www.arresteddevops.com) - Bridget Kromhout, Jeff Smith, Jessica Kerr, Joe Laha, Matt Stratton, Trevor Hess (podcast)
-*   [baseCS](https://www.codenewbie.org/basecs) - Vaidehi Joshi, Saron Yitbarek (podcast based on [a series of posts on medium](https://medium.com/basecs))
-*   [Between | Screens Podcast](https://soundcloud.com/between-screens) - Ed Wassermann (podcast)
-*   [BSDTalk](https://bsdtalk.blogspot.com) - Will Backman (podcast)
-*   [CodeNewbie](https://www.codenewbie.org/podcast) - CodeNewbie Team (podcast)
-*   [CodePen Radio](https://blog.codepen.io/radio/) - CodePen Team (podcast)
-*   [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
-*   [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Saron Yitbarek, Red Hat (podcast)
-*   [CTRL+CLICK CAST](https://ctrlclickcast.com) - Lea Alcantara, Emily Lewis, Bright Umbrella (podcast)
-*   [Darknet Diaries](https://darknetdiaries.com) - Jack Rhysider, Fiona Guy, Leah Hurvoloy, et al. (podcast)
-*   [Developer On Fire](https://developeronfire.com) - Dave Rael (podcast)
-*   [Developer Tea](https://developertea.com) - Jonathan Cutrell (podcast)
-*   [DevelopersHangout](https://www.developershangout.io) - Eric J Silva (podcast)
-*   [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
-    *   [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
-*   [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) - Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman (podcast)
-*   [Frontside the Podcast](https://frontside.io/podcast/) - Charles Lowell, Taras Mankovski (podcast)
-*   [Full Stack Radio](https://www.fullstackradio.com) - Adam Wathan (podcast)
-*   [Functional Geekery](https://www.functionalgeekery.com) - Steven Proctor (podcast)
-*   [Garbage](https://garbage.jcs.org) - Brandon Mercer, Joshua Stein (podcast)
-*   [Hacker Culture](https://anchor.fm/hackerculture) - Jaron Swab (podcast)
-*   [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) - Grady Booch (podcast)
-*   [Learn to Code with Me](https://learntocodewith.me/podcast/) - Laurence Bradford (podcast)
-*   [Loosely Coupled](https://looselycoupled.info) - Jeff Carouth, Matt Frost (podcast)
-*   [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
-*   [Open Source System Podcast](https://opensourcesystempodcast.vf.io) - Vlad Filippov, Kyle Robinson Young, Tim Branyen, Darcy Clarke, Mike Taylor, Alex Sexton, Jason Etcovitch (podcast)
-*   [Programming Throwdown](https://www.programmingthrowdown.com) - Jason Gauci, Patrick Wheeler (podcast)
-*   [Security Now](https://www.grc.com/securitynow.htm) - Steve Gibson, Leo Laporte (podcast)
-*   [Shop Talk Show](https://shoptalkshow.com) - Dave Rupert, Chris Coyier (podcast)
-*   [Smashing podcast](https://podcast.smashingmagazine.com) - Drew McLellan, Smashing Magazine Team (podcast)
-*   [Soft Skills Engineering Podcast](https://softskills.audio) - Dave Smith, Jamison Dance (podcast)
-*   [Software Engineering Daily](https://softwareengineeringdaily.com) - Jeff Meyerson, Alex DeBrie, Lee Atchison, Jocelyn Byrne Houle, Mike Bifulco, Sean Falconer, et al. (podcast)
-*   [Software Engineering Radio](https://www.se-radio.net) - Robert Blumen, Jeff Doolittle, Felienne Hermans, Gavin Henry, Jeremy Jung, Nikhil Krishna, Priyanka Raghavan, Kanchan Shringi, Philip Winston (podcast)
-*   [Syscast Podcast](https://podcast.sysca.st) - Mattias Geniar (podcast)
-*   [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - Stephen Janaway, Dan Ashby (podcast)
-*   [The Big Web Show](https://bigwebshow.fireside.fm) - Jeffrey Zeldman (podcast)
-*   [The Changelog Podcast](https://changelog.com/podcast/) - Adam Stacoviak, Jerod Santo (podcast)
-*   [The Cloudcast](https://www.thecloudcast.net) - Aaron Delp, Brian Gracely (podcast)
-*   [The Cognicast](https://blog.cognitect.com/cognicast) - The Cognitect Team (podcast)
-*   [The Creative Coding Podcast](https://creativecodingpodcast.com) - Seb Lee-Delisle, Iain Lobb (podcast)
-*   [The Cynical Developer: Weekly Technology and Software Developer Podcast](https://cynicaldeveloper.com/podcast) - James Studdart (podcast)
-*   [The Debug Log](https://player.fm/series/series-1402172) - Andrew, Obinna, Zack, Ryan, Eduardo (podcast)
-*   [The Hanselminutes podcast](https://hanselminutes.com) - Scott Hanselman (podcast)
-*   [The Path to Performance](https://pathtoperf.com) - Katie Kovalcin, Tim Kadlec (podcast)
-*   [The Podcast from DZone.com: "For Developers, by Developers"](https://soundcloud.com/john-esposito-23072673) - John Esposito (podcast)
-*   [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) - Gary McGraw (podcast)
-*   [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - The Stack Overflow team (podcast)
-*   [The Web Platform](https://thewebplatform.libsyn.com) - Erik Isaksen, Justin Ribeiro, Danny Blue, Amal Hussein, Leon Revill, et al. (podcast)
-*   [Thinking with Tanay](https://anchor.fm/tanaypratap) - Tanay Pratap (podcast)
-*   [This Developer's Life](https://thisdeveloperslife.com) - Rob Conery, Scott Hanselman (podcast)
-*   [Three Devs and a Maybe](https://threedevsandamaybe.com) - Michael Budd, Fraser Hart, Lewis Cains, Edd Mann (podcast)
-*   [Toolsday](https://spec.fm/podcasts/toolsday) - Una Kravets, Chris Dhanaraj (podcast)
-*   [TTL Podcast](https://podtail.com/es/podcast/ttl-podcast/) - Rebecca Murphey (podcast)
-*   [Women in TECH with Ariana](https://www.wallwaytech.com/podcast) - Ariana The Techie (podcast)
 
 ### JavaScript / Angular
 

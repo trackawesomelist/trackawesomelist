@@ -12,6 +12,14 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [~~快知~~](http://kzfeed.com/) <sup>[195](https://t.me/s/aboutrss/195), [254](https://t.me/s/aboutrss/254)，[644](https://t.me/s/aboutrss/644)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](http://kzfeed.com/login)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/cn/app/%E5%BF%AB%E7%9F%A5-%E8%AE%A9%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%9B%B4%E9%AB%98%E6%95%88/id1465578855)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.coolapk.com/apk/244476)
 
+### RSS2NEWSLETTER / Docsify
+
+*   [~~FeedMailu~~](https://feedmailu.com/) <sup>[814](https://t.me/s/aboutrss/814)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [~~Revue~~](https://www.getrevue.co/) <sup>[989](https://t.me/s/aboutrss/989)</sup>
+*   [~~Bulletyn~~](http://bulletyn.co/) <sup>[1138](https://t.me/s/aboutrss/1138)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [~~Subworthy~~](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Buttondown](https://buttondown.email/)
+
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
 ### Web Feed Specifications
@@ -692,10 +700,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [rssto.email](https://rssto.email/) <sup>[1159](https://t.me/s/aboutrss/1159)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aksh-at/rsstoemail)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2NEWSLETTER / Docsify
-
-*   [Subworthy](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-
 ### RSS2Pocket / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Curated](https://withcurated.com/) <sup>[1098](https://t.me/s/aboutrss/1098)</sup>
@@ -830,7 +834,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### RSS2NEWSLETTER / Docsify
 
-*   [Bulletyn](http://bulletyn.co/) <sup>[1138](https://t.me/s/aboutrss/1138)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Taco Digest](https://tacodigest.com/) <sup>[1146](https://t.me/s/aboutrss/1146)</sup>
 
 ### RSS2WIDGET / For website
@@ -1294,7 +1297,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### RSS2NEWSLETTER / Docsify
 
 *   [~~RSSMailer~~briefcake](https://briefcake.com/?ref=rssmailer.app) <sup>[164](https://t.me/s/aboutrss/164), [255](https://t.me/s/aboutrss/255), [267](https://t.me/s/aboutrss/267)</sup>
-*   [Revue](https://www.getrevue.co/) <sup>[989](https://t.me/s/aboutrss/989)</sup>
 
 ### RSS2SLACK / Docsify
 
@@ -1673,10 +1675,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
 *   [FreeRss](http://www.freerss.top/) <sup>[778](https://t.me/s/aboutrss/778)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-
-### RSS2NEWSLETTER / Docsify
-
-*   [FeedMailu](https://feedmailu.com/) <sup>[814](https://t.me/s/aboutrss/814)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Tutorials when knowing how to run code / Crypto or Blockchain relevant
 

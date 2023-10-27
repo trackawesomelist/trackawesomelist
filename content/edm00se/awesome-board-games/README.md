@@ -6,6 +6,24 @@ A curated list of awesome and exceptional board games. Please contribute!
 
 [ Daily / [Weekly](/content/edm00se/awesome-board-games/week/README.md) / [Overview](/content/edm00se/awesome-board-games/readme/README.md) ]
 
+## [Oct 27, 2023](/content/2023/10/27/README.md)
+
+### Family
+
+### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-brimstone-swamps-death)
+
+> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome.
+>
+> Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
+>
+> In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
+
+![Shadows of Brimstone: Swamps of Death game image](https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__itemrep/img/inbrCrbkzm-36PykegNeHmOD7yc=/fit-in/246x300/filters:strip_icc\(\)/pic2037826.jpg)
+
+| Players | Min. Age |      Time |
+| ------: | -------: | --------: |
+|   1 - 4 |       12 | 90 - 180m |
+
 ## [Oct 26, 2023](/content/2023/10/26/README.md)
 
 ### Strategy
