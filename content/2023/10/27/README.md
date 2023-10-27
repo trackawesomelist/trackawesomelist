@@ -1,12 +1,49 @@
 # Awesome List Updates on Oct 27, 2023
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Editor Components / Components
+
+*   [ngx-simple-text-editor (⭐4)](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
+
+## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [luacheck (⭐287)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
+
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org) - Kenneth Reitz, Tanya Schlusser, et al
+
+## [4. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+
+### Password-less auth / WebAuthn
+
+*   [Clearing up some misconceptions about Passkeys](https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/) -  Or why passkeys are not worse than passwords.
+
+### Authorization / Policy models
+
+*   [GCP's IAM syntax is better than AWS's](https://ucarion.com/iam-operation-syntax) - The minutiae of permission design in GCP improves the developper's experience.
+
+### Authorization / Open-source policy frameworks
+
+*   [Warrant (⭐688)](https://github.com/warrant-dev/warrant) - A relationship based access control (ReBAC) engine (inspired by Google Zanzibar) also capable of enforcing any authorization paradigm, including RBAC and ABAC.
+
+### Secret Management / Macaroons
+
+*   [HashiCorp Vault](https://www.vaultproject.io) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
+*   [Infisical (⭐10k)](https://github.com/Infisical/infisical) - An alternative to HashiCorp Vault.
+
+## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### ChatGPT
 
@@ -18,13 +55,13 @@
 *   [Fauxpilot (⭐13k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
     *   [vscode-fauxpilot (⭐171)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Alert / Barcode
 
 *   [MijickPopupView (⭐456)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
 
-## [3. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+## [7. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
 ### Creative Technology
 
@@ -107,7 +144,7 @@
 
 
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Data Science
 
@@ -188,7 +225,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS2NEWSLETTER / Docsify
 
@@ -198,7 +235,7 @@
 *   [~~Subworthy~~](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Buttondown](https://buttondown.email/)
 
-## [6. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -216,32 +253,11 @@
 | ------: | -------: | --------: |
 |   1 - 4 |       12 | 90 - 180m |
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📁 [Astro Template Ovidius (⭐3)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
-
-## [8. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### Data Science
-
-*   [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Tobias Macey (podcast)
-
-### DevOps
-
-*   [Adventures in DevOps](https://topenddevs.com/podcasts/adventures-in-devops) - Jillian Rowe, Jonathan Hall, Will Button (podcast)
-*   [DevOps Cafe](http://devopscafe.org) - John Willis, Damon Edwards (podcast)
-
-### Java
-
-*   [airhacks.fm podcast](https://airhacks.fm) - Adam Bien (podcast)
-
-### Swift / React.js
-
-*   [Swift by Sundell](https://www.swiftbysundell.com/podcast) - John Sundell (podcast)
-*   [Swift over Coffee](https://podcasters.spotify.com/pod/show/swiftovercoffee) - Paul Hudson, Mikaela Caron (podcast)
-*   [The Swift Community Podcast](https://www.swiftcommunitypodcast.org) - Kate Castellano, Paul Hudson, Chris Lattner, Bas Broek (podcast)
 
 ---
 

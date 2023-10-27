@@ -13,6 +13,12 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
+## [Oct 27, 2023](/content/2023/10/27/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org) - Kenneth Reitz, Tanya Schlusser, et al
+
 ## [Oct 26, 2023](/content/2023/10/26/README.md)
 
 ### Graphs / Gremlin

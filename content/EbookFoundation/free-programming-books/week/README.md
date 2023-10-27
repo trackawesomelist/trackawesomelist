@@ -35,6 +35,10 @@
 
 *   [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.html) - Kelvin R. Lawrence
 
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org) - Kenneth Reitz, Tanya Schlusser, et al
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### C++ / Non-X86
