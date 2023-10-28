@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Oct 28, 2023](/content/2023/10/28/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
+
 ## [Oct 25, 2023](/content/2023/10/25/README.md)
 
 ### Concepts / AI Concept Representation
@@ -22,7 +28,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.2k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.3k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
@@ -186,7 +192,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / Democratization of Science
 
-*   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7#Sec1) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)].
 *   [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf) - ***Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682\&hl=en\&as_sdt=0,5)].
 *   [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512\&hl=en\&as_sdt=0,5)].
 *   [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15181490380139888639\&hl=en\&as_sdt=0,5)].
@@ -1491,7 +1496,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Courses
 
-*   [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT, Harvard, Stanford***. Courses on computational cognitive science from MIT, Harvard, Stanford.
+*   [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT***. Courses on computational cognitive science from MIT, Harvard, and Stanford.
 
 ### Programming
 
