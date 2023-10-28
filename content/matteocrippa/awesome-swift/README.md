@@ -6,6 +6,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Oct 28, 2023](/content/2023/10/28/README.md)
+
+### Transition / Barcode
+
+*   [MijickNavigattie (⭐46)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
+
 ## [Oct 27, 2023](/content/2023/10/27/README.md)
 
 ### Alert / Barcode

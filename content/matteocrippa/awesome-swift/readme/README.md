@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                           Awesome                                                                           |   Linux   | Projects |      Updated     |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :--------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1048   | October 26, 2023 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1049   | October 27, 2023 |
 
 ### Contents
 
@@ -1696,6 +1696,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [ImageTransition (⭐214)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 *   [Jelly (⭐2.4k)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 *   [LiquidSwipe (⭐422)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
+*   [MijickNavigattie (⭐46)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 *   [MusicPlayerTransition (⭐642)](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 *   [NavigationTransitions (⭐475)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 *   [PanSlip (⭐103)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.

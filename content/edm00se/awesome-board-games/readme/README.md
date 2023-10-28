@@ -1521,6 +1521,22 @@ A curated list of awesome and exceptional board games. Please contribute!
 | ------: | -------: | ---: |
 |   2 - 4 |       12 |  80m |
 
+### [The Old King's Crown](https://boardgamegeek.com/boardgame/357873/old-kings-crown)
+
+> The Old King’s Crown is a game of card-driven conquest, where you play as heirs to a vacant throne, vying for control of an ancient, overgrown kingdom. Wield unique abilities and leverage your followers’ traits to best outwit your opponents across a map that stretches from the teetering heights of the castle to the dappled light of the necropolis.
+>
+> As leader of your faction you will be staking claims with Heralds openly as well as positioning your forces in secret, hoping to claim the locations that fit your designs. However, keep an eye on your rivals, as they too have agents and agendas, poised to undo your best laid plans.
+>
+> Royalty, rebels or ruses. What crown will you wear?
+>
+> In The Old King's Crown, players move their Herald to locations, hoping to claim them. Then simultaneously players play cards from their hand, facedown to regions of the board. These are then revealed and resolved. Winning these clashes will result in different rewards that further their position and grant them the game's primary goal, influence. When a player is able to reach a set number of influence, dependent on player count, and is able to retain it until the end of a round, they win the game.
+
+![The Old King's Crown game image](https://cf.geekdo-images.com/hQG2-XQoEhXCITIORvx24A__itemrep/img/nxjDR_nK5kmSdApd5YJDeoPoQnc=/fit-in/246x300/filters:strip_icc\(\)/pic7508098.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |       12 | 60-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)

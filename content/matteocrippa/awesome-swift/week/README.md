@@ -12,6 +12,10 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [MijickPopupView (⭐456)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
 
+### Transition / Barcode
+
+*   [MijickNavigattie (⭐46)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
+
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### Utility / Barcode

@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Oct 28, 2023](/content/2023/10/28/README.md)
+
+### Tools and Applications
+
+*   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
+
 ## [Oct 19, 2023](/content/2023/10/19/README.md)
 
 ### Functions
@@ -78,7 +84,7 @@ A curated list for when naming things is done right.
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
-### Tools
+### Tools and Applications
 
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [yarn](https://yarnpkg.com/) - NodeJS dependency manager.

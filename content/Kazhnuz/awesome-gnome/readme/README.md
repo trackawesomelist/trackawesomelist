@@ -2,7 +2,7 @@
 
 A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Kazhnuz/awesome-gnome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) · ⭐ 870 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Kazhnuz/awesome-gnome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) · ⭐ 913 · 🏷️ Platforms
 
 [ [Daily](/content/Kazhnuz/awesome-gnome/README.md) / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / Overview ]
 
@@ -71,7 +71,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 *   [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 *   [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
-*   [Parabolic (⭐317)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+*   [Parabolic (⭐448)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
 
 ### Office
 
@@ -79,20 +79,21 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Citations](https://apps.gnome.org/app/org.gnome.World.Citations/) - Manage your bibliography. ![GNOME Circle][GNOME Circle]
 *   [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 *   [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
-*   [Foliate (⭐4.2k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Pdftag (⭐62)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
-*   [Marker (⭐792)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
-*   [Paper Clip (⭐27)](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
+*   [Foliate (⭐4.4k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+*   [Pdftag (⭐63)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
+*   [Marker (⭐800)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+*   [Paper Clip (⭐36)](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
 
 ### Productivity and Time
 
 *   [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
 *   [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Core][GNOME Core]
 *   [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
-*   [GTimeLog (⭐228)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+*   [GTimeLog (⭐231)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
-*   [Teleprompter (⭐11)](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
+*   [Teleprompter (⭐20)](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
+*   [Errands (⭐106)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 
 ### Well Being
 
@@ -108,14 +109,14 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Identify any songs in seconds. ![GNOME Circle][GNOME Circle]
 *   [Podcasts](https://apps.gnome.org/app/org.gnome.Podcasts/) - Listen to your favourite podcasts. ![GNOME Circle][GNOME Circle]
 *   [Zap](https://apps.gnome.org/app/fr.romainvigier.zap/) - Play sounds from a soundboard. ![GNOME Circle][GNOME Circle]
-*   [Vocal (⭐341)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
-*   [Celluloid (⭐943)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
+*   [Vocal (⭐342)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+*   [Celluloid (⭐987)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 *   [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-*   [Easy Effects (⭐5.2k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
+*   [Easy Effects (⭐5.4k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
 *   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
-*   [Spot (⭐2k)](https://github.com/xou816/spot) - Spotify Client.
-*   [Clapper (⭐586)](https://github.com/Rafostar/clapper) - Simple and modern media player.
+*   [Spot (⭐2.1k)](https://github.com/xou816/spot) - Spotify Client.
+*   [Clapper (⭐610)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 *   [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 
 ### Graphics
@@ -123,9 +124,10 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Curtail](https://flathub.org/apps/details/com.github.huluti.Curtail) - Simple & useful image compressor. ![GNOME Circle][GNOME Circle]
 *   [Drawing](https://apps.gnome.org/app/com.github.maoschanz.drawing/) - Responsive drawing application. ![GNOME Circle][GNOME Circle]
 *   [Identity](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.Identity/) - Compare image and video. ![GNOME Circle][GNOME Circle]
-*   [Coulr (⭐29)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
-*   [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
+*   [Coulr (⭐32)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+*   [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color picker, working on both X11 and Wayland.
 *   [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
+*   [ASCII Draw (⭐82)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
 
 ### Scientific Tooling
 
@@ -133,23 +135,23 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Gaming
 
-*   [Lutris (⭐6.7k)](https://github.com/lutris/lutris) - Open Source gaming platform.
+*   [Lutris (⭐6.9k)](https://github.com/lutris/lutris) - Open Source gaming platform.
 *   [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
-*   [Cartridges (⭐285)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
+*   [Cartridges (⭐356)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
 
 ### System and Customization
 
 *   [Pika Backup](https://apps.gnome.org/app/org.gnome.World.PikaBackup/) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
 *   [Déjà Dup Backups](https://apps.gnome.org/app/org.gnome.DejaDup/) - Simple backups tool. ![GNOME Circle][GNOME Circle]
 *   [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME settings.
-*   [Tilix (⭐5.1k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
+*   [Tilix (⭐5.2k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 *   [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 *   [HydraPaper](https://hydrapaper.gabmus.org/) - Set a different background for each monitor.
-*   [Dynamic Wallpaper Editor (⭐197)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
-*   [Dynamic Gnome Wallpapers (⭐228)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Wallpaper Editor (⭐201)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+*   [Dynamic Gnome Wallpapers (⭐254)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 *   [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
-*   [AdwSteamGtk (⭐102)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐828)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
-*   [Flatseal (⭐869)](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
+*   [AdwSteamGtk (⭐113)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐884)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
+*   [Flatseal (⭐905)](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
 *   [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage
 
 ### Utilities
@@ -162,11 +164,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Junction](https://apps.gnome.org/app/re.sonny.Junction/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 *   [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle][GNOME Circle]
 *   [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle][GNOME Circle]
-*   [GPaste (⭐681)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
+*   [GPaste (⭐700)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 *   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
 *   [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 *   [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 *   [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
+*   [Impression](https://gitlab.com/adhami3310/Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 
 ### Security and Privacy
 
@@ -190,7 +193,9 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
 *   [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - Profile an application or entire system.
 *   [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
-*   [Escambo (⭐113)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
+*   [Escambo (⭐120)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
+*   [Forge Sparks (⭐47)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
+*   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
 #### Design Tooling
 
@@ -207,8 +212,8 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ## Third-party Apps Plugins
 
-*   [Firefox GNOME Theme (⭐2.7k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
-*   [Nautilus Terminal (⭐304)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Firefox GNOME Theme (⭐2.9k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Nautilus Terminal (⭐301)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## Extensions
 
@@ -234,7 +239,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Applets
 
-*   [RunCat (⭐310)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+*   [RunCat (⭐334)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
 *   [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
 *   [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 *   [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
@@ -248,25 +253,25 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Windows
 
-*   [PaperWM (⭐2.2k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-*   [Coverflow Alt-Tab (⭐321)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [PaperWM (⭐2.3k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
+*   [Coverflow Alt-Tab (⭐335)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio
 
-*   [Application Volume Mixer (⭐92)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
+*   [Application Volume Mixer (⭐94)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
 
 ### Visual Changes
 
 *   [Blur-my-shell (⭐1.1k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
-*   [Transparent Shell (⭐14)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
+*   [Transparent Shell (⭐15)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 *   [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - Adds wobbly effects to windows.
 *   [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
-*   [Desktop Cube (⭐517)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+*   [Desktop Cube (⭐535)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
 *   [Burn My Windows (⭐2.4k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
 ### Services integration
 
-*   [GMail Message Tray (⭐78)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
+*   [GMail Message Tray (⭐82)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
 ## Look and Feel
 
@@ -274,14 +279,14 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 #### Upstream Style
 
-*   [MoreWaita (⭐305)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
-*   [GNOME++ (⭐149)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐177)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [MoreWaita (⭐361)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [GNOME++ (⭐151)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐188)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 #### Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐5.9k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 #### Flat Icons
 
@@ -289,19 +294,19 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 #### Homogeneous Icons
 
-*   [Obsidian (⭐176)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
-*   [Numix Circle (⭐844)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐153)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Obsidian (⭐177)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Numix Circle (⭐846)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐154)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 #### Skeumorphic Icons
 
-*   [Elementary XFCE (⭐257)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐261)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Cursors
 
 *   [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling.
-*   [Bibata (⭐1.2k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐972)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1.4k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐995)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## Community
 
