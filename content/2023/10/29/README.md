@@ -1,24 +1,36 @@
 # Awesome List Updates on Oct 29, 2023
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [A mobile robotic chemist](https://strathprints.strath.ac.uk/74759/1/Burger_etal_Nature_2020_A_mobile_robotic.pdf) - ***Nature***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13216902493789027324\&hl=en\&as_sdt=0,5)].
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### PDF
+
+*   [PDF-Writer (⭐776)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
+
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Deployment / Isomorphic web frameworks
 
 *   [Cloud Init file for SBCL](https://git.sr.ht/%7Emarcuskammer/cloudinit/tree/main/item/sbcl-nginx.yml) - an init file for providers supporting the cloudinit format (DigitalOcean etc).
 
-## [2. Magictools](/content/ellisonleao/magictools/README.md)
+## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [DotRecast (⭐221)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 
-## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Algorithms / Supervised Learning
 
@@ -48,7 +60,7 @@
 
 *   [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### C++ / Non-X86
 

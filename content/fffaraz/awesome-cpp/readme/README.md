@@ -422,7 +422,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [LMDB](https://www.symas.com/lmdb) - Very fast embedded key/value store with full ACID semantics. \[OpenLDAP]
 *   [LMDB++ (⭐265)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 *   [MongoDB C Driver (⭐779)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
-*   [MongoDB C++ Driver (⭐980)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
+*   [MongoDB C++ Driver (⭐984)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
 *   [MongoDB Libbson (⭐342)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
 *   [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. \[LGPL]
 *   [nanodbc (⭐292)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
@@ -886,6 +886,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libharu (⭐1.6k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
 *   [litePDF](https://litepdf.sourceforge.io) - Library to create and edit PDF documents that uses GDI functions through a device context to draw the page content. \[LGPL v3 and zlib]
 *   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Commercial]
+*   [PDF-Writer (⭐776)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
 *   [PoDoFo](http://podofo.sourceforge.net/) - A library to work with the PDF file format. \[LGPL]
 *   [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. \[GPLv2/GPLv3]
 *   [Xpdf](https://www.xpdfreader.com/) - Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more. \[GPL v2/GPL v3]

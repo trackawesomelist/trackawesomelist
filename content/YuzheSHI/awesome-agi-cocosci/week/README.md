@@ -15,6 +15,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Science Logology / Democratization of Science
 
 *   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
+*   [A mobile robotic chemist](https://strathprints.strath.ac.uk/74759/1/Burger_etal_Nature_2020_A_mobile_robotic.pdf) - ***Nature***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13216902493789027324\&hl=en\&as_sdt=0,5)].
 
 ### Cognitive Development / Commonsense Knowledgebase
 

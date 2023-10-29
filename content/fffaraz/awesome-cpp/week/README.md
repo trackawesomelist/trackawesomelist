@@ -16,6 +16,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [haclog (⭐62)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
 
+### PDF
+
+*   [PDF-Writer (⭐776)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
+
 ### Miscellaneous
 
 *   [faker-cxx (⭐73)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
@@ -3050,7 +3054,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Database
 
 *   [MongoDB C Driver (⭐779)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
-*   [MongoDB C++ Driver (⭐980)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
+*   [MongoDB C++ Driver (⭐984)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
 *   [MongoDB Libbson (⭐342)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
 
 ### Debug

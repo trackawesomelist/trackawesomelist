@@ -347,34 +347,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [kubo (⭐15k)](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
 
-#### [28. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Containers
-
-*   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
-
-##### Logging
-
-*   [haclog (⭐62)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
-
-##### Miscellaneous
-
-*   [faker-cxx (⭐73)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
-*   [inja (⭐1.4k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
-
-#### [29. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [28. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
 *   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐0)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
 
-#### [30. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+#### [29. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ##### UI Libraries, Components & Templates
 
 *   📁 [Astro Template Ovidius (⭐3)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 
-#### [31. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+#### [30. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ##### Apps / Outline Processor Markup Language
 
@@ -388,7 +373,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [~~Subworthy~~](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Buttondown](https://buttondown.email/)
 
-#### [32. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+#### [31. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
 ##### Creative Technology
 
@@ -471,7 +456,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [33. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [32. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### ChatGPT
 
@@ -483,7 +468,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Fauxpilot (⭐13k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
     *   [vscode-fauxpilot (⭐171)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
 
-#### [34. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+#### [33. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ##### Password-less auth / WebAuthn
 
@@ -502,13 +487,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [HashiCorp Vault](https://www.vaultproject.io) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
 *   [Infisical (⭐10k)](https://github.com/Infisical/infisical) - An alternative to HashiCorp Vault.
 
-#### [35. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [34. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Editor Components / Components
 
 *   [ngx-simple-text-editor (⭐4)](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
 
-#### [36. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [35. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
@@ -518,13 +503,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
-#### [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Software Development - Low Code
 
 *   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-#### [38. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+#### [37. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ##### Family
 
@@ -773,13 +758,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-#### [39. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+#### [38. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ##### Tools and Applications
 
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 
-#### [40. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [39. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### Productivity and Time
 
@@ -798,7 +783,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [Forge Sparks (⭐47)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
-#### [41. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+#### [40. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ##### Alert / Barcode
 
@@ -808,7 +793,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [MijickNavigattie (⭐46)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 
-#### [42. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [41. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Design and Product / Other Tools
 
@@ -818,7 +803,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Journey Navigation](https://gowithjourney.com) - A powerful route planning app with weather along your route, traffic alerts, turn by turn directions, and more. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/journey-navigation/id1662059644)
 
-#### [43. Awesome Java](/content/akullpp/awesome-java/README.md)
+#### [42. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ##### CLI / Argument Parsing
 
@@ -852,21 +837,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [JADE](https://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
 *   [Semver4j (⭐43)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
 
-#### [44. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Concepts / AI Concept Representation
-
-*   [Semantic features of object concepts generated with GPT-3](https://escholarship.org/uc/item/44s454ng) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923\&hl=en\&as_sdt=0,5)]. Testing the semantic attributes of the concepts generated by the large language model GPT-3.
-
-##### Science Logology / Democratization of Science
-
-*   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
-
-##### Cognitive Development / Commonsense Knowledgebase
-
-*   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
-
-#### [45. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+#### [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ##### C++ / Non-X86
 
@@ -908,7 +879,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [Modern Statistics with R](https://www.modernstatisticswithr.com) - Måns Thulin
 *   [Supervised Machine Learning for Text Analysis in R](https://smltar.com) - Emil Hvitfeldt, Julia Silge
 
-#### [46. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [44. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Tutorials
 
@@ -946,14 +917,14 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 
-#### [47. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+#### [45. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 ### [Le Git Graph (⭐1.8k)](https://github.com/NirmalScaria/le-git-graph) <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Browser extension to add git graph to GitHub website.
 
 Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 
-#### [48. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [46. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Logging
 
@@ -1029,11 +1000,45 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [49. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [47. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Deployment / Isomorphic web frameworks
 
 *   [Cloud Init file for SBCL](https://git.sr.ht/%7Emarcuskammer/cloudinit/tree/main/item/sbcl-nginx.yml) - an init file for providers supporting the cloudinit format (DigitalOcean etc).
+
+#### [48. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Containers
+
+*   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
+
+##### Logging
+
+*   [haclog (⭐62)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
+
+##### PDF
+
+*   [PDF-Writer (⭐776)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
+
+##### Miscellaneous
+
+*   [faker-cxx (⭐73)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [inja (⭐1.4k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
+
+#### [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Concepts / AI Concept Representation
+
+*   [Semantic features of object concepts generated with GPT-3](https://escholarship.org/uc/item/44s454ng) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923\&hl=en\&as_sdt=0,5)]. Testing the semantic attributes of the concepts generated by the large language model GPT-3.
+
+##### Science Logology / Democratization of Science
+
+*   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
+*   [A mobile robotic chemist](https://strathprints.strath.ac.uk/74759/1/Burger_etal_Nature_2020_A_mobile_robotic.pdf) - ***Nature***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13216902493789027324\&hl=en\&as_sdt=0,5)].
+
+##### Cognitive Development / Commonsense Knowledgebase
+
+*   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
 
 ---
 
@@ -1048,7 +1053,7 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 64K 📝 10&#x2F;28 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 75K 📝 10&#x2F;26 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 70K 📝 10&#x2F;26 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-8. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 50K 📝 10&#x2F;26 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+8. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 50K 📝 10&#x2F;29 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 9. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 38K 📝 10&#x2F;28 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 10. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 38K 📝 10&#x2F;25 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 11. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 59K 📝 10&#x2F;19 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
@@ -1703,7 +1708,7 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 - [Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md) - ([Source ⭐ 175, 📝 10&#x2F;17 ](https://github.com/GustavBertram/awesome-common-lisp-learning)) - A curated list of awesome Common Lisp learning resources
 - [Awesome Composer](/content/jakoch/awesome-composer/README.md) - ([Source ⭐ 815, 📝 22&#x2F;07&#x2F;22 ](https://github.com/jakoch/awesome-composer)) -  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
 - [Awesome Coq](/content/coq-community/awesome-coq/README.md) - ([Source ⭐ 246, 📝 10&#x2F;17 ](https://github.com/coq-community/awesome-coq)) - A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainers=@anton-trunov,@palmskog]
-- [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 50K, 📝 10&#x2F;26 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 50K, 📝 10&#x2F;29 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.2K, 📝 10&#x2F;17 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 - [Awesome D](/content/dlang-community/awesome-d/README.md) - ([Source ⭐ 615, 📝 10&#x2F;17 ](https://github.com/dlang-community/awesome-d)) -   A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
 - [Awesome Dart](/content/yissachar/awesome-dart/README.md) - ([Source ⭐ 2.2K, 📝 09&#x2F;05 ](https://github.com/yissachar/awesome-dart)) - A curated list of awesome Dart frameworks, libraries, and software
@@ -1803,7 +1808,7 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 194, 📝 10&#x2F;28 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 194, 📝 10&#x2F;29 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 15K, 📝 09&#x2F;23 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 7.1K, 📝 22&#x2F;08&#x2F;12 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 72, 📝 09&#x2F;15 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

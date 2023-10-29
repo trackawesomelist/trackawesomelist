@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Oct 29, 2023](/content/2023/10/29/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [A mobile robotic chemist](https://strathprints.strath.ac.uk/74759/1/Burger_etal_Nature_2020_A_mobile_robotic.pdf) - ***Nature***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13216902493789027324\&hl=en\&as_sdt=0,5)].
+
 ## [Oct 28, 2023](/content/2023/10/28/README.md)
 
 ### Science Logology / Democratization of Science
