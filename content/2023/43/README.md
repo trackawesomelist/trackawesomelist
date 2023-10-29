@@ -1,12 +1,24 @@
 # Awesome List Updates on Oct 23 - Oct 29, 2023
 
-47 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Deployment / Isomorphic web frameworks
+
+*   [Cloud Init file for SBCL](https://git.sr.ht/%7Emarcuskammer/cloudinit/tree/main/item/sbcl-nginx.yml) - an init file for providers supporting the cloudinit format (DigitalOcean etc).
+
+## [2. Magictools](/content/ellisonleao/magictools/week/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [DotRecast (⭐221)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
+
+## [3. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI / Argument Parsing
 
@@ -40,7 +52,7 @@
 *   [JADE](https://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
 *   [Semver4j (⭐43)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
 
-## [2. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Productivity and Time
 
@@ -59,26 +71,19 @@
 *   [Forge Sparks (⭐47)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
-## [3. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [5. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Tools and Applications
 
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 
-## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
-
-### Libraries / C#
-
-*   C#: Geometry
-    *   🎉 [DotRecast (⭐221)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
-
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Editor Components / Components
 
 *   [ngx-simple-text-editor (⭐4)](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
 
-## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -88,7 +93,7 @@
 
 *   [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
-## [7. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [8. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Password-less auth / WebAuthn
 
@@ -107,7 +112,7 @@
 *   [HashiCorp Vault](https://www.vaultproject.io) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
 *   [Infisical (⭐10k)](https://github.com/Infisical/infisical) - An alternative to HashiCorp Vault.
 
-## [8. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### ChatGPT
 
@@ -119,7 +124,7 @@
 *   [Fauxpilot (⭐13k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
     *   [vscode-fauxpilot (⭐171)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
@@ -129,7 +134,7 @@
 
 *   [MijickNavigattie (⭐46)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 
-## [10. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [11. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
@@ -212,16 +217,7 @@
 
 
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -297,31 +293,31 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📁 [Astro Template Ovidius (⭐3)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 
-## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐0)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
 
-## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Blockchain
 
 *   [kubo (⭐15k)](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-ui-preloader (⭐0)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
@@ -331,7 +327,7 @@
 
 *   [Journey Navigation](https://gowithjourney.com) - A powerful route planning app with weather along your route, traffic alerts, turn by turn directions, and more. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/journey-navigation/id1662059644)
 
-## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Courses and Educational Materials / Deforum
 
@@ -346,7 +342,7 @@
 *   [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
 *   [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
 
-## [18. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [19. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -356,13 +352,13 @@
 
 *   [ASP.NET Core updates in .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/) - October 10, 2023 - This is the last release candidate that we plan to share before the final .NET 8 release later this year. Most of the planned features and changes for .NET 8 are part of this release candidate and are ready for you to try out.
 
-## [19. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [20. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
 *   [Quant-Finance-With-Python-Code (⭐21)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 
-## [20. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [21. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Form / Checkbox
 
@@ -372,7 +368,7 @@
 
 *   [SvelteKit-Adapter-Versioned-Worker (⭐5)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
-## [21. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [22. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Angular UI libraries:
 
@@ -382,7 +378,7 @@
 
 
 
-## [22. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [23. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -396,13 +392,13 @@
 *   [~~Subworthy~~](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Buttondown](https://buttondown.email/)
 
-## [23. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [24. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Tools / Web Tools
 
 *   [OSM Statistics](https://piebro.github.io/openstreetmap-statistics/) - Up-to-date OSM statistics about editor usage, corporate contributions and more.
 
-## [24. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [25. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Testing / Zabbix
 
@@ -416,7 +412,7 @@
 *   [SQL Murder Mystery](https://mystery.knightlab.com) - Designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 *   [SQL Police Department](https://sqlpd.com) - In SQLPD, you get to solve crimes while learning SQL at the same time.
 
-## [25. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [26. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Agents
 
@@ -431,7 +427,7 @@
 
 *   [XAgent (⭐3k)](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
 
-## [26. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [27. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -492,7 +488,7 @@
 *   [Elsa Core (⭐5.1k) (⭐5.1k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 *   [Temporal (⭐8.3k) (⭐8.3k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / FFI
 
@@ -501,21 +497,21 @@
 *   Prolog
     *   [mthom/scryer-prolog (⭐1.8k)](https://github.com/mthom/scryer-prolog/) — Scryer Prolog is a free software ISO Prolog system written in Rust
 
-## [28. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [29. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
 ### [Le Git Graph (⭐1.8k)](https://github.com/NirmalScaria/le-git-graph) <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Browser extension to add git graph to GitHub website.
 
-Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
+Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 
-## [29. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [30. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Other Development Tools / Wallets
 
 *   [use-wallet-js (⭐2)](https://github.com/TxnLab/use-wallet-js) - TypeScript library for integrating Algorand wallets into decentralized applications.
 
-## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / AI Concept Representation
 
@@ -529,7 +525,7 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 
 *   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
 
-## [31. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [32. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
@@ -539,7 +535,7 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 
 *   [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
 
-## [32. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [33. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Sports
 
@@ -547,20 +543,20 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 
     <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
 
-## [33. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [34. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
 *   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
 *   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
 
-## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Others
 
 *   [vite-vue3-chrome-extension-v3 (⭐140)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
-## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -583,7 +579,7 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 
 *   [mrcjkb/kickstart-nix.nvim (⭐18)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
-## [36. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [37. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
@@ -592,7 +588,7 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 *   [Classified Group (⭐0)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 *   [Tokenized Preview (⭐1)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
-## [37. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [38. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -603,17 +599,87 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 
 *   [Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh](https://www.kaggle.com/code/truthr/jax-0) - A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems.
 
-## [38. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tutorials
 
 *   [Tutorials to get started on signal processing for machine learning (⭐41)](https://github.com/jinglescode/python-signal-processing)
 
+### Algorithms / Supervised Learning
+
+*   [Locally Estimated Scatterplot Smoothing](https://en.wikipedia.org/wiki/Local_regression)
+
+### Algorithms / Unsupervised Learning
+
+*   [Self-organizing map](https://en.wikipedia.org/wiki/Self-organizing_map)
+*   [Adaptive resonance theory](https://en.wikipedia.org/wiki/Adaptive_resonance_theory)
+*   [Hidden Markov Models (HMM)](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+
+### Algorithms / Semi-Supervised Learning
+
+*   [Clustering](https://en.wikipedia.org/wiki/Weak_supervision#Cluster_assumption)
+*   [Generative models](https://en.wikipedia.org/wiki/Weak_supervision#Generative_models)
+*   [Low-density separation](https://en.wikipedia.org/wiki/Weak_supervision#Low-density_separation)
+*   [Laplacian regularization](https://en.wikipedia.org/wiki/Weak_supervision#Laplacian_regularization)
+*   [Heuristic approaches](https://en.wikipedia.org/wiki/Weak_supervision#Heuristic_approaches)
+
+### Algorithms / Reinforcement Learning
+
+*   [Q Learning](https://en.wikipedia.org/wiki/Q-learning)
+*   [SARSA (State-Action-Reward-State-Action) algorithm](https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action)
+*   [Temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal%20difference%20\(TD\)%20learning%20refers,estimate%20of%20the%20value%20function.)
+
 ### Algorithms / Data Mining Algorithms
 
 *   KNN
 
-## [39. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+### YouTube Videos & Channels / Book Deals (Affiliated) 🛍
+
+*   [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
+
+## [40. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) - Changkun Ou (PDF)
+
+### COBOL / Non-X86
+
+*   [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
+
+### Fortran / Phoenix
+
+*   [Fortran](https://personalpages.manchester.ac.uk/staff/david.d.apsley/lectures/fortran/fortranA.pdf) -  David Apsley (PDF)
+
+### Go / Phoenix
+
+*   [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io) - Baiju Muthukadan (HTML)
+
+### Graphs / GraphQL
+
+*   [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
+
+### Graphs / Gremlin
+
+*   [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.html) - Kelvin R. Lawrence
+
+### PHP / Symfony
+
+*   [Symfony 5.4: The Fast Track](https://symfony.com/doc/5.4/the-fast-track/en/index.html)
+*   [Symfony 6.2: The Fast Track](https://symfony.com/doc/6.2/the-fast-track/en/index.html)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org) - Kenneth Reitz, Tanya Schlusser, et al
+
+### R / Tornado
+
+*   [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata) - Roger D. Peng
+*   [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R) - Bruno Rodrigues
+*   [Modern Statistics with R](https://www.modernstatisticswithr.com) - Måns Thulin
+*   [Supervised Machine Learning for Text Analysis in R](https://smltar.com) - Emil Hvitfeldt, Julia Silge
+
+## [41. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Industrial Control and SCADA Systems / Zealandia
 
@@ -623,7 +689,7 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 
 *   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
@@ -638,7 +704,7 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 *   [faker-cxx (⭐73)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
 *   [inja (⭐1.4k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
@@ -648,7 +714,7 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-## [42. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [44. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -897,19 +963,19 @@ Installs: 5318 | Stars: 1880 | Last update: 29 Sep 2023
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [43. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [45. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Low Code
 
 *   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -936,7 +1002,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
 
-## [46. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [48. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Module Bundlers / Playground
 
@@ -946,7 +1012,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
-## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [49. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

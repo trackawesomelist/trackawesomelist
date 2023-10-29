@@ -15,6 +15,10 @@
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
+### C++ / Non-X86
+
+*   [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) - Changkun Ou (PDF)
+
 ### COBOL / Non-X86
 
 *   [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
@@ -35,9 +39,21 @@
 
 *   [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.html) - Kelvin R. Lawrence
 
+### PHP / Symfony
+
+*   [Symfony 5.4: The Fast Track](https://symfony.com/doc/5.4/the-fast-track/en/index.html)
+*   [Symfony 6.2: The Fast Track](https://symfony.com/doc/6.2/the-fast-track/en/index.html)
+
 ### Python / Constraint Logic Programming (extended Prolog)
 
 *   [The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org) - Kenneth Reitz, Tanya Schlusser, et al
+
+### R / Tornado
+
+*   [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata) - Roger D. Peng
+*   [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R) - Bruno Rodrigues
+*   [Modern Statistics with R](https://www.modernstatisticswithr.com) - Måns Thulin
+*   [Supervised Machine Learning for Text Analysis in R](https://smltar.com) - Emil Hvitfeldt, Julia Silge
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
@@ -108,7 +124,7 @@
 
 *   [Let's Learn ES6](https://bubblin.io/book/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
 *   [MythBusters JS](https://mythbusters.js.org) - Kiko Beats (HTML)
-*   [Speaking JavaScript](https://exploringjs.com/es5/) - Dr. Axel Rauschmayer
+*   [Speaking JavaScript](https://exploringjs.com/es5/) - Axel Rauschmayer
 
 ### JavaScript / Node.js
 
@@ -821,7 +837,7 @@
 
 *   [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) - Mark Needham, Amy E. Hodler (PDF, EPUB, MOBI) *(email requested)*
 *   [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber, Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
-*   [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
+*   [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
 
 ### Hadoop / Spock Framework
 
@@ -1710,7 +1726,7 @@
 
 ### TypeScript / Vapor
 
-*   [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Dr. Axel Rauschmayer
+*   [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer
 
 ### Visual Prolog / Vulkan
 
@@ -1787,7 +1803,7 @@
 
 ### Nim / PicoLisp
 
-*   [Computer Programming with the Nim Programming Language](http://ssalewski.de/nimprogramming.html) - Dr. Stefan Salewski
+*   [Computer Programming with the Nim Programming Language](http://ssalewski.de/nimprogramming.html) - Stefan Salewski
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
@@ -1865,7 +1881,7 @@
 *   [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf) - Kevin Sheppard (PDF) (3.8)
 *   [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed/) - Al Sweigart (3.4)
 *   [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/) - Al Sweigart (3.2)
-*   [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Dr. Marc Lichtman (3.x)
+*   [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Marc Lichtman (3.x)
 *   [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
@@ -2002,7 +2018,7 @@
 
 ### C++ / Non-X86
 
-*   [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)
+*   [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Rian Quinn (Packt account *required*)
 *   [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) - Samy Pesse
 
 ### Haskell / Spock Framework
@@ -2171,21 +2187,21 @@
 
 ### JavaScript / Wicket
 
-*   [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
+*   [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Axel Rauschmayer (HTML)
 *   [Book of Modern Frontend Tooling (⭐2.5k)](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
 *   [Clean Code JavaScript (⭐86k)](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
 *   [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford (HTML)
-*   [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Dr. Axel Rauschmayer (HTML)
+*   [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Axel Rauschmayer (HTML)
 *   [Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications) - Emmit Scott (PDF+livebook)
 *   [Dev Docs](https://devdocs.io/javascript/) - Various (HTML)
 *   [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
-*   [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer (HTML)
+*   [Exploring ES6](http://exploringjs.com/es6/) - Axel Rauschmayer (HTML)
 *   [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html) - Henrik Joreteg (HTML)
 *   [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite (HTML)
 *   [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
 *   [JavaScript Challenges Book](https://tcorral.github.io/javascript-challenges-book/) - Tomás Corral Casas (HTML)
 *   [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
-*   [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)
+*   [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Axel Rauschmayer (HTML)
 *   [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan (HTML)
 *   [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite (HTML) *(:card\_file\_box: archived)*
 *   [JavaScript Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/javascript) - Cody Lindley (PDF, Kindle; email address *requested*, not required)
@@ -2413,10 +2429,6 @@
 ### PHP / PicoLisp
 
 *   [Clean Code PHP (⭐12k)](https://github.com/jupeter/clean-code-php)
-
-### PHP / Symfony
-
-*   [Symfony 5: The Fast Track](https://symfony.com/doc/5.0/the-fast-track/en/index.html)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 

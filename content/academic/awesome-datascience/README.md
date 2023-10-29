@@ -6,6 +6,36 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 29, 2023](/content/2023/10/29/README.md)
+
+### Algorithms / Supervised Learning
+
+*   [Locally Estimated Scatterplot Smoothing](https://en.wikipedia.org/wiki/Local_regression)
+
+### Algorithms / Unsupervised Learning
+
+*   [Self-organizing map](https://en.wikipedia.org/wiki/Self-organizing_map)
+*   [Adaptive resonance theory](https://en.wikipedia.org/wiki/Adaptive_resonance_theory)
+*   [Hidden Markov Models (HMM)](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+
+### Algorithms / Semi-Supervised Learning
+
+*   [Clustering](https://en.wikipedia.org/wiki/Weak_supervision#Cluster_assumption)
+*   [Generative models](https://en.wikipedia.org/wiki/Weak_supervision#Generative_models)
+*   [Low-density separation](https://en.wikipedia.org/wiki/Weak_supervision#Low-density_separation)
+*   [Laplacian regularization](https://en.wikipedia.org/wiki/Weak_supervision#Laplacian_regularization)
+*   [Heuristic approaches](https://en.wikipedia.org/wiki/Weak_supervision#Heuristic_approaches)
+
+### Algorithms / Reinforcement Learning
+
+*   [Q Learning](https://en.wikipedia.org/wiki/Q-learning)
+*   [SARSA (State-Action-Reward-State-Action) algorithm](https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action)
+*   [Temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal%20difference%20\(TD\)%20learning%20refers,estimate%20of%20the%20value%20function.)
+
+### YouTube Videos & Channels / Book Deals (Affiliated) 🛍
+
+*   [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
+
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### Tutorials
@@ -185,10 +215,10 @@
 
 *   [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
     *   [Boosting](https://en.wikipedia.org/wiki/Boosting_\(machine_learning\))
-    *   Stacking
-    *   Bagging
+    *   [Stacking](https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python)
+    *   [Bagging](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
     *   [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
-    *   AdaBoost
+    *   [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
 
 ### Algorithms / Unsupervised Learning
 
@@ -196,8 +226,8 @@
     *   [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
     *   [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
     *   [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
-    *   Fuzzy clustering
-    *   Mixture models
+    *   [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
+    *   [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
 *   Dimension Reduction
     *   [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
     *   [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
@@ -216,8 +246,8 @@
     *   [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
     *   [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)
     *   [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
-    *   ID3 algorithm
-    *   C4.5 algorithm
+    *   [ID3 algorithm](https://en.wikipedia.org/wiki/ID3_algorithm)
+    *   [C4.5 algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)
 
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
@@ -302,28 +332,10 @@
 ### Algorithms / Supervised Learning
 
 *   [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-*   Locally Estimated Scatterplot Smoothing
-
-### Algorithms / Unsupervised Learning
-
-*   Self-organizing map
-*   Adaptive resonance theory
-*   Hidden Markov Models (HMM)
 
 ### Algorithms / Semi-Supervised Learning
 
 *   S3VM
-*   Clustering
-*   Generative models
-*   Low-density separation
-*   Laplacian regularization
-*   Heuristic approaches
-
-### Algorithms / Reinforcement Learning
-
-*   Q Learning
-*   SARSA (State-Action-Reward-State-Action) algorithm
-*   Temporal difference learning
 
 ### Algorithms / Data Mining Algorithms
 
